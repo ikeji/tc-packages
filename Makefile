@@ -1,4 +1,4 @@
-PKGS=9p.tcz dwm.tcz
+PKGS=9p.tcz dwm.tcz st.tcz
 
 all: index.html
 
