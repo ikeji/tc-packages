@@ -1,0 +1,2 @@
+#!/bin/sh
+echo dwm > /etc/sysconfig/desktop
