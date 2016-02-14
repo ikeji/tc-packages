@@ -5,7 +5,7 @@ all: index.html
 index.html: $(PKGS)
 	echo "<html>" > $@
 	for i in $+; do \
-	  echo "<a href=\"$$i\">$$i</a>" >> $@; \
+	  echo "<a href=\"$$i\">$$i</a><br/>" >> $@; \
 	done
 	echo "</html>" >> $@
 
