@@ -1,4 +1,4 @@
-PKGS=9p.tcz dwm.tcz st.tcz vim74.tcz RictyDiminished.tcz dmenu.tcz b43.tcz
+PKGS=9p.tcz dwm.tcz st.tcz vim74.tcz RictyDiminished.tcz dmenu.tcz b43.tcz myconfigs.tcz
 DEPS=vim74.tcz.dep dwm.tcz.dep
 
 all: index.html
