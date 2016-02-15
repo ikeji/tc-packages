@@ -1,0 +1,15 @@
+diff -Naur dmenu-4.6.orig/config.mk dmenu-4.6.new/config.mk
+--- dmenu-4.6.orig/config.mk	2016-02-15 02:46:06.985304752 +0000
++++ dmenu-4.6.new/config.mk	2016-02-15 02:46:57.029459867 +0000
+@@ -14,9 +14,9 @@
+ 
+ # freetype
+ FREETYPELIBS = -lfontconfig -lXft
+-FREETYPEINC = /usr/include/freetype2
++FREETYPEINC = /usr/local/include/freetype2
+ # OpenBSD (uncomment)
+-FREETYPEINC = ${X11INC}/freetype2
++# FREETYPEINC = ${X11INC}/freetype2
+ 
+ # includes and libs
+ INCS = -I${X11INC} -I${FREETYPEINC}
