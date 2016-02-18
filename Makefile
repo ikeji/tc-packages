@@ -1,5 +1,5 @@
-PKGS=9p.tcz dwm.tcz st.tcz vim74.tcz RictyDiminished.tcz dmenu.tcz b43.tcz myconfigs.tcz skk.vim.tcz
-DEPS=vim74.tcz.dep dwm.tcz.dep
+PKGS=9p.tcz dwm.tcz st.tcz vim74.tcz RictyDiminished.tcz dmenu.tcz b43.tcz myconfigs.tcz skk.vim.tcz gnupg.tcz
+DEPS=vim74.tcz.dep dwm.tcz.dep gnupg.tcz.dep
 
 all: index.html all.tar.gz
 
