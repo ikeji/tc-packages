@@ -21,10 +21,12 @@ tce-load -i -c $LIBS
 
 cp /tmp/tce/optional/* optional/
 
+cd /tmp
+
 rm -r linux-3.16.6
-tar xvf linux-3.16.6-patched.txz
+tar xvf `dirname $0` linux-3.16.6-patched.txz
 cd linux-3.16.6
-cp ../config-3.16.6-tinycore .config
+cp `dirname $0`/config-3.16.6-tinycore .config
 cat <<EOL >> .config
 CONFIG_NET_9P=m
 CONFIG_NET_9P_VIRTIO=m
@@ -61,10 +63,9 @@ modprobe 9p
 EOL
 chmod 755 9p/usr/local/tce.installed/9p
 
-rm -r 9p.tcz
-mksquashfs 9p 9p.tcz
+cd `dirname $0`
 
-rm -r linux-3.16.6
-rm -r 9p
+rm -r 9p.tcz
+mksquashfs /tmp/9p 9p.tcz
 
 echo done
