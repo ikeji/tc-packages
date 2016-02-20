@@ -3,7 +3,7 @@ cd `dirname $0`
 
 cp optional/* /tmp/tce/optional
 
-LIBS='compiletc make openssl ncurses-dev libgpg-error-dev libgcrypt-dev libassuan-dev libksba-dev libusb-dev perl5'
+LIBS='compiletc make openssl ncurses-dev libgcrypt-dev libassuan-dev libksba-dev libusb-dev perl5'
 tce-load -w $LIBS
 tce-load -i -c $LIBS
 
@@ -13,6 +13,8 @@ PKG=gnupg-2.0.29
 
 if [ ! -f $PKG.tar.bz2 ]; then
   wget https://www.gnupg.org/ftp/gcrypt/gnupg/gnupg-2.0.29.tar.bz2
+  wget https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.21.tar.bz2
+  wget https://www.gnupg.org/ftp/gcrypt/pinentry/pinentry-0.9.7.tar.bz2
   wget ftp://ftp.gnu.org/gnu/pth/pth-2.0.7.tar.gz
   wget http://ftp.internat.freebsd.org/pub/FreeBSD/distfiles/ccid-1.4.21.tar.bz2
   wget http://ftp.internat.freebsd.org/pub/FreeBSD/distfiles/pcsc-lite-1.8.15.tar.bz2
@@ -36,7 +38,6 @@ mkdir -p /tmp/gnupg
 sudo make install
 make DESTDIR=/tmp/gnupg install
 
-sh
 cd /tmp
 rm -rf ccid-1.4.21
 
@@ -49,7 +50,6 @@ mkdir -p /tmp/gnupg
 sudo make install
 make DESTDIR=/tmp/gnupg install
 
-sh
 cd /tmp
 rm -rf pth-2.0.7
 
@@ -63,13 +63,41 @@ mkdir -p /tmp/gnupg
 make DESTDIR=/tmp/gnupg install
 sudo make install
 
-cd ..
+cd /tmp
+rm -rf libgpg-error-1.21
 
+tar xvf `dirname $0`/libgpg-error-1.21.tar.bz2
+
+cd libgpg-error-1.21
+./configure
+
+make
+
+mkdir -p /tmp/gnupg
+make DESTDIR=/tmp/gnupg install
+sudo make install
+
+sh
+
+cd /tmp
 rm -rf $PKG
 
 tar xvf `dirname $0`/$PKG.tar.bz2
 
 cd $PKG
+./configure
+
+make
+
+mkdir -p /tmp/gnupg
+make DESTDIR=/tmp/gnupg install
+
+cd /tmp
+rm -rf pinentry-2.0.29
+
+tar xvf `dirname $0`/pinentry-0.9.7.tar.bz2
+
+cd pinentry-0.9.7
 ./configure
 
 make
