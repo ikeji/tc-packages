@@ -1,0 +1,17 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='ocaml-4.02.3'
+BALL=PKG+'.tar.gz'
+
+load_dependency [ ]
+fetch_distfiles BALL, "http://caml.inria.fr/pub/distrib/ocaml-4.02/#{BALL}"
+md5sum BALL, 'ef1a324608c97031cbd92a442d685ab7'
+
+unpack BALL
+configure PKG, ['-host i486-pc-linux-gnu']
+make PKG, ['world.opt']
+install PKG
+scrub
+makepkg
+makedep [ ]

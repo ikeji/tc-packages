@@ -1,0 +1,18 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='unison-2.48.3'
+BALL=PKG+'.tar.gz'
+
+load_dependency [ 'bash', 'emacs.minimal' ]
+load_dependency_local [ 'mypkgs_ocaml' ]
+fetch_distfiles BALL, "http://www.seas.upenn.edu/~bcpierce/unison//download/releases/stable/#{BALL}"
+md5sum BALL, '91ff2ef4141aede9af719fdd5e848bcb'
+
+unpack BALL
+make PKG
+exec_wrap "mkdir -p #{PREPARE_ROOT}/usr/local/bin"
+install PKG, ["INSTALLDIR=#{PREPARE_ROOT}/usr/local/bin"]
+scrub
+makepkg
+makedep [ ]

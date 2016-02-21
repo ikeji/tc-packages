@@ -76,26 +76,27 @@ def unpack(filename)
   end
 end
 
-def configure(pkg)
+def configure(pkg, opts=[])
   Dir.chdir TEMP_DIR do
     Dir.chdir pkg do
-      exec_wrap "./configure"
+      exec_wrap "./configure #{opts.join(" ")}"
     end
   end
 end
 
-def make(pkg)
+def make(pkg, tgt=[])
   Dir.chdir TEMP_DIR do
     Dir.chdir pkg do
-      exec_wrap "make"
+      exec_wrap "make #{tgt.join(" ")}"
     end
   end
 end
 
-def install(pkg)
+def install(pkg, opts=[])
   Dir.chdir TEMP_DIR do
     Dir.chdir pkg do
-      exec_wrap "make DESTDIR=#{PREPARE_ROOT} install"
+      exec_wrap "mkdir -p #{PREPARE_ROOT}"
+      exec_wrap "make DESTDIR=#{PREPARE_ROOT} #{opts.join(" ")} install"
     end
   end
 end
