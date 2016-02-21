@@ -1,0 +1,24 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG="pinentry-0.9.7"
+BALL=PKG+".tar.bz2"
+
+load_dependency [ 
+ "libassuan-dev",
+ "ncurses-dev",
+ "gtk2-dev",
+]
+load_dependency_local [
+ "mypkgs_gnupg_libgpg-error-dev",
+]
+fetch_distfiles BALL, "https://www.gnupg.org/ftp/gcrypt/pinentry/#{BALL}"
+md5sum BALL,"9510b2de013e818dab619e468298703a"
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ "ncurses", "gtk2" ]

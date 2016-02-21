@@ -1,0 +1,17 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='zsh-5.2'
+BALL=PKG+'.tar.gz'
+
+load_dependency ['openssl','ncurses-dev']
+fetch_distfiles BALL, 'http://sourceforge.net/projects/zsh/files/zsh/5.2/zsh-5.2.tar.gz/download/'
+md5sum BALL, 'e79e3edfc133e2091456ca0be6f2ecb5'
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ 'ncurses', 'gdbm' ]

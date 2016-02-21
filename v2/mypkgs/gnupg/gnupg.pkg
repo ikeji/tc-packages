@@ -1,0 +1,34 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG="gnupg-2.0.29"
+BALL=PKG+".tar.bz2"
+
+load_dependency [
+ "readline-dev",
+ "ncurses-dev",
+ "libgcrypt-dev",
+ "libassuan-dev",
+ "libksba-dev",
+]
+load_dependency_local [ "mypkgs_gnupg_pth-dev" ]
+fetch_distfiles BALL, "https://www.gnupg.org/ftp/gcrypt/gnupg/#{BALL}"
+md5sum BALL,"c98f0170ae81560f7e11ae1e2e439b41"
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub do
+  exec_wrap("ln -s gpg2 usr/local/bin/gpg")
+end
+makepkg
+makedep [
+ "readline",
+ "ncurses",
+ "libgcrypt",
+ "libassuan",
+ "libksba",
+ "mypkgs_gnupg_pth",
+ "mypkgs_gnupg_libgpg-error"
+]

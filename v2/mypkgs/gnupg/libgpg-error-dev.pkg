@@ -1,0 +1,17 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG="libgpg-error-1.21"
+BALL=PKG+".tar.bz2"
+
+load_dependency [ ]
+fetch_distfiles BALL, "https://www.gnupg.org/ftp/gcrypt/libgpg-error/#{BALL}"
+md5sum BALL,"ab0b5aba6d0a185b41d07bda804fd8b2"
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub_for_dev "gpg-error-config"
+makepkg
+makedep [ "mypkgs_gnupg_libgpg-error" ]

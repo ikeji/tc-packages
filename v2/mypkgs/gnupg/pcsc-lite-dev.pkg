@@ -1,0 +1,17 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG="pcsc-lite-1.8.15"
+BALL=PKG+".tar.bz2"
+
+load_dependency [ "libusb-dev", "perl5" ]
+fetch_distfiles BALL, "http://ftp.internat.freebsd.org/pub/FreeBSD/distfiles/#{BALL}"
+md5sum BALL,"ded5cf2f78d26293934cefd0dbc58a43"
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub_for_dev
+makepkg
+makedep [ "mypkgs_gnupg_pcsc-lite" ]

@@ -1,0 +1,17 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG="pth-2.0.7"
+BALL=PKG+".tar.gz"
+
+load_dependency [ "libusb-dev", "perl5" ]
+fetch_distfiles BALL, "ftp://ftp.gnu.org/gnu/pth/#{BALL}"
+md5sum BALL,"9cb4a25331a4c4db866a31cbe507c793"
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub_for_dev "pth-config"
+makepkg
+makedep [ "mypkgs_gnupg_pth" ]
