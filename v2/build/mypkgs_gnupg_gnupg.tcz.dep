@@ -1,0 +1,7 @@
+readline.tcz
+ncurses.tcz
+libgcrypt.tcz
+libassuan.tcz
+libksba.tcz
+mypkgs_gnupg_pth.tcz
+mypkgs_gnupg_libgpg-error.tcz

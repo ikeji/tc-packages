@@ -1,0 +1,10 @@
+usr
+usr/local
+usr/local/lib
+usr/local/lib/pcsc
+usr/local/lib/pcsc/drivers
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so

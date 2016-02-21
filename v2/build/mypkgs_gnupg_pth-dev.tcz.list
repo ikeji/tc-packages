@@ -1,0 +1,12 @@
+usr
+usr/local
+usr/local/include
+usr/local/include/pth.h
+usr/local/share
+usr/local/share/aclocal
+usr/local/share/aclocal/pth.m4
+usr/local/bin
+usr/local/bin/pth-config
+usr/local/lib
+usr/local/lib/libpth.la
+usr/local/lib/libpth.a
