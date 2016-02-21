@@ -33,4 +33,7 @@ buildpkg "mypkgs/gnupg/pinentry" # depends libgpg-error
 
 buildpkg "mypkgs/zsh"
 
+buildpkg "mypkgs/ocaml"
+buildpkg "mypkgs/unison"
+
 buildpack
