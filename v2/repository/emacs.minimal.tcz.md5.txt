@@ -1,0 +1,1 @@
+5c812127cbb2bfc1fe743856d0bb7181  emacs.minimal.tcz
