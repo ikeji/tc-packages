@@ -1,1 +1,0 @@
-be18f327bf14f71a330cc1ec43a1911e  ncurses-dev.tcz
