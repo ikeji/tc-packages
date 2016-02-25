@@ -7,10 +7,10 @@ COMMANDS = ARGV.select{|a|!a.start_with?("-")}
 
 if !COMMANDS.empty?
   if COMMANDS[0] == "clean"
-    exec_wrap("rm -rf ${OUTPUT_DIR}/*")
+    exec_wrap("rm -rf #{OUTPUT_DIR}/*")
   elsif COMMANDS[0] == "allclean"
-    exec_wrap("rm -rf ${DISTFILES}/*")
-    exec_wrap("rm -rf ${REPOSITORY}/*")
+    exec_wrap("rm -rf #{DISTFILES}/*")
+    exec_wrap("rm -rf #{REPOSITORY}/*")
   elsif COMMANDS[0] == "pack"
     buildpack
   else
@@ -35,5 +35,24 @@ buildpkg "mypkgs/zsh"
 
 buildpkg "mypkgs/ocaml"
 buildpkg "mypkgs/unison"
+
+buildpkg "mypkgs/im/anthy"
+buildpkg "mypkgs/im/anthy-dev"
+
+buildpkg "mypkgs/im/extra-cmake-modules"
+
+buildpkg "mypkgs/im/libxcb"
+buildpkg "mypkgs/im/libxcb-dev"
+
+buildpkg "mypkgs/im/xkbcommon-dev" # depends libxcb-dev
+buildpkg "mypkgs/im/xkbcommon" # depends libxcb-dev
+
+buildpkg "mypkgs/im/fcitx" # depends xkbcommon-dev
+buildpkg "mypkgs/im/fcitx-dev" # depends xkbcommon-dev
+
+buildpkg "mypkgs/im/fcitx-anthy" # depends fcitx-dev anthy-dev
+
+buildpkg "mypkgs/im/skkinput2"
+buildpkg "mypkgs/im/skkinput3"
 
 buildpack

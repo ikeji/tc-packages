@@ -17,6 +17,9 @@ def exec_wrap(command)
   puts "\e[32mTCZBUILD\e[0m: #{command}"
   rv = system command
   if !rv
+    if (ARGV.include?("-b"))
+      system "sh"
+    end
     exit -1
   end
 
@@ -55,7 +58,7 @@ end
 def fetch_distfiles(filename, url)
   Dir.chdir DISTFILES do
     if (!File.exists?(filename))
-      exec_wrap "wget -O #{filename} #{url}"
+      exec_wrap "wget -O #{filename} '#{url}'"
     end
   end
 end
@@ -76,28 +79,36 @@ def unpack(filename)
   end
 end
 
-def configure(pkg, opts=[])
+def inpkg(pkg)
   Dir.chdir TEMP_DIR do
     Dir.chdir pkg do
-      exec_wrap "./configure #{opts.join(" ")}"
+      yield
     end
+  end
+end
+
+def configure(pkg, opts=[])
+  inpkg(pkg) do
+    exec_wrap "./configure #{opts.join(" ")}"
+  end
+end
+
+def xmkmf(pkg)
+  inpkg(pkg) do
+    exec_wrap "xmkmf -a"
   end
 end
 
 def make(pkg, tgt=[])
-  Dir.chdir TEMP_DIR do
-    Dir.chdir pkg do
-      exec_wrap "make #{tgt.join(" ")}"
-    end
+  inpkg(pkg) do
+    exec_wrap "make #{tgt.join(" ")}"
   end
 end
 
 def install(pkg, opts=[])
-  Dir.chdir TEMP_DIR do
-    Dir.chdir pkg do
-      exec_wrap "mkdir -p #{PREPARE_ROOT}"
-      exec_wrap "make DESTDIR=#{PREPARE_ROOT} #{opts.join(" ")} install"
-    end
+  inpkg(pkg) do
+    exec_wrap "mkdir -p #{PREPARE_ROOT}"
+    exec_wrap "make DESTDIR=#{PREPARE_ROOT} #{opts.join(" ")} install"
   end
 end
 
@@ -182,11 +193,14 @@ def makedep(deps)
 end
 
 def buildpkg(pkg)
+  puts "\e[32mTCZBUILD\e[0m: buildpkg #{pkg}"
   option = ""
   if ARGV.include? "-s"
     option += "-s"
   elsif ARGV.include? "-d"
     option += "-d"
+  elsif ARGV.include? "-b"
+    option += "-b"
   end
 
   exec_wrap <<-EOL

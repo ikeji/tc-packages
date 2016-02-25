@@ -1,0 +1,42 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='fcitx-4.2.9.1'
+BALL=PKG+'.tar.xz'
+
+exec_wrap "sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load"
+
+load_dependency [
+  'openssl',
+  'cmake',
+  'libxml2-dev',
+  'iso-codes',
+  'libxkbfile-dev',
+  'icu-dev',
+  'qt-4.x-dev',
+  'cairo-dev',
+  'gobject-introspection-dev',
+  'gtk2-dev',
+  'libpthread-stubs',  # TODO Auto
+]
+load_dependency_local [
+ 'mypkgs_im_extra-cmake-modules',
+ 'mypkgs_im_xkbcommon-dev',
+ ]
+fetch_distfiles BALL, "https://download.fcitx-im.org/fcitx/#{BALL}"
+md5sum BALL, '8abea7dd25d41436520e50ae61a4c751'
+
+unpack BALL
+inpkg PKG do
+  exec_wrap "sed -i -e 's/--connect-timeout=10//' cmake/fcitx-cmake-helper.sh"
+  exec_wrap "mkdir build"
+  Dir.chdir "build" do
+    exec_wrap "cmake .."
+    exec_wrap "make"
+    exec_wrap "mkdir -p #{PREPARE_ROOT}"
+    exec_wrap "make DESTDIR=#{PREPARE_ROOT} install"
+  end
+end
+scrub_for_dev
+makepkg
+makedep [ "mypkgs_im_fcitx" ]

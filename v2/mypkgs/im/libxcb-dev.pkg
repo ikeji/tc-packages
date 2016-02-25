@@ -1,0 +1,21 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+PKG='libxcb-1.11'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'python',
+  'libpthread-stubs',
+  'Xorg-7.7-dev',
+]
+fetch_distfiles BALL, "https://xcb.freedesktop.org/dist/#{BALL}"
+md5sum BALL, '1698dd837d7e6e94d029dbe8b3a82deb'
+
+unpack BALL
+configure PKG, [ ]
+make PKG
+install PKG
+scrub_for_dev
+makepkg
+makedep [ 'mypkgs_im_libxcb' ]

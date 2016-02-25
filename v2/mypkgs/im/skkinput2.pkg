@@ -1,0 +1,22 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='skkinput-2.06.4'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'imake',
+  'Xorg-7.7-dev',
+  'libX11-dev',
+]
+fetch_distfiles BALL, "http://pkgs.fedoraproject.org/repo/extras/skkinput/skkinput-2.06.4.tar.gz/e6cfd45a16900e07fc9689adee56d63a/#{BALL}"
+md5sum BALL, 'e6cfd45a16900e07fc9689adee56d63a'
+
+unpack BALL
+xmkmf PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ ]

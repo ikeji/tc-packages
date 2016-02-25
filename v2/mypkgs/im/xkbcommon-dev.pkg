@@ -1,0 +1,26 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='libxkbcommon-0.5.0'
+BALL=PKG+'.tar.xz'
+
+exec_wrap "sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load"
+
+load_dependency [
+  'xkeyboard-config',
+  'Xorg-7.7-dev',
+  'libpthread-stubs',
+]
+load_dependency_local [
+ 'mypkgs_im_libxcb-dev',
+]
+fetch_distfiles BALL, "http://xkbcommon.org/download/#{BALL}"
+md5sum BALL, '2e1faeafcc609c30af3a561a91e84158'
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub_for_dev
+makepkg
+makedep [ 'mypkgs_im_libxcb' ]

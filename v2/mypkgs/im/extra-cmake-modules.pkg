@@ -1,0 +1,27 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='extra-cmake-modules-5.19.0'
+BALL=PKG+'.tar.xz'
+
+exec_wrap "sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load"
+
+load_dependency [
+  'cmake',
+]
+fetch_distfiles BALL, "http://download.kde.org/stable/frameworks/5.19/#{BALL}"
+md5sum BALL, 'c18b4e3ad6e37ce1fe372931d2b269fb'
+
+unpack BALL
+inpkg PKG do
+  exec_wrap "mkdir build"
+  Dir.chdir "build" do
+    exec_wrap "cmake .."
+    exec_wrap "make"
+    exec_wrap "mkdir -p #{PREPARE_ROOT}"
+    exec_wrap "make DESTDIR=#{PREPARE_ROOT} install"
+  end
+end
+scrub
+makepkg
+makedep [ ]

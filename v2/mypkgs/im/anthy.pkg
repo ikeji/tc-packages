@@ -1,0 +1,21 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='anthy-9100h'
+BALL=PKG+'.tar.gz'
+
+exec_wrap "sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load"
+
+load_dependency [
+  'openssl',
+]
+fetch_distfiles BALL, "https://osdn.jp/frs/redir.php?m=gigenet&f=%2Fanthy%2F37536%2Fanthy-9100h.tar.gz"
+md5sum BALL, '1f558ff7ed296787b55bb1c6cf131108'
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ ]

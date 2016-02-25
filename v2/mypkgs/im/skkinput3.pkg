@@ -1,0 +1,22 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='skkinput-2.06.4'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'imake',
+  'Xorg-7.7-dev',
+  'libX11-dev',
+]
+fetch_distfiles BALL, "https://osdn.jp/frs/redir.php?m=gigenet&f=%2Fskkinput3%2F2222%2Fskkinput-3.0.6.tar.gz"
+md5sum BALL, 'e6cfd45a16900e07fc9689adee56d63a'
+
+unpack BALL
+xmkmf PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ ]
