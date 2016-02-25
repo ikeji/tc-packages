@@ -1,1 +1,1 @@
-8db5be9003e968b906700894b51cdbcd  mypkgs_gnupg_gnupg.tcz
+76ab873a95bda6caa891fdff236264e4  mypkgs_gnupg_gnupg.tcz

@@ -1,0 +1,17 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='ecm-6.4.4'
+BALL=PKG+'.tar.gz'
+
+load_dependency ['openssl', 'gmp-dev' ]
+fetch_distfiles BALL, 'https://gforge.inria.fr/frs/download.php/file/32159/#{BALL}'
+md5sum BALL, '927712d698ae9e5de71574fb6ee2316c'
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ 'gmp' ]

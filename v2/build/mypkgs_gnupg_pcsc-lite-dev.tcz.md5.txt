@@ -1,1 +1,1 @@
-dbc221e96852cdf434bc19b3415b44cf  mypkgs_gnupg_pcsc-lite-dev.tcz
+e68a78faa1dd42f773ea7eb2d10cd077  mypkgs_gnupg_pcsc-lite-dev.tcz
