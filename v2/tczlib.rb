@@ -218,6 +218,6 @@ end
 
 def buildpack()
   Dir.chdir OUTPUT_DIR do
-    exec_wrap("tar zcvf #{ROOT_DIR}/all.tgz *")
+    exec_wrap("tar zcvf - * | split -b 25M - #{ROOT_DIR}/all.tgz.")
   end
 end
