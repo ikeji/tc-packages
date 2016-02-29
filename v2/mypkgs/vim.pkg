@@ -1,0 +1,26 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='vim74'
+BALL='vim-7.4.tar.bz2'
+
+load_dependency [ 'Xorg-7.7-dev' ]
+fetch_distfiles BALL, "ftp://ftp.vim.org/pub/vim/unix/#{BALL}"
+md5sum BALL, '607e135c559be642f210094ad023dc65'
+
+unpack BALL
+configure PKG, [
+  "--with-x",
+  "--enable-multibyte",
+  "--enable-xim",
+  "--prefix=/usr/local",
+  "--enable-gui",
+]
+
+make PKG
+install PKG
+scrub [
+  'usr/local/share/vim/vim74/tutor',
+]
+makepkg
+makedep [ ]
