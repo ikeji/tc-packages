@@ -55,4 +55,7 @@ buildpkg "mypkgs/im/fcitx-anthy" # depends fcitx-dev anthy-dev
 buildpkg "mypkgs/im/skkinput2"
 buildpkg "mypkgs/im/skkinput3"
 
+buildpkg "mypkgs/9p"
+buildpkg "mypkgs/b43"
+
 buildpack

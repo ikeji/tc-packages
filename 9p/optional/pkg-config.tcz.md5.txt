@@ -1,1 +1,0 @@
-cb9dff12c885652e03f44e804305e105  pkg-config.tcz

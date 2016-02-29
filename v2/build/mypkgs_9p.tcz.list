@@ -1,0 +1,15 @@
+lib
+lib/modules
+lib/modules/3.16.6-tinycore
+lib/modules/3.16.6-tinycore/kernel
+lib/modules/3.16.6-tinycore/kernel/net
+lib/modules/3.16.6-tinycore/kernel/net/9p
+lib/modules/3.16.6-tinycore/kernel/net/9p/9pnet_virtio.ko
+lib/modules/3.16.6-tinycore/kernel/net/9p/9pnet.ko
+lib/modules/3.16.6-tinycore/kernel/fs
+lib/modules/3.16.6-tinycore/kernel/fs/9p
+lib/modules/3.16.6-tinycore/kernel/fs/9p/9p.ko
+usr
+usr/local
+usr/local/tce.installed
+usr/local/tce.installed/9p

@@ -203,9 +203,13 @@ def buildpkg(pkg)
     option += "-b"
   end
 
+  exec_wrap "chmod 777 #{DISTFILES}"
+  exec_wrap "chmod 777 #{REPOSITORY}"
+  exec_wrap "chmod 777 #{OUTPUT_DIR}"
   exec_wrap <<-EOL
     docker run \
             -t -i --rm \
+            --net=host \
             -v `pwd`:/work \
             -v `pwd`/repository:/tmp/tce/optional \
             tatsushid/tinycore:6.4-x86 \

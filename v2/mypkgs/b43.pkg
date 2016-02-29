@@ -1,0 +1,18 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='broadcom-wl-5.100.138'
+BALL="#{PKG}.tar.bz2"
+
+load_dependency [ 'b43-fwcutter' ]
+fetch_distfiles BALL, "http://www.lwfinger.com/b43-firmware/#{BALL}"
+md5sum BALL, 'f4e357b09eaf5d8b1f1920cf3493a555'
+
+unpack BALL
+inpkg PKG do
+  OUTPUT = "#{PREPARE_ROOT}/usr/local/lib/firmware"
+  exec_wrap "mkdir -p #{OUTPUT}"
+  exec_wrap "b43-fwcutter -w #{OUTPUT} linux/wl_apsta.o"
+end
+makepkg
+makedep [ ]
