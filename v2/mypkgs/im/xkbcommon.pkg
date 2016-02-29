@@ -24,5 +24,6 @@ install PKG
 scrub
 makepkg
 makedep [ 
+ 'xkeyboard-config',
  'mypkgs_im_libxcb',
 ]

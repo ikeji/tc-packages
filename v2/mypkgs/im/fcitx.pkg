@@ -39,4 +39,9 @@ inpkg PKG do
 end
 scrub
 makepkg
-makedep [ 'libxml2', 'dbus', 'mypkgs_im_xkbcommon' ]
+makedep [ 
+  'libxml2',
+  'dbus',
+  'mypkgs_im_xkbcommon',
+  'libxkbfile',
+]

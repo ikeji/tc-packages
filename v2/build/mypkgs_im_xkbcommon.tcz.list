@@ -2,8 +2,8 @@ usr
 usr/local
 usr/local/lib
 usr/local/lib/libxkbcommon.so.0
-usr/local/lib/libxkbcommon-x11.so.0
-usr/local/lib/libxkbcommon-x11.so.0.0.0
 usr/local/lib/libxkbcommon.so.0.0.0
 usr/local/lib/libxkbcommon-x11.so
+usr/local/lib/libxkbcommon-x11.so.0
 usr/local/lib/libxkbcommon.so
+usr/local/lib/libxkbcommon-x11.so.0.0.0
