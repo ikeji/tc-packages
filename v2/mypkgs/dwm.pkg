@@ -1,0 +1,24 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='dwm-6.1'
+BALL=PKG+'.tar.gz'
+
+load_dependency [ 'Xorg-7.7-dev' ]
+fetch_distfiles BALL, "http://dl.suckless.org/dwm/#{BALL}"
+md5sum BALL, 'f0b6b1093b7207f89c2a90b848c008ec'
+
+unpack BALL
+inpkg PKG do
+  exec_wrap "echo FREETYPEINC = /usr/local/include/freetype2 >> config.mk"
+  exec_wrap "cp #{PKGDIR}/dwm-config.h config.h"
+end
+make PKG
+install PKG
+tce_installed <<-EOL
+#!/bin/sh
+echo dwm > /etc/sysconfig/desktop
+EOL
+scrub
+makepkg
+makedep [ 'mypkgs_dmenu' ]

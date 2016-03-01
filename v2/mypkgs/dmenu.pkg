@@ -1,0 +1,19 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='dmenu-4.6'
+BALL=PKG+'.tar.gz'
+
+load_dependency [ 'Xorg-7.7-dev' ]
+fetch_distfiles BALL, "http://dl.suckless.org/tools/#{BALL}"
+md5sum BALL, '6fedf081133bc0725cb040b3b8ac3fac'
+
+unpack BALL
+inpkg PKG do
+  exec_wrap "echo FREETYPEINC = /usr/local/include/freetype2 >> config.mk"
+end
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ ]

@@ -1,0 +1,18 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='4.0.1'
+BALL="#{PKG}.tar.gz"
+
+load_dependency [ 'openssl' ]
+fetch_distfiles BALL, "https://github.com/yascentur/RictyDiminished/archive/#{BALL}"
+md5sum BALL, '9689328bde2a21595d9bf7cadce67356'
+
+unpack BALL
+inpkg 'RictyDiminished-'+PKG do
+  OUTPUT = "#{PREPARE_ROOT}/usr/local/share/fonts/RictyDiminished"
+  exec_wrap "mkdir -p #{OUTPUT}"
+  exec_wrap "cp *.ttf #{OUTPUT}"
+end
+makepkg
+makedep [ ]

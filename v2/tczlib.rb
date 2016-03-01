@@ -112,6 +112,14 @@ def install(pkg, opts=[])
   end
 end
 
+def tce_installed(contents = "")
+  exec_wrap "mkdir -p #{PREPARE_ROOT}/usr/local/tce.installed"
+  File.open("#{PREPARE_ROOT}/usr/local/tce.installed/#{PKGNAME}", "w") do |w|
+    w.write contents
+  end
+  exec_wrap("chmod 755 #{PREPARE_ROOT}/usr/local/tce.installed/#{PKGNAME}")
+end
+
 def scrub(additional_files = [])
   Dir.chdir PREPARE_ROOT do
     exec_wrap("find > #{TEMP_DIR}/before_scrub")

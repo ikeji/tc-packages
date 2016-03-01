@@ -1,5 +1,5 @@
-PKGS=dwm.tcz st.tcz RictyDiminished.tcz dmenu.tcz myconfigs.tcz skk.vim.tcz
-DEPS=dwm.tcz.dep
+PKGS=st.tcz myconfigs.tcz skk.vim.tcz
+DEPS=
 
 all: index.html all.tar.gz
 

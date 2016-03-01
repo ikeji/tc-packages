@@ -12,4 +12,4 @@ lib/modules/3.16.6-tinycore/kernel/fs/9p/9p.ko
 usr
 usr/local
 usr/local/tce.installed
-usr/local/tce.installed/9p
+usr/local/tce.installed/mypkgs_9p
