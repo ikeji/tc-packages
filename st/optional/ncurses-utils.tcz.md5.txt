@@ -1,1 +1,0 @@
-433ecf1418b5e20f3c76277c3c61970b  ncurses-utils.tcz

@@ -1,4 +1,4 @@
-PKGS=st.tcz myconfigs.tcz skk.vim.tcz
+PKGS=myconfigs.tcz
 DEPS=
 
 all: index.html all.tar.gz
