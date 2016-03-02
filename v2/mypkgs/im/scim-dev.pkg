@@ -1,0 +1,26 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='scim-1.4.15'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'autoconf',
+  'gettext-dev',
+  'intltool',
+  'automake',
+  'libtool-dev',
+  'gtk2-dev',
+]
+fetch_distfiles BALL, 'https://sourceforge.net/projects/scim/files/scim/1.4.15/scim-1.4.15.tar.gz/download'
+md5sum BALL, 'b152326ec34a74e435685cfdc24541e5'
+
+unpack BALL
+inpkg(PKG){ exec_wrap "./bootstrap" }
+configure PKG
+make PKG
+install PKG
+scrub_for_dev
+makepkg
+makedep [ 'mypkgs_im_scim' ]

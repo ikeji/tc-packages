@@ -1,0 +1,1 @@
+8d8df4696f1b423ac5870970d448f68c  at-spi2-core-dev.tcz

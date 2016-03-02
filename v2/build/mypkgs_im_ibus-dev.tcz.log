@@ -1,0 +1,4392 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make openssl intltool gtk2-dev gtk3-dev dconf-dev python3 libnotify-dev iso-codes
+compiletc is already downloaded.
+make is already downloaded.
+openssl is already downloaded.
+intltool is already downloaded.
+gtk2-dev is already downloaded.
+gtk3-dev is already downloaded.
+dconf-dev is already downloaded.
+python3 is already downloaded.
+libnotify-dev is already downloaded.
+iso-codes is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make openssl intltool gtk2-dev gtk3-dev dconf-dev python3 libnotify-dev iso-codes | tee /tmp/d20160302-601-9mwzz2/stdout
+openssl is already installed!
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================|] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+138 inodes (2042 blocks) to write
+
+[=============================================================|] 2042/2042 100%
+
+created 131 files
+created 15 directories
+created 7 symlinks
+created 0 devices
+created 0 fifos
+gettext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1489 inodes (9759 blocks) to write
+
+[=============================================================|] 9759/9759 100%
+
+created 1485 files
+created 307 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+perl5.tcz: OK
+Parallel unsquashfs: Using 8 processors
+32 inodes (115 blocks) to write
+
+[===============================================================|] 115/115 100%
+
+created 32 files
+created 16 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+perl_xml_parser.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (37 blocks) to write
+
+[=================================================================|] 37/37 100%
+
+created 7 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+intltool.tcz: OK
+Parallel unsquashfs: Using 8 processors
+102 inodes (630 blocks) to write
+
+[===============================================================|] 630/630 100%
+
+created 102 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libxcb-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (508 blocks) to write
+
+[===============================================================|] 508/508 100%
+
+created 18 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libX11-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (17 blocks) to write
+
+[=================================================================|] 17/17 100%
+
+created 4 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXrender-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+55 inodes (442 blocks) to write
+
+[===============================================================|] 442/442 100%
+
+created 55 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+freetype-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (14 blocks) to write
+
+[=================================================================|] 14/14 100%
+
+created 4 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+expat2-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (12 blocks) to write
+
+[=================================================================|] 12/12 100%
+
+created 5 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+fontconfig-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (31 blocks) to write
+
+[=================================================================|] 31/31 100%
+
+created 5 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXft-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (16 blocks) to write
+
+[=================================================================|] 16/16 100%
+
+created 5 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libffi-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (7 blocks) to write
+
+[===================================================================|] 7/7 100%
+
+created 7 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gamin-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+282 inodes (4458 blocks) to write
+
+[=============================================================|] 4458/4458 100%
+
+created 282 files
+created 22 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glib2-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+28 inodes (167 blocks) to write
+
+[===============================================================|] 167/167 100%
+
+created 28 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (3 blocks) to write
+
+[===================================================================|] 3/3 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxshmfence.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (3 blocks) to write
+
+[===================================================================|] 3/3 100%
+
+created 3 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libxshmfence-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+udev-lib.tcz: OK
+Parallel unsquashfs: Using 8 processors
+13 inodes (17 blocks) to write
+
+[=================================================================|] 17/17 100%
+
+created 13 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+udev-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (28 blocks) to write
+
+[=================================================================|] 28/28 100%
+
+created 5 files
+created 6 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libpciaccess.tcz: OK
+Parallel unsquashfs: Using 8 processors
+15 inodes (61 blocks) to write
+
+[=================================================================|] 61/61 100%
+
+created 5 files
+created 4 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+libdrm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+41 inodes (102 blocks) to write
+
+[===============================================================|] 102/102 100%
+
+created 41 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libdrm-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (15 blocks) to write
+
+[=================================================================|] 15/15 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXxf86vm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (16 blocks) to write
+
+[=================================================================|] 16/16 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXfixes.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdamage.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (138 blocks) to write
+
+[===============================================================|] 138/138 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libGL.tcz: OK
+Parallel unsquashfs: Using 8 processors
+11 inodes (341 blocks) to write
+
+[===============================================================|] 341/341 100%
+
+created 11 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libGL-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (39 blocks) to write
+
+[=================================================================|] 39/39 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libEGL.tcz: OK
+Parallel unsquashfs: Using 8 processors
+10 inodes (25 blocks) to write
+
+[=================================================================|] 25/25 100%
+
+created 10 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libEGL-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (21 blocks) to write
+
+[=================================================================|] 21/21 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libfontenc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (52 blocks) to write
+
+[=================================================================|] 52/52 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXfont.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (103 blocks) to write
+
+[===============================================================|] 103/103 100%
+
+created 18 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXfont-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (55 blocks) to write
+
+[=================================================================|] 55/55 100%
+
+created 9 files
+created 9 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xtrans.tcz: OK
+Parallel unsquashfs: Using 8 processors
+255 inodes (755 blocks) to write
+
+[===============================================================|] 755/755 100%
+
+created 255 files
+created 18 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xorg-proto.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xorg-macros.tcz: OK
+Parallel unsquashfs: Using 8 processors
+72 inodes (105 blocks) to write
+
+[===============================================================|] 105/105 100%
+
+created 72 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xbitmaps.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (32 blocks) to write
+
+[=================================================================|] 32/32 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxkbfile.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (52 blocks) to write
+
+[=================================================================|] 52/52 100%
+
+created 9 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libxkbfile-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+19 inodes (48 blocks) to write
+
+[=================================================================|] 48/48 100%
+
+created 19 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXext-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (6 blocks) to write
+
+[===================================================================|] 6/6 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXv.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (8 blocks) to write
+
+[===================================================================|] 8/8 100%
+
+created 4 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXv-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (12 blocks) to write
+
+[=================================================================|] 12/12 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libXvmc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (13 blocks) to write
+
+[=================================================================|] 13/13 100%
+
+created 6 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXvmc-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (42 blocks) to write
+
+[=================================================================|] 42/42 100%
+
+created 9 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libICE-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (25 blocks) to write
+
+[=================================================================|] 25/25 100%
+
+created 7 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libSM.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libICE.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (77 blocks) to write
+
+[=================================================================|] 77/77 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXt.tcz: OK
+Parallel unsquashfs: Using 8 processors
+36 inodes (199 blocks) to write
+
+[===============================================================|] 199/199 100%
+
+created 36 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXt-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrandr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 4 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXrandr-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (15 blocks) to write
+
+[=================================================================|] 15/15 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (42 blocks) to write
+
+[=================================================================|] 42/42 100%
+
+created 5 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXi-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (23 blocks) to write
+
+[=================================================================|] 23/23 100%
+
+created 3 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXpm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 4 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXpm-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (29 blocks) to write
+
+[=================================================================|] 29/29 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libXmu.tcz: OK
+Parallel unsquashfs: Using 8 processors
+29 inodes (70 blocks) to write
+
+[=================================================================|] 70/70 100%
+
+created 29 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXmu-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (155 blocks) to write
+
+[===============================================================|] 155/155 100%
+
+created 2 files
+created 4 directories
+created 7 symlinks
+created 0 devices
+created 0 fifos
+libXaw.tcz: OK
+Parallel unsquashfs: Using 8 processors
+77 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 77 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXaw-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (13 blocks) to write
+
+[=================================================================|] 13/13 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libdmx.tcz: OK
+Parallel unsquashfs: Using 8 processors
+8 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 6 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXxf86dga.tcz: OK
+Parallel unsquashfs: Using 8 processors
+8 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 6 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXtst.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXres.tcz: OK
+Parallel unsquashfs: Using 8 processors
+8 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 6 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXinerama.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (28 blocks) to write
+
+[=================================================================|] 28/28 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXcursor.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXcomposite.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (34 blocks) to write
+
+[=================================================================|] 34/34 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libFS.tcz: OK
+Parallel unsquashfs: Using 8 processors
+0 inodes (0 blocks) to write
+
+
+
+created 0 files
+created 2 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+Xorg-7.7-lib.tcz: OK
+Parallel unsquashfs: Using 8 processors
+0 inodes (0 blocks) to write
+
+
+
+created 0 files
+created 2 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+Xorg-7.7-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 1 files
+created 4 directories
+created 3 symlinks
+created 0 devices
+created 0 fifos
+libpng.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 2 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libpng-bin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+12 inodes (54 blocks) to write
+
+[=================================================================|] 54/54 100%
+
+created 6 files
+created 8 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+libpng-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (130 blocks) to write
+
+[===============================================================|] 130/130 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+pixman.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (14 blocks) to write
+
+[=================================================================|] 14/14 100%
+
+created 4 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pixman-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+20 inodes (259 blocks) to write
+
+[===============================================================|] 259/259 100%
+
+created 8 files
+created 6 directories
+created 12 symlinks
+created 0 devices
+created 0 fifos
+cairo.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (70 blocks) to write
+
+[=================================================================|] 70/70 100%
+
+created 40 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+cairo-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (129 blocks) to write
+
+[===============================================================|] 129/129 100%
+
+created 10 files
+created 9 directories
+created 8 symlinks
+created 0 devices
+created 0 fifos
+pango.tcz: OK
+Parallel unsquashfs: Using 8 processors
+51 inodes (221 blocks) to write
+
+[===============================================================|] 221/221 100%
+
+created 51 files
+created 11 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pango-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (63 blocks) to write
+
+[=================================================================|] 63/63 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libjpeg-turbo.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (480 blocks) to write
+
+[===============================================================|] 480/480 100%
+
+created 6 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libjpeg-turbo-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (38 blocks) to write
+
+[=================================================================|] 38/38 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+liblzma.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (107 blocks) to write
+
+[===============================================================|] 107/107 100%
+
+created 18 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+liblzma-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (113 blocks) to write
+
+[===============================================================|] 113/113 100%
+
+created 3 files
+created 7 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libtiff.tcz: OK
+Parallel unsquashfs: Using 8 processors
+10 inodes (154 blocks) to write
+
+[===============================================================|] 154/154 100%
+
+created 10 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libtiff-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+26 inodes (97 blocks) to write
+
+[=================================================================|] 97/97 100%
+
+created 22 files
+created 9 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdk-pixbuf2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+33 inodes (46 blocks) to write
+
+[=================================================================|] 46/46 100%
+
+created 33 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gdk-pixbuf2-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (32 blocks) to write
+
+[=================================================================|] 32/32 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+atk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+37 inodes (119 blocks) to write
+
+[===============================================================|] 119/119 100%
+
+created 37 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+atk-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+34 inodes (1346 blocks) to write
+
+[=============================================================|] 1346/1346 100%
+
+created 28 files
+created 22 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+gtk2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+304 inodes (2591 blocks) to write
+
+[=============================================================|] 2591/2591 100%
+
+created 304 files
+created 23 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gtk2-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+14 inodes (191 blocks) to write
+
+[===============================================================|] 191/191 100%
+
+created 12 files
+created 12 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+dbus.tcz: OK
+Parallel unsquashfs: Using 8 processors
+21 inodes (134 blocks) to write
+
+[===============================================================|] 134/134 100%
+
+created 21 files
+created 11 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+dbus-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (51 blocks) to write
+
+[=================================================================|] 51/51 100%
+
+created 7 files
+created 12 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+at-spi2-core.tcz: OK
+Parallel unsquashfs: Using 8 processors
+32 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 32 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+at-spi2-core-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 3 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+at-spi2-atk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (4 blocks) to write
+
+[===================================================================|] 4/4 100%
+
+created 4 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+at-spi2-atk-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (144 blocks) to write
+
+[===============================================================|] 144/144 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libepoxy.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (317 blocks) to write
+
+[===============================================================|] 317/317 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxml2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (440 blocks) to write
+
+[===============================================================|] 440/440 100%
+
+created 5 files
+created 11 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+shared-mime-info.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (1598 blocks) to write
+
+[=============================================================|] 1598/1598 100%
+
+created 34 files
+created 22 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+gtk3.tcz: OK
+Parallel unsquashfs: Using 8 processors
+389 inodes (723 blocks) to write
+
+[===============================================================|] 723/723 100%
+
+created 389 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gtk3-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+53 inodes (520 blocks) to write
+
+[===============================================================|] 520/520 100%
+
+created 53 files
+created 11 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libxml2-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+13 inodes (47 blocks) to write
+
+[=================================================================|] 47/47 100%
+
+created 9 files
+created 16 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+dconf.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 9 files
+created 13 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+dconf-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (183 blocks) to write
+
+[===============================================================|] 183/183 100%
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+sqlite3.tcz: OK
+Parallel unsquashfs: Using 8 processors
+797 inodes (4359 blocks) to write
+
+[=============================================================|] 4359/4359 100%
+
+created 796 files
+created 55 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+python3.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (11 blocks) to write
+
+[=================================================================|] 11/11 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libnotify.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (8 blocks) to write
+
+[===================================================================|] 8/8 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libnotify-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (393 blocks) to write
+
+[===============================================================|] 393/393 100%
+
+created 7 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+iso-codes.tcz: OK
+ibus-1.5.13.tar.gz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//ibus-1.5.13.tar.gz
+ibus-1.5.13/
+ibus-1.5.13/COPYING
+ibus-1.5.13/data/
+ibus-1.5.13/data/icons/
+ibus-1.5.13/data/icons/Makefile.am
+ibus-1.5.13/data/icons/scalable/
+ibus-1.5.13/data/icons/scalable/ibus-keyboard.svg
+ibus-1.5.13/data/icons/scalable/ibus-setup.svg
+ibus-1.5.13/data/icons/scalable/ibus-engine.svg
+ibus-1.5.13/data/icons/scalable/ibus.svg
+ibus-1.5.13/data/icons/16/
+ibus-1.5.13/data/icons/16/ibus-keyboard.png
+ibus-1.5.13/data/icons/32/
+ibus-1.5.13/data/icons/32/ibus-keyboard.png
+ibus-1.5.13/data/icons/Makefile.in
+ibus-1.5.13/data/icons/24/
+ibus-1.5.13/data/icons/24/ibus-keyboard.png
+ibus-1.5.13/data/icons/48/
+ibus-1.5.13/data/icons/48/ibus-keyboard.png
+ibus-1.5.13/data/icons/22/
+ibus-1.5.13/data/icons/22/ibus-keyboard.png
+ibus-1.5.13/data/Makefile.am
+ibus-1.5.13/data/ibus.schemas.in
+ibus-1.5.13/data/Makefile.in
+ibus-1.5.13/data/keymaps/
+ibus-1.5.13/data/keymaps/kr
+ibus-1.5.13/data/keymaps/Makefile.am
+ibus-1.5.13/data/keymaps/modifiers
+ibus-1.5.13/data/keymaps/Makefile.in
+ibus-1.5.13/data/keymaps/in
+ibus-1.5.13/data/keymaps/us
+ibus-1.5.13/data/keymaps/jp
+ibus-1.5.13/data/keymaps/common
+ibus-1.5.13/data/dconf/
+ibus-1.5.13/data/dconf/org.freedesktop.ibus.gschema.xml.in
+ibus-1.5.13/data/dconf/Makefile.am
+ibus-1.5.13/data/dconf/Makefile.in
+ibus-1.5.13/data/dconf/profile/
+ibus-1.5.13/data/dconf/profile/ibus
+ibus-1.5.13/data/dconf/make-dconf-override-db.sh
+ibus-1.5.13/data/dconf/ibus.convert
+ibus-1.5.13/data/dconf/00-upstream-settings
+ibus-1.5.13/ibus-1.0.pc.in
+ibus-1.5.13/bus/
+ibus-1.5.13/bus/connection.h
+ibus-1.5.13/bus/global.h
+ibus-1.5.13/bus/factoryproxy.h
+ibus-1.5.13/bus/main.c
+ibus-1.5.13/bus/test-stress.c
+ibus-1.5.13/bus/global.c
+ibus-1.5.13/bus/Makefile.am
+ibus-1.5.13/bus/engineproxy.h
+ibus-1.5.13/bus/panelproxy.h
+ibus-1.5.13/bus/server.c
+ibus-1.5.13/bus/dbusimpl.c
+ibus-1.5.13/bus/panelproxy.c
+ibus-1.5.13/bus/marshalers.c
+ibus-1.5.13/bus/inputcontext.c
+ibus-1.5.13/bus/ibusimpl.h
+ibus-1.5.13/bus/component.c
+ibus-1.5.13/bus/ibusimpl.c
+ibus-1.5.13/bus/Makefile.in
+ibus-1.5.13/bus/test-client.c
+ibus-1.5.13/bus/marshalers.h
+ibus-1.5.13/bus/connection.c
+ibus-1.5.13/bus/matchrule.c
+ibus-1.5.13/bus/dbusimpl.h
+ibus-1.5.13/bus/server.h
+ibus-1.5.13/bus/test-client.h
+ibus-1.5.13/bus/test-matchrule.c
+ibus-1.5.13/bus/types.h
+ibus-1.5.13/bus/engineproxy.c
+ibus-1.5.13/bus/matchrule.h
+ibus-1.5.13/bus/ibus-daemon.1.in
+ibus-1.5.13/bus/inputcontext.h
+ibus-1.5.13/bus/factoryproxy.c
+ibus-1.5.13/bus/component.h
+ibus-1.5.13/bus/marshalers.list
+ibus-1.5.13/bindings/
+ibus-1.5.13/bindings/vala/
+ibus-1.5.13/bindings/vala/Makefile.am
+ibus-1.5.13/bindings/vala/IBus-1.0-custom.vala
+ibus-1.5.13/bindings/vala/ibus-1.0.vapi
+ibus-1.5.13/bindings/vala/xi.vapi
+ibus-1.5.13/bindings/vala/IBus-1.0.metadata
+ibus-1.5.13/bindings/vala/Makefile.in
+ibus-1.5.13/bindings/vala/ibus-1.0.deps
+ibus-1.5.13/bindings/vala/config.vapi
+ibus-1.5.13/bindings/Makefile.am
+ibus-1.5.13/bindings/Makefile.in
+ibus-1.5.13/bindings/pygobject/
+ibus-1.5.13/bindings/pygobject/Makefile.am
+ibus-1.5.13/bindings/pygobject/test-override-ibus.py
+ibus-1.5.13/bindings/pygobject/Makefile.in
+ibus-1.5.13/bindings/pygobject/gi/
+ibus-1.5.13/bindings/pygobject/gi/overrides/
+ibus-1.5.13/bindings/pygobject/gi/overrides/IBus.py
+ibus-1.5.13/bindings/pygobject/gi/overrides/__init__.py
+ibus-1.5.13/bindings/pygobject/gi/__init__.py
+ibus-1.5.13/setup/
+ibus-1.5.13/setup/ibus-setup.desktop.in
+ibus-1.5.13/setup/Makefile.am
+ibus-1.5.13/setup/main.py
+ibus-1.5.13/setup/enginedialog.py
+ibus-1.5.13/setup/setup.ui
+ibus-1.5.13/setup/ibus-setup.1.in
+ibus-1.5.13/setup/ibus-setup.in
+ibus-1.5.13/setup/Makefile.in
+ibus-1.5.13/setup/enginetreeview.py
+ibus-1.5.13/setup/enginecombobox.py
+ibus-1.5.13/setup/icon.py
+ibus-1.5.13/setup/i18n.py
+ibus-1.5.13/setup/keyboardshortcut.py
+ibus-1.5.13/setup/engineabout.py
+ibus-1.5.13/docs/
+ibus-1.5.13/docs/Makefile.am
+ibus-1.5.13/docs/reference/
+ibus-1.5.13/docs/reference/Makefile.am
+ibus-1.5.13/docs/reference/ibus/
+ibus-1.5.13/docs/reference/ibus/ibus-docs.sgml
+ibus-1.5.13/docs/reference/ibus/ibus-overrides.txt
+ibus-1.5.13/docs/reference/ibus/Makefile.am
+ibus-1.5.13/docs/reference/ibus/ibus-docs.sgml.in
+ibus-1.5.13/docs/reference/ibus/html/
+ibus-1.5.13/docs/reference/ibus/html/IBusLookupTable.html
+ibus-1.5.13/docs/reference/ibus/html/annotation-glossary.html
+ibus-1.5.13/docs/reference/ibus/html/ch01.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibuserror.html
+ibus-1.5.13/docs/reference/ibus/html/IBusAttrList.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibusutil.html
+ibus-1.5.13/docs/reference/ibus/html/IBusObservedPath.html
+ibus-1.5.13/docs/reference/ibus/html/left-insensitive.png
+ibus-1.5.13/docs/reference/ibus/html/index.html
+ibus-1.5.13/docs/reference/ibus/html/IBusInputContext.html
+ibus-1.5.13/docs/reference/ibus/html/IBusRegistry.html
+ibus-1.5.13/docs/reference/ibus/html/IBusPropList.html
+ibus-1.5.13/docs/reference/ibus/html/IBusBus.html
+ibus-1.5.13/docs/reference/ibus/html/IBusProperty.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibusshare.html
+ibus-1.5.13/docs/reference/ibus/html/IBusEngineDesc.html
+ibus-1.5.13/docs/reference/ibus/html/IBusHotkeyProfile.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibusxml.html
+ibus-1.5.13/docs/reference/ibus/html/IBusSerializable.html
+ibus-1.5.13/docs/reference/ibus/html/api-index-full.html
+ibus-1.5.13/docs/reference/ibus/html/IBusAttribute.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibuskeysyms-compat.html
+ibus-1.5.13/docs/reference/ibus/html/IBusService.html
+ibus-1.5.13/docs/reference/ibus/html/ch05.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-IBusKeysyms.html
+ibus-1.5.13/docs/reference/ibus/html/up.png
+ibus-1.5.13/docs/reference/ibus/html/IBusKeymap.html
+ibus-1.5.13/docs/reference/ibus/html/IBusProxy.html
+ibus-1.5.13/docs/reference/ibus/html/ch04.html
+ibus-1.5.13/docs/reference/ibus/html/IBusFactory.html
+ibus-1.5.13/docs/reference/ibus/html/IBusConfigService.html
+ibus-1.5.13/docs/reference/ibus/html/IBusPanelService.html
+ibus-1.5.13/docs/reference/ibus/html/ch06.html
+ibus-1.5.13/docs/reference/ibus/html/IBusObject.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibustypes.html
+ibus-1.5.13/docs/reference/ibus/html/index.sgml
+ibus-1.5.13/docs/reference/ibus/html/ch02.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibusdebug.html
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibusversion.html
+ibus-1.5.13/docs/reference/ibus/html/IBusComponent.html
+ibus-1.5.13/docs/reference/ibus/html/IBusText.html
+ibus-1.5.13/docs/reference/ibus/html/IBusEngineSimple.html
+ibus-1.5.13/docs/reference/ibus/html/up-insensitive.png
+ibus-1.5.13/docs/reference/ibus/html/IBusEngine.html
+ibus-1.5.13/docs/reference/ibus/html/IBusConfig.html
+ibus-1.5.13/docs/reference/ibus/html/ibus.devhelp2
+ibus-1.5.13/docs/reference/ibus/html/home.png
+ibus-1.5.13/docs/reference/ibus/html/style.css
+ibus-1.5.13/docs/reference/ibus/html/right-insensitive.png
+ibus-1.5.13/docs/reference/ibus/html/ibus-ibuskeys.html
+ibus-1.5.13/docs/reference/ibus/html/left.png
+ibus-1.5.13/docs/reference/ibus/html/ch03.html
+ibus-1.5.13/docs/reference/ibus/html/right.png
+ibus-1.5.13/docs/reference/ibus/html/api-index-deprecated.html
+ibus-1.5.13/docs/reference/ibus/Makefile.in
+ibus-1.5.13/docs/reference/ibus/ibus.types
+ibus-1.5.13/docs/reference/ibus/trim.sed
+ibus-1.5.13/docs/reference/Makefile.in
+ibus-1.5.13/docs/Makefile.in
+ibus-1.5.13/gtk-doc.make
+ibus-1.5.13/README
+ibus-1.5.13/compile
+ibus-1.5.13/Makefile.am
+ibus-1.5.13/xinput-ibus
+ibus-1.5.13/ltmain.sh
+ibus-1.5.13/util/
+ibus-1.5.13/util/Makefile.am
+ibus-1.5.13/util/IMdkit/
+ibus-1.5.13/util/IMdkit/i18nIMProto.c
+ibus-1.5.13/util/IMdkit/Makefile.am
+ibus-1.5.13/util/IMdkit/IMConn.c
+ibus-1.5.13/util/IMdkit/IMValues.c
+ibus-1.5.13/util/IMdkit/XimProto.h
+ibus-1.5.13/util/IMdkit/FrameMgr.c
+ibus-1.5.13/util/IMdkit/i18nOffsetCache.c
+ibus-1.5.13/util/IMdkit/IMMethod.c
+ibus-1.5.13/util/IMdkit/i18nAttr.c
+ibus-1.5.13/util/IMdkit/i18nIc.c
+ibus-1.5.13/util/IMdkit/i18nUtil.c
+ibus-1.5.13/util/IMdkit/IMdkit.h
+ibus-1.5.13/util/IMdkit/Makefile.in
+ibus-1.5.13/util/IMdkit/Xi18nX.h
+ibus-1.5.13/util/IMdkit/XimFunc.h
+ibus-1.5.13/util/IMdkit/i18nMethod.c
+ibus-1.5.13/util/IMdkit/Xtrans.h
+ibus-1.5.13/util/IMdkit/i18nX.c
+ibus-1.5.13/util/IMdkit/FrameMgr.h
+ibus-1.5.13/util/IMdkit/i18nClbk.c
+ibus-1.5.13/util/IMdkit/Xi18n.h
+ibus-1.5.13/util/IMdkit/i18nPtHdr.c
+ibus-1.5.13/util/Makefile.in
+ibus-1.5.13/configure.ac
+ibus-1.5.13/py-compile
+ibus-1.5.13/python-config.py
+ibus-1.5.13/INSTALL
+ibus-1.5.13/config.guess
+ibus-1.5.13/ChangeLog
+ibus-1.5.13/ibus/
+ibus-1.5.13/ibus/object.py
+ibus-1.5.13/ibus/inputcontext.py
+ibus-1.5.13/ibus/observedpath.py
+ibus-1.5.13/ibus/serializable.py
+ibus-1.5.13/ibus/Makefile.am
+ibus-1.5.13/ibus/panel.py
+ibus-1.5.13/ibus/config.py
+ibus-1.5.13/ibus/lang.py
+ibus-1.5.13/ibus/common.py
+ibus-1.5.13/ibus/ascii.py
+ibus-1.5.13/ibus/_config.py.in
+ibus-1.5.13/ibus/_gtk.py
+ibus-1.5.13/ibus/factory.py
+ibus-1.5.13/ibus/lookuptable.py
+ibus-1.5.13/ibus/keysyms.py
+ibus-1.5.13/ibus/utility.py
+ibus-1.5.13/ibus/component.py
+ibus-1.5.13/ibus/modifier.py
+ibus-1.5.13/ibus/__init__.py
+ibus-1.5.13/ibus/exception.py
+ibus-1.5.13/ibus/Makefile.in
+ibus-1.5.13/ibus/interface/
+ibus-1.5.13/ibus/interface/iibus.py
+ibus-1.5.13/ibus/interface/Makefile.am
+ibus-1.5.13/ibus/interface/ienginefactory.py
+ibus-1.5.13/ibus/interface/__init__.py
+ibus-1.5.13/ibus/interface/Makefile.in
+ibus-1.5.13/ibus/interface/iinputcontext.py
+ibus-1.5.13/ibus/interface/iconfig.py
+ibus-1.5.13/ibus/interface/ipanel.py
+ibus-1.5.13/ibus/interface/inotifications.py
+ibus-1.5.13/ibus/interface/iengine.py
+ibus-1.5.13/ibus/property.py
+ibus-1.5.13/ibus/application.py
+ibus-1.5.13/ibus/text.py
+ibus-1.5.13/ibus/bus.py
+ibus-1.5.13/ibus/engine.py
+ibus-1.5.13/ibus/enginedesc.py
+ibus-1.5.13/ibus/notifications.py
+ibus-1.5.13/ibus/attribute.py
+ibus-1.5.13/ui/
+ibus-1.5.13/ui/Makefile.am
+ibus-1.5.13/ui/gtk3/
+ibus-1.5.13/ui/gtk3/keybindingmanager.c
+ibus-1.5.13/ui/gtk3/switcher.c
+ibus-1.5.13/ui/gtk3/gen-notification-watcher.xml.c
+ibus-1.5.13/ui/gtk3/candidatepanel.vala
+ibus-1.5.13/ui/gtk3/xkblayout.vala
+ibus-1.5.13/ui/gtk3/application.c
+ibus-1.5.13/ui/gtk3/propertypanel.vala
+ibus-1.5.13/ui/gtk3/xkblayout.c
+ibus-1.5.13/ui/gtk3/panel.vala
+ibus-1.5.13/ui/gtk3/propertypanel.c
+ibus-1.5.13/ui/gtk3/separator.vala
+ibus-1.5.13/ui/gtk3/handle.vala
+ibus-1.5.13/ui/gtk3/notification-watcher.xml
+ibus-1.5.13/ui/gtk3/Makefile.am
+ibus-1.5.13/ui/gtk3/iconwidget.c
+ibus-1.5.13/ui/gtk3/indicator.c
+ibus-1.5.13/ui/gtk3/pango.c
+ibus-1.5.13/ui/gtk3/notification-item.xml
+ibus-1.5.13/ui/gtk3/candidatepanel.c
+ibus-1.5.13/ui/gtk3/handle.c
+ibus-1.5.13/ui/gtk3/candidatearea.c
+ibus-1.5.13/ui/gtk3/gen-notification-item.xml.c
+ibus-1.5.13/ui/gtk3/keybindingmanager.vala
+ibus-1.5.13/ui/gtk3/Makefile.in
+ibus-1.5.13/ui/gtk3/switcher.vala
+ibus-1.5.13/ui/gtk3/indicator.vala
+ibus-1.5.13/ui/gtk3/candidatearea.vala
+ibus-1.5.13/ui/gtk3/panel.c
+ibus-1.5.13/ui/gtk3/property.vala
+ibus-1.5.13/ui/gtk3/application.vala
+ibus-1.5.13/ui/gtk3/pango.vala
+ibus-1.5.13/ui/gtk3/iconwidget.vala
+ibus-1.5.13/ui/gtk3/property.c
+ibus-1.5.13/ui/gtk3/ibus_ui_gtk3_vala.stamp
+ibus-1.5.13/ui/gtk3/separator.c
+ibus-1.5.13/ui/gtk3/gtkpanel.xml.in
+ibus-1.5.13/ui/Makefile.in
+ibus-1.5.13/src/
+ibus-1.5.13/src/ibusattribute.h
+ibus-1.5.13/src/ibusconfigservice.h
+ibus-1.5.13/src/ibusinputcontext.c
+ibus-1.5.13/src/ibusproperty.h
+ibus-1.5.13/src/ibushotkey.h
+ibus-1.5.13/src/ibusservice.h
+ibus-1.5.13/src/ibusproxy.c
+ibus-1.5.13/src/ibuskeymap.h
+ibus-1.5.13/src/ibusenginedesc.h
+ibus-1.5.13/src/ibuslookuptable.h
+ibus-1.5.13/src/ibusversion.h
+ibus-1.5.13/src/ibusservice.c
+ibus-1.5.13/src/ibus.h
+ibus-1.5.13/src/Makefile.am
+ibus-1.5.13/src/ibusproxy.h
+ibus-1.5.13/src/ibusproperty.c
+ibus-1.5.13/src/ibusutil.h
+ibus-1.5.13/src/ibuspanelservice.h
+ibus-1.5.13/src/tests/
+ibus-1.5.13/src/tests/ibus-engine-switch.c
+ibus-1.5.13/src/tests/ibus-inputcontext-create.c
+ibus-1.5.13/src/tests/Makefile.am
+ibus-1.5.13/src/tests/ibus-compose.c
+ibus-1.5.13/src/tests/runtest
+ibus-1.5.13/src/tests/ibus-util.c
+ibus-1.5.13/src/tests/ibus-share.c
+ibus-1.5.13/src/tests/ibus-serializable.c
+ibus-1.5.13/src/tests/ibus-registry.c
+ibus-1.5.13/src/tests/ibus-inputcontext.c
+ibus-1.5.13/src/tests/Makefile.in
+ibus-1.5.13/src/tests/ibus-configservice.c
+ibus-1.5.13/src/tests/ibus-bus.c
+ibus-1.5.13/src/tests/ibus-keynames.c
+ibus-1.5.13/src/tests/ibus-config.c
+ibus-1.5.13/src/tests/ibus-factory.c
+ibus-1.5.13/src/ibusproplist.h
+ibus-1.5.13/src/ibusattrlist.c
+ibus-1.5.13/src/ibusregistry.h
+ibus-1.5.13/src/ibuserror.h
+ibus-1.5.13/src/ibusenginesimple.h
+ibus-1.5.13/src/gtkimcontextsimpleseqs.h
+ibus-1.5.13/src/ibusserializable.c
+ibus-1.5.13/src/ibusenumtypes.h.template
+ibus-1.5.13/src/ibusshare.c
+ibus-1.5.13/src/ibusbus.c
+ibus-1.5.13/src/ibusserializable.h
+ibus-1.5.13/src/ibusfactory.h
+ibus-1.5.13/src/ibusobject.h
+ibus-1.5.13/src/ibusproplist.c
+ibus-1.5.13/src/ibusinputcontext.h
+ibus-1.5.13/src/ibusfactory.c
+ibus-1.5.13/src/ibusengine.h
+ibus-1.5.13/src/ibuskeys.h
+ibus-1.5.13/src/ibusattribute.c
+ibus-1.5.13/src/ibuskeynames.c
+ibus-1.5.13/src/ibustypes.h
+ibus-1.5.13/src/ibusobject.c
+ibus-1.5.13/src/ibuskeysyms.h
+ibus-1.5.13/src/ibusmarshalers.c
+ibus-1.5.13/src/Makefile.in
+ibus-1.5.13/src/ibusinternal.h
+ibus-1.5.13/src/ibushotkey.c
+ibus-1.5.13/src/ibusversion.h.in
+ibus-1.5.13/src/IBus-1.0.gir
+ibus-1.5.13/src/ibusenginedesc.c
+ibus-1.5.13/src/ibusenumtypes.c.template
+ibus-1.5.13/src/ibuskeyuni.c
+ibus-1.5.13/src/ibusobservedpath.h
+ibus-1.5.13/src/ibusdebug.h
+ibus-1.5.13/src/ibuscomposetable.h
+ibus-1.5.13/src/ibusenumtypes.h
+ibus-1.5.13/src/ibuscomposetable.c
+ibus-1.5.13/src/ibuscomponent.h
+ibus-1.5.13/src/ibuskeysyms-compat.h
+ibus-1.5.13/src/ibustext.c
+ibus-1.5.13/src/ibusobservedpath.c
+ibus-1.5.13/src/ibustext.h
+ibus-1.5.13/src/ibusxml.h
+ibus-1.5.13/src/ibusxml.c
+ibus-1.5.13/src/ibusengine.c
+ibus-1.5.13/src/ibusmarshalers.list
+ibus-1.5.13/src/ibusregistry.c
+ibus-1.5.13/src/ibusshare.h
+ibus-1.5.13/src/ibuskeymap.c
+ibus-1.5.13/src/ibusenumtypes.c
+ibus-1.5.13/src/ibusconfig.c
+ibus-1.5.13/src/ibusenginesimple.c
+ibus-1.5.13/src/ibusutil.c
+ibus-1.5.13/src/ibusattrlist.h
+ibus-1.5.13/src/ibusenginesimpleprivate.h
+ibus-1.5.13/src/ibuscomponent.c
+ibus-1.5.13/src/ibusconfigservice.c
+ibus-1.5.13/src/ibusbus.h
+ibus-1.5.13/src/ibuslookuptable.c
+ibus-1.5.13/src/ibuspanelservice.c
+ibus-1.5.13/src/ibuserror.c
+ibus-1.5.13/src/ibusconfig.h
+ibus-1.5.13/src/keyname-table.h
+ibus-1.5.13/Makefile.in
+ibus-1.5.13/ibus.spec.in
+ibus-1.5.13/autogen.sh
+ibus-1.5.13/config.h.in
+ibus-1.5.13/conf/
+ibus-1.5.13/conf/gconf/
+ibus-1.5.13/conf/gconf/main.c
+ibus-1.5.13/conf/gconf/Makefile.am
+ibus-1.5.13/conf/gconf/config.c
+ibus-1.5.13/conf/gconf/gconf.xml.in
+ibus-1.5.13/conf/gconf/Makefile.in
+ibus-1.5.13/conf/gconf/config.h
+ibus-1.5.13/conf/memconf/
+ibus-1.5.13/conf/memconf/main.c
+ibus-1.5.13/conf/memconf/Makefile.am
+ibus-1.5.13/conf/memconf/config.c
+ibus-1.5.13/conf/memconf/Makefile.in
+ibus-1.5.13/conf/memconf/config.h
+ibus-1.5.13/conf/memconf/memconf.xml.in
+ibus-1.5.13/conf/Makefile.am
+ibus-1.5.13/conf/Makefile.in
+ibus-1.5.13/conf/dconf/
+ibus-1.5.13/conf/dconf/main.c
+ibus-1.5.13/conf/dconf/Makefile.am
+ibus-1.5.13/conf/dconf/config.c
+ibus-1.5.13/conf/dconf/Makefile.in
+ibus-1.5.13/conf/dconf/dconf.xml.in
+ibus-1.5.13/conf/dconf/config-private.h
+ibus-1.5.13/missing
+ibus-1.5.13/AUTHORS
+ibus-1.5.13/config.sub
+ibus-1.5.13/NEWS
+ibus-1.5.13/depcomp
+ibus-1.5.13/install-sh
+ibus-1.5.13/tools/
+ibus-1.5.13/tools/main.c
+ibus-1.5.13/tools/Makefile.am
+ibus-1.5.13/tools/Makefile.in
+ibus-1.5.13/tools/ibus_vala.stamp
+ibus-1.5.13/tools/ibus.1.in
+ibus-1.5.13/tools/main.vala
+ibus-1.5.13/tools/ibus.bash
+ibus-1.5.13/aclocal.m4
+ibus-1.5.13/configure
+ibus-1.5.13/engine/
+ibus-1.5.13/engine/main.c
+ibus-1.5.13/engine/Makefile.am
+ibus-1.5.13/engine/ibus_engine_simple_vala.stamp
+ibus-1.5.13/engine/iso639converter.py
+ibus-1.5.13/engine/simple.xml.in
+ibus-1.5.13/engine/Makefile.in
+ibus-1.5.13/engine/main.vala
+ibus-1.5.13/m4/
+ibus-1.5.13/m4/lt~obsolete.m4
+ibus-1.5.13/m4/ltversion.m4
+ibus-1.5.13/m4/intltool.m4
+ibus-1.5.13/m4/Makefile.am
+ibus-1.5.13/m4/vapigen.m4
+ibus-1.5.13/m4/gtk-doc.m4
+ibus-1.5.13/m4/ltsugar.m4
+ibus-1.5.13/m4/introspection.m4
+ibus-1.5.13/m4/Makefile.in
+ibus-1.5.13/m4/gconf-2.m4
+ibus-1.5.13/m4/ltoptions.m4
+ibus-1.5.13/m4/libtool.m4
+ibus-1.5.13/m4/as-version.m4
+ibus-1.5.13/client/
+ibus-1.5.13/client/x11/
+ibus-1.5.13/client/x11/main.c
+ibus-1.5.13/client/x11/locales.h
+ibus-1.5.13/client/x11/Makefile.am
+ibus-1.5.13/client/x11/gdk-private.h
+ibus-1.5.13/client/x11/Makefile.in
+ibus-1.5.13/client/x11/gdk-private.c
+ibus-1.5.13/client/Makefile.am
+ibus-1.5.13/client/gtk3/
+ibus-1.5.13/client/gtk3/ibusim.c
+ibus-1.5.13/client/gtk3/Makefile.am
+ibus-1.5.13/client/gtk3/ibusimcontext.c
+ibus-1.5.13/client/gtk3/ibusimcontext.h
+ibus-1.5.13/client/gtk3/Makefile.in
+ibus-1.5.13/client/gtk2/
+ibus-1.5.13/client/gtk2/ibusim.c
+ibus-1.5.13/client/gtk2/Makefile.am
+ibus-1.5.13/client/gtk2/ibusimcontext.c
+ibus-1.5.13/client/gtk2/ibusimcontext.h
+ibus-1.5.13/client/gtk2/Makefile.in
+ibus-1.5.13/client/Makefile.in
+ibus-1.5.13/client/wayland/
+ibus-1.5.13/client/wayland/main.c
+ibus-1.5.13/client/wayland/README
+ibus-1.5.13/client/wayland/Makefile.am
+ibus-1.5.13/client/wayland/input-method-protocol.c
+ibus-1.5.13/client/wayland/Makefile.in
+ibus-1.5.13/client/wayland/input-method-client-protocol.h
+ibus-1.5.13/po/
+ibus-1.5.13/po/ta.po
+ibus-1.5.13/po/nl.po
+ibus-1.5.13/po/bn.po
+ibus-1.5.13/po/ur.po
+ibus-1.5.13/po/he.po
+ibus-1.5.13/po/ca.po
+ibus-1.5.13/po/vi.po
+ibus-1.5.13/po/lv.po
+ibus-1.5.13/po/de.po
+ibus-1.5.13/po/hu.po
+ibus-1.5.13/po/LINGUAS
+ibus-1.5.13/po/ru.po
+ibus-1.5.13/po/bg.po
+ibus-1.5.13/po/fa.po
+ibus-1.5.13/po/uk.po
+ibus-1.5.13/po/zh_TW.po
+ibus-1.5.13/po/zh_CN.po
+ibus-1.5.13/po/zh_HK.po
+ibus-1.5.13/po/mr.po
+ibus-1.5.13/po/fr.po
+ibus-1.5.13/po/es.po
+ibus-1.5.13/po/Makevars
+ibus-1.5.13/po/bn_IN.po
+ibus-1.5.13/po/da.po
+ibus-1.5.13/po/Makefile.in.in
+ibus-1.5.13/po/it.po
+ibus-1.5.13/po/kn.po
+ibus-1.5.13/po/eu.po
+ibus-1.5.13/po/pa.po
+ibus-1.5.13/po/en_GB.po
+ibus-1.5.13/po/ja.po
+ibus-1.5.13/po/gu.po
+ibus-1.5.13/po/ia.po
+ibus-1.5.13/po/POTFILES.skip
+ibus-1.5.13/po/ml.po
+ibus-1.5.13/po/nb.po
+ibus-1.5.13/po/ar.po
+ibus-1.5.13/po/ko.po
+ibus-1.5.13/po/tg.po
+ibus-1.5.13/po/as.po
+ibus-1.5.13/po/sr.po
+ibus-1.5.13/po/or.po
+ibus-1.5.13/po/sr@latin.po
+ibus-1.5.13/po/et.po
+ibus-1.5.13/po/te.po
+ibus-1.5.13/po/pt_BR.po
+ibus-1.5.13/po/POTFILES.in
+ibus-1.5.13/po/hi.po
+ibus-1.5.13/po/pl.po
+ibus-1.5.13/test-driver
+[32mTCZBUILD[0m: ./configure --enable-python-library
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... ./install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether to enable maintainer-specific portions of Makefiles... yes
+checking for style of include used by make... GNU
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking whether make supports nested variables... (cached) yes
+checking locale.h usability... yes
+checking locale.h presence... yes
+checking for locale.h... yes
+checking for LC_MESSAGES... yes
+checking libintl.h usability... yes
+checking libintl.h presence... yes
+checking for libintl.h... yes
+checking for ngettext in libc... yes
+checking for dgettext in libc... yes
+checking for bind_textdomain_codeset... yes
+checking for msgfmt... /usr/local/bin/msgfmt
+checking for dcgettext... yes
+checking if msgfmt accepts -c... yes
+checking for gmsgfmt... /usr/local/bin/msgfmt
+checking for xgettext... /usr/local/bin/xgettext
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking whether gcc understands -c and -o together... (cached) yes
+checking dependency style of gcc... (cached) gcc3
+checking for gcc option to accept ISO C99... -std=gnu99
+checking for gcc -std=gnu99 option to accept ISO Standard C... (cached) -std=gnu99
+checking for valac... valac
+configure: WARNING: no proper vala compiler found
+configure: WARNING: you will not be able to compile vala source files
+checking whether make sets $(MAKE)... (cached) yes
+checking for locale.h... (cached) yes
+checking for LC_MESSAGES... (cached) yes
+checking for libintl.h... (cached) yes
+checking for ngettext in libc... (cached) yes
+checking for dgettext in libc... (cached) yes
+checking for bind_textdomain_codeset... (cached) yes
+checking for msgfmt... (cached) /usr/local/bin/msgfmt
+checking for dcgettext... (cached) yes
+checking if msgfmt accepts -c... yes
+checking for gmsgfmt... (cached) /usr/local/bin/msgfmt
+checking for xgettext... (cached) /usr/local/bin/xgettext
+checking for library containing strerror... none required
+checking for ANSI C header files... (cached) yes
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for fgrep... /usr/local/bin/grep -F
+checking for ld used by gcc -std=gnu99... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/local/bin/nm -B
+checking the name lister (/usr/local/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 32768
+checking how to convert x86_64-unknown-linux-gnu file names to x86_64-unknown-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-unknown-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for ar... ar
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/local/bin/nm -B output from gcc -std=gnu99 object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+./configure: ./configure.lineno: line 1: /usr/bin/file: not found
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc -std=gnu99 supports -fno-rtti -fno-exceptions... no
+checking for gcc -std=gnu99 option to produce PIC... -fPIC -DPIC
+checking if gcc -std=gnu99 PIC flag -fPIC -DPIC works... yes
+checking if gcc -std=gnu99 static flag -static works... yes
+checking if gcc -std=gnu99 supports -c -o file.o... yes
+checking if gcc -std=gnu99 supports -c -o file.o... (cached) yes
+checking whether the gcc -std=gnu99 linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking whether NLS is requested... yes
+checking for intltool >= 0.35.0... 0.50.2 found
+checking for intltool-update... /usr/local/bin/intltool-update
+checking for intltool-merge... /usr/local/bin/intltool-merge
+checking for intltool-extract... /usr/local/bin/intltool-extract
+checking for xgettext... (cached) /usr/local/bin/xgettext
+checking for msgmerge... /usr/local/bin/msgmerge
+checking for msgfmt... (cached) /usr/local/bin/msgfmt
+checking for gmsgfmt... (cached) /usr/local/bin/msgfmt
+checking for perl... /usr/local/bin/perl
+checking for perl >= 5.8.1... 5.20.0
+checking for XML::Parser... ok
+checking for daemon... yes
+checking for pkg-config... /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.16... yes
+checking for GLIB - version >= 2.0.0... yes (version 2.45.2)
+checking for GLIB2... yes
+checking for GOBJECT2... yes
+checking for GIO2... yes
+checking for GTHREAD2... yes
+checking for GTK2... yes
+checking for GTK3... yes
+checking for X11... yes
+checking X11/XKBlib.h usability... yes
+checking X11/XKBlib.h presence... yes
+checking for X11/XKBlib.h... yes
+checking for KDE5 appindicator engine icon... no
+checking for gobject-introspection... no
+checking for pkg-config... (cached) /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for vapigen... no
+checking for gtk-doc... no
+configure: WARNING:
+  You will not be able to create source packages with 'make dist'
+  because gtk-doc >= 1.9 is not found.
+checking for gtkdoc-check... no
+checking for gtkdoc-check... no
+checking for gtkdoc-rebase... no
+checking for gtkdoc-mkpdf... no
+checking whether to build gtk-doc documentation... no
+checking for GTKDOC_DEPS... yes
+checking for DBUS... yes
+checking for DCONF... yes
+checking for pkg-config... (cached) /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.16... yes
+checking for env... /usr/bin/env
+checking for a Python interpreter with version >= 2.5... python3
+checking for python3... /usr/local/bin/python3
+checking for python3 version... 3.4
+checking for python3 platform... linux
+checking for python3 script directory... ${prefix}/lib/python3.4/site-packages
+checking for python3 extension module directory... ${exec_prefix}/lib/python3.4/site-packages
+checking for python2... no
+checking for python3.4-config... /usr/local/bin/python3.4-config
+checking for X11... yes
+checking for LIBNOTIFY... yes
+checking for ISOCODES... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating po/Makefile.in
+config.status: creating Makefile
+config.status: creating ibus-1.0.pc
+config.status: WARNING:  'ibus-1.0.pc.in' seems to ignore the --datarootdir setting
+config.status: creating ibus.spec
+config.status: creating client/Makefile
+config.status: creating client/gtk2/Makefile
+config.status: creating client/gtk3/Makefile
+config.status: creating client/x11/Makefile
+config.status: creating client/wayland/Makefile
+config.status: creating src/Makefile
+config.status: creating src/ibusversion.h
+config.status: creating src/tests/Makefile
+config.status: creating bus/Makefile
+config.status: creating engine/Makefile
+config.status: creating util/Makefile
+config.status: creating util/IMdkit/Makefile
+config.status: creating data/Makefile
+config.status: creating data/icons/Makefile
+config.status: creating data/keymaps/Makefile
+config.status: creating data/dconf/Makefile
+config.status: creating docs/Makefile
+config.status: creating docs/reference/Makefile
+config.status: creating docs/reference/ibus/ibus-docs.sgml
+config.status: creating docs/reference/ibus/Makefile
+config.status: creating m4/Makefile
+config.status: creating ibus/_config.py
+config.status: creating ibus/Makefile
+config.status: creating ibus/interface/Makefile
+config.status: creating ui/Makefile
+config.status: creating ui/gtk3/Makefile
+config.status: creating setup/Makefile
+config.status: creating setup/ibus-setup
+config.status: creating bindings/Makefile
+config.status: creating bindings/pygobject/Makefile
+config.status: creating bindings/vala/Makefile
+config.status: creating conf/Makefile
+config.status: creating conf/gconf/Makefile
+config.status: creating conf/dconf/Makefile
+config.status: creating conf/memconf/Makefile
+config.status: creating tools/Makefile
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing default-1 commands
+config.status: executing default-2 commands
+config.status: executing libtool commands
+config.status: executing po/stamp-it commands
+
+Build options:
+  Version                       1.5.13
+  Install prefix                /usr/local
+  Build shared libs             yes
+  Build static libs             no
+  CFLAGS                        -g -O2
+  PYTHON                        /usr/local/bin/python3
+  PYTHON2                       /usr/local/bin/python3
+  Gtk2 immodule dir             ${exec_prefix}/lib/gtk-2.0/2.10.0/immodules
+  Gtk3 immodule dir             ${exec_prefix}/lib/gtk-3.0/3.0.0/immodules
+  Build gtk2 immodule           yes
+  Build gtk3 immodule           yes
+  Build XIM agent server        yes
+  Build wayland support         no (disabled, use --enable-wayland to enable)
+  Build appindicator support    yes (enabled, use --disable-appindicator to disable)
+  Build appindicator engine icon no (disabled, need qtbase-devel 5.4 or later)
+  Build python library          yes
+  Build gconf modules           no (disabled, use --enable-gconf to enable)
+  Build memconf modules         no
+  Build dconf modules           yes (enabled, use --disable-dconf to disable)
+  Build introspection           no
+  IBus-1.0.gir scannerflags     ""
+  Build vala binding            no
+  Build document                no (disabled, use --enable-gtk-doc to enable)
+  Build UI                      yes (enabled, use --disable-ui to disable)
+  Build engine                  yes (enabled, use --disable-engine to disable)
+  Enable key snooper            yes
+  No snooper regexes            "firefox.*,.*chrome.*,.*chromium.*,terminator"
+  Panel icon                    "ibus-keyboard"
+  Enable surrounding-text       yes
+  Enable libnotify              yes (enabled, use --disable-libnotify to disable)
+  Run test cases                yes
+
+[32mTCZBUILD[0m: make 
+make  all-recursive
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+Making all in src
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+  GEN      ibusmarshalers.h
+  GEN      ibusmarshalers.c
+make  all-recursive
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+Making all in .
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+  CC       ibusmarshalers.lo
+  CC       ibuscomposetable.lo
+  CC       ibusenumtypes.lo
+  CC       ibusshare.lo
+  CC       ibusobject.lo
+  CC       ibusserializable.lo
+  CC       ibusproxy.lo
+  CC       ibusservice.lo
+  CC       ibusfactory.lo
+  CC       ibusengine.lo
+  CC       ibuserror.lo
+  CC       ibustext.lo
+  CC       ibuskeymap.lo
+  CC       ibusattribute.lo
+  CC       ibusattrlist.lo
+  CC       ibusproperty.lo
+  CC       ibusproplist.lo
+  CC       ibuslookuptable.lo
+  CC       ibusinputcontext.lo
+  CC       ibusconfig.lo
+  CC       ibusconfigservice.lo
+  CC       ibuspanelservice.lo
+  CC       ibusbus.lo
+ibusbus.c: In function '_async_finish_void':
+ibusbus.c:571:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c: In function '_async_finish_object_path':
+ibusbus.c:581:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:583:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *result = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function '_async_finish_string':
+ibusbus.c:598:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:600:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *variant = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function '_async_finish_gboolean':
+ibusbus.c:612:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:614:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *variant = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function '_async_finish_guint':
+ibusbus.c:627:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:629:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *variant = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function '_create_input_context_async_step_two_done':
+ibusbus.c:709:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (simple, error);
+         ^
+ibusbus.c:713:9: warning: 'g_simple_async_result_set_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:75) [-Wdeprecated-declarations]
+         g_simple_async_result_set_op_res_gpointer (simple, context, NULL);
+         ^
+ibusbus.c:715:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (simple);
+     ^
+ibusbus.c: In function '_create_input_context_async_step_one_done':
+ibusbus.c:728:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (simple, error);
+         ^
+ibusbus.c:730:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (simple);
+         ^
+ibusbus.c:741:9: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+         g_simple_async_result_set_error (simple,
+         ^
+ibusbus.c:743:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (simple);
+         ^
+ibusbus.c: In function 'ibus_bus_create_input_context_async':
+ibusbus.c:781:5: warning: 'g_simple_async_result_new' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:51): Use 'g_task_new' instead [-Wdeprecated-declarations]
+     GSimpleAsyncResult *simple = g_simple_async_result_new ((GObject *)bus,
+     ^
+ibusbus.c: In function 'ibus_bus_create_input_context_async_finish':
+ibusbus.c:816:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c:820:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:823:13: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+             g_simple_async_result_get_op_res_gpointer (simple);
+             ^
+ibusbus.c: In function 'ibus_bus_current_input_context_async_finish':
+ibusbus.c:887:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_request_name_async_finish':
+ibusbus.c:1064:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_release_name_async_finish':
+ibusbus.c:1125:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_name_has_owner_async_finish':
+ibusbus.c:1221:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_add_match_async_finish':
+ibusbus.c:1287:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_remove_match_async_finish':
+ibusbus.c:1346:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_get_name_owner_async_finish':
+ibusbus.c:1407:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_exit_async_finish':
+ibusbus.c:1474:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_register_component_async_finish':
+ibusbus.c:1533:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_list_engines_async_finish':
+ibusbus.c:1614:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:1616:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *result = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function 'ibus_bus_get_use_sys_layout_async_finish':
+ibusbus.c:1793:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (
+     ^
+ibusbus.c: In function 'ibus_bus_get_use_global_engine_async_finish':
+ibusbus.c:1851:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (
+     ^
+ibusbus.c: In function 'ibus_bus_is_global_engine_enabled_async_finish':
+ibusbus.c:1907:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (
+     ^
+ibusbus.c: In function 'ibus_bus_get_global_engine_async_finish':
+ibusbus.c:1977:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:1979:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *result = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function 'ibus_bus_set_global_engine_async_finish':
+ibusbus.c:2048:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (res, (GObject *) bus,
+     ^
+ibusbus.c: In function 'ibus_bus_preload_engines_async_finish':
+ibusbus.c:2120:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (
+     ^
+ibusbus.c: In function 'ibus_bus_get_ibus_property_async_finish':
+ibusbus.c:2187:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+ibusbus.c:2189:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     GVariant *result = g_simple_async_result_get_op_res_gpointer (simple);
+     ^
+ibusbus.c: In function 'ibus_bus_set_ibus_property_async_finish':
+ibusbus.c:2258:5: warning: 'g_simple_async_result_is_valid' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:135) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_is_valid (
+     ^
+ibusbus.c: In function 'ibus_bus_call_async_done':
+ibusbus.c:2313:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (simple, error);
+         ^
+ibusbus.c:2317:9: warning: 'g_simple_async_result_set_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:75) [-Wdeprecated-declarations]
+         g_simple_async_result_set_op_res_gpointer (simple, variant,
+         ^
+ibusbus.c:2320:5: warning: 'g_simple_async_result_complete' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:104) [-Wdeprecated-declarations]
+     g_simple_async_result_complete (simple);
+     ^
+ibusbus.c: In function 'ibus_bus_call_async':
+ibusbus.c:2342:5: warning: 'g_simple_async_result_new' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:51): Use 'g_task_new' instead [-Wdeprecated-declarations]
+     GSimpleAsyncResult *simple = g_simple_async_result_new ((GObject*) bus,
+     ^
+  CC       ibuskeynames.lo
+  CC       ibuskeyuni.lo
+  CC       ibushotkey.lo
+  CC       ibusxml.lo
+  CC       ibusenginedesc.lo
+  CC       ibusobservedpath.lo
+  CC       ibuscomponent.lo
+  CC       ibusutil.lo
+  CC       ibusenginesimple.lo
+  CC       ibusregistry.lo
+  CCLD     libibus-1.0.la
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+Making all in tests
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src/tests'
+  CC       ibus-bus.o
+  CCLD     ibus-bus
+  CC       ibus-config.o
+  CCLD     ibus-config
+  CC       ibus-configservice.o
+  CCLD     ibus-configservice
+  CC       ibus-factory.o
+  CCLD     ibus-factory
+  CC       ibus-inputcontext.o
+  CCLD     ibus-inputcontext
+  CC       ibus-inputcontext-create.o
+  CCLD     ibus-inputcontext-create
+  CC       ibus-keynames.o
+  CCLD     ibus-keynames
+  CC       ibus-registry.o
+  CCLD     ibus-registry
+  CC       ibus-serializable.o
+  CCLD     ibus-serializable
+  CC       ibus_share-ibus-share.o
+  CCLD     ibus-share
+  CC       ibus-util.o
+  CCLD     ibus-util
+  CC       ibus-engine-switch.o
+  CCLD     ibus-engine-switch
+  CC       ibus_compose-ibus-compose.o
+  CCLD     ibus-compose
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src/tests'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+Making all in bindings
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+Making all in util
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+Making all in IMdkit
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util/IMdkit'
+  CC       libIMdkit_la-FrameMgr.lo
+  CC       libIMdkit_la-i18nAttr.lo
+  CC       libIMdkit_la-i18nClbk.lo
+  CC       libIMdkit_la-i18nIc.lo
+  CC       libIMdkit_la-i18nIMProto.lo
+  CC       libIMdkit_la-i18nMethod.lo
+  CC       libIMdkit_la-i18nOffsetCache.lo
+  CC       libIMdkit_la-i18nPtHdr.lo
+  CC       libIMdkit_la-i18nUtil.lo
+  CC       libIMdkit_la-i18nX.lo
+  CC       libIMdkit_la-IMConn.lo
+  CC       libIMdkit_la-IMMethod.lo
+  CC       libIMdkit_la-IMValues.lo
+  CCLD     libIMdkit.la
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util/IMdkit'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+Making all in conf
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+Making all in dconf
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/dconf'
+  CC       ibus_dconf-main.o
+  CC       ibus_dconf-config.o
+  CCLD     ibus-dconf
+  GEN      dconf.xml
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/dconf'
+Making all in memconf
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/memconf'
+  CC       ibus_memconf-main.o
+  CC       ibus_memconf-config.o
+  CCLD     ibus-memconf
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/memconf'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+Making all in client
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+Making all in gtk2
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2'
+  CC       im_ibus_la-ibusim.lo
+  CC       im_ibus_la-ibusimcontext.lo
+  CCLD     im-ibus.la
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2'
+Making all in gtk3
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3'
+  CC       im_ibus_la-ibusim.lo
+  CC       im_ibus_la-ibusimcontext.lo
+  CCLD     im-ibus.la
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3'
+Making all in x11
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/x11'
+  CC       ibus_x11-main.o
+  CC       ibus_x11-gdk-private.o
+  CCLD     ibus-x11
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/x11'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+Making all in tools
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/tools'
+  CC       main.o
+  CCLD     ibus
+  GEN      ibus.1
+  GEN      ibus.1.gz
+rm ibus.1
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/tools'
+Making all in data
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+Making all in icons
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/icons'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/icons'
+Making all in keymaps
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/keymaps'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/keymaps'
+Making all in dconf
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+  ITMRG  org.freedesktop.ibus.gschema.xml
+  GEN      org.freedesktop.ibus.gschema.valid
+warning: Schema 'org.freedesktop.ibus' has path '/desktop/ibus/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
+warning: Schema 'org.freedesktop.ibus.general' has path '/desktop/ibus/general/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
+warning: Schema 'org.freedesktop.ibus.general.hotkey' has path '/desktop/ibus/general/hotkey/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
+warning: Schema 'org.freedesktop.ibus.panel' has path '/desktop/ibus/panel/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+  ITMRG  ibus.schemas
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+Making all in m4
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/m4'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/m4'
+Making all in po
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/po'
+  MSGFMT ar.gmo
+  MSGFMT as.gmo
+  MSGFMT bg.gmo
+  MSGFMT bn.gmo
+  MSGFMT bn_IN.gmo
+  MSGFMT ca.gmo
+  MSGFMT da.gmo
+  MSGFMT de.gmo
+  MSGFMT en_GB.gmo
+  MSGFMT es.gmo
+  MSGFMT et.gmo
+  MSGFMT eu.gmo
+  MSGFMT fa.gmo
+  MSGFMT fr.gmo
+  MSGFMT gu.gmo
+  MSGFMT he.gmo
+  MSGFMT hi.gmo
+  MSGFMT hu.gmo
+  MSGFMT ia.gmo
+  MSGFMT it.gmo
+  MSGFMT ja.gmo
+  MSGFMT kn.gmo
+  MSGFMT ko.gmo
+  MSGFMT lv.gmo
+  MSGFMT ml.gmo
+  MSGFMT mr.gmo
+  MSGFMT nb.gmo
+  MSGFMT nl.gmo
+  MSGFMT or.gmo
+  MSGFMT pa.gmo
+  MSGFMT pl.gmo
+  MSGFMT pt_BR.gmo
+  MSGFMT ru.gmo
+  MSGFMT sr.gmo
+  MSGFMT sr@latin.gmo
+  MSGFMT ta.gmo
+  MSGFMT te.gmo
+  MSGFMT tg.gmo
+  MSGFMT uk.gmo
+  MSGFMT ur.gmo
+  MSGFMT vi.gmo
+  MSGFMT zh_CN.gmo
+  MSGFMT zh_HK.gmo
+  MSGFMT zh_TW.gmo
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/po'
+Making all in docs
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+Making all in reference
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+Making all in ibus
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference/ibus'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference/ibus'
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+Making all in engine
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/engine'
+  CC       ibus_engine_simple-main.o
+  CCLD     ibus-engine-simple
+  GEN      simple.xml
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/engine'
+Making all in ui
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+Making all in gtk3
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui/gtk3'
+  CC       application.o
+  CC       candidatearea.o
+candidatearea.c: In function 'candidate_area_recreate_ui':
+candidatearea.c:1155:6: warning: 'gtk_misc_set_padding' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkmisc.h:80) [-Wdeprecated-declarations]
+      gtk_misc_set_padding ((GtkMisc*) _tmp69_, 8, 0);
+      ^
+candidatearea.c:1157:6: warning: 'gtk_misc_set_padding' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkmisc.h:80) [-Wdeprecated-declarations]
+      gtk_misc_set_padding ((GtkMisc*) _tmp70_, 8, 0);
+      ^
+  CC       candidatepanel.o
+candidatepanel.c: In function 'candidate_panel_create_ui':
+candidatepanel.c:996:2: warning: 'gtk_misc_set_padding' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkmisc.h:80) [-Wdeprecated-declarations]
+  gtk_misc_set_padding ((GtkMisc*) _tmp4_, 8, 0);
+  ^
+candidatepanel.c:1010:2: warning: 'gtk_misc_set_padding' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkmisc.h:80) [-Wdeprecated-declarations]
+  gtk_misc_set_padding ((GtkMisc*) _tmp10_, 8, 0);
+  ^
+  CC       handle.o
+  CC       iconwidget.o
+  CC       indicator.o
+indicator.c: In function 'string_delimit':
+indicator.c:328:2: warning: passing argument 1 of 'g_strdelimit' discards 'const' qualifier from pointer target type
+  g_strdelimit (_tmp1_, _tmp2_, _tmp3_);
+  ^
+In file included from /usr/local/include/glib-2.0/glib.h:79:0,
+                 from indicator.c:31:
+/usr/local/include/glib-2.0/glib/gstrfuncs.h:103:22: note: expected 'gchar *' but argument is of type 'const gchar *'
+ gchar*               g_strdelimit     (gchar      *string,
+                      ^
+  CC       keybindingmanager.o
+  CC       panel.o
+panel.c: In function '_gtk_status_icon_position_menu_gtk_menu_position_func':
+panel.c:1158:2: warning: 'gtk_status_icon_position_menu' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:160) [-Wdeprecated-declarations]
+  gtk_status_icon_position_menu (menu, x, y, push_in, (GtkStatusIcon*) self);
+  ^
+panel.c: In function 'panel_init_status_icon':
+panel.c:1210:2: warning: 'gtk_status_icon_new' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:84) [-Wdeprecated-declarations]
+  _tmp0_ = gtk_status_icon_new ();
+  ^
+panel.c:1214:2: warning: 'gtk_status_icon_set_name' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:148) [-Wdeprecated-declarations]
+  gtk_status_icon_set_name (_tmp1_, "ibus-ui-gtk");
+  ^
+panel.c:1217:2: warning: 'gtk_status_icon_set_title' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:143) [-Wdeprecated-declarations]
+  gtk_status_icon_set_title (_tmp2_, _tmp3_);
+  ^
+panel.c:1223:2: warning: 'gtk_status_icon_set_from_icon_name' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:106) [-Wdeprecated-declarations]
+  gtk_status_icon_set_from_icon_name (_tmp6_, "ibus-keyboard");
+  ^
+panel.c: In function 'panel_init_engines_order':
+panel.c:2047:2: warning: passing argument 3 of 'g_settings_set_strv' from incompatible pointer type
+  g_settings_set_strv (_tmp28_, "preload-engines", _tmp29_);
+  ^
+In file included from /usr/local/include/glib-2.0/gio/gio.h:110:0,
+                 from ../../src/ibusproxy.h:46,
+                 from ../../src/ibus.h:35,
+                 from panel.c:29:
+/usr/local/include/glib-2.0/gio/gsettings.h:173:25: note: expected 'const gchar * const*' but argument is of type 'gchar **'
+ gboolean                g_settings_set_strv                             (GSettings          *settings,
+                         ^
+panel.c: In function 'panel_set_show_icon_on_systray':
+panel.c:2296:3: warning: 'gtk_status_icon_set_visible' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:151) [-Wdeprecated-declarations]
+   gtk_status_icon_set_visible (_tmp2_, _tmp4_);
+   ^
+panel.c: In function '__lambda31_':
+panel.c:3166:2: warning: passing argument 2 of 'ibus_bus_preload_engines_async' from incompatible pointer type
+  ibus_bus_preload_engines_async (_tmp2_, _tmp3_, -1, NULL, NULL, NULL);
+  ^
+In file included from ../../src/ibus.h:44:0,
+                 from panel.c:29:
+../../src/ibusbus.h:1132:14: note: expected 'const gchar * const*' but argument is of type 'gchar **'
+ void         ibus_bus_preload_engines_async
+              ^
+panel.c: In function 'panel_update_engines':
+panel.c:3390:9: warning: passing argument 3 of '_vala_string_array_contains' discards 'const' qualifier from pointer target type
+     if (_vala_string_array_contains (_tmp11_, _tmp11__length1, _tmp10_)) {
+         ^
+panel.c:3247:17: note: expected 'gchar *' but argument is of type 'const gchar *'
+ static gboolean _vala_string_array_contains (gchar** stack, int stack_length, gchar* needle) {
+                 ^
+panel.c:3430:9: warning: passing argument 3 of '_vala_string_array_contains' discards 'const' qualifier from pointer target type
+     if (_vala_string_array_contains (_tmp18_, _tmp18__length1, _tmp17_)) {
+         ^
+panel.c:3247:17: note: expected 'gchar *' but argument is of type 'const gchar *'
+ static gboolean _vala_string_array_contains (gchar** stack, int stack_length, gchar* needle) {
+                 ^
+panel.c:3446:22: warning: passing argument 2 of 'ibus_bus_get_engines_by_names' from incompatible pointer type
+  _tmp25_ = _tmp24_ = ibus_bus_get_engines_by_names (_tmp22_, _tmp23_);
+                      ^
+In file included from ../../src/ibus.h:44:0,
+                 from panel.c:29:
+../../src/ibusbus.h:788:14: note: expected 'const gchar * const*' but argument is of type 'gchar **'
+              ibus_bus_get_engines_by_names
+              ^
+panel.c:3473:3: warning: passing argument 3 of 'g_settings_set_strv' from incompatible pointer type
+   g_settings_set_strv (_tmp29_, "preload-engines", _tmp30_);
+   ^
+In file included from /usr/local/include/glib-2.0/gio/gio.h:110:0,
+                 from ../../src/ibusproxy.h:46,
+                 from ../../src/ibus.h:35,
+                 from panel.c:29:
+/usr/local/include/glib-2.0/gio/gsettings.h:173:25: note: expected 'const gchar * const*' but argument is of type 'gchar **'
+ gboolean                g_settings_set_strv                             (GSettings          *settings,
+                         ^
+panel.c:3477:23: warning: passing argument 2 of 'ibus_bus_get_engines_by_names' from incompatible pointer type
+   _tmp34_ = _tmp33_ = ibus_bus_get_engines_by_names (_tmp31_, _tmp32_);
+                       ^
+In file included from ../../src/ibus.h:44:0,
+                 from panel.c:29:
+../../src/ibusbus.h:788:14: note: expected 'const gchar * const*' but argument is of type 'gchar **'
+              ibus_bus_get_engines_by_names
+              ^
+panel.c: In function 'panel_show_about_dialog':
+panel.c:4084:3: warning: passing argument 2 of 'gtk_about_dialog_set_authors' from incompatible pointer type
+   gtk_about_dialog_set_authors (_tmp11_, _tmp14_);
+   ^
+In file included from /usr/local/include/gtk-3.0/gtk/gtk.h:31:0,
+                 from panel.c:31:
+/usr/local/include/gtk-3.0/gtk/gtkaboutdialog.h:175:24: note: expected 'const gchar **' but argument is of type 'gchar **'
+ void                   gtk_about_dialog_set_authors            (GtkAboutDialog  *about,
+                        ^
+panel.c:4092:3: warning: passing argument 2 of 'gtk_about_dialog_set_documenters' from incompatible pointer type
+   gtk_about_dialog_set_documenters (_tmp15_, _tmp18_);
+   ^
+In file included from /usr/local/include/gtk-3.0/gtk/gtk.h:31:0,
+                 from panel.c:31:
+/usr/local/include/gtk-3.0/gtk/gtkaboutdialog.h:180:24: note: expected 'const gchar **' but argument is of type 'gchar **'
+ void                   gtk_about_dialog_set_documenters        (GtkAboutDialog  *about,
+                        ^
+panel.c: In function '__lambda67_':
+panel.c:4569:3: warning: 'gtk_status_icon_set_from_pixbuf' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:97) [-Wdeprecated-declarations]
+   gtk_status_icon_set_from_pixbuf (_tmp3_, _tmp4_);
+   ^
+panel.c: In function 'panel_real_state_changed':
+panel.c:5184:4: warning: 'gtk_status_icon_set_from_file' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:100) [-Wdeprecated-declarations]
+    gtk_status_icon_set_from_file (_tmp18_, _tmp19_);
+    ^
+panel.c:5257:5: warning: 'gtk_status_icon_set_from_pixbuf' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:97) [-Wdeprecated-declarations]
+     gtk_status_icon_set_from_pixbuf (_tmp41_, _tmp42_);
+     ^
+panel.c:5294:4: warning: 'gtk_icon_info_free' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/gtkicontheme.h:283): Use 'g_object_unref' instead [-Wdeprecated-declarations]
+    _gtk_icon_info_free0 (_tmp53_);
+    ^
+panel.c:5303:6: warning: 'gtk_status_icon_set_from_icon_name' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:106) [-Wdeprecated-declarations]
+      gtk_status_icon_set_from_icon_name (_tmp56_, _tmp57_);
+      ^
+panel.c:5321:6: warning: 'gtk_status_icon_set_from_icon_name' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkstatusicon.h:106) [-Wdeprecated-declarations]
+      gtk_status_icon_set_from_icon_name (_tmp62_, "ibus-engine");
+      ^
+panel.c:5482:2: warning: passing argument 3 of 'g_settings_set_strv' from incompatible pointer type
+  g_settings_set_strv (_tmp101_, "engines-order", _tmp102_);
+  ^
+In file included from /usr/local/include/glib-2.0/gio/gio.h:110:0,
+                 from ../../src/ibusproxy.h:46,
+                 from ../../src/ibus.h:35,
+                 from panel.c:29:
+/usr/local/include/glib-2.0/gio/gsettings.h:173:25: note: expected 'const gchar * const*' but argument is of type 'gchar **'
+ gboolean                g_settings_set_strv                             (GSettings          *settings,
+                         ^
+  CC       pango.o
+  CC       property.o
+  CC       propertypanel.o
+  CC       separator.o
+  CC       switcher.o
+switcher.c: In function 'switcher_construct':
+switcher.c:243:2: warning: 'gtk_misc_set_padding' is deprecated (declared at /usr/local/include/gtk-3.0/gtk/deprecated/gtkmisc.h:80) [-Wdeprecated-declarations]
+  gtk_misc_set_padding ((GtkMisc*) _tmp9_, 3, 3);
+  ^
+switcher.c: In function 'g_unichar_to_string':
+switcher.c:1220:2: warning: passing argument 2 of 'g_unichar_to_utf8' discards 'const' qualifier from pointer target type
+  g_unichar_to_utf8 (self, _tmp1_);
+  ^
+In file included from /usr/local/include/glib-2.0/glib/gstring.h:33:0,
+                 from /usr/local/include/glib-2.0/glib/giochannel.h:34,
+                 from /usr/local/include/glib-2.0/glib.h:54,
+                 from switcher.c:26:
+/usr/local/include/glib-2.0/glib/gunicode.h:786:11: note: expected 'gchar *' but argument is of type 'const gchar *'
+ gint      g_unichar_to_utf8 (gunichar    c,
+           ^
+  CC       xkblayout.o
+In file included from /usr/local/include/glib-2.0/glib.h:79:0,
+                 from xkblayout.c:28:
+xkblayout.c: In function 'string_strip':
+/usr/local/include/glib-2.0/glib/gstrfuncs.h:180:42: warning: passing argument 1 of 'g_strchug' discards 'const' qualifier from pointer target type
+ #define g_strstrip( string ) g_strchomp (g_strchug (string))
+                                          ^
+xkblayout.c:267:2: note: in expansion of macro 'g_strstrip'
+  g_strstrip (_tmp1_);
+  ^
+/usr/local/include/glib-2.0/glib/gstrfuncs.h:175:23: note: expected 'gchar *' but argument is of type 'const gchar *'
+ gchar*                g_strchug        (gchar        *string);
+                       ^
+xkblayout.c: In function 'xkb_layout_set_layout':
+xkblayout.c:806:20: warning: passing argument 3 of '_vala_string_array_contains' discards 'const' qualifier from pointer target type
+   need_us_layout = _vala_string_array_contains (_tmp21_, _tmp21__length1, _tmp20_);
+                    ^
+xkblayout.c:601:17: note: expected 'gchar *' but argument is of type 'const gchar *'
+ static gboolean _vala_string_array_contains (gchar** stack, int stack_length, gchar* needle) {
+                 ^
+xkblayout.c:903:14: warning: passing argument 3 of '_vala_string_array_contains' discards 'const' qualifier from pointer target type
+   _tmp52_ = !_vala_string_array_contains (_tmp51_, _vala_array_length (_tmp49_), _tmp47_);
+              ^
+xkblayout.c:601:17: note: expected 'gchar *' but argument is of type 'const gchar *'
+ static gboolean _vala_string_array_contains (gchar** stack, int stack_length, gchar* needle) {
+                 ^
+  CC       gen-notification-item.xml.o
+  CC       gen-notification-watcher.xml.o
+  CCLD     ibus-ui-gtk3
+  GEN      gtkpanel.xml
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+Making all in bus
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+make  all-am
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+  CC       ibus_daemon-component.o
+  CC       ibus_daemon-dbusimpl.o
+  CC       ibus_daemon-ibusimpl.o
+  CC       ibus_daemon-inputcontext.o
+inputcontext.c: In function 'new_engine_cb':
+inputcontext.c:2348:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (data->simple, error);
+         ^
+inputcontext.c:2355:13: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+             g_simple_async_result_set_error (data->simple,
+             ^
+inputcontext.c:2366:13: warning: 'g_simple_async_result_set_op_res_gboolean' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:88) [-Wdeprecated-declarations]
+             g_simple_async_result_set_op_res_gboolean (data->simple, TRUE);
+             ^
+inputcontext.c:2371:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+inputcontext.c: In function 'bus_input_context_set_engine_by_desc':
+inputcontext.c:2456:13: warning: 'g_simple_async_result_new' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:51): Use 'g_task_new' instead [-Wdeprecated-declarations]
+             g_simple_async_result_new ((GObject *) context,
+             ^
+inputcontext.c:2462:9: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+         g_simple_async_result_set_error (simple,
+         ^
+inputcontext.c:2466:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (simple);
+         ^
+inputcontext.c: In function 'bus_input_context_set_engine_by_desc_finish':
+inputcontext.c:2505:5: warning: 'g_simple_async_result_get_source_tag' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:99) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_get_source_tag (simple) ==
+     ^
+inputcontext.c:2508:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+  CC       ibus_daemon-engineproxy.o
+engineproxy.c: In function 'create_engine_ready_cb':
+engineproxy.c:731:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (data->simple, error);
+         ^
+engineproxy.c:732:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (data->simple);
+         ^
+engineproxy.c:744:5: warning: 'g_simple_async_result_set_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:75) [-Wdeprecated-declarations]
+     g_simple_async_result_set_op_res_gpointer (data->simple, engine, NULL);
+     ^
+engineproxy.c:745:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+engineproxy.c: In function 'timeout_cb':
+engineproxy.c:809:5: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+     g_simple_async_result_set_error (data->simple,
+     ^
+engineproxy.c:813:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+engineproxy.c: In function 'cancelled_idle_cb':
+engineproxy.c:830:5: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+     g_simple_async_result_set_error (data->simple,
+     ^
+engineproxy.c:834:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+engineproxy.c: In function 'bus_engine_proxy_new':
+engineproxy.c:865:9: warning: 'g_simple_async_result_new' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:51): Use 'g_task_new' instead [-Wdeprecated-declarations]
+         g_simple_async_result_new (NULL,
+         ^
+engineproxy.c:871:9: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+         g_simple_async_result_set_error (simple,
+         ^
+engineproxy.c:875:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (simple);
+         ^
+engineproxy.c: In function 'bus_engine_proxy_new_finish':
+engineproxy.c:933:5: warning: 'g_simple_async_result_get_source_tag' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:99) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_get_source_tag (simple) == bus_engine_proxy_new);
+     ^
+engineproxy.c:935:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+engineproxy.c:938:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     return (BusEngineProxy *) g_simple_async_result_get_op_res_gpointer(simple);
+     ^
+  CC       ibus_daemon-panelproxy.o
+  CC       ibus_daemon-factoryproxy.o
+  CC       ibus_daemon-global.o
+  CC       ibus_daemon-server.o
+  CC       ibus_daemon-connection.o
+  CC       ibus_daemon-matchrule.o
+  CC       ibus_daemon-marshalers.o
+  CC       ibus_daemon-main.o
+  CCLD     ibus-daemon
+  CC       test_matchrule-component.o
+  CC       test_matchrule-dbusimpl.o
+  CC       test_matchrule-ibusimpl.o
+  CC       test_matchrule-inputcontext.o
+inputcontext.c: In function 'new_engine_cb':
+inputcontext.c:2348:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (data->simple, error);
+         ^
+inputcontext.c:2355:13: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+             g_simple_async_result_set_error (data->simple,
+             ^
+inputcontext.c:2366:13: warning: 'g_simple_async_result_set_op_res_gboolean' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:88) [-Wdeprecated-declarations]
+             g_simple_async_result_set_op_res_gboolean (data->simple, TRUE);
+             ^
+inputcontext.c:2371:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+inputcontext.c: In function 'bus_input_context_set_engine_by_desc':
+inputcontext.c:2456:13: warning: 'g_simple_async_result_new' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:51): Use 'g_task_new' instead [-Wdeprecated-declarations]
+             g_simple_async_result_new ((GObject *) context,
+             ^
+inputcontext.c:2462:9: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+         g_simple_async_result_set_error (simple,
+         ^
+inputcontext.c:2466:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (simple);
+         ^
+inputcontext.c: In function 'bus_input_context_set_engine_by_desc_finish':
+inputcontext.c:2505:5: warning: 'g_simple_async_result_get_source_tag' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:99) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_get_source_tag (simple) ==
+     ^
+inputcontext.c:2508:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+  CC       test_matchrule-engineproxy.o
+engineproxy.c: In function 'create_engine_ready_cb':
+engineproxy.c:731:9: warning: 'g_simple_async_result_set_from_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:113) [-Wdeprecated-declarations]
+         g_simple_async_result_set_from_error (data->simple, error);
+         ^
+engineproxy.c:732:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (data->simple);
+         ^
+engineproxy.c:744:5: warning: 'g_simple_async_result_set_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:75) [-Wdeprecated-declarations]
+     g_simple_async_result_set_op_res_gpointer (data->simple, engine, NULL);
+     ^
+engineproxy.c:745:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+engineproxy.c: In function 'timeout_cb':
+engineproxy.c:809:5: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+     g_simple_async_result_set_error (data->simple,
+     ^
+engineproxy.c:813:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+engineproxy.c: In function 'cancelled_idle_cb':
+engineproxy.c:830:5: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+     g_simple_async_result_set_error (data->simple,
+     ^
+engineproxy.c:834:5: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+     g_simple_async_result_complete_in_idle (data->simple);
+     ^
+engineproxy.c: In function 'bus_engine_proxy_new':
+engineproxy.c:865:9: warning: 'g_simple_async_result_new' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:51): Use 'g_task_new' instead [-Wdeprecated-declarations]
+         g_simple_async_result_new (NULL,
+         ^
+engineproxy.c:871:9: warning: 'g_simple_async_result_set_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:122) [-Wdeprecated-declarations]
+         g_simple_async_result_set_error (simple,
+         ^
+engineproxy.c:875:9: warning: 'g_simple_async_result_complete_in_idle' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:106) [-Wdeprecated-declarations]
+         g_simple_async_result_complete_in_idle (simple);
+         ^
+engineproxy.c: In function 'bus_engine_proxy_new_finish':
+engineproxy.c:933:5: warning: 'g_simple_async_result_get_source_tag' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:99) [-Wdeprecated-declarations]
+     g_assert (g_simple_async_result_get_source_tag (simple) == bus_engine_proxy_new);
+     ^
+engineproxy.c:935:5: warning: 'g_simple_async_result_propagate_error' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:119) [-Wdeprecated-declarations]
+     if (g_simple_async_result_propagate_error (simple, error))
+     ^
+engineproxy.c:938:5: warning: 'g_simple_async_result_get_op_res_gpointer' is deprecated (declared at /usr/local/include/glib-2.0/gio/gsimpleasyncresult.h:79) [-Wdeprecated-declarations]
+     return (BusEngineProxy *) g_simple_async_result_get_op_res_gpointer(simple);
+     ^
+  CC       test_matchrule-panelproxy.o
+  CC       test_matchrule-factoryproxy.o
+  CC       test_matchrule-global.o
+  CC       test_matchrule-server.o
+  CC       test_matchrule-connection.o
+  CC       test_matchrule-matchrule.o
+  CC       test_matchrule-marshalers.o
+  CC       test_matchrule-test-matchrule.o
+  CCLD     test-matchrule
+  CC       test_stress-test-client.o
+  CC       test_stress-test-stress.o
+  CCLD     test-stress
+  GEN      ibus-daemon.1
+  GEN      ibus-daemon.1.gz
+rm ibus-daemon.1
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+Making all in ibus
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+Making all in interface
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus/interface'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus/interface'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+Making all in setup
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/setup'
+  ITMRG  ibus-setup.desktop
+  GEN      ibus-setup.1
+  GEN      ibus-setup.1.gz
+rm ibus-setup.1
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/setup'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+make[2]: Nothing to be done for 'all-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-9mwzz2/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-9mwzz2/pkgroot/  install
+Making install in src
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+make  install-recursive
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+Making install in .
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libibus-1.0.la '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libibus-1.0.so.5.0.513 /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/libibus-1.0.so.5.0.513
+libtool: install: (cd /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib && { ln -s -f libibus-1.0.so.5.0.513 libibus-1.0.so.5 || { rm -f libibus-1.0.so.5 && ln -s libibus-1.0.so.5.0.513 libibus-1.0.so.5; }; })
+libtool: install: (cd /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib && { ln -s -f libibus-1.0.so.5.0.513 libibus-1.0.so || { rm -f libibus-1.0.so && ln -s libibus-1.0.so.5.0.513 libibus-1.0.so; }; })
+libtool: install: /usr/bin/install -c .libs/libibus-1.0.lai /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/libibus-1.0.la
+libtool: warning: remember to run 'libtool --finish /usr/local/lib'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/include/ibus-1.0'
+ /usr/bin/install -c -m 644 ibus.h ibusshare.h ibusdebug.h ibusobject.h ibusserializable.h ibusproxy.h ibusservice.h ibusfactory.h ibusengine.h ibuserror.h ibustext.h ibuskeymap.h ibusattribute.h ibusattrlist.h ibusproperty.h ibusproplist.h ibuslookuptable.h ibusinputcontext.h ibusconfig.h ibusconfigservice.h ibuspanelservice.h ibuskeysyms.h ibuskeysyms-compat.h ibuskeys.h ibustypes.h ibusbus.h ibushotkey.h ibusxml.h ibusenginedesc.h ibusobservedpath.h ibuscomponent.h ibusutil.h ibusenginesimple.h ibusregistry.h ibusenumtypes.h ibusversion.h '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/include/ibus-1.0'
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+Making install in tests
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src/tests'
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src/tests'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src/tests'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src/tests'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/src'
+Making install in bindings
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bindings'
+Making install in util
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+Making install in IMdkit
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util/IMdkit'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util/IMdkit'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util/IMdkit'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util/IMdkit'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/util'
+Making install in conf
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+Making install in dconf
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/dconf'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-dconf '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+libtool: warning: '../../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/ibus-dconf /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec/ibus-dconf
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/component'
+ /usr/bin/install -c -m 644 dconf.xml '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/component'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/dconf'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/dconf'
+Making install in memconf
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/memconf'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/memconf'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/memconf'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf/memconf'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/conf'
+Making install in client
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+Making install in gtk2
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules'
+ /bin/sh ../../libtool   --mode=install /usr/bin/install -c   im-ibus.la '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules'
+libtool: warning: relinking 'im-ibus.la'
+libtool: install: (cd /tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2; /bin/sh "/tmp/d20160302-601-9mwzz2/ibus-1.5.13/libtool"  --silent --tag CC --mode=relink gcc -std=gnu99 -pthread -I/usr/local/include/gtk-2.0 -I/usr/local/lib/gtk-2.0/include -I/usr/local/include/pango-1.0 -I/usr/local/include/gio-unix-2.0/ -I/usr/local/include -I/usr/local/include/cairo -I/usr/local/include/atk-1.0 -I/usr/local/include/cairo -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include -I/usr/local/include/gdk-pixbuf-2.0 -I/usr/local/include/libpng16 -I/usr/local/include/pango-1.0 -I/usr/local/include/harfbuzz -I/usr/local/include/pango-1.0 -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/dbus-1.0 -I/usr/local/lib/dbus-1.0/include -DG_LOG_DOMAIN=\"IBUS\" -g -O2 -avoid-version -module -o im-ibus.la -rpath /usr/local/lib/gtk-2.0/2.10.0/immodules im_ibus_la-ibusim.lo im_ibus_la-ibusimcontext.lo -L/usr/local/lib -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -lgio-2.0 -lXrender -lXinerama -lXrandr -lXcursor -lXcomposite -lXdamage -lXfixes -lX11 -lXext -latk-1.0 -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lpangoft2-1.0 -lpango-1.0 -lm -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype -L/usr/local/lib -ldbus-1 ../../src/libibus-1.0.la -inst-prefix-dir /tmp/d20160302-601-9mwzz2/pkgroot/)
+libtool: install: /usr/bin/install -c .libs/im-ibus.soT /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.so
+libtool: install: /usr/bin/install -c .libs/im-ibus.lai /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.la
+libtool: warning: remember to run 'libtool --finish /usr/local/lib/gtk-2.0/2.10.0/immodules'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk2'
+Making install in gtk3
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules'
+ /bin/sh ../../libtool   --mode=install /usr/bin/install -c   im-ibus.la '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules'
+libtool: warning: relinking 'im-ibus.la'
+libtool: install: (cd /tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3; /bin/sh "/tmp/d20160302-601-9mwzz2/ibus-1.5.13/libtool"  --silent --tag CC --mode=relink gcc -std=gnu99 -pthread -I/usr/local/include/gtk-3.0 -I/usr/local/include/at-spi2-atk/2.0 -I/usr/local/include/gtk-3.0 -I/usr/local/include/gio-unix-2.0/ -I/usr/local/include -I/usr/local/include/cairo -I/usr/local/include/pango-1.0 -I/usr/local/include/harfbuzz -I/usr/local/include/pango-1.0 -I/usr/local/include/atk-1.0 -I/usr/local/include/cairo -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include -I/usr/local/include/gdk-pixbuf-2.0 -I/usr/local/include/libpng16 -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/local/include/dbus-1.0 -I/usr/local/lib/dbus-1.0/include -DG_LOG_DOMAIN=\"IBUS\" -g -O2 -avoid-version -module -o im-ibus.la -rpath /usr/local/lib/gtk-3.0/3.0.0/immodules im_ibus_la-ibusim.lo im_ibus_la-ibusimcontext.lo -L/usr/local/lib -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpangoft2-1.0 -lpango-1.0 -lm -lfontconfig -lfreetype -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 -L/usr/local/lib -ldbus-1 ../../src/libibus-1.0.la -inst-prefix-dir /tmp/d20160302-601-9mwzz2/pkgroot/)
+libtool: install: /usr/bin/install -c .libs/im-ibus.soT /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.so
+libtool: install: /usr/bin/install -c .libs/im-ibus.lai /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.la
+libtool: warning: remember to run 'libtool --finish /usr/local/lib/gtk-3.0/3.0.0/immodules'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/gtk3'
+Making install in x11
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/x11'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/x11'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-x11 '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+libtool: warning: '../../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/ibus-x11 /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec/ibus-x11
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/x11'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client/x11'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/client'
+Making install in tools
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/tools'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/tools'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin'
+libtool: warning: '../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/ibus /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin/ibus
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/bash-completion/completions'
+ /usr/bin/install -c -m 644 ibus.bash '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/bash-completion/completions'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 ibus.1.gz '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/tools'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/tools'
+Making install in data
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+Making install in icons
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/icons'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/icons'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/16x16/apps/'
+ /usr/bin/install -c -m 644 16/ibus-keyboard.png '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/16x16/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/22x22/apps/'
+ /usr/bin/install -c -m 644 22/ibus-keyboard.png '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/22x22/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/24x24/apps/'
+ /usr/bin/install -c -m 644 24/ibus-keyboard.png '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/24x24/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/32x32/apps/'
+ /usr/bin/install -c -m 644 32/ibus-keyboard.png '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/32x32/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/48x48/apps/'
+ /usr/bin/install -c -m 644 48/ibus-keyboard.png '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/48x48/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/scalable/apps/'
+ /usr/bin/install -c -m 644 scalable/ibus.svg scalable/ibus-setup.svg scalable/ibus-engine.svg scalable/ibus-keyboard.svg '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/icons/hicolor/scalable/apps/'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/icons'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/icons'
+Making install in keymaps
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/keymaps'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/keymaps'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/keymaps'
+ /usr/bin/install -c -m 644 common modifiers us jp kr in '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/keymaps'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/keymaps'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/keymaps'
+Making install in dconf
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/etc/dconf/db/ibus.d'
+ /usr/bin/install -c -m 644 00-upstream-settings '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/etc/dconf/db/ibus.d'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/etc/dconf/profile'
+ /usr/bin/install -c -m 644 profile/ibus '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/etc/dconf/profile'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/GConf/gsettings'
+ /usr/bin/install -c -m 644 ibus.convert '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/GConf/gsettings'
+if test -n "org.freedesktop.ibus.gschema.xml"; then \
+	test -z "/usr/local/share/glib-2.0/schemas" || ../.././install-sh -c -d "/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/glib-2.0/schemas"; \
+	/usr/bin/install -c -m 644 org.freedesktop.ibus.gschema.xml "/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/glib-2.0/schemas"; \
+	test -n "/tmp/d20160302-601-9mwzz2/pkgroot/" || glib-compile-schemas /usr/local/share/glib-2.0/schemas; \
+fi
+make  install-data-hook
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+if test -z "/tmp/d20160302-601-9mwzz2/pkgroot/"; then \
+	dconf update; \
+fi
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data/dconf'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/data'
+Making install in m4
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/m4'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/m4'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/m4'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/m4'
+Making install in po
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/po'
+linguas="ar as bg bn bn_IN ca da de en_GB es et eu fa fr gu he hi hu ia it ja kn ko lv ml mr nb nl or pa pl pt_BR ru sr sr@latin ta te tg uk ur vi zh_CN zh_HK zh_TW "; \
+for lang in $linguas; do \
+  dir=/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/$lang/LC_MESSAGES; \
+  /bin/sh /tmp/d20160302-601-9mwzz2/ibus-1.5.13/install-sh -d $dir; \
+  if test -r $lang.gmo; then \
+    /usr/bin/install -c -m 644 $lang.gmo $dir/ibus10.mo; \
+    echo "installing $lang.gmo as $dir/ibus10.mo"; \
+  else \
+    /usr/bin/install -c -m 644 ./$lang.gmo $dir/ibus10.mo; \
+    echo "installing ./$lang.gmo as" \
+	 "$dir/ibus10.mo"; \
+  fi; \
+  if test -r $lang.gmo.m; then \
+    /usr/bin/install -c -m 644 $lang.gmo.m $dir/ibus10.mo.m; \
+    echo "installing $lang.gmo.m as $dir/ibus10.mo.m"; \
+  else \
+    if test -r ./$lang.gmo.m ; then \
+      /usr/bin/install -c -m 644 ./$lang.gmo.m \
+	$dir/ibus10.mo.m; \
+      echo "installing ./$lang.gmo.m as" \
+	   "$dir/ibus10.mo.m"; \
+    else \
+      true; \
+    fi; \
+  fi; \
+done
+installing ar.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ar/LC_MESSAGES/ibus10.mo
+installing as.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/as/LC_MESSAGES/ibus10.mo
+installing bg.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/bg/LC_MESSAGES/ibus10.mo
+installing bn.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/bn/LC_MESSAGES/ibus10.mo
+installing bn_IN.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/bn_IN/LC_MESSAGES/ibus10.mo
+installing ca.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ca/LC_MESSAGES/ibus10.mo
+installing da.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/da/LC_MESSAGES/ibus10.mo
+installing de.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/de/LC_MESSAGES/ibus10.mo
+installing en_GB.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/en_GB/LC_MESSAGES/ibus10.mo
+installing es.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/es/LC_MESSAGES/ibus10.mo
+installing et.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/et/LC_MESSAGES/ibus10.mo
+installing eu.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/eu/LC_MESSAGES/ibus10.mo
+installing fa.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/fa/LC_MESSAGES/ibus10.mo
+installing fr.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/fr/LC_MESSAGES/ibus10.mo
+installing gu.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/gu/LC_MESSAGES/ibus10.mo
+installing he.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/he/LC_MESSAGES/ibus10.mo
+installing hi.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/hi/LC_MESSAGES/ibus10.mo
+installing hu.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/hu/LC_MESSAGES/ibus10.mo
+installing ia.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ia/LC_MESSAGES/ibus10.mo
+installing it.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/it/LC_MESSAGES/ibus10.mo
+installing ja.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ja/LC_MESSAGES/ibus10.mo
+installing kn.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/kn/LC_MESSAGES/ibus10.mo
+installing ko.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ko/LC_MESSAGES/ibus10.mo
+installing lv.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/lv/LC_MESSAGES/ibus10.mo
+installing ml.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ml/LC_MESSAGES/ibus10.mo
+installing mr.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/mr/LC_MESSAGES/ibus10.mo
+installing nb.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/nb/LC_MESSAGES/ibus10.mo
+installing nl.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/nl/LC_MESSAGES/ibus10.mo
+installing or.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/or/LC_MESSAGES/ibus10.mo
+installing pa.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/pa/LC_MESSAGES/ibus10.mo
+installing pl.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/pl/LC_MESSAGES/ibus10.mo
+installing pt_BR.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/pt_BR/LC_MESSAGES/ibus10.mo
+installing ru.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ru/LC_MESSAGES/ibus10.mo
+installing sr.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/sr/LC_MESSAGES/ibus10.mo
+installing sr@latin.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/sr@latin/LC_MESSAGES/ibus10.mo
+installing ta.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ta/LC_MESSAGES/ibus10.mo
+installing te.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/te/LC_MESSAGES/ibus10.mo
+installing tg.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/tg/LC_MESSAGES/ibus10.mo
+installing uk.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/uk/LC_MESSAGES/ibus10.mo
+installing ur.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/ur/LC_MESSAGES/ibus10.mo
+installing vi.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/vi/LC_MESSAGES/ibus10.mo
+installing zh_CN.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/zh_CN/LC_MESSAGES/ibus10.mo
+installing zh_HK.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/zh_HK/LC_MESSAGES/ibus10.mo
+installing zh_TW.gmo as /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/locale/zh_TW/LC_MESSAGES/ibus10.mo
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/po'
+Making install in docs
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+Making install in reference
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+Making install in ibus
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference/ibus'
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference/ibus'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/install -c -m 644 ./html/IBusAttrList.html
+ /usr/bin/install -c -m 644 ./html/IBusAttribute.html
+ /usr/bin/install -c -m 644 ./html/IBusBus.html
+ /usr/bin/install -c -m 644 ./html/IBusComponent.html
+ /usr/bin/install -c -m 644 ./html/IBusConfig.html
+ /usr/bin/install -c -m 644 ./html/IBusConfigService.html
+ /usr/bin/install -c -m 644 ./html/IBusEngine.html
+ /usr/bin/install -c -m 644 ./html/IBusEngineDesc.html
+ /usr/bin/install -c -m 644 ./html/IBusEngineSimple.html
+ /usr/bin/install -c -m 644 ./html/IBusFactory.html
+ /usr/bin/install -c -m 644 ./html/IBusHotkeyProfile.html
+ /usr/bin/install -c -m 644 ./html/IBusInputContext.html
+ /usr/bin/install -c -m 644 ./html/IBusKeymap.html
+ /usr/bin/install -c -m 644 ./html/IBusLookupTable.html
+ /usr/bin/install -c -m 644 ./html/IBusObject.html
+ /usr/bin/install -c -m 644 ./html/IBusObservedPath.html
+ /usr/bin/install -c -m 644 ./html/IBusPanelService.html
+ /usr/bin/install -c -m 644 ./html/IBusPropList.html
+ /usr/bin/install -c -m 644 ./html/IBusProperty.html
+ /usr/bin/install -c -m 644 ./html/IBusProxy.html
+ /usr/bin/install -c -m 644 ./html/IBusRegistry.html
+ /usr/bin/install -c -m 644 ./html/IBusSerializable.html
+ /usr/bin/install -c -m 644 ./html/IBusService.html
+ /usr/bin/install -c -m 644 ./html/IBusText.html
+ /usr/bin/install -c -m 644 ./html/annotation-glossary.html
+ /usr/bin/install -c -m 644 ./html/api-index-deprecated.html
+ /usr/bin/install -c -m 644 ./html/api-index-full.html
+ /usr/bin/install -c -m 644 ./html/ch01.html
+ /usr/bin/install -c -m 644 ./html/ch02.html
+ /usr/bin/install -c -m 644 ./html/ch03.html
+ /usr/bin/install -c -m 644 ./html/ch04.html
+ /usr/bin/install -c -m 644 ./html/ch05.html
+ /usr/bin/install -c -m 644 ./html/ch06.html
+ /usr/bin/install -c -m 644 ./html/home.png
+ /usr/bin/install -c -m 644 ./html/ibus-IBusKeysyms.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibusdebug.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibuserror.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibuskeys.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibuskeysyms-compat.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibusshare.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibustypes.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibusutil.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibusversion.html
+ /usr/bin/install -c -m 644 ./html/ibus-ibusxml.html
+ /usr/bin/install -c -m 644 ./html/ibus.devhelp2
+ /usr/bin/install -c -m 644 ./html/index.html
+ /usr/bin/install -c -m 644 ./html/index.sgml
+ /usr/bin/install -c -m 644 ./html/left-insensitive.png
+ /usr/bin/install -c -m 644 ./html/left.png
+ /usr/bin/install -c -m 644 ./html/right-insensitive.png
+ /usr/bin/install -c -m 644 ./html/right.png
+ /usr/bin/install -c -m 644 ./html/style.css
+ /usr/bin/install -c -m 644 ./html/up-insensitive.png
+ /usr/bin/install -c -m 644 ./html/up.png
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference/ibus'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference/ibus'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[4]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs/reference'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/docs'
+Making install in engine
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/engine'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/engine'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus-engine-simple '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+libtool: warning: '../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/ibus-engine-simple /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec/ibus-engine-simple
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/component'
+ /usr/bin/install -c -m 644 simple.xml '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/component'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/engine'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/engine'
+Making install in ui
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+Making install in gtk3
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui/gtk3'
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-ui-gtk3 '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec'
+libtool: warning: '../../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/ibus-ui-gtk3 /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/libexec/ibus-ui-gtk3
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/component'
+ /usr/bin/install -c -m 644 gtkpanel.xml '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/component'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui/gtk3'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui/gtk3'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ui'
+Making install in bus
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+make  install-am
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus-daemon '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin'
+libtool: warning: '../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/ibus-daemon /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin/ibus-daemon
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 ibus-daemon.1.gz '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/man/man1'
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/bus'
+Making install in ibus
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+Making install in interface
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus/interface'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus/interface'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../.././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/python3.4/site-packages/ibus/interface'
+ /usr/bin/install -c -m 644 iconfig.py ienginefactory.py iengine.py iibus.py iinputcontext.py ipanel.py inotifications.py __init__.py '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/python3.4/site-packages/ibus/interface'
+Byte-compiling python modules...
+iconfig.pyienginefactory.pyiengine.pyiibus.pyiinputcontext.pyipanel.pyinotifications.py__init__.py
+Byte-compiling python modules (optimized versions) ...
+iconfig.pyienginefactory.pyiengine.pyiibus.pyiinputcontext.pyipanel.pyinotifications.py__init__.py
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus/interface'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus/interface'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+make[3]: Nothing to be done for 'install-exec-am'.
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+ /usr/bin/install -c -m 644 ascii.py application.py attribute.py common.py bus.py inputcontext.py engine.py exception.py factory.py _gtk.py __init__.py keysyms.py lang.py lookuptable.py modifier.py object.py panel.py notifications.py property.py serializable.py text.py component.py enginedesc.py observedpath.py utility.py config.py '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+Byte-compiling python modules...
+ascii.pyapplication.pyattribute.pycommon.pybus.py  File "/usr/local/lib/python3.4/site-packages/ibus/bus.py", line 77
+    print "Signal %s" % message.get_member()
+                    ^
+SyntaxError: invalid syntax
+
+inputcontext.py  File "/usr/local/lib/python3.4/site-packages/ibus/inputcontext.py", line 289
+    print self.__bus.get_name()
+             ^
+SyntaxError: invalid syntax
+
+engine.pyexception.pyfactory.py_gtk.py__init__.pykeysyms.pylang.py  File "/usr/local/lib/python3.4/site-packages/ibus/lang.py", line 75
+    print get_language_name("mai")
+                          ^
+SyntaxError: invalid syntax
+
+lookuptable.pymodifier.pyobject.pypanel.py  File "/usr/local/lib/python3.4/site-packages/ibus/panel.py", line 271
+    print "focus-in:", ic
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+notifications.pyproperty.py  File "/usr/local/lib/python3.4/site-packages/ibus/property.py", line 242
+    print props
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+serializable.pytext.pycomponent.pyenginedesc.pyobservedpath.pyutility.pyconfig.py
+Byte-compiling python modules (optimized versions) ...
+ascii.pyapplication.pyattribute.pycommon.pybus.pyinputcontext.pyengine.pyexception.pyfactory.py_gtk.py__init__.pykeysyms.pylang.pylookuptable.pymodifier.pyobject.pypanel.pynotifications.pyproperty.pyserializable.pytext.pycomponent.pyenginedesc.pyobservedpath.pyutility.pyconfig.py
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+ /usr/bin/install -c -m 644 _config.py '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+Byte-compiling python modules...
+_config.py
+Byte-compiling python modules (optimized versions) ...
+_config.py
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/ibus'
+Making install in setup
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/setup'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/setup'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin'
+ /usr/bin/install -c ibus-setup '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/bin'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/applications'
+ /usr/bin/install -c -m 644 ibus-setup.desktop '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/applications'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/setup'
+ /usr/bin/install -c -m 644 setup.ui '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/setup'
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/setup'
+ /usr/bin/install -c -m 644 main.py i18n.py icon.py enginecombobox.py enginedialog.py enginetreeview.py engineabout.py keyboardshortcut.py '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/setup'
+Byte-compiling python modules...
+main.pyi18n.pyicon.pyenginecombobox.pyenginedialog.pyenginetreeview.pyengineabout.pykeyboardshortcut.py
+Byte-compiling python modules (optimized versions) ...
+main.pyi18n.pyicon.pyenginecombobox.pyenginedialog.pyenginetreeview.pyengineabout.pykeyboardshortcut.py
+ .././install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 ibus-setup.1.gz '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/setup'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13/setup'
+make[1]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+make[2]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+make[2]: Nothing to be done for 'install-exec-am'.
+ ./install-sh -c -d '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/pkgconfig'
+ /usr/bin/install -c -m 644 ibus-1.0.pc '/tmp/d20160302-601-9mwzz2/pkgroot//usr/local/lib/pkgconfig'
+make  install-data-hook
+make[3]: Entering directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+./install-sh -c -d /tmp/d20160302-601-9mwzz2/pkgroot//usr/local/share/ibus/engine
+make[3]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+make[2]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+make[1]: Leaving directory '/tmp/d20160302-601-9mwzz2/ibus-1.5.13'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-9mwzz2/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/bin
+[32mTCZBUILD[0m: rm -rf usr/local/sbin
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.so*
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-9mwzz2/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+9,12d8
+< ./usr/local/bin
+< ./usr/local/bin/ibus-daemon
+< ./usr/local/bin/ibus-setup
+< ./usr/local/bin/ibus
+277,282d272
+< ./usr/local/share/ibus/engine
+< ./usr/local/share/man
+< ./usr/local/share/man/man1
+< ./usr/local/share/man/man1/ibus.1.gz
+< ./usr/local/share/man/man1/ibus-setup.1.gz
+< ./usr/local/share/man/man1/ibus-daemon.1.gz
+337,338d326
+< ./usr/local/lib/libibus-1.0.so.5.0.513
+< ./usr/local/lib/libibus-1.0.so
+445d432
+< ./usr/local/lib/libibus-1.0.so.5
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/libexec
+usr/local/libexec/ibus-dconf
+usr/local/libexec/ibus-ui-gtk3
+usr/local/libexec/ibus-x11
+usr/local/libexec/ibus-engine-simple
+usr/local/share
+usr/local/share/locale
+usr/local/share/locale/de
+usr/local/share/locale/de/LC_MESSAGES
+usr/local/share/locale/de/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ta
+usr/local/share/locale/ta/LC_MESSAGES
+usr/local/share/locale/ta/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/sr
+usr/local/share/locale/sr/LC_MESSAGES
+usr/local/share/locale/sr/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ur
+usr/local/share/locale/ur/LC_MESSAGES
+usr/local/share/locale/ur/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/zh_TW
+usr/local/share/locale/zh_TW/LC_MESSAGES
+usr/local/share/locale/zh_TW/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/or
+usr/local/share/locale/or/LC_MESSAGES
+usr/local/share/locale/or/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/bn_IN
+usr/local/share/locale/bn_IN/LC_MESSAGES
+usr/local/share/locale/bn_IN/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ca
+usr/local/share/locale/ca/LC_MESSAGES
+usr/local/share/locale/ca/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/es
+usr/local/share/locale/es/LC_MESSAGES
+usr/local/share/locale/es/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/vi
+usr/local/share/locale/vi/LC_MESSAGES
+usr/local/share/locale/vi/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/zh_HK
+usr/local/share/locale/zh_HK/LC_MESSAGES
+usr/local/share/locale/zh_HK/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/lv
+usr/local/share/locale/lv/LC_MESSAGES
+usr/local/share/locale/lv/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/as
+usr/local/share/locale/as/LC_MESSAGES
+usr/local/share/locale/as/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ko
+usr/local/share/locale/ko/LC_MESSAGES
+usr/local/share/locale/ko/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/en_GB
+usr/local/share/locale/en_GB/LC_MESSAGES
+usr/local/share/locale/en_GB/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/gu
+usr/local/share/locale/gu/LC_MESSAGES
+usr/local/share/locale/gu/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ar
+usr/local/share/locale/ar/LC_MESSAGES
+usr/local/share/locale/ar/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/he
+usr/local/share/locale/he/LC_MESSAGES
+usr/local/share/locale/he/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/bn
+usr/local/share/locale/bn/LC_MESSAGES
+usr/local/share/locale/bn/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/fr
+usr/local/share/locale/fr/LC_MESSAGES
+usr/local/share/locale/fr/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/fa
+usr/local/share/locale/fa/LC_MESSAGES
+usr/local/share/locale/fa/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ia
+usr/local/share/locale/ia/LC_MESSAGES
+usr/local/share/locale/ia/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/kn
+usr/local/share/locale/kn/LC_MESSAGES
+usr/local/share/locale/kn/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/sr@latin
+usr/local/share/locale/sr@latin/LC_MESSAGES
+usr/local/share/locale/sr@latin/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/zh_CN
+usr/local/share/locale/zh_CN/LC_MESSAGES
+usr/local/share/locale/zh_CN/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/pa
+usr/local/share/locale/pa/LC_MESSAGES
+usr/local/share/locale/pa/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/nb
+usr/local/share/locale/nb/LC_MESSAGES
+usr/local/share/locale/nb/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/uk
+usr/local/share/locale/uk/LC_MESSAGES
+usr/local/share/locale/uk/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/te
+usr/local/share/locale/te/LC_MESSAGES
+usr/local/share/locale/te/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/tg
+usr/local/share/locale/tg/LC_MESSAGES
+usr/local/share/locale/tg/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/hi
+usr/local/share/locale/hi/LC_MESSAGES
+usr/local/share/locale/hi/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/mr
+usr/local/share/locale/mr/LC_MESSAGES
+usr/local/share/locale/mr/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/pt_BR
+usr/local/share/locale/pt_BR/LC_MESSAGES
+usr/local/share/locale/pt_BR/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/et
+usr/local/share/locale/et/LC_MESSAGES
+usr/local/share/locale/et/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/pl
+usr/local/share/locale/pl/LC_MESSAGES
+usr/local/share/locale/pl/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/nl
+usr/local/share/locale/nl/LC_MESSAGES
+usr/local/share/locale/nl/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ja
+usr/local/share/locale/ja/LC_MESSAGES
+usr/local/share/locale/ja/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/bg
+usr/local/share/locale/bg/LC_MESSAGES
+usr/local/share/locale/bg/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ml
+usr/local/share/locale/ml/LC_MESSAGES
+usr/local/share/locale/ml/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/da
+usr/local/share/locale/da/LC_MESSAGES
+usr/local/share/locale/da/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/eu
+usr/local/share/locale/eu/LC_MESSAGES
+usr/local/share/locale/eu/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/it
+usr/local/share/locale/it/LC_MESSAGES
+usr/local/share/locale/it/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/ru
+usr/local/share/locale/ru/LC_MESSAGES
+usr/local/share/locale/ru/LC_MESSAGES/ibus10.mo
+usr/local/share/locale/hu
+usr/local/share/locale/hu/LC_MESSAGES
+usr/local/share/locale/hu/LC_MESSAGES/ibus10.mo
+usr/local/share/GConf
+usr/local/share/GConf/gsettings
+usr/local/share/GConf/gsettings/ibus.convert
+usr/local/share/icons
+usr/local/share/icons/hicolor
+usr/local/share/icons/hicolor/32x32
+usr/local/share/icons/hicolor/32x32/apps
+usr/local/share/icons/hicolor/32x32/apps/ibus-keyboard.png
+usr/local/share/icons/hicolor/48x48
+usr/local/share/icons/hicolor/48x48/apps
+usr/local/share/icons/hicolor/48x48/apps/ibus-keyboard.png
+usr/local/share/icons/hicolor/24x24
+usr/local/share/icons/hicolor/24x24/apps
+usr/local/share/icons/hicolor/24x24/apps/ibus-keyboard.png
+usr/local/share/icons/hicolor/scalable
+usr/local/share/icons/hicolor/scalable/apps
+usr/local/share/icons/hicolor/scalable/apps/ibus-keyboard.svg
+usr/local/share/icons/hicolor/scalable/apps/ibus.svg
+usr/local/share/icons/hicolor/scalable/apps/ibus-setup.svg
+usr/local/share/icons/hicolor/scalable/apps/ibus-engine.svg
+usr/local/share/icons/hicolor/22x22
+usr/local/share/icons/hicolor/22x22/apps
+usr/local/share/icons/hicolor/22x22/apps/ibus-keyboard.png
+usr/local/share/icons/hicolor/16x16
+usr/local/share/icons/hicolor/16x16/apps
+usr/local/share/icons/hicolor/16x16/apps/ibus-keyboard.png
+usr/local/share/bash-completion
+usr/local/share/bash-completion/completions
+usr/local/share/bash-completion/completions/ibus.bash
+usr/local/share/glib-2.0
+usr/local/share/glib-2.0/schemas
+usr/local/share/glib-2.0/schemas/org.freedesktop.ibus.gschema.xml
+usr/local/share/gtk-doc
+usr/local/share/gtk-doc/html
+usr/local/share/gtk-doc/html/ibus
+usr/local/share/gtk-doc/html/ibus/ibus-ibuserror.html
+usr/local/share/gtk-doc/html/ibus/index.sgml
+usr/local/share/gtk-doc/html/ibus/IBusHotkeyProfile.html
+usr/local/share/gtk-doc/html/ibus/ibus-IBusKeysyms.html
+usr/local/share/gtk-doc/html/ibus/api-index-deprecated.html
+usr/local/share/gtk-doc/html/ibus/IBusAttribute.html
+usr/local/share/gtk-doc/html/ibus/IBusEngineDesc.html
+usr/local/share/gtk-doc/html/ibus/IBusAttrList.html
+usr/local/share/gtk-doc/html/ibus/annotation-glossary.html
+usr/local/share/gtk-doc/html/ibus/ch02.html
+usr/local/share/gtk-doc/html/ibus/IBusInputContext.html
+usr/local/share/gtk-doc/html/ibus/IBusConfig.html
+usr/local/share/gtk-doc/html/ibus/style.css
+usr/local/share/gtk-doc/html/ibus/ibus-ibusutil.html
+usr/local/share/gtk-doc/html/ibus/left.png
+usr/local/share/gtk-doc/html/ibus/ibus.devhelp2
+usr/local/share/gtk-doc/html/ibus/IBusService.html
+usr/local/share/gtk-doc/html/ibus/IBusSerializable.html
+usr/local/share/gtk-doc/html/ibus/api-index-full.html
+usr/local/share/gtk-doc/html/ibus/up-insensitive.png
+usr/local/share/gtk-doc/html/ibus/ch04.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibuskeys.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibuskeysyms-compat.html
+usr/local/share/gtk-doc/html/ibus/IBusEngine.html
+usr/local/share/gtk-doc/html/ibus/IBusProxy.html
+usr/local/share/gtk-doc/html/ibus/IBusBus.html
+usr/local/share/gtk-doc/html/ibus/ch03.html
+usr/local/share/gtk-doc/html/ibus/index.html
+usr/local/share/gtk-doc/html/ibus/IBusRegistry.html
+usr/local/share/gtk-doc/html/ibus/up.png
+usr/local/share/gtk-doc/html/ibus/IBusComponent.html
+usr/local/share/gtk-doc/html/ibus/right.png
+usr/local/share/gtk-doc/html/ibus/IBusEngineSimple.html
+usr/local/share/gtk-doc/html/ibus/IBusPanelService.html
+usr/local/share/gtk-doc/html/ibus/IBusFactory.html
+usr/local/share/gtk-doc/html/ibus/IBusPropList.html
+usr/local/share/gtk-doc/html/ibus/IBusKeymap.html
+usr/local/share/gtk-doc/html/ibus/ch06.html
+usr/local/share/gtk-doc/html/ibus/IBusLookupTable.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibustypes.html
+usr/local/share/gtk-doc/html/ibus/IBusProperty.html
+usr/local/share/gtk-doc/html/ibus/IBusObject.html
+usr/local/share/gtk-doc/html/ibus/ch01.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibusxml.html
+usr/local/share/gtk-doc/html/ibus/right-insensitive.png
+usr/local/share/gtk-doc/html/ibus/IBusText.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibusshare.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibusversion.html
+usr/local/share/gtk-doc/html/ibus/ibus-ibusdebug.html
+usr/local/share/gtk-doc/html/ibus/home.png
+usr/local/share/gtk-doc/html/ibus/IBusConfigService.html
+usr/local/share/gtk-doc/html/ibus/left-insensitive.png
+usr/local/share/gtk-doc/html/ibus/ch05.html
+usr/local/share/gtk-doc/html/ibus/IBusObservedPath.html
+usr/local/share/applications
+usr/local/share/applications/ibus-setup.desktop
+usr/local/share/ibus
+usr/local/share/ibus/setup
+usr/local/share/ibus/setup/enginetreeview.py
+usr/local/share/ibus/setup/setup.ui
+usr/local/share/ibus/setup/enginedialog.py
+usr/local/share/ibus/setup/engineabout.py
+usr/local/share/ibus/setup/__pycache__
+usr/local/share/ibus/setup/__pycache__/enginecombobox.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/keyboardshortcut.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/engineabout.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/main.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/icon.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/enginedialog.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/engineabout.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/enginedialog.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/icon.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/i18n.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/enginecombobox.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/enginetreeview.cpython-34.pyc
+usr/local/share/ibus/setup/__pycache__/main.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/enginetreeview.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/i18n.cpython-34.pyo
+usr/local/share/ibus/setup/__pycache__/keyboardshortcut.cpython-34.pyc
+usr/local/share/ibus/setup/i18n.py
+usr/local/share/ibus/setup/icon.py
+usr/local/share/ibus/setup/keyboardshortcut.py
+usr/local/share/ibus/setup/enginecombobox.py
+usr/local/share/ibus/setup/main.py
+usr/local/share/ibus/keymaps
+usr/local/share/ibus/keymaps/jp
+usr/local/share/ibus/keymaps/modifiers
+usr/local/share/ibus/keymaps/in
+usr/local/share/ibus/keymaps/kr
+usr/local/share/ibus/keymaps/common
+usr/local/share/ibus/keymaps/us
+usr/local/share/ibus/component
+usr/local/share/ibus/component/dconf.xml
+usr/local/share/ibus/component/gtkpanel.xml
+usr/local/share/ibus/component/simple.xml
+usr/local/etc
+usr/local/etc/dconf
+usr/local/etc/dconf/profile
+usr/local/etc/dconf/profile/ibus
+usr/local/etc/dconf/db
+usr/local/etc/dconf/db/ibus.d
+usr/local/etc/dconf/db/ibus.d/00-upstream-settings
+usr/local/include
+usr/local/include/ibus-1.0
+usr/local/include/ibus-1.0/ibustypes.h
+usr/local/include/ibus-1.0/ibuserror.h
+usr/local/include/ibus-1.0/ibusobservedpath.h
+usr/local/include/ibus-1.0/ibusproplist.h
+usr/local/include/ibus-1.0/ibuspanelservice.h
+usr/local/include/ibus-1.0/ibusfactory.h
+usr/local/include/ibus-1.0/ibusconfig.h
+usr/local/include/ibus-1.0/ibuskeys.h
+usr/local/include/ibus-1.0/ibuscomponent.h
+usr/local/include/ibus-1.0/ibusxml.h
+usr/local/include/ibus-1.0/ibuskeysyms-compat.h
+usr/local/include/ibus-1.0/ibusinputcontext.h
+usr/local/include/ibus-1.0/ibushotkey.h
+usr/local/include/ibus-1.0/ibustext.h
+usr/local/include/ibus-1.0/ibusutil.h
+usr/local/include/ibus-1.0/ibusproxy.h
+usr/local/include/ibus-1.0/ibusbus.h
+usr/local/include/ibus-1.0/ibusconfigservice.h
+usr/local/include/ibus-1.0/ibus.h
+usr/local/include/ibus-1.0/ibusregistry.h
+usr/local/include/ibus-1.0/ibusversion.h
+usr/local/include/ibus-1.0/ibusproperty.h
+usr/local/include/ibus-1.0/ibusshare.h
+usr/local/include/ibus-1.0/ibusservice.h
+usr/local/include/ibus-1.0/ibusenumtypes.h
+usr/local/include/ibus-1.0/ibusenginesimple.h
+usr/local/include/ibus-1.0/ibusengine.h
+usr/local/include/ibus-1.0/ibuskeysyms.h
+usr/local/include/ibus-1.0/ibusattribute.h
+usr/local/include/ibus-1.0/ibuskeymap.h
+usr/local/include/ibus-1.0/ibusobject.h
+usr/local/include/ibus-1.0/ibuslookuptable.h
+usr/local/include/ibus-1.0/ibusattrlist.h
+usr/local/include/ibus-1.0/ibusserializable.h
+usr/local/include/ibus-1.0/ibusenginedesc.h
+usr/local/include/ibus-1.0/ibusdebug.h
+usr/local/lib
+usr/local/lib/libibus-1.0.la
+usr/local/lib/pkgconfig
+usr/local/lib/pkgconfig/ibus-1.0.pc
+usr/local/lib/gtk-2.0
+usr/local/lib/gtk-2.0/2.10.0
+usr/local/lib/gtk-2.0/2.10.0/immodules
+usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.la
+usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.so
+usr/local/lib/python3.4
+usr/local/lib/python3.4/site-packages
+usr/local/lib/python3.4/site-packages/ibus
+usr/local/lib/python3.4/site-packages/ibus/common.py
+usr/local/lib/python3.4/site-packages/ibus/serializable.py
+usr/local/lib/python3.4/site-packages/ibus/engine.py
+usr/local/lib/python3.4/site-packages/ibus/enginedesc.py
+usr/local/lib/python3.4/site-packages/ibus/observedpath.py
+usr/local/lib/python3.4/site-packages/ibus/lookuptable.py
+usr/local/lib/python3.4/site-packages/ibus/interface
+usr/local/lib/python3.4/site-packages/ibus/interface/iengine.py
+usr/local/lib/python3.4/site-packages/ibus/interface/iconfig.py
+usr/local/lib/python3.4/site-packages/ibus/interface/iinputcontext.py
+usr/local/lib/python3.4/site-packages/ibus/interface/iibus.py
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/__init__.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iconfig.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iinputcontext.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iengine.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iengine.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/ipanel.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iconfig.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/ipanel.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iinputcontext.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/ienginefactory.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/ienginefactory.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/inotifications.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/inotifications.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iibus.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/iibus.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/interface/__pycache__/__init__.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/interface/ienginefactory.py
+usr/local/lib/python3.4/site-packages/ibus/interface/ipanel.py
+usr/local/lib/python3.4/site-packages/ibus/interface/inotifications.py
+usr/local/lib/python3.4/site-packages/ibus/interface/__init__.py
+usr/local/lib/python3.4/site-packages/ibus/property.py
+usr/local/lib/python3.4/site-packages/ibus/keysyms.py
+usr/local/lib/python3.4/site-packages/ibus/lang.py
+usr/local/lib/python3.4/site-packages/ibus/text.py
+usr/local/lib/python3.4/site-packages/ibus/utility.py
+usr/local/lib/python3.4/site-packages/ibus/panel.py
+usr/local/lib/python3.4/site-packages/ibus/component.py
+usr/local/lib/python3.4/site-packages/ibus/__pycache__
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/config.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/factory.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/__init__.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/text.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/_config.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/component.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/object.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/notifications.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/factory.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/exception.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/serializable.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/ascii.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/exception.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/_config.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/utility.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/application.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/text.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/attribute.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/engine.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/_gtk.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/config.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/observedpath.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/utility.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/application.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/enginedesc.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/component.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/lookuptable.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/modifier.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/keysyms.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/keysyms.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/attribute.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/lookuptable.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/notifications.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/enginedesc.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/observedpath.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/common.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/engine.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/modifier.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/_gtk.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/object.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/__init__.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/ascii.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/common.cpython-34.pyo
+usr/local/lib/python3.4/site-packages/ibus/__pycache__/serializable.cpython-34.pyc
+usr/local/lib/python3.4/site-packages/ibus/exception.py
+usr/local/lib/python3.4/site-packages/ibus/application.py
+usr/local/lib/python3.4/site-packages/ibus/config.py
+usr/local/lib/python3.4/site-packages/ibus/_gtk.py
+usr/local/lib/python3.4/site-packages/ibus/ascii.py
+usr/local/lib/python3.4/site-packages/ibus/bus.py
+usr/local/lib/python3.4/site-packages/ibus/modifier.py
+usr/local/lib/python3.4/site-packages/ibus/factory.py
+usr/local/lib/python3.4/site-packages/ibus/inputcontext.py
+usr/local/lib/python3.4/site-packages/ibus/_config.py
+usr/local/lib/python3.4/site-packages/ibus/object.py
+usr/local/lib/python3.4/site-packages/ibus/attribute.py
+usr/local/lib/python3.4/site-packages/ibus/notifications.py
+usr/local/lib/python3.4/site-packages/ibus/__init__.py
+usr/local/lib/gtk-3.0
+usr/local/lib/gtk-3.0/3.0.0
+usr/local/lib/gtk-3.0/3.0.0/immodules
+usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.la
+usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.so
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_ibus-dev.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_ibus-dev.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-9mwzz2/pkgroot/ mypkgs_im_ibus-dev.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_ibus-dev.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 1999.91 Kbytes (1.95 Mbytes)
+	23.71% of uncompressed filesystem size (8435.99 Kbytes)
+Inode table size 8176 bytes (7.98 Kbytes)
+	36.50% of uncompressed inode table size (22398 bytes)
+Directory table size 3930 bytes (3.84 Kbytes)
+	36.97% of uncompressed directory table size (10631 bytes)
+Number of duplicate files found 38
+Number of inodes 432
+Number of files 288
+Number of fragments 61
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 144
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_ibus-dev.tcz > mypkgs_im_ibus-dev.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_ibus-dev.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_ibus-dev.tcz
+-rw-r--r--    1 tc       staff       2.0M Mar  2 02:09 [0;0mmypkgs_im_ibus-dev.tcz[0m

@@ -224,7 +224,8 @@ def buildpkg(pkg)
             sh -c ' \
               tce-load -w ruby-2.2 && \
               tce-load -ic ruby-2.2 && \
-              /work/#{pkg}.pkg #{option}'
+              /work/#{pkg}.pkg #{option}' | \
+      tee #{OUTPUT_DIR}/#{pkg.gsub("/","_")}.tcz.log
   EOL
 end
 

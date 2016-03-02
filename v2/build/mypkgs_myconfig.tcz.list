@@ -1,0 +1,7 @@
+usr
+usr/local
+usr/local/etc
+usr/local/etc/acpi
+usr/local/etc/acpi/handler.sh
+usr/local/etc/acpi/events
+usr/local/etc/acpi/events/anything

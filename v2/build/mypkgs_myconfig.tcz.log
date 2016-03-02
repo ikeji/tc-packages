@@ -1,0 +1,299 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1tx1te2/pkgroot/
+[32mTCZBUILD[0m: cp -r /work/mypkgs/configs/* /tmp/d20160302-601-1tx1te2/pkgroot/
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/etc
+usr/local/etc/acpi
+usr/local/etc/acpi/handler.sh
+usr/local/etc/acpi/events
+usr/local/etc/acpi/events/anything
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_myconfig.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_myconfig.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1tx1te2/pkgroot/ mypkgs_myconfig.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_myconfig.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 0.61 Kbytes (0.00 Mbytes)
+	60.47% of uncompressed filesystem size (1.01 Kbytes)
+Inode table size 102 bytes (0.10 Kbytes)
+	39.53% of uncompressed inode table size (258 bytes)
+Directory table size 113 bytes (0.11 Kbytes)
+	66.86% of uncompressed directory table size (169 bytes)
+Number of duplicate files found 0
+Number of inodes 8
+Number of files 2
+Number of fragments 1
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 6
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_myconfig.tcz > mypkgs_myconfig.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_myconfig.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_myconfig.tcz
+-rw-r--r--    1 tc       staff       4.0K Mar  2 02:33 [0;0mmypkgs_myconfig.tcz[0m

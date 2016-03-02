@@ -1,0 +1,27 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='scim-anthy-1.2.7'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'libtool-dev',
+]
+load_dependency_local [
+  'mypkgs_im_scim-dev',
+  'mypkgs_im_anthy-dev',
+]
+fetch_distfiles BALL, 'https://osdn.jp/frs/redir.php?m=gigenet&f=%2Fscim-imengine%2F37309%2Fscim-anthy-1.2.7.tar.gz'
+md5sum BALL, '8d06bfd46839c771401b9f176be8818f'
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ 
+  'mypkgs_im_scim',
+  'mypkgs_im_anthy',
+ ]

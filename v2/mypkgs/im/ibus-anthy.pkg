@@ -1,0 +1,31 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='ibus-anthy-1.5.8'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'intltool',
+  'python3',
+  'glibmm-dev',
+  'gobject-introspection-dev',
+  'pygobject',
+]
+load_dependency_local [
+  'mypkgs_im_ibus-dev',
+  'mypkgs_im_anthy-dev',
+]
+fetch_distfiles BALL, "https://github.com/ibu/ibus-anthy/releases/download/1.5.8/#{BALL}"
+md5sum BALL, '57e156f8fa58de814a42c547b11c0049'
+
+unpack BALL
+configure PKG
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ 
+  'mypkgs_im_ibus',
+  'mypkgs_im_anthy',
+]

@@ -1,0 +1,7 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+exec_wrap "mkdir -p #{PREPARE_ROOT}"
+exec_wrap "cp -r #{PKGDIR}/configs/* #{PREPARE_ROOT}"
+makepkg
+makedep [ ]
