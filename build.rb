@@ -58,4 +58,23 @@ buildpkg "mypkgs/im/skkinput3"
 buildpkg "mypkgs/9p"
 buildpkg "mypkgs/b43"
 
+buildpkg "mypkgs/dwm.pkg"
+buildpkg "mypkgs/dmenu.pkg"
+buildpkg "mypkgs/zsh.pkg"
+buildpkg "mypkgs/RictyDiminished.pkg"
+buildpkg "mypkgs/myconfig.pkg"
+buildpkg "mypkgs/vim.pkg"
+buildpkg "mypkgs/im/ecm-dev.pkg"
+buildpkg "mypkgs/im/ecm.pkg"
+
+buildpkg "mypkgs/im/ibus.pkg"
+buildpkg "mypkgs/im/ibus-dev.pkg"
+buildpkg "mypkgs/im/ibus-anthy.pkg" # depends ibus-dev and anthy-dev
+
+buildpkg "mypkgs/im/scim.pkg"
+buildpkg "mypkgs/im/scim-dev.pkg"
+buildpkg "mypkgs/im/scim-anthy.pkg" # depends ibus-dev and anthy-dev
+
+buildpkg "mypkgs/im/yaskkserv.pkg"
+
 buildpack
