@@ -1,1 +1,1 @@
-dd18fc468fbd3734d9600dd1555f8495  mypkgs_gnupg_pth.tcz
+aff3829996919fd2b2f2fbf1af619df9  mypkgs_gnupg_pth.tcz

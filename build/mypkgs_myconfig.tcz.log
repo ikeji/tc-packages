@@ -252,8 +252,8 @@ created 0 symlinks
 created 0 devices
 created 0 fifos
 ruby-2.2.tcz: OK
-[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1tx1te2/pkgroot/
-[32mTCZBUILD[0m: cp -r /work/mypkgs/configs/* /tmp/d20160302-601-1tx1te2/pkgroot/
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1y4rx3g/pkgroot/
+[32mTCZBUILD[0m: cp -r /work/mypkgs/configs/* /tmp/d20160302-601-1y4rx3g/pkgroot/
 [32mTCZBUILD[0m: List of files we pack.
 [32mTCZBUILD[0m: find *
 usr
@@ -265,7 +265,7 @@ usr/local/etc/acpi/events
 usr/local/etc/acpi/events/anything
 [32mTCZBUILD[0m: find * > /work//build//mypkgs_myconfig.tcz.list
 [32mTCZBUILD[0m: rm -f mypkgs_myconfig.tcz
-[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1tx1te2/pkgroot/ mypkgs_myconfig.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1y4rx3g/pkgroot/ mypkgs_myconfig.tcz
 Parallel mksquashfs: Using 8 processors
 Creating 4.0 filesystem on mypkgs_myconfig.tcz, block size 4096.
 
@@ -296,4 +296,4 @@ Number of gids 1
 [32mTCZBUILD[0m: md5sum mypkgs_myconfig.tcz > mypkgs_myconfig.tcz.md5.txt
 [32mTCZBUILD[0m: gererated mypkgs_myconfig.tcz
 [32mTCZBUILD[0m: ls -lh mypkgs_myconfig.tcz
--rw-r--r--    1 tc       staff       4.0K Mar  2 02:33 [0;0mmypkgs_myconfig.tcz[0m
+-rw-r--r--    1 tc       staff       4.0K Mar  2 11:32 [0;0mmypkgs_myconfig.tcz[0m

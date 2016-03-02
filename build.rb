@@ -58,23 +58,24 @@ buildpkg "mypkgs/im/skkinput3"
 buildpkg "mypkgs/9p"
 buildpkg "mypkgs/b43"
 
-buildpkg "mypkgs/dwm.pkg"
-buildpkg "mypkgs/dmenu.pkg"
-buildpkg "mypkgs/zsh.pkg"
-buildpkg "mypkgs/RictyDiminished.pkg"
-buildpkg "mypkgs/myconfig.pkg"
-buildpkg "mypkgs/vim.pkg"
-buildpkg "mypkgs/im/ecm-dev.pkg"
-buildpkg "mypkgs/im/ecm.pkg"
+buildpkg "mypkgs/dwm"
+buildpkg "mypkgs/dmenu"
+buildpkg "mypkgs/zsh"
+buildpkg "mypkgs/RictyDiminished"
+buildpkg "mypkgs/myconfig"
+buildpkg "mypkgs/vim"
+buildpkg "mypkgs/im/ecm-dev"
+buildpkg "mypkgs/im/ecm"
 
-buildpkg "mypkgs/im/ibus.pkg"
-buildpkg "mypkgs/im/ibus-dev.pkg"
-buildpkg "mypkgs/im/ibus-anthy.pkg" # depends ibus-dev and anthy-dev
+buildpkg "mypkgs/im/ibus"
+buildpkg "mypkgs/im/ibus-dev"
+# broken!
+#buildpkg "mypkgs/im/ibus-anthy" # depends ibus-dev and anthy-dev
 
-buildpkg "mypkgs/im/scim.pkg"
-buildpkg "mypkgs/im/scim-dev.pkg"
-buildpkg "mypkgs/im/scim-anthy.pkg" # depends ibus-dev and anthy-dev
+buildpkg "mypkgs/im/scim"
+buildpkg "mypkgs/im/scim-dev"
+buildpkg "mypkgs/im/scim-anthy" # depends ibus-dev and anthy-dev
 
-buildpkg "mypkgs/im/yaskkserv.pkg"
+buildpkg "mypkgs/im/yaskkserv"
 
 buildpack

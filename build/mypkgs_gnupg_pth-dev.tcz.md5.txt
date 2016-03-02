@@ -1,1 +1,1 @@
-67d1d4da0dca519300b72f5613575469  mypkgs_gnupg_pth-dev.tcz
+dc9e0dafadb82dfd2c92df67b439de1d  mypkgs_gnupg_pth-dev.tcz

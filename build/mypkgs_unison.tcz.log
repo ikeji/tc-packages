@@ -1,0 +1,1793 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make bash emacs.minimal
+compiletc is already downloaded.
+make is already downloaded.
+bash is already downloaded.
+emacs.minimal is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make bash emacs.minimal | tee /tmp/d20160302-601-vgmxbb/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (138 blocks) to write
+
+[===============================================================|] 138/138 100%
+
+created 5 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bash.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (38 blocks) to write
+
+[=================================================================|] 38/38 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+liblzma.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (317 blocks) to write
+
+[===============================================================|] 317/317 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxml2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1701 inodes (14493 blocks) to write
+
+[===========================================================/] 14493/14493 100%
+
+created 1700 files
+created 43 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+emacs.minimal.tcz: OK
+[32mTCZBUILD[0m: tce-load -ic mypkgs_ocaml | tee /tmp/d20160302-601-vgmxbb/stdout
+Parallel unsquashfs: Using 8 processors
+1033 inodes (25288 blocks) to write
+
+[===========================================================/] 25288/25288 100%
+
+created 1033 files
+created 13 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_ocaml.tcz: OK
+unison-2.48.3.tar.gz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//unison-2.48.3.tar.gz
+unison-2.48.3/
+unison-2.48.3/.depend
+unison-2.48.3/abort.ml
+unison-2.48.3/abort.mli
+unison-2.48.3/BUGS.txt
+unison-2.48.3/bytearray.ml
+unison-2.48.3/bytearray.mli
+unison-2.48.3/bytearray_stubs.c
+unison-2.48.3/case.ml
+unison-2.48.3/case.mli
+unison-2.48.3/checksum.ml
+unison-2.48.3/checksum.mli
+unison-2.48.3/clroot.ml
+unison-2.48.3/clroot.mli
+unison-2.48.3/common.ml
+unison-2.48.3/common.mli
+unison-2.48.3/CONTRIB
+unison-2.48.3/copy.ml
+unison-2.48.3/copy.mli
+unison-2.48.3/COPYING
+unison-2.48.3/external.ml
+unison-2.48.3/external.mli
+unison-2.48.3/fileinfo.ml
+unison-2.48.3/fileinfo.mli
+unison-2.48.3/files.ml
+unison-2.48.3/files.mli
+unison-2.48.3/fileutil.ml
+unison-2.48.3/fileutil.mli
+unison-2.48.3/fingerprint.ml
+unison-2.48.3/fingerprint.mli
+unison-2.48.3/fpcache.ml
+unison-2.48.3/fpcache.mli
+unison-2.48.3/fs.ml
+unison-2.48.3/fs.mli
+unison-2.48.3/fsmonitor/
+unison-2.48.3/fsmonitor.py
+unison-2.48.3/fspath.ml
+unison-2.48.3/fspath.mli
+unison-2.48.3/fswatch.ml
+unison-2.48.3/fswatch.mli
+unison-2.48.3/fswatchold.ml
+unison-2.48.3/fswatchold.mli
+unison-2.48.3/globals.ml
+unison-2.48.3/globals.mli
+unison-2.48.3/INSTALL
+unison-2.48.3/INSTALL.gtk2
+unison-2.48.3/INSTALL.win32
+unison-2.48.3/INSTALL.win32-cygwin-gnuc
+unison-2.48.3/INSTALL.win32-msvc
+unison-2.48.3/linkgtk.ml
+unison-2.48.3/linkgtk2.ml
+unison-2.48.3/linktext.ml
+unison-2.48.3/lock.ml
+unison-2.48.3/lock.mli
+unison-2.48.3/lwt/
+unison-2.48.3/main.ml
+unison-2.48.3/Makefile
+unison-2.48.3/Makefile.OCaml
+unison-2.48.3/mkProjectInfo.ml
+unison-2.48.3/name.ml
+unison-2.48.3/name.mli
+unison-2.48.3/NEWS
+unison-2.48.3/os.ml
+unison-2.48.3/os.mli
+unison-2.48.3/osx.ml
+unison-2.48.3/osx.mli
+unison-2.48.3/osxsupport.c
+unison-2.48.3/path.ml
+unison-2.48.3/path.mli
+unison-2.48.3/pixmaps.ml
+unison-2.48.3/pred.ml
+unison-2.48.3/pred.mli
+unison-2.48.3/props.ml
+unison-2.48.3/props.mli
+unison-2.48.3/pty.c
+unison-2.48.3/README
+unison-2.48.3/recon.ml
+unison-2.48.3/recon.mli
+unison-2.48.3/remote.ml
+unison-2.48.3/remote.mli
+unison-2.48.3/ROADMAP.txt
+unison-2.48.3/sortri.ml
+unison-2.48.3/sortri.mli
+unison-2.48.3/stasher.ml
+unison-2.48.3/stasher.mli
+unison-2.48.3/strings.ml
+unison-2.48.3/strings.mli
+unison-2.48.3/system/
+unison-2.48.3/system.ml
+unison-2.48.3/system.mli
+unison-2.48.3/terminal.ml
+unison-2.48.3/terminal.mli
+unison-2.48.3/test.ml
+unison-2.48.3/test.mli
+unison-2.48.3/TODO.txt
+unison-2.48.3/transfer.ml
+unison-2.48.3/transfer.mli
+unison-2.48.3/transport.ml
+unison-2.48.3/transport.mli
+unison-2.48.3/tree.ml
+unison-2.48.3/tree.mli
+unison-2.48.3/ubase/
+unison-2.48.3/ui.mli
+unison-2.48.3/uicommon.ml
+unison-2.48.3/uicommon.mli
+unison-2.48.3/uigtk2.ml
+unison-2.48.3/uigtk2.mli
+unison-2.48.3/uimac14/
+unison-2.48.3/uimacbridge.ml
+unison-2.48.3/uimacbridgenew.ml
+unison-2.48.3/uimacnew/
+unison-2.48.3/uitext.ml
+unison-2.48.3/uitext.mli
+unison-2.48.3/unicode.ml
+unison-2.48.3/unicode.mli
+unison-2.48.3/unicode_tables.ml
+unison-2.48.3/unison.hgr
+unison-2.48.3/update.ml
+unison-2.48.3/update.mli
+unison-2.48.3/uutil.ml
+unison-2.48.3/uutil.mli
+unison-2.48.3/win32rc/
+unison-2.48.3/winmain.c
+unison-2.48.3/xferhint.ml
+unison-2.48.3/xferhint.mli
+unison-2.48.3/win32rc/U.ico
+unison-2.48.3/win32rc/unison.rc
+unison-2.48.3/win32rc/unison.res
+unison-2.48.3/win32rc/unison.res.lib
+unison-2.48.3/uimacnew/Bridge.h
+unison-2.48.3/uimacnew/Bridge.m
+unison-2.48.3/uimacnew/cltool.c
+unison-2.48.3/uimacnew/English.lproj/
+unison-2.48.3/uimacnew/Growl.framework/
+unison-2.48.3/uimacnew/ImageAndTextCell.h
+unison-2.48.3/uimacnew/ImageAndTextCell.m
+unison-2.48.3/uimacnew/Info.plist
+unison-2.48.3/uimacnew/Info.plist.template
+unison-2.48.3/uimacnew/main.m
+unison-2.48.3/uimacnew/MyController.h
+unison-2.48.3/uimacnew/MyController.m
+unison-2.48.3/uimacnew/NotificationController.h
+unison-2.48.3/uimacnew/NotificationController.m
+unison-2.48.3/uimacnew/PreferencesController.h
+unison-2.48.3/uimacnew/PreferencesController.m
+unison-2.48.3/uimacnew/ProfileController.h
+unison-2.48.3/uimacnew/ProfileController.m
+unison-2.48.3/uimacnew/ProfileTableView.h
+unison-2.48.3/uimacnew/ProfileTableView.m
+unison-2.48.3/uimacnew/ProgressCell.h
+unison-2.48.3/uimacnew/ProgressCell.m
+unison-2.48.3/uimacnew/progressicons/
+unison-2.48.3/uimacnew/ReconItem.h
+unison-2.48.3/uimacnew/ReconItem.m
+unison-2.48.3/uimacnew/ReconTableView.h
+unison-2.48.3/uimacnew/ReconTableView.m
+unison-2.48.3/uimacnew/tableicons/
+unison-2.48.3/uimacnew/toolbar/
+unison-2.48.3/uimacnew/TrevorsUnison.icns
+unison-2.48.3/uimacnew/uimacnew.xcodeproj/
+unison-2.48.3/uimacnew/Unison.icns
+unison-2.48.3/uimacnew/UnisonToolbar.h
+unison-2.48.3/uimacnew/UnisonToolbar.m
+unison-2.48.3/uimacnew/uimacnew.xcodeproj/project.pbxproj
+unison-2.48.3/uimacnew/toolbar/add.tif
+unison-2.48.3/uimacnew/toolbar/diff.tif
+unison-2.48.3/uimacnew/toolbar/go.tif
+unison-2.48.3/uimacnew/toolbar/left.tif
+unison-2.48.3/uimacnew/toolbar/merge.tif
+unison-2.48.3/uimacnew/toolbar/quit.tif
+unison-2.48.3/uimacnew/toolbar/rescan.tif
+unison-2.48.3/uimacnew/toolbar/restart.tif
+unison-2.48.3/uimacnew/toolbar/right.tif
+unison-2.48.3/uimacnew/toolbar/save.tif
+unison-2.48.3/uimacnew/toolbar/skip.tif
+unison-2.48.3/uimacnew/tableicons/Change_Absent.png
+unison-2.48.3/uimacnew/tableicons/Change_Created.png
+unison-2.48.3/uimacnew/tableicons/Change_Deleted.png
+unison-2.48.3/uimacnew/tableicons/Change_Modified.png
+unison-2.48.3/uimacnew/tableicons/Change_PropsChanged.png
+unison-2.48.3/uimacnew/tableicons/Change_Unmodified.png
+unison-2.48.3/uimacnew/tableicons/Outline-Deep.png
+unison-2.48.3/uimacnew/tableicons/Outline-Flat.png
+unison-2.48.3/uimacnew/tableicons/Outline-Flattened.png
+unison-2.48.3/uimacnew/tableicons/table-conflict.tif
+unison-2.48.3/uimacnew/tableicons/table-error.tif
+unison-2.48.3/uimacnew/tableicons/table-left-blue.tif
+unison-2.48.3/uimacnew/tableicons/table-left-green.tif
+unison-2.48.3/uimacnew/tableicons/table-merge.tif
+unison-2.48.3/uimacnew/tableicons/table-mixed.tif
+unison-2.48.3/uimacnew/tableicons/table-right-blue.tif
+unison-2.48.3/uimacnew/tableicons/table-right-green.tif
+unison-2.48.3/uimacnew/tableicons/table-skip.tif
+unison-2.48.3/uimacnew/progressicons/ProgressBarAdvanced.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarBlue.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarEndAdvanced.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarEndBlue.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarEndGray.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarEndGreen.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarEndWhite.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarGray.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarGreen.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarLightGreen.png
+unison-2.48.3/uimacnew/progressicons/ProgressBarWhite.png
+unison-2.48.3/uimacnew/Growl.framework/Growl
+unison-2.48.3/uimacnew/Growl.framework/Headers
+unison-2.48.3/uimacnew/Growl.framework/Resources
+unison-2.48.3/uimacnew/Growl.framework/Versions/
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/
+unison-2.48.3/uimacnew/Growl.framework/Versions/Current
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Growl
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Headers/
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Resources/
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Resources/Info.plist
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Headers/Growl.h
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Headers/GrowlApplicationBridge-Carbon.h
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Headers/GrowlApplicationBridge.h
+unison-2.48.3/uimacnew/Growl.framework/Versions/A/Headers/GrowlDefines.h
+unison-2.48.3/uimacnew/English.lproj/InfoPlist.strings
+unison-2.48.3/uimacnew/English.lproj/MainMenu.nib/
+unison-2.48.3/uimacnew/English.lproj/MainMenu.nib/classes.nib
+unison-2.48.3/uimacnew/English.lproj/MainMenu.nib/info.nib
+unison-2.48.3/uimacnew/English.lproj/MainMenu.nib/keyedobjects.nib
+unison-2.48.3/uimacnew/English.lproj/MainMenu.nib/objects.nib
+unison-2.48.3/uimac14/Bridge.h
+unison-2.48.3/uimac14/Bridge.m
+unison-2.48.3/uimac14/cltool.c
+unison-2.48.3/uimac14/ColorGradientView.h
+unison-2.48.3/uimac14/ColorGradientView.m
+unison-2.48.3/uimac14/English.lproj/
+unison-2.48.3/uimac14/Frameworks/
+unison-2.48.3/uimac14/ImageAndTextCell.h
+unison-2.48.3/uimac14/ImageAndTextCell.m
+unison-2.48.3/uimac14/Info.plist
+unison-2.48.3/uimac14/Info.plist.template
+unison-2.48.3/uimac14/main.m
+unison-2.48.3/uimac14/MyController.h
+unison-2.48.3/uimac14/MyController.m
+unison-2.48.3/uimac14/NotificationController.h
+unison-2.48.3/uimac14/NotificationController.m
+unison-2.48.3/uimac14/PreferencesController.h
+unison-2.48.3/uimac14/PreferencesController.m
+unison-2.48.3/uimac14/ProfileController.h
+unison-2.48.3/uimac14/ProfileController.m
+unison-2.48.3/uimac14/ProfileTableView.h
+unison-2.48.3/uimac14/ProfileTableView.m
+unison-2.48.3/uimac14/ProgressCell.h
+unison-2.48.3/uimac14/ProgressCell.m
+unison-2.48.3/uimac14/progressicons/
+unison-2.48.3/uimac14/ReconItem.h
+unison-2.48.3/uimac14/ReconItem.m
+unison-2.48.3/uimac14/ReconTableView.h
+unison-2.48.3/uimac14/ReconTableView.m
+unison-2.48.3/uimac14/ssselectabletoolbar/
+unison-2.48.3/uimac14/tableicons/
+unison-2.48.3/uimac14/toolbar/
+unison-2.48.3/uimac14/TrevorsUnison.icns
+unison-2.48.3/uimac14/uimacnew.xcodeproj/
+unison-2.48.3/uimac14/Unison.icns
+unison-2.48.3/uimac14/UnisonToolbar.h
+unison-2.48.3/uimac14/UnisonToolbar.m
+unison-2.48.3/uimac14/uimacnew.xcodeproj/project.pbxproj
+unison-2.48.3/uimac14/toolbar/add.tif
+unison-2.48.3/uimac14/toolbar/diff.tif
+unison-2.48.3/uimac14/toolbar/go.tif
+unison-2.48.3/uimac14/toolbar/left.tif
+unison-2.48.3/uimac14/toolbar/merge.tif
+unison-2.48.3/uimac14/toolbar/quit.tif
+unison-2.48.3/uimac14/toolbar/rescan.tif
+unison-2.48.3/uimac14/toolbar/restart.tif
+unison-2.48.3/uimac14/toolbar/right.tif
+unison-2.48.3/uimac14/toolbar/save.tif
+unison-2.48.3/uimac14/toolbar/skip.tif
+unison-2.48.3/uimac14/tableicons/Change_Absent.png
+unison-2.48.3/uimac14/tableicons/Change_Created.png
+unison-2.48.3/uimac14/tableicons/Change_Deleted.png
+unison-2.48.3/uimac14/tableicons/Change_Modified.png
+unison-2.48.3/uimac14/tableicons/Change_PropsChanged.png
+unison-2.48.3/uimac14/tableicons/Change_Unmodified.png
+unison-2.48.3/uimac14/tableicons/Outline-Deep.png
+unison-2.48.3/uimac14/tableicons/Outline-Flat.png
+unison-2.48.3/uimac14/tableicons/Outline-Flattened.png
+unison-2.48.3/uimac14/tableicons/table-conflict.tif
+unison-2.48.3/uimac14/tableicons/table-error.tif
+unison-2.48.3/uimac14/tableicons/table-left-blue.tif
+unison-2.48.3/uimac14/tableicons/table-left-green.tif
+unison-2.48.3/uimac14/tableicons/table-merge.tif
+unison-2.48.3/uimac14/tableicons/table-mixed.tif
+unison-2.48.3/uimac14/tableicons/table-right-blue.tif
+unison-2.48.3/uimac14/tableicons/table-right-green.tif
+unison-2.48.3/uimac14/tableicons/table-skip.tif
+unison-2.48.3/uimac14/ssselectabletoolbar/README
+unison-2.48.3/uimac14/ssselectabletoolbar/SSSelectableToolbar.h
+unison-2.48.3/uimac14/ssselectabletoolbar/SSSelectableToolbar.m
+unison-2.48.3/uimac14/ssselectabletoolbar/SSSelectableToolbarItem.h
+unison-2.48.3/uimac14/ssselectabletoolbar/SSSelectableToolbarItem.m
+unison-2.48.3/uimac14/progressicons/ProgressBarAdvanced.png
+unison-2.48.3/uimac14/progressicons/ProgressBarBlue.png
+unison-2.48.3/uimac14/progressicons/ProgressBarEndAdvanced.png
+unison-2.48.3/uimac14/progressicons/ProgressBarEndBlue.png
+unison-2.48.3/uimac14/progressicons/ProgressBarEndGray.png
+unison-2.48.3/uimac14/progressicons/ProgressBarEndGreen.png
+unison-2.48.3/uimac14/progressicons/ProgressBarEndWhite.png
+unison-2.48.3/uimac14/progressicons/ProgressBarGray.png
+unison-2.48.3/uimac14/progressicons/ProgressBarGreen.png
+unison-2.48.3/uimac14/progressicons/ProgressBarLightGreen.png
+unison-2.48.3/uimac14/progressicons/ProgressBarWhite.png
+unison-2.48.3/uimac14/Frameworks/Growl.framework/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Growl
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Headers/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Resources/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Growl
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Headers/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Resources/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Resources/Info.plist
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Headers/Growl.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Headers/GrowlApplicationBridge-Carbon.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Headers/GrowlApplicationBridge.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/Current/Headers/GrowlDefines.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Growl
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Headers/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Resources/
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Resources/Info.plist
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Headers/Growl.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Headers/GrowlApplicationBridge-Carbon.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Headers/GrowlApplicationBridge.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Versions/A/Headers/GrowlDefines.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Resources/Info.plist
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Headers/Growl.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Headers/GrowlApplicationBridge-Carbon.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Headers/GrowlApplicationBridge.h
+unison-2.48.3/uimac14/Frameworks/Growl.framework/Headers/GrowlDefines.h
+unison-2.48.3/uimac14/English.lproj/InfoPlist.strings
+unison-2.48.3/uimac14/English.lproj/MainMenu.xib
+unison-2.48.3/ubase/depend
+unison-2.48.3/ubase/Makefile
+unison-2.48.3/ubase/META
+unison-2.48.3/ubase/myMap.ml
+unison-2.48.3/ubase/myMap.mli
+unison-2.48.3/ubase/prefs.ml
+unison-2.48.3/ubase/prefs.mli
+unison-2.48.3/ubase/proplist.ml
+unison-2.48.3/ubase/proplist.mli
+unison-2.48.3/ubase/rx.ml
+unison-2.48.3/ubase/rx.mli
+unison-2.48.3/ubase/safelist.ml
+unison-2.48.3/ubase/safelist.mli
+unison-2.48.3/ubase/trace.ml
+unison-2.48.3/ubase/trace.mli
+unison-2.48.3/ubase/uarg.ml
+unison-2.48.3/ubase/uarg.mli
+unison-2.48.3/ubase/util.ml
+unison-2.48.3/ubase/util.mli
+unison-2.48.3/system/generic/
+unison-2.48.3/system/system_generic.ml
+unison-2.48.3/system/system_intf.ml
+unison-2.48.3/system/system_win.ml
+unison-2.48.3/system/system_win_stubs.c
+unison-2.48.3/system/win/
+unison-2.48.3/system/win/system_impl.ml
+unison-2.48.3/system/generic/system_impl.ml
+unison-2.48.3/lwt/depend
+unison-2.48.3/lwt/example/
+unison-2.48.3/lwt/generic/
+unison-2.48.3/lwt/lwt.ml
+unison-2.48.3/lwt/lwt.mli
+unison-2.48.3/lwt/lwt_unix.ml
+unison-2.48.3/lwt/lwt_unix.mli
+unison-2.48.3/lwt/lwt_unix_stubs.c
+unison-2.48.3/lwt/lwt_util.ml
+unison-2.48.3/lwt/lwt_util.mli
+unison-2.48.3/lwt/Makefile
+unison-2.48.3/lwt/META
+unison-2.48.3/lwt/pqueue.ml
+unison-2.48.3/lwt/pqueue.mli
+unison-2.48.3/lwt/win/
+unison-2.48.3/lwt/win/lwt_unix_impl.ml
+unison-2.48.3/lwt/win/lwt_win.ml
+unison-2.48.3/lwt/win/lwt_win.mli
+unison-2.48.3/lwt/generic/lwt_unix_impl.ml
+unison-2.48.3/lwt/example/editor.ml
+unison-2.48.3/lwt/example/Makefile
+unison-2.48.3/lwt/example/relay.ml
+unison-2.48.3/fsmonitor/linux/
+unison-2.48.3/fsmonitor/watchercommon.ml
+unison-2.48.3/fsmonitor/watchercommon.mli
+unison-2.48.3/fsmonitor/windows/
+unison-2.48.3/fsmonitor/windows/Makefile
+unison-2.48.3/fsmonitor/windows/shortnames.ml
+unison-2.48.3/fsmonitor/windows/shortnames.mli
+unison-2.48.3/fsmonitor/windows/shortnames_stubs.c
+unison-2.48.3/fsmonitor/windows/watcher.ml
+unison-2.48.3/fsmonitor/linux/inotify.ml
+unison-2.48.3/fsmonitor/linux/inotify.mli
+unison-2.48.3/fsmonitor/linux/inotify_stubs.c
+unison-2.48.3/fsmonitor/linux/lwt_inotify.ml
+unison-2.48.3/fsmonitor/linux/lwt_inotify.mli
+unison-2.48.3/fsmonitor/linux/Makefile
+unison-2.48.3/fsmonitor/linux/watcher.ml
+[32mTCZBUILD[0m: make 
+ocamlc -o mkProjectInfo unix.cma str.cma mkProjectInfo.ml
+./mkProjectInfo > Makefile.ProjectInfo
+UISTYLE = text
+Building for Unix
+NATIVE = true
+THREADS = false
+STATIC = false
+OSTYPE =
+OSARCH = Linux
+ocamlopt: ubase/rx.mli ---> ubase/rx.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/rx.mli
+ocamlopt: ubase/rx.ml ---> ubase/rx.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/rx.ml
+ocamlopt: unicode_tables.ml ---> unicode_tables.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode_tables.ml
+ocamlopt: unicode.mli ---> unicode.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.mli
+ocamlopt: unicode.ml ---> unicode.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml", line 25, characters 16-33:
+Warning 3: deprecated: String.unsafe_set
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml", line 933, characters 11-24:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml", line 1030, characters 11-24:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml", line 1587, characters 19-30:
+Warning 3: deprecated: String.copy
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml", line 1756, characters 11-24:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/unicode.ml", line 1816, characters 11-24:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: bytearray.mli ---> bytearray.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/bytearray.mli
+ocamlopt: bytearray.ml ---> bytearray.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/bytearray.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/bytearray.ml", line 47, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/bytearray.ml", line 63, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: system/system_generic.ml ---> system/system_generic.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/system/system_generic.ml
+ocamlopt: system/generic/system_impl.ml ---> system/generic/system_impl.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/system/generic/system_impl.ml
+ocamlc: system/system_intf.ml ---> system/system_intf.cmo
+ocamlc -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/system/system_intf.ml
+ocamlopt: system.mli ---> system.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/system.mli
+ocamlopt: system.ml ---> system.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/system.ml
+echo 'let myName = "'unison'";;' > ubase/projectInfo.ml
+echo 'let myVersion = "'2.48.3'";;' >> ubase/projectInfo.ml
+echo 'let myMajorVersion = "'2.48'";;' >> ubase/projectInfo.ml
+ocamlopt: ubase/projectInfo.ml ---> ubase/projectInfo.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/projectInfo.ml
+ocamlopt: ubase/myMap.mli ---> ubase/myMap.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/myMap.mli
+ocamlopt: ubase/myMap.ml ---> ubase/myMap.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/myMap.ml
+ocamlopt: ubase/safelist.mli ---> ubase/safelist.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/safelist.mli
+ocamlopt: ubase/safelist.ml ---> ubase/safelist.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/safelist.ml
+ocamlopt: ubase/util.mli ---> ubase/util.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/util.mli
+ocamlopt: ubase/util.ml ---> ubase/util.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/util.ml
+ocamlopt: ubase/uarg.mli ---> ubase/uarg.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/uarg.mli
+ocamlopt: ubase/uarg.ml ---> ubase/uarg.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/uarg.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/uarg.ml", line 71, characters 29-30:
+Warning 3: deprecated: Pervasives.&
+Use (&&) instead.
+ocamlopt: ubase/prefs.mli ---> ubase/prefs.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/prefs.mli
+ocamlopt: ubase/prefs.ml ---> ubase/prefs.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/prefs.ml
+ocamlopt: ubase/trace.mli ---> ubase/trace.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/trace.mli
+ocamlopt: ubase/trace.ml ---> ubase/trace.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/trace.ml
+ocamlopt: ubase/proplist.mli ---> ubase/proplist.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/proplist.mli
+ocamlopt: ubase/proplist.ml ---> ubase/proplist.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/proplist.ml
+ocamlopt: lwt/pqueue.mli ---> lwt/pqueue.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/pqueue.mli
+ocamlopt: lwt/pqueue.ml ---> lwt/pqueue.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/pqueue.ml
+ocamlopt: lwt/lwt.mli ---> lwt/lwt.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/lwt.mli
+ocamlopt: lwt/lwt.ml ---> lwt/lwt.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/lwt.ml
+ocamlopt: lwt/lwt_util.mli ---> lwt/lwt_util.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/lwt_util.mli
+ocamlopt: lwt/lwt_util.ml ---> lwt/lwt_util.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/lwt_util.ml
+ocamlopt: lwt/generic/lwt_unix_impl.ml ---> lwt/generic/lwt_unix_impl.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/generic/lwt_unix_impl.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/generic/lwt_unix_impl.ml", line 372, characters 17-30:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/generic/lwt_unix_impl.ml", line 376, characters 19-32:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/generic/lwt_unix_impl.ml", line 384, characters 6-22:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/generic/lwt_unix_impl.ml", line 398, characters 17-30:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: lwt/lwt_unix.mli ---> lwt/lwt_unix.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/lwt_unix.mli
+ocamlopt: lwt/lwt_unix.ml ---> lwt/lwt_unix.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lwt/lwt_unix.ml
+ocamlopt: uutil.mli ---> uutil.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uutil.mli
+ocamlopt: uutil.ml ---> uutil.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uutil.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uutil.ml", line 116, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: case.mli ---> case.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/case.mli
+ocamlopt: case.ml ---> case.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/case.ml
+ocamlopt: pred.mli ---> pred.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/pred.mli
+ocamlopt: pred.ml ---> pred.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/pred.ml
+ocamlopt: fileutil.mli ---> fileutil.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fileutil.mli
+ocamlopt: fileutil.ml ---> fileutil.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fileutil.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fileutil.ml", line 24, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fileutil.ml", line 28, characters 11-21:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fileutil.ml", line 29, characters 11-21:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: name.mli ---> name.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/name.mli
+ocamlopt: name.ml ---> name.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/name.ml
+ocamlopt: path.mli ---> path.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/path.mli
+ocamlopt: path.ml ---> path.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml", line 33, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml", line 35, characters 2-30:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml", line 204, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: fspath.mli ---> fspath.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.mli
+ocamlopt: fspath.ml ---> fspath.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 58, characters 18-20:
+Warning 3: deprecated: Pervasives.or
+Use (||) instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 95, characters 14-27:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 97, characters 4-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 98, characters 4-22:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 195, characters 14-27:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 197, characters 6-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: fs.mli ---> fs.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fs.mli
+ocamlopt: fs.ml ---> fs.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fs.ml
+ocamlopt: fingerprint.mli ---> fingerprint.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.mli
+ocamlopt: fingerprint.ml ---> fingerprint.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml", line 78, characters 17-30:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml", line 81, characters 6-24:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml", line 82, characters 6-28:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: abort.mli ---> abort.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/abort.mli
+ocamlopt: abort.ml ---> abort.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/abort.ml
+ocamlopt: osx.mli ---> osx.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.mli
+ocamlopt: osx.ml ---> osx.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 111, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 113, characters 4-128:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 129, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 227, characters 2-55:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 270, characters 31-44:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: external.mli ---> external.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/external.mli
+ocamlopt: external.ml ---> external.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/external.ml
+ocamlopt: fswatch.mli ---> fswatch.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.mli
+ocamlopt: fswatch.ml ---> fswatch.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 113, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 119, characters 8-21:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 120, characters 8-45:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 121, characters 8-47:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 124, characters 8-19:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 143, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 148, characters 8-77:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 151, characters 8-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 192, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: props.mli ---> props.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/props.mli
+ocamlopt: props.ml ---> props.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/props.ml
+ocamlopt: fileinfo.mli ---> fileinfo.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fileinfo.mli
+ocamlopt: fileinfo.ml ---> fileinfo.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fileinfo.ml
+ocamlopt: os.mli ---> os.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/os.mli
+ocamlopt: os.ml ---> os.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/os.ml
+ocamlopt: lock.mli ---> lock.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lock.mli
+ocamlopt: lock.ml ---> lock.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lock.ml
+ocamlopt: clroot.mli ---> clroot.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/clroot.mli
+ocamlopt: clroot.ml ---> clroot.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/clroot.ml
+ocamlopt: common.mli ---> common.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/common.mli
+ocamlopt: common.ml ---> common.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/common.ml
+ocamlopt: tree.mli ---> tree.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/tree.mli
+ocamlopt: tree.ml ---> tree.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/tree.ml
+ocamlopt: checksum.mli ---> checksum.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/checksum.mli
+ocamlopt: checksum.ml ---> checksum.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/checksum.ml
+ocamlopt: terminal.mli ---> terminal.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/terminal.mli
+ocamlopt: terminal.ml ---> terminal.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/terminal.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/terminal.ml", line 225, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/terminal.ml", line 247, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: transfer.mli ---> transfer.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.mli
+ocamlopt: transfer.ml ---> transfer.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 264, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 376, characters 17-30:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 457, characters 21-34:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 550, characters 6-62:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 715, characters 19-32:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: xferhint.mli ---> xferhint.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/xferhint.mli
+ocamlopt: xferhint.ml ---> xferhint.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/xferhint.ml
+ocamlopt: remote.mli ---> remote.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/remote.mli
+ocamlopt: remote.ml ---> remote.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/remote.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/remote.ml", line 128, characters 27-40:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: globals.mli ---> globals.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/globals.mli
+ocamlopt: globals.ml ---> globals.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/globals.ml
+ocamlopt: fswatchold.mli ---> fswatchold.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatchold.mli
+ocamlopt: fswatchold.ml ---> fswatchold.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatchold.ml
+ocamlopt: fpcache.mli ---> fpcache.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.mli
+ocamlopt: fpcache.ml ---> fpcache.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml", line 53, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml", line 77, characters 15-28:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml", line 84, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: update.mli ---> update.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/update.mli
+ocamlopt: update.ml ---> update.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/update.ml
+ocamlopt: copy.mli ---> copy.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/copy.mli
+ocamlopt: copy.ml ---> copy.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/copy.ml
+ocamlopt: stasher.mli ---> stasher.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/stasher.mli
+ocamlopt: stasher.ml ---> stasher.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/stasher.ml
+ocamlopt: files.mli ---> files.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/files.mli
+ocamlopt: files.ml ---> files.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/files.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/files.ml", line 725, characters 2-11:
+Warning 3: deprecated: Sort.list
+Use List.sort instead.
+ocamlopt: sortri.mli ---> sortri.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/sortri.mli
+ocamlopt: sortri.ml ---> sortri.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/sortri.ml
+ocamlopt: recon.mli ---> recon.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/recon.mli
+ocamlopt: recon.ml ---> recon.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/recon.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/recon.ml", line 654, characters 2-11:
+Warning 3: deprecated: Sort.list
+Use List.sort instead.
+ocamlopt: transport.mli ---> transport.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/transport.mli
+ocamlopt: transport.ml ---> transport.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/transport.ml
+ocamlopt: strings.mli ---> strings.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/strings.mli
+ocamlopt: strings.ml ---> strings.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/strings.ml
+ocamlopt: uicommon.mli ---> uicommon.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.mli
+ocamlopt: uicommon.ml ---> uicommon.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 362, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 367, characters 8-26:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 367, characters 28-47:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 369, characters 8-23:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: uitext.mli ---> uitext.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uitext.mli
+ocamlopt: uitext.ml ---> uitext.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uitext.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uitext.ml", line 113, characters 16-29:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: test.mli ---> test.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/test.mli
+ocamlopt: test.ml ---> test.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/test.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/test.ml", line 51, characters 15-28:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: main.ml ---> main.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/main.ml
+ocamlopt: linktext.ml ---> linktext.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/linktext.ml
+ocamlopt: osxsupport.c ---> osxsupport.o
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -ccopt "-o "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osxsupport.o -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/osxsupport.c
+ocamlopt: pty.c ---> pty.o
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -ccopt "-o "/tmp/d20160302-601-vgmxbb/unison-2.48.3/pty.o -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/pty.c
+ocamlopt: bytearray_stubs.c ---> bytearray_stubs.o
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -ccopt "-o "/tmp/d20160302-601-vgmxbb/unison-2.48.3/bytearray_stubs.o -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/bytearray_stubs.c
+Linking unison
+ocamlopt -verbose -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -o unison   unix.cmxa str.cmxa bigarray.cmxa ubase/rx.cmx unicode_tables.cmx unicode.cmx bytearray.cmx system/system_generic.cmx system/generic/system_impl.cmx system.cmx ubase/projectInfo.cmx ubase/myMap.cmx ubase/safelist.cmx ubase/util.cmx ubase/uarg.cmx ubase/prefs.cmx ubase/trace.cmx ubase/proplist.cmx lwt/pqueue.cmx lwt/lwt.cmx lwt/lwt_util.cmx lwt/generic/lwt_unix_impl.cmx lwt/lwt_unix.cmx uutil.cmx case.cmx pred.cmx fileutil.cmx name.cmx path.cmx fspath.cmx fs.cmx fingerprint.cmx abort.cmx osx.cmx external.cmx fswatch.cmx props.cmx fileinfo.cmx os.cmx lock.cmx clroot.cmx common.cmx tree.cmx checksum.cmx terminal.cmx transfer.cmx xferhint.cmx remote.cmx globals.cmx fswatchold.cmx fpcache.cmx update.cmx copy.cmx stasher.cmx files.cmx sortri.cmx recon.cmx transport.cmx strings.cmx uicommon.cmx uitext.cmx test.cmx main.cmx linktext.cmx osxsupport.o pty.o bytearray_stubs.o -cclib -lutil
++ as -o '/tmp/camlstartupbc1dda.o' '/tmp/camlstartup7b23f7.s'
++ gcc -o 'unison'   '-Llwt' '-Lubase' '-Lsystem' '-Lfsmonitor' '-Lfsmonitor/linux' '-Lfsmonitor/windows' '-Lsystem/generic' '-Llwt/generic' '-L/usr/local/lib/ocaml'  '/tmp/camlstartupbc1dda.o' '/usr/local/lib/ocaml/std_exit.o' 'linktext.o' 'main.o' 'test.o' 'uitext.o' 'uicommon.o' 'strings.o' 'transport.o' 'recon.o' 'sortri.o' 'files.o' 'stasher.o' 'copy.o' 'update.o' 'fpcache.o' 'fswatchold.o' 'globals.o' 'remote.o' 'xferhint.o' 'transfer.o' 'terminal.o' 'checksum.o' 'tree.o' 'common.o' 'clroot.o' 'lock.o' 'os.o' 'fileinfo.o' 'props.o' 'fswatch.o' 'external.o' 'osx.o' 'abort.o' 'fingerprint.o' 'fs.o' 'fspath.o' 'path.o' 'name.o' 'fileutil.o' 'pred.o' 'case.o' 'uutil.o' 'lwt/lwt_unix.o' 'lwt/generic/lwt_unix_impl.o' 'lwt/lwt_util.o' 'lwt/lwt.o' 'lwt/pqueue.o' 'ubase/proplist.o' 'ubase/trace.o' 'ubase/prefs.o' 'ubase/uarg.o' 'ubase/util.o' 'ubase/safelist.o' 'ubase/myMap.o' 'ubase/projectInfo.o' 'system.o' 'system/generic/system_impl.o' 'system/system_generic.o' 'bytearray.o' 'unicode.o' 'unicode_tables.o' 'ubase/rx.o' '/usr/local/lib/ocaml/bigarray.a' '/usr/local/lib/ocaml/str.a' '/usr/local/lib/ocaml/unix.a' '/usr/local/lib/ocaml/stdlib.a' '-lbigarray' '-lcamlstr' '-lunix' 'osxsupport.o' 'pty.o' 'bytearray_stubs.o' '-lutil' '/usr/local/lib/ocaml/libasmrun.a' -lm  -ldl
+ocamlopt: fsmonitor/linux/inotify.mli ---> fsmonitor/linux/inotify.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/inotify.mli
+ocamlopt: fsmonitor/linux/inotify.ml ---> fsmonitor/linux/inotify.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/inotify.ml
+ocamlopt: fsmonitor/linux/lwt_inotify.mli ---> fsmonitor/linux/lwt_inotify.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/lwt_inotify.mli
+ocamlopt: fsmonitor/linux/lwt_inotify.ml ---> fsmonitor/linux/lwt_inotify.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/lwt_inotify.ml
+ocamlopt: fsmonitor/watchercommon.mli ---> fsmonitor/watchercommon.cmi
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.mli
+ocamlopt: fsmonitor/watchercommon.ml ---> fsmonitor/watchercommon.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 49, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 55, characters 8-21:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 56, characters 8-45:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 57, characters 8-47:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 60, characters 8-19:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 79, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 84, characters 8-77:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 87, characters 8-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/watchercommon.ml", line 133, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: fsmonitor/linux/watcher.ml ---> fsmonitor/linux/watcher.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/watcher.ml
+ocamlopt: fsmonitor/linux/inotify_stubs.c ---> fsmonitor/linux/inotify_stubs.o
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -ccopt "-o "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/inotify_stubs.o -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fsmonitor/linux/inotify_stubs.c
+Linking unison-fsmonitor
+ocamlopt -verbose -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -o unison-fsmonitor   unix.cmxa lwt/lwt.cmx lwt/pqueue.cmx lwt/generic/lwt_unix_impl.cmx lwt/lwt_unix.cmx fsmonitor/linux/inotify.cmx fsmonitor/linux/lwt_inotify.cmx fsmonitor/watchercommon.cmx fsmonitor/linux/watcher.cmx fsmonitor/linux/inotify_stubs.o -cclib -lutil
++ as -o '/tmp/camlstartupcddb09.o' '/tmp/camlstartupf13f62.s'
++ gcc -o 'unison-fsmonitor'   '-Llwt' '-Lubase' '-Lsystem' '-Lfsmonitor' '-Lfsmonitor/linux' '-Lfsmonitor/windows' '-Lsystem/generic' '-Llwt/generic' '-L/usr/local/lib/ocaml'  '/tmp/camlstartupcddb09.o' '/usr/local/lib/ocaml/std_exit.o' 'fsmonitor/linux/watcher.o' 'fsmonitor/watchercommon.o' 'fsmonitor/linux/lwt_inotify.o' 'fsmonitor/linux/inotify.o' 'lwt/lwt_unix.o' 'lwt/generic/lwt_unix_impl.o' 'lwt/pqueue.o' 'lwt/lwt.o' '/usr/local/lib/ocaml/unix.a' '/usr/local/lib/ocaml/stdlib.a' '-lunix' 'fsmonitor/linux/inotify_stubs.o' '-lutil' '/usr/local/lib/ocaml/libasmrun.a' -lm  -ldl
+make tags
+make[1]: Entering directory '/tmp/d20160302-601-vgmxbb/unison-2.48.3'
+if [ -f `which etags` ]; then \
+    etags *.mli */*.mli *.ml */*.ml */*.m *.c */*.c *.txt \
+          ; fi 
+make[1]: Leaving directory '/tmp/d20160302-601-vgmxbb/unison-2.48.3'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-vgmxbb/pkgroot//usr/local/bin
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-vgmxbb/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-vgmxbb/pkgroot/ INSTALLDIR=/tmp/d20160302-601-vgmxbb/pkgroot//usr/local/bin install
+ocamlopt: ubase/util.ml ---> ubase/util.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/util.ml
+ocamlopt: ubase/uarg.ml ---> ubase/uarg.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/uarg.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/uarg.ml", line 71, characters 29-30:
+Warning 3: deprecated: Pervasives.&
+Use (&&) instead.
+ocamlopt: ubase/prefs.ml ---> ubase/prefs.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/prefs.ml
+ocamlopt: ubase/trace.ml ---> ubase/trace.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/trace.ml
+ocamlopt: ubase/proplist.ml ---> ubase/proplist.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/ubase/proplist.ml
+ocamlopt: uutil.ml ---> uutil.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uutil.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uutil.ml", line 116, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: case.ml ---> case.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/case.ml
+ocamlopt: pred.ml ---> pred.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/pred.ml
+ocamlopt: name.ml ---> name.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/name.ml
+ocamlopt: path.ml ---> path.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml", line 33, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml", line 35, characters 2-30:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/path.ml", line 204, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: fspath.ml ---> fspath.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 58, characters 18-20:
+Warning 3: deprecated: Pervasives.or
+Use (||) instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 95, characters 14-27:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 97, characters 4-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 98, characters 4-22:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 195, characters 14-27:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fspath.ml", line 197, characters 6-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: fs.ml ---> fs.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fs.ml
+ocamlopt: fingerprint.ml ---> fingerprint.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml", line 78, characters 17-30:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml", line 81, characters 6-24:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fingerprint.ml", line 82, characters 6-28:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: abort.ml ---> abort.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/abort.ml
+ocamlopt: osx.ml ---> osx.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 111, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 113, characters 4-128:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 129, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 227, characters 2-55:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/osx.ml", line 270, characters 31-44:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: external.ml ---> external.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/external.ml
+ocamlopt: fswatch.ml ---> fswatch.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 113, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 119, characters 8-21:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 120, characters 8-45:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 121, characters 8-47:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 124, characters 8-19:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 143, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 148, characters 8-77:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 151, characters 8-18:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatch.ml", line 192, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: props.ml ---> props.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/props.ml
+ocamlopt: fileinfo.ml ---> fileinfo.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fileinfo.ml
+ocamlopt: os.ml ---> os.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/os.ml
+ocamlopt: lock.ml ---> lock.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/lock.ml
+ocamlopt: clroot.ml ---> clroot.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/clroot.ml
+ocamlopt: common.ml ---> common.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/common.ml
+ocamlopt: transfer.ml ---> transfer.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 264, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 376, characters 17-30:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 457, characters 21-34:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 550, characters 6-62:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/transfer.ml", line 715, characters 19-32:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: xferhint.ml ---> xferhint.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/xferhint.ml
+ocamlopt: remote.ml ---> remote.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/remote.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/remote.ml", line 128, characters 27-40:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: globals.ml ---> globals.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/globals.ml
+ocamlopt: fswatchold.ml ---> fswatchold.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fswatchold.ml
+ocamlopt: fpcache.ml ---> fpcache.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml", line 53, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml", line 77, characters 15-28:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/fpcache.ml", line 84, characters 10-23:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: update.ml ---> update.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/update.ml
+ocamlopt: copy.ml ---> copy.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/copy.ml
+ocamlopt: stasher.ml ---> stasher.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/stasher.ml
+ocamlopt: files.ml ---> files.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/files.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/files.ml", line 725, characters 2-11:
+Warning 3: deprecated: Sort.list
+Use List.sort instead.
+ocamlopt: sortri.ml ---> sortri.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/sortri.ml
+ocamlopt: recon.ml ---> recon.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/recon.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/recon.ml", line 654, characters 2-11:
+Warning 3: deprecated: Sort.list
+Use List.sort instead.
+ocamlopt: transport.ml ---> transport.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/transport.ml
+ocamlopt: uicommon.ml ---> uicommon.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 362, characters 12-25:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 367, characters 8-26:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 367, characters 28-47:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uicommon.ml", line 369, characters 8-23:
+Warning 3: deprecated: String.set
+Use Bytes.set instead.
+ocamlopt: uitext.ml ---> uitext.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/uitext.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/uitext.ml", line 113, characters 16-29:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: test.ml ---> test.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/test.ml
+File "/tmp/d20160302-601-vgmxbb/unison-2.48.3/test.ml", line 51, characters 15-28:
+Warning 3: deprecated: String.create
+Use Bytes.create instead.
+ocamlopt: main.ml ---> main.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/main.ml
+ocamlopt: linktext.ml ---> linktext.cmx
+ocamlopt -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -c /tmp/d20160302-601-vgmxbb/unison-2.48.3/linktext.ml
+Linking unison
+ocamlopt -verbose -g -I lwt -I ubase -I system -I fsmonitor -I fsmonitor/linux -I fsmonitor/windows -I system/generic -I lwt/generic -o unison   unix.cmxa str.cmxa bigarray.cmxa ubase/rx.cmx unicode_tables.cmx unicode.cmx bytearray.cmx system/system_generic.cmx system/generic/system_impl.cmx system.cmx ubase/projectInfo.cmx ubase/myMap.cmx ubase/safelist.cmx ubase/util.cmx ubase/uarg.cmx ubase/prefs.cmx ubase/trace.cmx ubase/proplist.cmx lwt/pqueue.cmx lwt/lwt.cmx lwt/lwt_util.cmx lwt/generic/lwt_unix_impl.cmx lwt/lwt_unix.cmx uutil.cmx case.cmx pred.cmx fileutil.cmx name.cmx path.cmx fspath.cmx fs.cmx fingerprint.cmx abort.cmx osx.cmx external.cmx fswatch.cmx props.cmx fileinfo.cmx os.cmx lock.cmx clroot.cmx common.cmx tree.cmx checksum.cmx terminal.cmx transfer.cmx xferhint.cmx remote.cmx globals.cmx fswatchold.cmx fpcache.cmx update.cmx copy.cmx stasher.cmx files.cmx sortri.cmx recon.cmx transport.cmx strings.cmx uicommon.cmx uitext.cmx test.cmx main.cmx linktext.cmx osxsupport.o pty.o bytearray_stubs.o -cclib -lutil
++ as -o '/tmp/camlstartupae8d55.o' '/tmp/camlstartup9630da.s'
++ gcc -o 'unison'   '-Llwt' '-Lubase' '-Lsystem' '-Lfsmonitor' '-Lfsmonitor/linux' '-Lfsmonitor/windows' '-Lsystem/generic' '-Llwt/generic' '-L/usr/local/lib/ocaml'  '/tmp/camlstartupae8d55.o' '/usr/local/lib/ocaml/std_exit.o' 'linktext.o' 'main.o' 'test.o' 'uitext.o' 'uicommon.o' 'strings.o' 'transport.o' 'recon.o' 'sortri.o' 'files.o' 'stasher.o' 'copy.o' 'update.o' 'fpcache.o' 'fswatchold.o' 'globals.o' 'remote.o' 'xferhint.o' 'transfer.o' 'terminal.o' 'checksum.o' 'tree.o' 'common.o' 'clroot.o' 'lock.o' 'os.o' 'fileinfo.o' 'props.o' 'fswatch.o' 'external.o' 'osx.o' 'abort.o' 'fingerprint.o' 'fs.o' 'fspath.o' 'path.o' 'name.o' 'fileutil.o' 'pred.o' 'case.o' 'uutil.o' 'lwt/lwt_unix.o' 'lwt/generic/lwt_unix_impl.o' 'lwt/lwt_util.o' 'lwt/lwt.o' 'lwt/pqueue.o' 'ubase/proplist.o' 'ubase/trace.o' 'ubase/prefs.o' 'ubase/uarg.o' 'ubase/util.o' 'ubase/safelist.o' 'ubase/myMap.o' 'ubase/projectInfo.o' 'system.o' 'system/generic/system_impl.o' 'system/system_generic.o' 'bytearray.o' 'unicode.o' 'unicode_tables.o' 'ubase/rx.o' '/usr/local/lib/ocaml/bigarray.a' '/usr/local/lib/ocaml/str.a' '/usr/local/lib/ocaml/unix.a' '/usr/local/lib/ocaml/stdlib.a' '-lbigarray' '-lcamlstr' '-lunix' 'osxsupport.o' 'pty.o' 'bytearray_stubs.o' '-lutil' '/usr/local/lib/ocaml/libasmrun.a' -lm  -ldl
+mv /tmp/d20160302-601-vgmxbb/pkgroot//usr/local/bin/unison /tmp/unison-2316
+mv: can't rename '/tmp/d20160302-601-vgmxbb/pkgroot//usr/local/bin/unison': No such file or directory
+Makefile:93: recipe for target 'doinstall' failed
+make: [doinstall] Error 1 (ignored)
+cp unison /tmp/d20160302-601-vgmxbb/pkgroot//usr/local/bin
+cp unison /tmp/d20160302-601-vgmxbb/pkgroot//usr/local/binunison-2.48
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-vgmxbb/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-vgmxbb/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/bin
+usr/local/bin/unison
+usr/local/binunison-2.48
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_unison.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_unison.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-vgmxbb/pkgroot/ mypkgs_unison.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_unison.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 1031.99 Kbytes (1.01 Mbytes)
+	20.97% of uncompressed filesystem size (4921.00 Kbytes)
+Inode table size 1352 bytes (1.32 Kbytes)
+	26.44% of uncompressed inode table size (5114 bytes)
+Directory table size 83 bytes (0.08 Kbytes)
+	68.60% of uncompressed directory table size (121 bytes)
+Number of duplicate files found 1
+Number of inodes 6
+Number of files 2
+Number of fragments 0
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 4
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_unison.tcz > mypkgs_unison.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_unison.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_unison.tcz
+-rw-r--r--    1 tc       staff       1.0M Mar  2 11:20 [0;0mmypkgs_unison.tcz[0m

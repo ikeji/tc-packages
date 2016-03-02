@@ -1,1 +1,1 @@
-2aebaeca063c0a2adf7067077187f1e0  mypkgs_im_anthy-dev.tcz
+f7e809a4adca77faca8905fa3570b5bb  mypkgs_im_anthy-dev.tcz

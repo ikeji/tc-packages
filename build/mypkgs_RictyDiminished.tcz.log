@@ -1,0 +1,620 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make openssl
+compiletc is already downloaded.
+make is already downloaded.
+openssl is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make openssl | tee /tmp/d20160302-601-3fy03y/stdout
+openssl is already installed!
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================-] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+4.0.1.tar.gz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//4.0.1.tar.gz
+RictyDiminished-4.0.1/
+RictyDiminished-4.0.1/README.md
+RictyDiminished-4.0.1/RictyDiminished-Bold.ttf
+RictyDiminished-4.0.1/RictyDiminished-BoldOblique.ttf
+RictyDiminished-4.0.1/RictyDiminished-Oblique.ttf
+RictyDiminished-4.0.1/RictyDiminished-Regular.ttf
+RictyDiminished-4.0.1/RictyDiminishedDiscord-Bold.ttf
+RictyDiminished-4.0.1/RictyDiminishedDiscord-BoldOblique.ttf
+RictyDiminished-4.0.1/RictyDiminishedDiscord-Oblique.ttf
+RictyDiminished-4.0.1/RictyDiminishedDiscord-Regular.ttf
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-3fy03y/pkgroot//usr/local/share/fonts/RictyDiminished
+[32mTCZBUILD[0m: cp *.ttf /tmp/d20160302-601-3fy03y/pkgroot//usr/local/share/fonts/RictyDiminished
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/share
+usr/local/share/fonts
+usr/local/share/fonts/RictyDiminished
+usr/local/share/fonts/RictyDiminished/RictyDiminishedDiscord-Bold.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminished-BoldOblique.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminishedDiscord-Regular.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminishedDiscord-Oblique.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminished-Bold.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminished-Oblique.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminishedDiscord-BoldOblique.ttf
+usr/local/share/fonts/RictyDiminished/RictyDiminished-Regular.ttf
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_RictyDiminished.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_RictyDiminished.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-3fy03y/pkgroot/ mypkgs_RictyDiminished.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_RictyDiminished.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 9279.47 Kbytes (9.06 Mbytes)
+	68.83% of uncompressed filesystem size (13481.19 Kbytes)
+Inode table size 6505 bytes (6.35 Kbytes)
+	46.70% of uncompressed inode table size (13928 bytes)
+Directory table size 205 bytes (0.20 Kbytes)
+	43.71% of uncompressed directory table size (469 bytes)
+Number of duplicate files found 0
+Number of inodes 14
+Number of files 8
+Number of fragments 0
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 6
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_RictyDiminished.tcz > mypkgs_RictyDiminished.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_RictyDiminished.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_RictyDiminished.tcz
+-rw-r--r--    1 tc       staff       9.1M Mar  2 11:32 [0;0mmypkgs_RictyDiminished.tcz[0m

@@ -16,7 +16,7 @@ load_dependency_local [
   'mypkgs_im_ibus-dev',
   'mypkgs_im_anthy-dev',
 ]
-fetch_distfiles BALL, "https://github.com/ibu/ibus-anthy/releases/download/1.5.8/#{BALL}"
+fetch_distfiles BALL, "https://github.com/ibus/ibus-anthy/releases/download/1.5.8/#{BALL}"
 md5sum BALL, '57e156f8fa58de814a42c547b11c0049'
 
 unpack BALL

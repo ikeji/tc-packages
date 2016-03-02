@@ -1,0 +1,1022 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load
+[32mTCZBUILD[0m: tce-load -w compiletc make openssl cmake libpthread-stubs dbus libxml2 libxkbfile xkeyboard-config
+compiletc is already downloaded.
+make is already downloaded.
+openssl is already downloaded.
+cmake is already downloaded.
+libpthread-stubs is already downloaded.
+dbus is already downloaded.
+libxml2 is already downloaded.
+libxkbfile is already downloaded.
+xkeyboard-config is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make openssl cmake libpthread-stubs dbus libxml2 libxkbfile xkeyboard-config | tee /tmp/d20160302-602-zw5iso/stdout
+openssl is already installed!
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[====================================/                       ]  8400/13491  62%[===========================================================-] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (57 blocks) to write
+
+[=================================================================|] 57/57 100%
+
+created 2 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libidn.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1818 inodes (5959 blocks) to write
+
+[=============================================================|] 5959/5959 100%
+
+created 1818 files
+created 40 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+cmake.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libpthread-stubs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+14 inodes (191 blocks) to write
+
+[===============================================================|] 191/191 100%
+
+created 12 files
+created 12 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+dbus.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (38 blocks) to write
+
+[=================================================================|] 38/38 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+liblzma.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (317 blocks) to write
+
+[===============================================================|] 317/317 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxml2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (32 blocks) to write
+
+[=================================================================|] 32/32 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxkbfile.tcz: OK
+Parallel unsquashfs: Using 8 processors
+278 inodes (838 blocks) to write
+
+[===============================================================|] 838/838 100%
+
+created 275 files
+created 28 directories
+created 3 symlinks
+created 0 devices
+created 0 fifos
+xkeyboard-config.tcz: OK
+[32mTCZBUILD[0m: tce-load -ic mypkgs_im_fcitx-dev mypkgs_im_anthy-dev | tee /tmp/d20160302-602-zw5iso/stdout
+Parallel unsquashfs: Using 8 processors
+75 inodes (516 blocks) to write
+
+[===============================================================|] 516/516 100%
+
+created 25 files
+created 4 directories
+created 50 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (225 blocks) to write
+
+[===============================================================|] 225/225 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_xkbcommon.tcz: OK
+Parallel unsquashfs: Using 8 processors
+341 inodes (9096 blocks) to write
+
+[=============================================================|] 9096/9096 100%
+
+created 330 files
+created 59 directories
+created 11 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_fcitx.tcz: OK
+Parallel unsquashfs: Using 8 processors
+388 inodes (8998 blocks) to write
+
+[=============================================================|] 8998/8998 100%
+
+created 387 files
+created 80 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_fcitx-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+17 inodes (6143 blocks) to write
+
+[=============================================================|] 6143/6143 100%
+
+created 11 files
+created 8 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_anthy.tcz: OK
+Parallel unsquashfs: Using 8 processors
+15 inodes (6170 blocks) to write
+
+[=============================================================|] 6170/6170 100%
+
+created 15 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_anthy-dev.tcz: OK
+fcitx-anthy-0.2.2.tar.xz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//fcitx-anthy-0.2.2.tar.xz
+fcitx-anthy-0.2.2/
+fcitx-anthy-0.2.2/.gitignore
+fcitx-anthy-0.2.2/AUTHORS
+fcitx-anthy-0.2.2/CMakeLists.txt
+fcitx-anthy-0.2.2/COPYING
+fcitx-anthy-0.2.2/INSTALL
+fcitx-anthy-0.2.2/README
+fcitx-anthy-0.2.2/cmake/
+fcitx-anthy-0.2.2/cmake/FindAnthy.cmake
+fcitx-anthy-0.2.2/icon/
+fcitx-anthy-0.2.2/icon/22x22/
+fcitx-anthy-0.2.2/icon/22x22/status/
+fcitx-anthy-0.2.2/icon/22x22/status/fcitx-anthy-symbol.png
+fcitx-anthy-0.2.2/icon/48x48/
+fcitx-anthy-0.2.2/icon/48x48/status/
+fcitx-anthy-0.2.2/icon/48x48/status/fcitx-anthy.png
+fcitx-anthy-0.2.2/icon/CMakeLists.txt
+fcitx-anthy-0.2.2/icon/scalable/
+fcitx-anthy-0.2.2/icon/scalable/status/
+fcitx-anthy-0.2.2/icon/scalable/status/fcitx-anthy-period-japanese.svg
+fcitx-anthy-0.2.2/icon/scalable/status/fcitx-anthy-period-latin.svg
+fcitx-anthy-0.2.2/icon/scalable/status/fcitx-anthy-period-wide-japanese.svg
+fcitx-anthy-0.2.2/icon/scalable/status/fcitx-anthy-period-wide-latin.svg
+fcitx-anthy-0.2.2/icon/scalable/status/fcitx-anthy-symbol.svg
+fcitx-anthy-0.2.2/po/
+fcitx-anthy-0.2.2/po/CMakeLists.txt
+fcitx-anthy-0.2.2/po/de.po
+fcitx-anthy-0.2.2/po/fcitx-anthy.pot
+fcitx-anthy-0.2.2/po/ja.po
+fcitx-anthy-0.2.2/po/zh_CN.po
+fcitx-anthy-0.2.2/po/zh_TW.po
+fcitx-anthy-0.2.2/profile/
+fcitx-anthy-0.2.2/profile/101kana.sty
+fcitx-anthy-0.2.2/profile/CMakeLists.txt
+fcitx-anthy-0.2.2/profile/atok.sty
+fcitx-anthy-0.2.2/profile/azik.sty
+fcitx-anthy-0.2.2/profile/canna.sty
+fcitx-anthy-0.2.2/profile/msime.sty
+fcitx-anthy-0.2.2/profile/nicola-a.sty
+fcitx-anthy-0.2.2/profile/nicola-f.sty
+fcitx-anthy-0.2.2/profile/nicola-j.sty
+fcitx-anthy-0.2.2/profile/oasys100j.sty
+fcitx-anthy-0.2.2/profile/qkana.sty
+fcitx-anthy-0.2.2/profile/tron-dvorak.sty
+fcitx-anthy-0.2.2/profile/tron-qwerty-jp.sty
+fcitx-anthy-0.2.2/profile/tsuki-2-203-101.sty
+fcitx-anthy-0.2.2/profile/tsuki-2-203-106.sty
+fcitx-anthy-0.2.2/profile/vje-delta.sty
+fcitx-anthy-0.2.2/profile/wnn.sty
+fcitx-anthy-0.2.2/src/
+fcitx-anthy-0.2.2/src/CMakeLists.txt
+fcitx-anthy-0.2.2/src/action.cpp
+fcitx-anthy-0.2.2/src/action.h
+fcitx-anthy-0.2.2/src/anthy.conf.in
+fcitx-anthy-0.2.2/src/common.h
+fcitx-anthy-0.2.2/src/conversion.cpp
+fcitx-anthy-0.2.2/src/conversion.h
+fcitx-anthy-0.2.2/src/default_tables.cpp
+fcitx-anthy-0.2.2/src/default_tables.h
+fcitx-anthy-0.2.2/src/factory.cpp
+fcitx-anthy-0.2.2/src/factory.h
+fcitx-anthy-0.2.2/src/fcitx-anthy.conf.in
+fcitx-anthy-0.2.2/src/fcitx-anthy.desc
+fcitx-anthy-0.2.2/src/imengine.cpp
+fcitx-anthy-0.2.2/src/imengine.h
+fcitx-anthy-0.2.2/src/kana.cpp
+fcitx-anthy-0.2.2/src/kana.h
+fcitx-anthy-0.2.2/src/key2kana.cpp
+fcitx-anthy-0.2.2/src/key2kana.h
+fcitx-anthy-0.2.2/src/key2kana_base.h
+fcitx-anthy-0.2.2/src/key2kana_table.cpp
+fcitx-anthy-0.2.2/src/key2kana_table.h
+fcitx-anthy-0.2.2/src/nicola.cpp
+fcitx-anthy-0.2.2/src/nicola.h
+fcitx-anthy-0.2.2/src/preedit.cpp
+fcitx-anthy-0.2.2/src/preedit.h
+fcitx-anthy-0.2.2/src/reading.cpp
+fcitx-anthy-0.2.2/src/reading.h
+fcitx-anthy-0.2.2/src/style_file.cpp
+fcitx-anthy-0.2.2/src/style_file.h
+fcitx-anthy-0.2.2/src/utils.cpp
+fcitx-anthy-0.2.2/src/utils.h
+[32mTCZBUILD[0m: mkdir build
+[32mTCZBUILD[0m: cmake ..
+-- The C compiler identification is GNU 4.9.1
+-- The CXX compiler identification is GNU 4.9.1
+-- Check for working C compiler: /usr/local/bin/cc
+-- Check for working C compiler: /usr/local/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/local/bin/c++
+-- Check for working CXX compiler: /usr/local/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PkgConfig: /usr/local/bin/pkg-config (found version "0.28") 
+-- checking for module 'fcitx'
+--   found fcitx, version 4.2.9.1
+-- checking for module 'fcitx-config'
+--   found fcitx-config, version 4.2.9.1
+-- checking for module 'fcitx-utils'
+--   found fcitx-utils, version 4.2.9.1
+-- fcitx4-config found /usr/local/bin/fcitx4-config
+-- Found Fcitx: 4.2.9.1 (Required is at least version "4.2.8") 
+-- Found ANTHY: /usr/local/lib/libanthy.so  
+-- Adding Fcitx Addon anthy
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/build
+[32mTCZBUILD[0m: make
+[35m[1mScanning dependencies of target fcitx-addon-fcitx-anthy--headers-1
+[0m[  0%] Built target fcitx-addon-fcitx-anthy--headers-1
+[35m[1mScanning dependencies of target fcitx-scan-addons.target
+[0m[  0%] Built target fcitx-scan-addons.target
+[35m[1mScanning dependencies of target fcitx-anthy
+[0m[  6%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/action.cpp.o
+[0m[ 13%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/style_file.cpp.o
+[0m[ 20%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/conversion.cpp.o
+[0m[ 26%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/default_tables.cpp.o
+[0m[ 33%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/factory.cpp.o
+[0m[ 40%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/kana.cpp.o
+[0m[ 46%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/key2kana.cpp.o
+[0m[ 53%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/key2kana_table.cpp.o
+[0m[ 60%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/preedit.cpp.o
+[0m[ 66%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/reading.cpp.o
+[0m[ 73%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/utils.cpp.o
+[0m[ 80%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/imengine.cpp.o
+[0m[ 86%] [32mBuilding CXX object src/CMakeFiles/fcitx-anthy.dir/nicola.cpp.o
+[0m[31m[1mLinking CXX shared module fcitx-anthy.so
+[0m[ 86%] Built target fcitx-anthy
+[35m[1mScanning dependencies of target fcitx-modules.target
+[0m[ 86%] Built target fcitx-modules.target
+[35m[1mScanning dependencies of target fcitx-parse-pos.target
+[0mParsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/de.po
+Finished parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/de.po
+Parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/ja.po
+Finished parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/ja.po
+Parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/zh_CN.po
+Finished parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/zh_CN.po
+Parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/zh_TW.po
+Finished parsing po file: /tmp/d20160302-602-zw5iso/fcitx-anthy-0.2.2/po/zh_TW.po
+[ 86%] Built target fcitx-parse-pos.target
+[35m[1mScanning dependencies of target fcitx-parse-pos.dependency
+[0m[ 86%] Built target fcitx-parse-pos.dependency
+[35m[1mScanning dependencies of target fcitx-addon-fcitx-anthy--addon--conf-1
+[0m[ 93%] [34m[1mGenerating fcitx-anthy.conf
+[0m[ 93%] Built target fcitx-addon-fcitx-anthy--addon--conf-1
+[35m[1mScanning dependencies of target fcitx-addon-fcitx-anthy--addon--desc-1
+[0m[ 93%] Built target fcitx-addon-fcitx-anthy--addon--desc-1
+[35m[1mScanning dependencies of target fcitx-addon-fcitx-anthy--addon--conf-2
+[0m[100%] [34m[1mGenerating anthy.conf
+[0m[100%] Built target fcitx-addon-fcitx-anthy--addon--conf-2
+[35m[1mScanning dependencies of target fcitx-anthy--addon
+[0m[100%] Built target fcitx-anthy--addon
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-602-zw5iso/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-602-zw5iso/pkgroot/ install
+[  0%] Built target fcitx-addon-fcitx-anthy--headers-1
+[  0%] Built target fcitx-scan-addons.target
+[ 86%] Built target fcitx-anthy
+[ 86%] Built target fcitx-modules.target
+[ 86%] Built target fcitx-parse-pos.target
+[ 86%] Built target fcitx-parse-pos.dependency
+[ 93%] Built target fcitx-addon-fcitx-anthy--addon--conf-1
+[ 93%] Built target fcitx-addon-fcitx-anthy--addon--desc-1
+[100%] Built target fcitx-addon-fcitx-anthy--addon--conf-2
+[100%] Built target fcitx-anthy--addon
+[36mInstall the project...
+[0m-- Install configuration: ""
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/addon/fcitx-anthy.conf
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/inputmethod/anthy.conf
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/lib/fcitx/fcitx-anthy.so
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/configdesc/fcitx-anthy.desc
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/48x48
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/48x48/status
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/48x48/status/fcitx-anthy.png
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/22x22
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/22x22/status
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/22x22/status/fcitx-anthy-symbol.png
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable/status
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-symbol.svg
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-wide-japanese.svg
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-japanese.svg
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-wide-latin.svg
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-latin.svg
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/imicon/anthy.png
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/nicola-j.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/tron-qwerty-jp.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/tsuki-2-203-106.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/101kana.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/tron-dvorak.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/oasys100j.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/qkana.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/wnn.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/vje-delta.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/nicola-f.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/atok.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/nicola-a.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/canna.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/msime.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/tsuki-2-203-101.sty
+-- Installing: /tmp/d20160302-602-zw5iso/pkgroot/usr/local/share/fcitx/anthy/azik.sty
+[32mTCZBUILD[0m: find > /tmp/d20160302-602-zw5iso/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-602-zw5iso/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/share
+usr/local/share/icons
+usr/local/share/icons/hicolor
+usr/local/share/icons/hicolor/48x48
+usr/local/share/icons/hicolor/48x48/status
+usr/local/share/icons/hicolor/48x48/status/fcitx-anthy.png
+usr/local/share/icons/hicolor/scalable
+usr/local/share/icons/hicolor/scalable/status
+usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-symbol.svg
+usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-wide-japanese.svg
+usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-japanese.svg
+usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-wide-latin.svg
+usr/local/share/icons/hicolor/scalable/status/fcitx-anthy-period-latin.svg
+usr/local/share/icons/hicolor/22x22
+usr/local/share/icons/hicolor/22x22/status
+usr/local/share/icons/hicolor/22x22/status/fcitx-anthy-symbol.png
+usr/local/share/fcitx
+usr/local/share/fcitx/imicon
+usr/local/share/fcitx/imicon/anthy.png
+usr/local/share/fcitx/inputmethod
+usr/local/share/fcitx/inputmethod/anthy.conf
+usr/local/share/fcitx/anthy
+usr/local/share/fcitx/anthy/nicola-j.sty
+usr/local/share/fcitx/anthy/tron-qwerty-jp.sty
+usr/local/share/fcitx/anthy/tsuki-2-203-106.sty
+usr/local/share/fcitx/anthy/101kana.sty
+usr/local/share/fcitx/anthy/tron-dvorak.sty
+usr/local/share/fcitx/anthy/oasys100j.sty
+usr/local/share/fcitx/anthy/qkana.sty
+usr/local/share/fcitx/anthy/wnn.sty
+usr/local/share/fcitx/anthy/vje-delta.sty
+usr/local/share/fcitx/anthy/nicola-f.sty
+usr/local/share/fcitx/anthy/atok.sty
+usr/local/share/fcitx/anthy/nicola-a.sty
+usr/local/share/fcitx/anthy/canna.sty
+usr/local/share/fcitx/anthy/msime.sty
+usr/local/share/fcitx/anthy/tsuki-2-203-101.sty
+usr/local/share/fcitx/anthy/azik.sty
+usr/local/share/fcitx/addon
+usr/local/share/fcitx/addon/fcitx-anthy.conf
+usr/local/share/fcitx/configdesc
+usr/local/share/fcitx/configdesc/fcitx-anthy.desc
+usr/local/lib
+usr/local/lib/fcitx
+usr/local/lib/fcitx/fcitx-anthy.so
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_fcitx-anthy.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_fcitx-anthy.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-602-zw5iso/pkgroot/ mypkgs_im_fcitx-anthy.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_fcitx-anthy.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 204.17 Kbytes (0.20 Mbytes)
+	38.01% of uncompressed filesystem size (537.20 Kbytes)
+Inode table size 797 bytes (0.78 Kbytes)
+	38.43% of uncompressed inode table size (2074 bytes)
+Directory table size 598 bytes (0.58 Kbytes)
+	50.89% of uncompressed directory table size (1175 bytes)
+Number of duplicate files found 1
+Number of inodes 48
+Number of files 28
+Number of fragments 9
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 20
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_fcitx-anthy.tcz > mypkgs_im_fcitx-anthy.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_fcitx-anthy.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_fcitx-anthy.tcz
+-rw-r--r--    1 tc       staff     208.0K Mar  2 11:28 [0;0mmypkgs_im_fcitx-anthy.tcz[0m

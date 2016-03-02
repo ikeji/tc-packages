@@ -1,1 +1,1 @@
-933052030b6358f203562acd08777e32  mypkgs_gnupg_pcsc-lite.tcz
+754a7ef4b2f401e6645993ad3beedf66  mypkgs_gnupg_pcsc-lite.tcz

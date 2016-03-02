@@ -1,0 +1,734 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make perl5
+compiletc is already downloaded.
+make is already downloaded.
+perl5 is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make perl5 | tee /tmp/d20160302-601-78krdj/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1489 inodes (9759 blocks) to write
+
+[=============================================================/] 9759/9759 100%
+
+created 1485 files
+created 307 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+perl5.tcz: OK
+yaskkserv-1.1.0.tar.xz: OK
+SKK-JISYO.L: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//yaskkserv-1.1.0.tar.xz
+yaskkserv-1.1.0/
+yaskkserv-1.1.0/COPYING
+yaskkserv-1.1.0/Makefile
+yaskkserv-1.1.0/Makefile.noperl
+yaskkserv-1.1.0/README.md
+yaskkserv-1.1.0/configure
+yaskkserv-1.1.0/documentation/
+yaskkserv-1.1.0/documentation/TODO.txt
+yaskkserv-1.1.0/documentation/css/
+yaskkserv-1.1.0/documentation/css/default.css
+yaskkserv-1.1.0/documentation/index.html
+yaskkserv-1.1.0/documentation/install.html
+yaskkserv-1.1.0/examples/
+yaskkserv-1.1.0/examples/yaskkserv.service
+yaskkserv-1.1.0/examples/yaskkserv.socket
+yaskkserv-1.1.0/skkserv.plist.in
+yaskkserv-1.1.0/source/
+yaskkserv-1.1.0/source/Makefile.bsd_cygwin_linux_gcc
+yaskkserv-1.1.0/source/Makefile.bsd_cygwin_linux_gcc.common
+yaskkserv-1.1.0/source/skk/
+yaskkserv-1.1.0/source/skk/Makefile.bsd_cygwin_linux_gcc
+yaskkserv-1.1.0/source/skk/architecture/
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.cpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.hpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc_precompile.h.in
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_mmap.hpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.cpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.hpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.cpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.hpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.cpp
+yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.hpp
+yaskkserv-1.1.0/source/skk/architecture/skk_architecture.hpp
+yaskkserv-1.1.0/source/skk/skk_command_line.hpp
+yaskkserv-1.1.0/source/skk/skk_dictionary.hpp
+yaskkserv-1.1.0/source/skk/skk_jisyo.hpp
+yaskkserv-1.1.0/source/skk/skk_server.hpp
+yaskkserv-1.1.0/source/skk/skk_simple_string.hpp
+yaskkserv-1.1.0/source/skk/skk_utility.hpp
+yaskkserv-1.1.0/source/yaskkserv_hairy/
+yaskkserv-1.1.0/source/yaskkserv_hairy/Makefile.bsd_cygwin_linux_gcc
+yaskkserv-1.1.0/source/yaskkserv_hairy/yaskkserv_hairy.cpp
+yaskkserv-1.1.0/source/yaskkserv_make_dictionary/
+yaskkserv-1.1.0/source/yaskkserv_make_dictionary/Makefile.bsd_cygwin_linux_gcc
+yaskkserv-1.1.0/source/yaskkserv_make_dictionary/yaskkserv_make_dictionary.cpp
+yaskkserv-1.1.0/source/yaskkserv_normal/
+yaskkserv-1.1.0/source/yaskkserv_normal/Makefile.bsd_cygwin_linux_gcc
+yaskkserv-1.1.0/source/yaskkserv_normal/yaskkserv_normal.cpp
+yaskkserv-1.1.0/source/yaskkserv_simple/
+yaskkserv-1.1.0/source/yaskkserv_simple/Makefile.bsd_cygwin_linux_gcc
+yaskkserv-1.1.0/source/yaskkserv_simple/yaskkserv_simple.cpp
+yaskkserv-1.1.0/tools/
+yaskkserv-1.1.0/tools/build/
+yaskkserv-1.1.0/tools/build/makedepend.bsd_cygwin_linux_gcc
+[32mTCZBUILD[0m: perl ./configure
+pkg-config (found)
+GNU Make (make)
+compiler g++ (4.9.1)
+iconv.h (argument "char *" found)
+*** Warning : GnuTLS not found(or disable)
+*** Warning : OpenSSL not found(or disable)
+*** Warning : SD_LISTEN_FDS_START and sd_listen_fds are not found
+MSG_NOSIGNAL (found)
+RESOLV_RETRANS_RETRY (found)
+timer_create() (found)
+pthread (found)
+c++11 supported
+ccache (not found)
+************************************
+** enable google japanese input ! **
+************************************
+[32mTCZBUILD[0m: make
+mkdir -p /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc
+mkdir -p /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_hairy
+mkdir -p /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_make_dictionary
+mkdir -p /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_normal
+mkdir -p /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_simple
+make --no-print-directory -C ./source -f Makefile.bsd_cygwin_linux_gcc all
+cp -p /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc_precompile.h.in /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk_gcc_precompile.h
+make -f Makefile.bsd_cygwin_linux_gcc -C skk all
+Makefile.bsd_cygwin_linux_gcc:30: /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.skk: No such file or directory
+perl -w /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/tools/build/makedepend.bsd_cygwin_linux_gcc /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.skk ' g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\"' ' g++ -E -MM  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc  -D YASKKSERV_VERSION=\"1.1.0\" architecture/bsd_cygwin_linux_gcc/skk_syslog.cpp architecture/bsd_cygwin_linux_gcc/skk_socket.cpp architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.cpp architecture/bsd_cygwin_linux_gcc/skk_gcc.cpp '
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -c architecture/bsd_cygwin_linux_gcc/skk_syslog.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.o
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -c architecture/bsd_cygwin_linux_gcc/skk_socket.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.o
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -c architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.o
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -c architecture/bsd_cygwin_linux_gcc/skk_gcc.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.o
+make -f Makefile.bsd_cygwin_linux_gcc -C yaskkserv_simple all
+Makefile.bsd_cygwin_linux_gcc:43: /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_simple: No such file or directory
+perl -w /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/tools/build/makedepend.bsd_cygwin_linux_gcc /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_simple /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_simple ' g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Os -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum' ' g++ -E -MM  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc  -D YASKKSERV_VERSION=\"1.1.0\" yaskkserv_simple.cpp'
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Os -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum -c yaskkserv_simple.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_simple/yaskkserv_simple.o
+g++    -pipe -L/usr/lib -fPIC -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_simple/yaskkserv_simple /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_simple/yaskkserv_simple.o 
+strip /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_simple/yaskkserv_simple
+make -f Makefile.bsd_cygwin_linux_gcc -C yaskkserv_normal all
+Makefile.bsd_cygwin_linux_gcc:43: /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_normal: No such file or directory
+perl -w /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/tools/build/makedepend.bsd_cygwin_linux_gcc /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_normal /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_normal ' g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Os -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum' ' g++ -E -MM  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc  -D YASKKSERV_VERSION=\"1.1.0\" yaskkserv_normal.cpp'
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Os -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum -c yaskkserv_normal.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_normal/yaskkserv_normal.o
+g++    -pipe -L/usr/lib -fPIC -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_normal/yaskkserv_normal /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_normal/yaskkserv_normal.o 
+strip /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_normal/yaskkserv_normal
+make -f Makefile.bsd_cygwin_linux_gcc -C yaskkserv_hairy all
+Makefile.bsd_cygwin_linux_gcc:50: /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_hairy: No such file or directory
+perl -w /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/tools/build/makedepend.bsd_cygwin_linux_gcc /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_hairy /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_hairy ' g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Ofast -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum' ' g++ -E -MM  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc  -D YASKKSERV_VERSION=\"1.1.0\" yaskkserv_hairy.cpp'
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Ofast -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum -c yaskkserv_hairy.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_hairy/yaskkserv_hairy.o
+yaskkserv_hairy.cpp:3357:6: warning: 'void YaSkkServ::{anonymous}::setup_signal()' defined but not used [-Wunused-function]
+ void setup_signal()
+      ^
+g++    -pipe -L/usr/lib -fPIC -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_hairy/yaskkserv_hairy /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_hairy/yaskkserv_hairy.o -lrt -lpthread
+strip /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_hairy/yaskkserv_hairy
+make -f Makefile.bsd_cygwin_linux_gcc -C yaskkserv_make_dictionary all
+Makefile.bsd_cygwin_linux_gcc:43: /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_make_dictionary: No such file or directory
+perl -w /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/tools/build/makedepend.bsd_cygwin_linux_gcc /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_make_dictionary /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/depend.yaskkserv_make_dictionary ' g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Ofast -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum' ' g++ -E -MM  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc  -D YASKKSERV_VERSION=\"1.1.0\" yaskkserv_make_dictionary.cpp'
+g++  -D YASKKSERV_ARCHITECTURE_BSD_CYGWIN_LINUX_GCC -std=c++11 -D YASKKSERV_ARCHITECTURE_CXX11 -D YASKKSERV_ARCHITECTURE_BYTE_ORDER_VAX  -D YASKKSERV_CONFIG_ENABLE_SYSLOG -D YASKKSERV_CONFIG_ENABLE_ERROR_MESSAGE -D YASKKSERV_CONFIG_ICONV_ARGUMENT_CHAR -D YASKKSERV_CONFIG_ENABLE_GOOGLE_JAPANESE_INPUT -D YASKKSERV_CONFIG_HEADER_HAVE_ICONV_H -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_MSG_NOSIGNAL -D YASKKSERV_CONFIG_MACRO_HAVE_SYMBOL_RESOLV_RETRANS_RETRY -D YASKKSERV_CONFIG_FUNCTION_HAVE_TIMER_CREATE -D YASKKSERV_CONFIG_HAVE_PTHREAD -I . -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture -I /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/source/skk/architecture/bsd_cygwin_linux_gcc   -fno-exceptions -fno-rtti -fmessage-length=0 -pipe -fPIC -D YASKKSERV_VERSION=\"1.1.0\" -march=native -Ofast -Wabi -Wcomments -Wctor-dtor-privacy -Wdeprecated -Wendif-labels -Wfloat-equal -Wformat-extra-args -Wformat-nonliteral -Wformat-security -Wformat-y2k -Wimport -Winvalid-pch -Wmissing-include-dirs -Wmultichar -Wpragmas -Wredundant-decls -Wundef -Wunused-macros -Wvariadic-macros -Winvalid-offsetof -Wnon-template-friend -Wpmf-conversions -Wstrict-null-sentinel -Wall -Wextra -W -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wsynth -Wundef -Wshadow -Wlarger-than-16384 -Wpointer-arith -Wcast-qual -Wcast-align -Wconversion -Wsign-compare -Waggregate-return -Wmissing-noreturn -Wredundant-decls -Wnon-virtual-dtor -Wreorder -Wswitch-default -Wswitch-enum -c yaskkserv_make_dictionary.cpp -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_make_dictionary/yaskkserv_make_dictionary.o
+g++    -pipe -L/usr/lib -fPIC -o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_make_dictionary/yaskkserv_make_dictionary /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_utility_architecture.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_gcc.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_syslog.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/skk/architecture/bsd_cygwin_linux_gcc/skk_socket.o /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_make_dictionary/yaskkserv_make_dictionary.o
+strip /tmp/d20160302-601-78krdj/yaskkserv-1.1.0/var/bsd_cygwin_linux_gcc/release/yaskkserv_make_dictionary/yaskkserv_make_dictionary
+date
+Wed Mar  2 11:48:10 UTC 2016
+echo '*** done.'
+*** done.
+[32mTCZBUILD[0m: install -D ./var/*/release/yaskkserv_simple/yaskkserv_simple /tmp/d20160302-601-78krdj/pkgroot//usr/local/bin/yaskkserv
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-78krdj/pkgroot//usr/local/share/yaskkserv
+[32mTCZBUILD[0m: ./var/*/release/yaskkserv_make_dictionary/yaskkserv_make_dictionary /work//distfiles//SKK-JISYO.L /tmp/d20160302-601-78krdj/pkgroot//usr/local/share/yaskkserv/SKK-JISYO.L.yaskkserv
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/bin
+usr/local/bin/yaskkserv
+usr/local/share
+usr/local/share/yaskkserv
+usr/local/share/yaskkserv/SKK-JISYO.L.yaskkserv
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_yaskkserv.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_yaskkserv.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-78krdj/pkgroot/ mypkgs_im_yaskkserv.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_yaskkserv.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 1746.63 Kbytes (1.71 Mbytes)
+	48.25% of uncompressed filesystem size (3619.87 Kbytes)
+Inode table size 1848 bytes (1.80 Kbytes)
+	47.65% of uncompressed inode table size (3878 bytes)
+Directory table size 116 bytes (0.11 Kbytes)
+	62.70% of uncompressed directory table size (185 bytes)
+Number of duplicate files found 0
+Number of inodes 8
+Number of files 2
+Number of fragments 0
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 6
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_yaskkserv.tcz > mypkgs_im_yaskkserv.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_yaskkserv.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_yaskkserv.tcz
+-rw-r--r--    1 tc       staff       1.7M Mar  2 11:48 [0;0mmypkgs_im_yaskkserv.tcz[0m

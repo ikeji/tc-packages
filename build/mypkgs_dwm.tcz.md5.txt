@@ -1,1 +1,1 @@
-4599a7bca696610ed8e8ad9870f0edcd  mypkgs_dwm.tcz
+2f0c7497e63481cf62de91f4e7b817ce  mypkgs_dwm.tcz

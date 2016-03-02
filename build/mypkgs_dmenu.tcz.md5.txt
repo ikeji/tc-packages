@@ -1,1 +1,1 @@
-5c9ad9f46a53602e4bcbcea213fa9fc9  mypkgs_dmenu.tcz
+e7653a800879cc6387ee826210d3e72a  mypkgs_dmenu.tcz

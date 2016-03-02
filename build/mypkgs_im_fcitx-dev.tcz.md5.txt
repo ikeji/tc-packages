@@ -1,1 +1,1 @@
-70bca6e575d498cb69fe25d2de1d8a6e  mypkgs_im_fcitx-dev.tcz
+d98e39c55ee00a1fb182e57642662dad  mypkgs_im_fcitx-dev.tcz

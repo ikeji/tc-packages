@@ -1,0 +1,1121 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make libusb-dev perl5
+compiletc is already downloaded.
+make is already downloaded.
+libusb-dev is already downloaded.
+perl5 is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make libusb-dev perl5 | tee /tmp/d20160302-601-1jx5x90/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+udev-lib.tcz: OK
+Parallel unsquashfs: Using 8 processors
+13 inodes (17 blocks) to write
+
+[=================================================================|] 17/17 100%
+
+created 13 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+udev-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (23 blocks) to write
+
+[=================================================================|] 23/23 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libusb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (48 blocks) to write
+
+[=================================================================|] 48/48 100%
+
+created 4 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libusb-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1489 inodes (9759 blocks) to write
+
+[=============================================================|] 9759/9759 100%
+
+created 1485 files
+created 307 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+perl5.tcz: OK
+[32mTCZBUILD[0m: tce-load -ic mypkgs_gnupg_pcsc-lite-dev | tee /tmp/d20160302-601-1jx5x90/stdout
+Parallel unsquashfs: Using 8 processors
+8 inodes (139 blocks) to write
+
+[===============================================================|] 139/139 100%
+
+created 4 files
+created 6 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_gnupg_pcsc-lite.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_gnupg_pcsc-lite-dev.tcz: OK
+ccid-1.4.21.tar.bz2: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//ccid-1.4.21.tar.bz2
+ccid-1.4.21/
+ccid-1.4.21/NEWS
+ccid-1.4.21/MacOSX/
+ccid-1.4.21/MacOSX/reader.h
+ccid-1.4.21/MacOSX/ifdhandler.h
+ccid-1.4.21/MacOSX/configure
+ccid-1.4.21/MacOSX/wintypes.h
+ccid-1.4.21/MacOSX/convert_reader_h.pl
+ccid-1.4.21/MacOSX/winscard.h
+ccid-1.4.21/MacOSX/debuglog.h
+ccid-1.4.21/MacOSX/pcsclite.h
+ccid-1.4.21/Makefile.in
+ccid-1.4.21/COPYING
+ccid-1.4.21/config.sub
+ccid-1.4.21/configure.ac
+ccid-1.4.21/configure
+ccid-1.4.21/m4/
+ccid-1.4.21/m4/ltsugar.m4
+ccid-1.4.21/m4/as-ac-expand.m4
+ccid-1.4.21/m4/ax_pthread.m4
+ccid-1.4.21/m4/ltversion.m4
+ccid-1.4.21/m4/ltoptions.m4
+ccid-1.4.21/m4/lt~obsolete.m4
+ccid-1.4.21/m4/libtool.m4
+ccid-1.4.21/src/
+ccid-1.4.21/src/ifdhandler.c
+ccid-1.4.21/src/Makefile.in
+ccid-1.4.21/src/reader.conf.in
+ccid-1.4.21/src/utils.c
+ccid-1.4.21/src/strlcpycat.h
+ccid-1.4.21/src/92_pcscd_ccid.rules
+ccid-1.4.21/src/create_Info_plist.pl
+ccid-1.4.21/src/Info.plist.src
+ccid-1.4.21/src/openct/
+ccid-1.4.21/src/openct/checksum.h
+ccid-1.4.21/src/openct/proto-t1.h
+ccid-1.4.21/src/openct/buffer.h
+ccid-1.4.21/src/openct/buffer.c
+ccid-1.4.21/src/openct/checksum.c
+ccid-1.4.21/src/openct/LICENSE
+ccid-1.4.21/src/openct/proto-t1.c
+ccid-1.4.21/src/ccid.h
+ccid-1.4.21/src/simclist.h
+ccid-1.4.21/src/simclist.c
+ccid-1.4.21/src/ccid.c
+ccid-1.4.21/src/tokenparser.c
+ccid-1.4.21/src/strlcpy.c
+ccid-1.4.21/src/ccid_serial.h
+ccid-1.4.21/src/Makefile.am
+ccid-1.4.21/src/ccid_serial.c
+ccid-1.4.21/src/commands.h
+ccid-1.4.21/src/defs.h
+ccid-1.4.21/src/debug.h
+ccid-1.4.21/src/commands.c
+ccid-1.4.21/src/parser.h
+ccid-1.4.21/src/convert_version.pl
+ccid-1.4.21/src/ccid_usb.h
+ccid-1.4.21/src/utils.h
+ccid-1.4.21/src/tokenparser.l
+ccid-1.4.21/src/parse.c
+ccid-1.4.21/src/ccid_usb.c
+ccid-1.4.21/src/ccid_ifdhandler.h
+ccid-1.4.21/src/misc.h
+ccid-1.4.21/src/debug.c
+ccid-1.4.21/src/towitoko/
+ccid-1.4.21/src/towitoko/COPYING
+ccid-1.4.21/src/towitoko/atr.c
+ccid-1.4.21/src/towitoko/pps.c
+ccid-1.4.21/src/towitoko/defines.h
+ccid-1.4.21/src/towitoko/pps.h
+ccid-1.4.21/src/towitoko/README
+ccid-1.4.21/src/towitoko/atr.h
+ccid-1.4.21/SCARDGETATTRIB.txt
+ccid-1.4.21/contrib/
+ccid-1.4.21/contrib/Makefile.in
+ccid-1.4.21/contrib/Kobil_mIDentity_switch/
+ccid-1.4.21/contrib/Kobil_mIDentity_switch/Makefile.in
+ccid-1.4.21/contrib/Kobil_mIDentity_switch/Makefile.am
+ccid-1.4.21/contrib/Kobil_mIDentity_switch/Kobil_mIDentity_switch.8
+ccid-1.4.21/contrib/Kobil_mIDentity_switch/README_Kobil_mIDentity_switch.txt
+ccid-1.4.21/contrib/Kobil_mIDentity_switch/Kobil_mIDentity_switch.c
+ccid-1.4.21/contrib/Makefile.am
+ccid-1.4.21/contrib/RSA_SecurID/
+ccid-1.4.21/contrib/RSA_SecurID/Makefile.in
+ccid-1.4.21/contrib/RSA_SecurID/Makefile.am
+ccid-1.4.21/contrib/RSA_SecurID/RSA_SecurID_getpasswd.c
+ccid-1.4.21/contrib/RSA_SecurID/RSA_SecurID_getpasswd.1
+ccid-1.4.21/bootstrap
+ccid-1.4.21/Makefile.am
+ccid-1.4.21/aclocal.m4
+ccid-1.4.21/install-sh
+ccid-1.4.21/INSTALL
+ccid-1.4.21/examples/
+ccid-1.4.21/examples/Makefile.in
+ccid-1.4.21/examples/PCSCv2part10.c
+ccid-1.4.21/examples/Makefile.am
+ccid-1.4.21/examples/GPL-2
+ccid-1.4.21/examples/PCSCv2part10.h
+ccid-1.4.21/examples/scardcontrol.c
+ccid-1.4.21/readers/
+ccid-1.4.21/readers/Makefile.in
+ccid-1.4.21/readers/Makefile.am
+ccid-1.4.21/readers/supported_readers.txt
+ccid-1.4.21/config.h.in
+ccid-1.4.21/ylwrap
+ccid-1.4.21/missing
+ccid-1.4.21/ltmain.sh
+ccid-1.4.21/depcomp
+ccid-1.4.21/config.guess
+ccid-1.4.21/compile
+ccid-1.4.21/ar-lib
+ccid-1.4.21/README
+ccid-1.4.21/ChangeLog
+ccid-1.4.21/AUTHORS
+[32mTCZBUILD[0m: ./configure 
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... ./install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking whether make sets $(MAKE)... (cached) yes
+checking whether ln -s works... yes
+checking for flex... flex
+checking lex output file root... lex.yy
+checking lex library... -lfl
+checking whether yytext is a pointer... yes
+checking for ar... ar
+checking the archiver (ar) interface... ar
+checking for pkg-config... /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for PCSC... yes
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking ifdhandler.h usability... yes
+checking ifdhandler.h presence... yes
+checking for ifdhandler.h... yes
+checking reader.h usability... yes
+checking reader.h presence... yes
+checking for reader.h... yes
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for fgrep... /usr/local/bin/grep -F
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/local/bin/nm -B
+checking the name lister (/usr/local/bin/nm -B) interface... BSD nm
+checking the maximum length of command line arguments... 32768
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... no
+checking how to convert x86_64-pc-linux-gnu file names to x86_64-pc-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-pc-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/local/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+./configure: ./configure.lineno: line 1: /usr/bin/file: not found
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for ANSI C header files... (cached) yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking for stdlib.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking termios.h usability... yes
+checking termios.h presence... yes
+checking for termios.h... yes
+checking for string.h... (cached) yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking for sys/types.h... (cached) yes
+checking stdarg.h usability... yes
+checking stdarg.h presence... yes
+checking for stdarg.h... yes
+checking arpa/inet.h usability... yes
+checking arpa/inet.h presence... yes
+checking for arpa/inet.h... yes
+checking stdio.h usability... yes
+checking stdio.h presence... yes
+checking for stdio.h... yes
+checking for an ANSI C-conforming const... yes
+checking for size_t... yes
+checking whether time.h and sys/time.h may both be included... yes
+checking for select... yes
+checking for strerror... yes
+checking for strncpy... yes
+checking for memcpy... yes
+checking for strlcpy... no
+checking for strlcat... no
+checking for LIBUSB... yes
+checking libusb.h usability... yes
+checking libusb.h presence... yes
+checking for libusb.h... yes
+checking for libusb_init... yes
+checking for -fvisibility=hidden... yes
+checking for the pthreads library -lpthreads... no
+checking whether pthreads work without any flags... no
+checking whether pthreads work with -Kthread... no
+checking whether pthreads work with -kthread... no
+checking for the pthreads library -llthread... no
+checking whether pthreads work with -pthread... yes
+checking for joinable pthread attribute... PTHREAD_CREATE_JOINABLE
+checking if more special flags are required for pthreads... no
+checking for PTHREAD_PRIO_INHERIT... yes
+checking for SCardEstablishContext... yes
+
+libccid has been configured with following options:
+
+Version:             1.4.21
+User binaries:       /usr/local/bin
+Configuration files: /usr/local/etc
+
+
+Host:                x86_64-pc-linux-gnu
+Compiler:            gcc
+Preprocessor flags:  
+Compiler flags:      -g -O2
+Preprocessor flags:  
+Linker flags:        
+Libraries:           
+
+PCSC_CFLAGS:         -pthread -I/usr/local/include/PCSC 
+PCSC_LIBS:           -L/usr/local/lib -lpcsclite 
+PTHREAD_CFLAGS:      -pthread
+PTHREAD_LIBS:        
+BUNDLE_HOST:         Linux
+DYN_LIB_EXT:         so
+LIBUSB_CFLAGS:       -I/usr/local/include/libusb-1.0 
+LIBUSB_LIBS:         -L/usr/local/lib -lusb-1.0 
+SYMBOL_VISIBILITY:   -fvisibility=hidden
+NOCLASS:             
+
+libusb support:          yes
+composite as multislot:  no
+multi threading:         yes
+bundle directory name:   ifd-ccid.bundle
+USB drop directory:      /usr/local/lib/pcsc/drivers
+serial Twin support:     no
+serial twin install dir: /usr/local/lib/pcsc/drivers/serial
+serial config directory: /usr/local/etc/reader.conf.d
+compiled for pcsc-lite:  yes
+syslog debug:            no
+class driver:            yes
+
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating readers/Makefile
+config.status: creating contrib/Makefile
+config.status: creating contrib/Kobil_mIDentity_switch/Makefile
+config.status: creating contrib/RSA_SecurID/Makefile
+config.status: creating examples/Makefile
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+[32mTCZBUILD[0m: make 
+make  all-recursive
+make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+Making all in readers
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+Making all in examples
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+  CC       scardcontrol-scardcontrol.o
+  CC       scardcontrol-PCSCv2part10.o
+  CCLD     scardcontrol
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+Making all in contrib
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+Making all in Kobil_mIDentity_switch
+make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+  CC       Kobil_mIDentity_switch-Kobil_mIDentity_switch.o
+  CCLD     Kobil_mIDentity_switch
+make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+Making all in RSA_SecurID
+make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+  CC       RSA_SecurID_getpasswd-RSA_SecurID_getpasswd.o
+  CCLD     RSA_SecurID_getpasswd
+make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+Making all in src
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
+  CC       libccid_la-ccid.lo
+  CC       libccid_la-commands.lo
+  CC       libccid_la-ifdhandler.lo
+  CC       libccid_la-utils.lo
+  CC       libccid_la-ccid_usb.lo
+  CC       libccid_la-tokenparser.lo
+  CC       libccid_la-strlcpy.lo
+  CC       libccid_la-simclist.lo
+  CC       towitoko/libccid_la-atr.lo
+  CC       towitoko/libccid_la-pps.lo
+  CC       openct/libccid_la-buffer.lo
+  CC       openct/libccid_la-checksum.lo
+  CC       openct/libccid_la-proto-t1.lo
+  CCLD     libccid.la
+  CC       parse-parse.o
+  CC       parse-debug.o
+  CC       parse-ccid_usb.o
+  CC       parse-tokenparser.o
+  CC       parse-strlcpy.o
+  CC       parse-simclist.o
+  CCLD     parse
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1jx5x90/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-1jx5x90/pkgroot/  install
+Making install in readers
+make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+Making install in examples
+make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+Making install in contrib
+make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+Making install in Kobil_mIDentity_switch
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+Making install in RSA_SecurID
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+Making install in src
+make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
+./create_Info_plist.pl ./../readers/supported_readers.txt ./Info.plist.src --target=libccid.so --version=1.4.21  > Info.plist
+/bin/sh /tmp/d20160302-601-1jx5x90/ccid-1.4.21/install-sh -d /tmp/d20160302-601-1jx5x90/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/
+cp Info.plist /tmp/d20160302-601-1jx5x90/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/
+cp .libs/libccid.so /tmp/d20160302-601-1jx5x90/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so
+
+[01;31m***************
+
+copy the src/92_pcscd_ccid.rules file in udev directory (/etc/udev/rules.d/)
+
+***************
+[0m
+make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
+make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1jx5x90/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1jx5x90/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/lib
+usr/local/lib/pcsc
+usr/local/lib/pcsc/drivers
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux
+usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_gnupg_ccid.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_gnupg_ccid.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1jx5x90/pkgroot/ mypkgs_gnupg_ccid.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_gnupg_ccid.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 143.26 Kbytes (0.14 Mbytes)
+	44.96% of uncompressed filesystem size (318.61 Kbytes)
+Inode table size 342 bytes (0.33 Kbytes)
+	50.74% of uncompressed inode table size (674 bytes)
+Directory table size 166 bytes (0.16 Kbytes)
+	63.85% of uncompressed directory table size (260 bytes)
+Number of duplicate files found 0
+Number of inodes 11
+Number of files 2
+Number of fragments 0
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 9
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_gnupg_ccid.tcz > mypkgs_gnupg_ccid.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_gnupg_ccid.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_gnupg_ccid.tcz
+-rw-r--r--    1 tc       staff     144.0K Mar  2 11:11 [0;0mmypkgs_gnupg_ccid.tcz[0m

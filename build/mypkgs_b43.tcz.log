@@ -1,0 +1,865 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make b43-fwcutter
+compiletc is already downloaded.
+make is already downloaded.
+b43-fwcutter is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make b43-fwcutter | tee /tmp/d20160302-601-1rbzejz/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (8 blocks) to write
+
+[===================================================================|] 8/8 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+b43-fwcutter.tcz: OK
+broadcom-wl-5.100.138.tar.bz2: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//broadcom-wl-5.100.138.tar.bz2
+broadcom-wl-5.100.138/
+broadcom-wl-5.100.138/linux/
+broadcom-wl-5.100.138/linux/wl_apsta.o
+broadcom-wl-5.100.138/linux/wl_ap.o
+broadcom-wl-5.100.138/linux/wl_sta.o
+broadcom-wl-5.100.138/README
+broadcom-wl-5.100.138/config/
+broadcom-wl-5.100.138/config/wlconfig_lx_shared
+broadcom-wl-5.100.138/config/wl.mk
+broadcom-wl-5.100.138/config/wl_default
+broadcom-wl-5.100.138/config/wl_hnd
+broadcom-wl-5.100.138/config/wlconfig_nomimo
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1rbzejz/pkgroot//usr/local/lib/firmware
+[32mTCZBUILD[0m: b43-fwcutter -w /tmp/d20160302-601-1rbzejz/pkgroot//usr/local/lib/firmware linux/wl_apsta.o
+This file is recognised as:
+  filename   :  wl_apsta.o
+  version    :  666.2
+  MD5        :  e1b05e268bcdbfef3560c28fc161f30e
+Extracting b43/lp0initvals14.fw
+Extracting b43/lcn0bsinitvals25.fw
+Extracting b43/n0bsinitvals25.fw
+Extracting b43/n0bsinitvals17.fw
+Extracting b43/ucode17_mimo.fw
+Extracting b43/ucode16_lp.fw
+Extracting b43/sslpn1initvals27.fw
+Extracting b43/lp2bsinitvals19.fw
+Extracting b43/sslpn3bsinitvals21.fw
+Extracting b43/ucode16_sslpn.fw
+  ucode time:     01:15:07
+Extracting b43/ucode25_lcn.fw
+Extracting b43/ucode21_sslpn.fw
+Extracting b43/lp0bsinitvals14.fw
+Extracting b43/b0g0initvals9.fw
+Extracting b43/ucode20_sslpn.fw
+Extracting b43/a0g1bsinitvals9.fw
+Extracting b43/lp1initvals20.fw
+Extracting b43/b0g0bsinitvals13.fw
+Extracting b43/lp2initvals19.fw
+Extracting b43/n2bsinitvals19.fw
+Extracting b43/sslpn4bsinitvals22.fw
+Extracting b43/ucode16_sslpn_nobt.fw
+  ucode date:     2011-02-23
+Extracting b43/n1bsinitvals20.fw
+Extracting b43/n1initvals20.fw
+Extracting b43/b0g0bsinitvals5.fw
+Extracting b43/ucode22_sslpn.fw
+Extracting b43/b0g0initvals13.fw
+Extracting b43/ht0initvals26.fw
+Extracting b43/ucode33_lcn40.fw
+Extracting b43/sslpn1bsinitvals20.fw
+Extracting b43/lcn400bsinitvals33.fw
+Extracting b43/ucode14.fw
+Extracting b43/a0g0initvals5.fw
+Extracting b43/lp1bsinitvals22.fw
+Extracting b43/n16initvals30.fw
+Extracting b43/lp0bsinitvals16.fw
+Extracting b43/lcn1bsinitvals25.fw
+Extracting b43/lcn400initvals33.fw
+Extracting b43/n0bsinitvals24.fw
+Extracting b43/lcn2bsinitvals26.fw
+Extracting b43/lcn1initvals26.fw
+Extracting b43/n0bsinitvals22.fw
+Extracting b43/n18initvals32.fw
+Extracting b43/lcn2initvals26.fw
+Extracting b43/a0g1bsinitvals5.fw
+Extracting b43/n0bsinitvals11.fw
+Extracting b43/lcn2initvals24.fw
+Extracting b43/lcn0initvals26.fw
+Extracting b43/n0absinitvals11.fw
+Extracting b43/ucode21_sslpn_nobt.fw
+  ucode time:     01:15:07
+Extracting b43/ucode26_mimo.fw
+Extracting b43/n2initvals19.fw
+Extracting b43/sslpn3initvals21.fw
+Extracting b43/a0g1bsinitvals13.fw
+Extracting b43/sslpn4initvals22.fw
+Extracting b43/pcm5.fw
+Extracting b43/ucode22_mimo.fw
+Extracting b43/ucode9.fw
+Extracting b43/lcn2initvals25.fw
+Extracting b43/lp1initvals22.fw
+Extracting b43/sslpn1bsinitvals27.fw
+Extracting b43/lcn0initvals24.fw
+Extracting b43/ucode32_mimo.fw
+Extracting b43/a0g0bsinitvals9.fw
+Extracting b43/n18bsinitvals32.fw
+Extracting b43/n0initvals24.fw
+Extracting b43/n0initvals25.fw
+Extracting b43/a0g1initvals5.fw
+Extracting b43/ucode24_lcn.fw
+Extracting b43/n0initvals17.fw
+Extracting b43/n0bsinitvals16.fw
+Extracting b43/lp0initvals15.fw
+Extracting b43/b0g0initvals5.fw
+Extracting b43/ucode20_sslpn_nobt.fw
+Extracting b43/lcn1initvals24.fw
+Extracting b43/sslpn0initvals16.fw
+Extracting b43/a0g1initvals13.fw
+Extracting b43/lp1bsinitvals20.fw
+Extracting b43/sslpn2initvals19.fw
+Extracting b43/a0g1initvals9.fw
+Extracting b43/lcn1bsinitvals24.fw
+Extracting b43/ucode5.fw
+Extracting b43/lcn2bsinitvals24.fw
+Extracting b43/lp0bsinitvals13.fw
+Extracting b43/n0initvals16.fw
+Extracting b43/ucode19_sslpn_nobt.fw
+Extracting b43/b0g0bsinitvals9.fw
+Extracting b43/ucode11.fw
+Extracting b43/lp0initvals16.fw
+Extracting b43/ucode16_mimo.fw
+Extracting b43/lcn0bsinitvals26.fw
+Extracting b43/ht0initvals29.fw
+Extracting b43/lcn2bsinitvals25.fw
+Extracting b43/a0g0initvals9.fw
+Extracting b43/ucode29_mimo.fw
+Extracting b43/lcn0bsinitvals24.fw
+Extracting b43/ucode19_sslpn.fw
+Extracting b43/lcn1initvals25.fw
+Extracting b43/ucode30_mimo.fw
+Extracting b43/n16bsinitvals30.fw
+Extracting b43/ucode25_mimo.fw
+Extracting b43/ucode24_mimo.fw
+Extracting b43/ucode27_sslpn.fw
+Extracting b43/lp0initvals13.fw
+Extracting b43/a0g0bsinitvals5.fw
+Extracting b43/ht0bsinitvals26.fw
+Extracting b43/ucode13.fw
+Extracting b43/sslpn2bsinitvals19.fw
+Extracting b43/ucode15.fw
+Extracting b43/lp0bsinitvals15.fw
+Extracting b43/n0initvals11.fw
+Extracting b43/lcn0initvals25.fw
+Extracting b43/sslpn0bsinitvals16.fw
+Extracting b43/sslpn1initvals20.fw
+Extracting b43/lcn1bsinitvals26.fw
+Extracting b43/n0initvals22.fw
+Extracting b43/ht0bsinitvals29.fw
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/lib
+usr/local/lib/firmware
+usr/local/lib/firmware/b43
+usr/local/lib/firmware/b43/b0g0bsinitvals13.fw
+usr/local/lib/firmware/b43/b0g0initvals9.fw
+usr/local/lib/firmware/b43/ucode21_sslpn.fw
+usr/local/lib/firmware/b43/lp0bsinitvals15.fw
+usr/local/lib/firmware/b43/ucode24_lcn.fw
+usr/local/lib/firmware/b43/ucode25_mimo.fw
+usr/local/lib/firmware/b43/ht0bsinitvals29.fw
+usr/local/lib/firmware/b43/lp0initvals14.fw
+usr/local/lib/firmware/b43/a0g0bsinitvals5.fw
+usr/local/lib/firmware/b43/lcn1initvals26.fw
+usr/local/lib/firmware/b43/ucode16_sslpn.fw
+usr/local/lib/firmware/b43/n2bsinitvals19.fw
+usr/local/lib/firmware/b43/n0initvals22.fw
+usr/local/lib/firmware/b43/a0g1initvals5.fw
+usr/local/lib/firmware/b43/lp0initvals15.fw
+usr/local/lib/firmware/b43/sslpn2bsinitvals19.fw
+usr/local/lib/firmware/b43/ucode22_sslpn.fw
+usr/local/lib/firmware/b43/n2initvals19.fw
+usr/local/lib/firmware/b43/sslpn0bsinitvals16.fw
+usr/local/lib/firmware/b43/lp0bsinitvals13.fw
+usr/local/lib/firmware/b43/a0g1bsinitvals13.fw
+usr/local/lib/firmware/b43/lcn1bsinitvals24.fw
+usr/local/lib/firmware/b43/n1bsinitvals20.fw
+usr/local/lib/firmware/b43/n0initvals24.fw
+usr/local/lib/firmware/b43/b0g0bsinitvals5.fw
+usr/local/lib/firmware/b43/n18initvals32.fw
+usr/local/lib/firmware/b43/sslpn1bsinitvals20.fw
+usr/local/lib/firmware/b43/ucode15.fw
+usr/local/lib/firmware/b43/ucode19_sslpn_nobt.fw
+usr/local/lib/firmware/b43/a0g1bsinitvals5.fw
+usr/local/lib/firmware/b43/lcn2initvals24.fw
+usr/local/lib/firmware/b43/ucode21_sslpn_nobt.fw
+usr/local/lib/firmware/b43/ucode16_mimo.fw
+usr/local/lib/firmware/b43/lp0bsinitvals14.fw
+usr/local/lib/firmware/b43/lp1bsinitvals22.fw
+usr/local/lib/firmware/b43/lp1bsinitvals20.fw
+usr/local/lib/firmware/b43/lcn0bsinitvals26.fw
+usr/local/lib/firmware/b43/ucode5.fw
+usr/local/lib/firmware/b43/sslpn1initvals27.fw
+usr/local/lib/firmware/b43/a0g1initvals13.fw
+usr/local/lib/firmware/b43/n0bsinitvals11.fw
+usr/local/lib/firmware/b43/lcn0initvals24.fw
+usr/local/lib/firmware/b43/ucode14.fw
+usr/local/lib/firmware/b43/ucode9.fw
+usr/local/lib/firmware/b43/lp0initvals16.fw
+usr/local/lib/firmware/b43/b0g0initvals5.fw
+usr/local/lib/firmware/b43/sslpn4initvals22.fw
+usr/local/lib/firmware/b43/ucode26_mimo.fw
+usr/local/lib/firmware/b43/ucode20_sslpn_nobt.fw
+usr/local/lib/firmware/b43/sslpn1initvals20.fw
+usr/local/lib/firmware/b43/ucode16_lp.fw
+usr/local/lib/firmware/b43/ucode17_mimo.fw
+usr/local/lib/firmware/b43/ucode13.fw
+usr/local/lib/firmware/b43/lcn1initvals24.fw
+usr/local/lib/firmware/b43/ucode32_mimo.fw
+usr/local/lib/firmware/b43/lcn2initvals25.fw
+usr/local/lib/firmware/b43/ucode16_sslpn_nobt.fw
+usr/local/lib/firmware/b43/lp2initvals19.fw
+usr/local/lib/firmware/b43/a0g1initvals9.fw
+usr/local/lib/firmware/b43/lp1initvals22.fw
+usr/local/lib/firmware/b43/lcn400initvals33.fw
+usr/local/lib/firmware/b43/lcn0bsinitvals24.fw
+usr/local/lib/firmware/b43/sslpn3bsinitvals21.fw
+usr/local/lib/firmware/b43/n1initvals20.fw
+usr/local/lib/firmware/b43/n0bsinitvals24.fw
+usr/local/lib/firmware/b43/ht0initvals29.fw
+usr/local/lib/firmware/b43/n0initvals16.fw
+usr/local/lib/firmware/b43/lp1initvals20.fw
+usr/local/lib/firmware/b43/n16bsinitvals30.fw
+usr/local/lib/firmware/b43/ucode24_mimo.fw
+usr/local/lib/firmware/b43/ucode11.fw
+usr/local/lib/firmware/b43/lcn1initvals25.fw
+usr/local/lib/firmware/b43/n0bsinitvals22.fw
+usr/local/lib/firmware/b43/n0bsinitvals25.fw
+usr/local/lib/firmware/b43/lcn0bsinitvals25.fw
+usr/local/lib/firmware/b43/ucode19_sslpn.fw
+usr/local/lib/firmware/b43/ucode27_sslpn.fw
+usr/local/lib/firmware/b43/ucode29_mimo.fw
+usr/local/lib/firmware/b43/lcn2bsinitvals25.fw
+usr/local/lib/firmware/b43/ucode25_lcn.fw
+usr/local/lib/firmware/b43/lcn1bsinitvals26.fw
+usr/local/lib/firmware/b43/a0g0initvals5.fw
+usr/local/lib/firmware/b43/n0initvals17.fw
+usr/local/lib/firmware/b43/sslpn0initvals16.fw
+usr/local/lib/firmware/b43/n18bsinitvals32.fw
+usr/local/lib/firmware/b43/n0initvals11.fw
+usr/local/lib/firmware/b43/ucode33_lcn40.fw
+usr/local/lib/firmware/b43/lcn0initvals26.fw
+usr/local/lib/firmware/b43/sslpn4bsinitvals22.fw
+usr/local/lib/firmware/b43/a0g1bsinitvals9.fw
+usr/local/lib/firmware/b43/b0g0bsinitvals9.fw
+usr/local/lib/firmware/b43/n0bsinitvals16.fw
+usr/local/lib/firmware/b43/lcn1bsinitvals25.fw
+usr/local/lib/firmware/b43/n0bsinitvals17.fw
+usr/local/lib/firmware/b43/ucode22_mimo.fw
+usr/local/lib/firmware/b43/a0g0bsinitvals9.fw
+usr/local/lib/firmware/b43/lcn2bsinitvals24.fw
+usr/local/lib/firmware/b43/lcn2initvals26.fw
+usr/local/lib/firmware/b43/n16initvals30.fw
+usr/local/lib/firmware/b43/lp0initvals13.fw
+usr/local/lib/firmware/b43/a0g0initvals9.fw
+usr/local/lib/firmware/b43/lcn0initvals25.fw
+usr/local/lib/firmware/b43/ucode30_mimo.fw
+usr/local/lib/firmware/b43/n0absinitvals11.fw
+usr/local/lib/firmware/b43/b0g0initvals13.fw
+usr/local/lib/firmware/b43/n0initvals25.fw
+usr/local/lib/firmware/b43/lp0bsinitvals16.fw
+usr/local/lib/firmware/b43/ht0bsinitvals26.fw
+usr/local/lib/firmware/b43/lcn2bsinitvals26.fw
+usr/local/lib/firmware/b43/pcm5.fw
+usr/local/lib/firmware/b43/lcn400bsinitvals33.fw
+usr/local/lib/firmware/b43/sslpn3initvals21.fw
+usr/local/lib/firmware/b43/lp2bsinitvals19.fw
+usr/local/lib/firmware/b43/sslpn1bsinitvals27.fw
+usr/local/lib/firmware/b43/ht0initvals26.fw
+usr/local/lib/firmware/b43/sslpn2initvals19.fw
+usr/local/lib/firmware/b43/ucode20_sslpn.fw
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_b43.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_b43.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1rbzejz/pkgroot/ mypkgs_b43.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_b43.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 416.31 Kbytes (0.41 Mbytes)
+	57.85% of uncompressed filesystem size (719.69 Kbytes)
+Inode table size 1178 bytes (1.15 Kbytes)
+	25.62% of uncompressed inode table size (4598 bytes)
+Directory table size 1015 bytes (0.99 Kbytes)
+	33.42% of uncompressed directory table size (3037 bytes)
+Number of duplicate files found 48
+Number of inodes 123
+Number of files 117
+Number of fragments 22
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 6
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_b43.tcz > mypkgs_b43.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_b43.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_b43.tcz
+-rw-r--r--    1 tc       staff     420.0K Mar  2 11:30 [0;0mmypkgs_b43.tcz[0m

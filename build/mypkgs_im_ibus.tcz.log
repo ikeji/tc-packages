@@ -263,7 +263,7 @@ dconf-dev is already downloaded.
 python3 is already downloaded.
 libnotify-dev is already downloaded.
 iso-codes is already downloaded.
-[32mTCZBUILD[0m: tce-load -ic compiletc make openssl intltool gtk2-dev gtk3-dev dconf-dev python3 libnotify-dev iso-codes | tee /tmp/d20160302-601-fcgaxt/stdout
+[32mTCZBUILD[0m: tce-load -ic compiletc make openssl intltool gtk2-dev gtk3-dev dconf-dev python3 libnotify-dev iso-codes | tee /tmp/d20160302-601-1pv2don/stdout
 openssl is already installed!
 Parallel unsquashfs: Using 8 processors
 3 inodes (27 blocks) to write
@@ -477,7 +477,7 @@ gcc_base-dev.tcz: OK
 Parallel unsquashfs: Using 8 processors
 1032 inodes (13491 blocks) to write
 
-[===========================================================|] 13491/13491 100%
+[===========================================================/] 13491/13491 100%
 
 created 1019 files
 created 68 directories
@@ -2564,15 +2564,15 @@ Build options:
 
 [32mTCZBUILD[0m: make 
 make  all-recursive
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
 Making all in src
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
   GEN      ibusmarshalers.h
   GEN      ibusmarshalers.c
 make  all-recursive
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 Making all in .
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
   CC       ibusmarshalers.lo
   CC       ibuscomposetable.lo
   CC       ibusenumtypes.lo
@@ -2771,9 +2771,9 @@ ibusbus.c:2342:5: warning: 'g_simple_async_result_new' is deprecated (declared a
   CC       ibusenginesimple.lo
   CC       ibusregistry.lo
   CCLD     libibus-1.0.la
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 Making all in tests
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src/tests'
   CC       ibus-bus.o
   CCLD     ibus-bus
   CC       ibus-config.o
@@ -2800,19 +2800,19 @@ make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
   CCLD     ibus-engine-switch
   CC       ibus_compose-ibus-compose.o
   CCLD     ibus-compose
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src/tests'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 Making all in bindings
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
 Making all in util
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
 Making all in IMdkit
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util/IMdkit'
   CC       libIMdkit_la-FrameMgr.lo
   CC       libIMdkit_la-i18nAttr.lo
   CC       libIMdkit_la-i18nClbk.lo
@@ -2827,91 +2827,91 @@ make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
   CC       libIMdkit_la-IMMethod.lo
   CC       libIMdkit_la-IMValues.lo
   CCLD     libIMdkit.la
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util/IMdkit'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
 Making all in conf
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
 Making all in dconf
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/dconf'
   CC       ibus_dconf-main.o
   CC       ibus_dconf-config.o
   CCLD     ibus-dconf
   GEN      dconf.xml
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/dconf'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/dconf'
 Making all in memconf
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/memconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/memconf'
   CC       ibus_memconf-main.o
   CC       ibus_memconf-config.o
   CCLD     ibus-memconf
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/memconf'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/memconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
 Making all in client
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
 Making all in gtk2
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2'
   CC       im_ibus_la-ibusim.lo
   CC       im_ibus_la-ibusimcontext.lo
   CCLD     im-ibus.la
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2'
 Making all in gtk3
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3'
   CC       im_ibus_la-ibusim.lo
   CC       im_ibus_la-ibusimcontext.lo
   CCLD     im-ibus.la
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3'
 Making all in x11
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/x11'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/x11'
   CC       ibus_x11-main.o
   CC       ibus_x11-gdk-private.o
   CCLD     ibus-x11
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/x11'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/x11'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
 Making all in tools
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/tools'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/tools'
   CC       main.o
   CCLD     ibus
   GEN      ibus.1
   GEN      ibus.1.gz
 rm ibus.1
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/tools'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/tools'
 Making all in data
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
 Making all in icons
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/icons'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/icons'
 make[3]: Nothing to be done for 'all'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/icons'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/icons'
 Making all in keymaps
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/keymaps'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/keymaps'
 make[3]: Nothing to be done for 'all'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/keymaps'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/keymaps'
 Making all in dconf
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
   ITMRG  org.freedesktop.ibus.gschema.xml
   GEN      org.freedesktop.ibus.gschema.valid
 warning: Schema 'org.freedesktop.ibus' has path '/desktop/ibus/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
 warning: Schema 'org.freedesktop.ibus.general' has path '/desktop/ibus/general/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
 warning: Schema 'org.freedesktop.ibus.general.hotkey' has path '/desktop/ibus/general/hotkey/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
 warning: Schema 'org.freedesktop.ibus.panel' has path '/desktop/ibus/panel/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
   ITMRG  ibus.schemas
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
 Making all in m4
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/m4'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/m4'
 make[2]: Nothing to be done for 'all'.
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/m4'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/m4'
 Making all in po
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/po'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/po'
   MSGFMT ar.gmo
   MSGFMT as.gmo
   MSGFMT bg.gmo
@@ -2956,33 +2956,33 @@ make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/po'
   MSGFMT zh_CN.gmo
   MSGFMT zh_HK.gmo
   MSGFMT zh_TW.gmo
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/po'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/po'
 Making all in docs
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
 Making all in reference
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
 Making all in ibus
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference/ibus'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference/ibus'
 make[4]: Nothing to be done for 'all'.
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference/ibus'
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference/ibus'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
 make[4]: Nothing to be done for 'all-am'.
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
 Making all in engine
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/engine'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/engine'
   CC       ibus_engine_simple-main.o
   CCLD     ibus-engine-simple
   GEN      simple.xml
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/engine'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/engine'
 Making all in ui
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
 Making all in gtk3
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui/gtk3'
   CC       application.o
   CC       candidatearea.o
 candidatearea.c: In function 'candidate_area_recreate_ui':
@@ -3191,15 +3191,15 @@ xkblayout.c:601:17: note: expected 'gchar *' but argument is of type 'const gcha
   CC       gen-notification-watcher.xml.o
   CCLD     ibus-ui-gtk3
   GEN      gtkpanel.xml
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui/gtk3'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
 Making all in bus
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
 make  all-am
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
   CC       ibus_daemon-component.o
   CC       ibus_daemon-dbusimpl.o
   CC       ibus_daemon-ibusimpl.o
@@ -3388,235 +3388,236 @@ engineproxy.c:938:5: warning: 'g_simple_async_result_get_op_res_gpointer' is dep
   GEN      ibus-daemon.1
   GEN      ibus-daemon.1.gz
 rm ibus-daemon.1
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
 Making all in ibus
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
 Making all in interface
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus/interface'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus/interface'
 make[3]: Nothing to be done for 'all'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus/interface'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus/interface'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
 Making all in setup
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/setup'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/setup'
   ITMRG  ibus-setup.desktop
   GEN      ibus-setup.1
   GEN      ibus-setup.1.gz
 rm ibus-setup.1
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/setup'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-fcgaxt/pkgroot/
-[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-fcgaxt/pkgroot/  install
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/setup'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+make[2]: Nothing to be done for 'all-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1pv2don/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-1pv2don/pkgroot/  install
 Making install in src
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 make  install-recursive
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 Making install in .
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib'
- /bin/sh ../libtool   --mode=install /usr/bin/install -c   libibus-1.0.la '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/libibus-1.0.so.5.0.513 /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/libibus-1.0.so.5.0.513
-libtool: install: (cd /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib && { ln -s -f libibus-1.0.so.5.0.513 libibus-1.0.so.5 || { rm -f libibus-1.0.so.5 && ln -s libibus-1.0.so.5.0.513 libibus-1.0.so.5; }; })
-libtool: install: (cd /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib && { ln -s -f libibus-1.0.so.5.0.513 libibus-1.0.so || { rm -f libibus-1.0.so && ln -s libibus-1.0.so.5.0.513 libibus-1.0.so; }; })
-libtool: install: /usr/bin/install -c .libs/libibus-1.0.lai /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/libibus-1.0.la
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libibus-1.0.la '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libibus-1.0.so.5.0.513 /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/libibus-1.0.so.5.0.513
+libtool: install: (cd /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib && { ln -s -f libibus-1.0.so.5.0.513 libibus-1.0.so.5 || { rm -f libibus-1.0.so.5 && ln -s libibus-1.0.so.5.0.513 libibus-1.0.so.5; }; })
+libtool: install: (cd /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib && { ln -s -f libibus-1.0.so.5.0.513 libibus-1.0.so || { rm -f libibus-1.0.so && ln -s libibus-1.0.so.5.0.513 libibus-1.0.so; }; })
+libtool: install: /usr/bin/install -c .libs/libibus-1.0.lai /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/libibus-1.0.la
 libtool: warning: remember to run 'libtool --finish /usr/local/lib'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/include/ibus-1.0'
- /usr/bin/install -c -m 644 ibus.h ibusshare.h ibusdebug.h ibusobject.h ibusserializable.h ibusproxy.h ibusservice.h ibusfactory.h ibusengine.h ibuserror.h ibustext.h ibuskeymap.h ibusattribute.h ibusattrlist.h ibusproperty.h ibusproplist.h ibuslookuptable.h ibusinputcontext.h ibusconfig.h ibusconfigservice.h ibuspanelservice.h ibuskeysyms.h ibuskeysyms-compat.h ibuskeys.h ibustypes.h ibusbus.h ibushotkey.h ibusxml.h ibusenginedesc.h ibusobservedpath.h ibuscomponent.h ibusutil.h ibusenginesimple.h ibusregistry.h ibusenumtypes.h ibusversion.h '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/include/ibus-1.0'
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/include/ibus-1.0'
+ /usr/bin/install -c -m 644 ibus.h ibusshare.h ibusdebug.h ibusobject.h ibusserializable.h ibusproxy.h ibusservice.h ibusfactory.h ibusengine.h ibuserror.h ibustext.h ibuskeymap.h ibusattribute.h ibusattrlist.h ibusproperty.h ibusproplist.h ibuslookuptable.h ibusinputcontext.h ibusconfig.h ibusconfigservice.h ibuspanelservice.h ibuskeysyms.h ibuskeysyms-compat.h ibuskeys.h ibustypes.h ibusbus.h ibushotkey.h ibusxml.h ibusenginedesc.h ibusobservedpath.h ibuscomponent.h ibusutil.h ibusenginesimple.h ibusregistry.h ibusenumtypes.h ibusversion.h '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/include/ibus-1.0'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 Making install in tests
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src/tests'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src/tests'
 make[4]: Nothing to be done for 'install-exec-am'.
 make[4]: Nothing to be done for 'install-data-am'.
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src/tests'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/src'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src/tests'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src/tests'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/src'
 Making install in bindings
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bindings'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bindings'
 Making install in util
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
 Making install in IMdkit
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util/IMdkit'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util/IMdkit'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util/IMdkit'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util/IMdkit'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util/IMdkit'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/util'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/util'
 Making install in conf
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
 Making install in dconf
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/dconf'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/dconf'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
-  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-dconf '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/dconf'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
+  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-dconf '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
 libtool: warning: '../../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/ibus-dconf /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec/ibus-dconf
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/component'
- /usr/bin/install -c -m 644 dconf.xml '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/component'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/dconf'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/dconf'
+libtool: install: /usr/bin/install -c .libs/ibus-dconf /tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec/ibus-dconf
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/component'
+ /usr/bin/install -c -m 644 dconf.xml '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/component'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/dconf'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/dconf'
 Making install in memconf
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/memconf'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/memconf'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/memconf'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf/memconf'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/memconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/memconf'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/memconf'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf/memconf'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/conf'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/conf'
 Making install in client
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
 Making install in gtk2
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2'
 make[3]: Nothing to be done for 'install-exec-am'.
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules'
- /bin/sh ../../libtool   --mode=install /usr/bin/install -c   im-ibus.la '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules'
+ /bin/sh ../../libtool   --mode=install /usr/bin/install -c   im-ibus.la '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules'
 libtool: warning: relinking 'im-ibus.la'
-libtool: install: (cd /tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2; /bin/sh "/tmp/d20160302-601-fcgaxt/ibus-1.5.13/libtool"  --silent --tag CC --mode=relink gcc -std=gnu99 -pthread -I/usr/local/include/gtk-2.0 -I/usr/local/lib/gtk-2.0/include -I/usr/local/include/pango-1.0 -I/usr/local/include/gio-unix-2.0/ -I/usr/local/include -I/usr/local/include/cairo -I/usr/local/include/atk-1.0 -I/usr/local/include/cairo -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include -I/usr/local/include/gdk-pixbuf-2.0 -I/usr/local/include/libpng16 -I/usr/local/include/pango-1.0 -I/usr/local/include/harfbuzz -I/usr/local/include/pango-1.0 -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/dbus-1.0 -I/usr/local/lib/dbus-1.0/include -DG_LOG_DOMAIN=\"IBUS\" -g -O2 -avoid-version -module -o im-ibus.la -rpath /usr/local/lib/gtk-2.0/2.10.0/immodules im_ibus_la-ibusim.lo im_ibus_la-ibusimcontext.lo -L/usr/local/lib -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -lgio-2.0 -lXrender -lXinerama -lXrandr -lXcursor -lXcomposite -lXdamage -lXfixes -lX11 -lXext -latk-1.0 -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lpangoft2-1.0 -lpango-1.0 -lm -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype -L/usr/local/lib -ldbus-1 ../../src/libibus-1.0.la -inst-prefix-dir /tmp/d20160302-601-fcgaxt/pkgroot/)
-libtool: install: /usr/bin/install -c .libs/im-ibus.soT /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.so
-libtool: install: /usr/bin/install -c .libs/im-ibus.lai /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.la
+libtool: install: (cd /tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2; /bin/sh "/tmp/d20160302-601-1pv2don/ibus-1.5.13/libtool"  --silent --tag CC --mode=relink gcc -std=gnu99 -pthread -I/usr/local/include/gtk-2.0 -I/usr/local/lib/gtk-2.0/include -I/usr/local/include/pango-1.0 -I/usr/local/include/gio-unix-2.0/ -I/usr/local/include -I/usr/local/include/cairo -I/usr/local/include/atk-1.0 -I/usr/local/include/cairo -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include -I/usr/local/include/gdk-pixbuf-2.0 -I/usr/local/include/libpng16 -I/usr/local/include/pango-1.0 -I/usr/local/include/harfbuzz -I/usr/local/include/pango-1.0 -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/dbus-1.0 -I/usr/local/lib/dbus-1.0/include -DG_LOG_DOMAIN=\"IBUS\" -g -O2 -avoid-version -module -o im-ibus.la -rpath /usr/local/lib/gtk-2.0/2.10.0/immodules im_ibus_la-ibusim.lo im_ibus_la-ibusimcontext.lo -L/usr/local/lib -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -lgio-2.0 -lXrender -lXinerama -lXrandr -lXcursor -lXcomposite -lXdamage -lXfixes -lX11 -lXext -latk-1.0 -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lpangoft2-1.0 -lpango-1.0 -lm -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype -L/usr/local/lib -ldbus-1 ../../src/libibus-1.0.la -inst-prefix-dir /tmp/d20160302-601-1pv2don/pkgroot/)
+libtool: install: /usr/bin/install -c .libs/im-ibus.soT /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.so
+libtool: install: /usr/bin/install -c .libs/im-ibus.lai /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-2.0/2.10.0/immodules/im-ibus.la
 libtool: warning: remember to run 'libtool --finish /usr/local/lib/gtk-2.0/2.10.0/immodules'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk2'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk2'
 Making install in gtk3
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3'
 make[3]: Nothing to be done for 'install-exec-am'.
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules'
- /bin/sh ../../libtool   --mode=install /usr/bin/install -c   im-ibus.la '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules'
+ /bin/sh ../../libtool   --mode=install /usr/bin/install -c   im-ibus.la '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules'
 libtool: warning: relinking 'im-ibus.la'
-libtool: install: (cd /tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3; /bin/sh "/tmp/d20160302-601-fcgaxt/ibus-1.5.13/libtool"  --silent --tag CC --mode=relink gcc -std=gnu99 -pthread -I/usr/local/include/gtk-3.0 -I/usr/local/include/at-spi2-atk/2.0 -I/usr/local/include/gtk-3.0 -I/usr/local/include/gio-unix-2.0/ -I/usr/local/include -I/usr/local/include/cairo -I/usr/local/include/pango-1.0 -I/usr/local/include/harfbuzz -I/usr/local/include/pango-1.0 -I/usr/local/include/atk-1.0 -I/usr/local/include/cairo -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include -I/usr/local/include/gdk-pixbuf-2.0 -I/usr/local/include/libpng16 -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/local/include/dbus-1.0 -I/usr/local/lib/dbus-1.0/include -DG_LOG_DOMAIN=\"IBUS\" -g -O2 -avoid-version -module -o im-ibus.la -rpath /usr/local/lib/gtk-3.0/3.0.0/immodules im_ibus_la-ibusim.lo im_ibus_la-ibusimcontext.lo -L/usr/local/lib -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpangoft2-1.0 -lpango-1.0 -lm -lfontconfig -lfreetype -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 -L/usr/local/lib -ldbus-1 ../../src/libibus-1.0.la -inst-prefix-dir /tmp/d20160302-601-fcgaxt/pkgroot/)
-libtool: install: /usr/bin/install -c .libs/im-ibus.soT /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.so
-libtool: install: /usr/bin/install -c .libs/im-ibus.lai /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.la
+libtool: install: (cd /tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3; /bin/sh "/tmp/d20160302-601-1pv2don/ibus-1.5.13/libtool"  --silent --tag CC --mode=relink gcc -std=gnu99 -pthread -I/usr/local/include/gtk-3.0 -I/usr/local/include/at-spi2-atk/2.0 -I/usr/local/include/gtk-3.0 -I/usr/local/include/gio-unix-2.0/ -I/usr/local/include -I/usr/local/include/cairo -I/usr/local/include/pango-1.0 -I/usr/local/include/harfbuzz -I/usr/local/include/pango-1.0 -I/usr/local/include/atk-1.0 -I/usr/local/include/cairo -I/usr/local/include/pixman-1 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/freetype2 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include -I/usr/local/include/gdk-pixbuf-2.0 -I/usr/local/include/libpng16 -I/usr/local/include/glib-2.0 -I/usr/local/lib/glib-2.0/include -I/usr/local/include/dbus-1.0 -I/usr/local/lib/dbus-1.0/include -DG_LOG_DOMAIN=\"IBUS\" -g -O2 -avoid-version -module -o im-ibus.la -rpath /usr/local/lib/gtk-3.0/3.0.0/immodules im_ibus_la-ibusim.lo im_ibus_la-ibusimcontext.lo -L/usr/local/lib -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpangoft2-1.0 -lpango-1.0 -lm -lfontconfig -lfreetype -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 -L/usr/local/lib -ldbus-1 ../../src/libibus-1.0.la -inst-prefix-dir /tmp/d20160302-601-1pv2don/pkgroot/)
+libtool: install: /usr/bin/install -c .libs/im-ibus.soT /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.so
+libtool: install: /usr/bin/install -c .libs/im-ibus.lai /tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.la
 libtool: warning: remember to run 'libtool --finish /usr/local/lib/gtk-3.0/3.0.0/immodules'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/gtk3'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/gtk3'
 Making install in x11
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/x11'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/x11'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
-  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-x11 '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/x11'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/x11'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
+  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-x11 '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
 libtool: warning: '../../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/ibus-x11 /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec/ibus-x11
+libtool: install: /usr/bin/install -c .libs/ibus-x11 /tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec/ibus-x11
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/x11'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client/x11'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/x11'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client/x11'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/client'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/client'
 Making install in tools
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/tools'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/tools'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin'
-  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/tools'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/tools'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin'
 libtool: warning: '../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/ibus /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin/ibus
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/bash-completion/completions'
- /usr/bin/install -c -m 644 ibus.bash '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/bash-completion/completions'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/man/man1'
- /usr/bin/install -c -m 644 ibus.1.gz '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/man/man1'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/tools'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/tools'
+libtool: install: /usr/bin/install -c .libs/ibus /tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin/ibus
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/bash-completion/completions'
+ /usr/bin/install -c -m 644 ibus.bash '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/bash-completion/completions'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 ibus.1.gz '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/tools'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/tools'
 Making install in data
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
 Making install in icons
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/icons'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/icons'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/icons'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/icons'
 make[3]: Nothing to be done for 'install-exec-am'.
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/16x16/apps/'
- /usr/bin/install -c -m 644 16/ibus-keyboard.png '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/16x16/apps/'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/22x22/apps/'
- /usr/bin/install -c -m 644 22/ibus-keyboard.png '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/22x22/apps/'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/24x24/apps/'
- /usr/bin/install -c -m 644 24/ibus-keyboard.png '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/24x24/apps/'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/32x32/apps/'
- /usr/bin/install -c -m 644 32/ibus-keyboard.png '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/32x32/apps/'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/48x48/apps/'
- /usr/bin/install -c -m 644 48/ibus-keyboard.png '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/48x48/apps/'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/scalable/apps/'
- /usr/bin/install -c -m 644 scalable/ibus.svg scalable/ibus-setup.svg scalable/ibus-engine.svg scalable/ibus-keyboard.svg '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/icons/hicolor/scalable/apps/'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/icons'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/icons'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/16x16/apps/'
+ /usr/bin/install -c -m 644 16/ibus-keyboard.png '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/16x16/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/22x22/apps/'
+ /usr/bin/install -c -m 644 22/ibus-keyboard.png '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/22x22/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/24x24/apps/'
+ /usr/bin/install -c -m 644 24/ibus-keyboard.png '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/24x24/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/32x32/apps/'
+ /usr/bin/install -c -m 644 32/ibus-keyboard.png '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/32x32/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/48x48/apps/'
+ /usr/bin/install -c -m 644 48/ibus-keyboard.png '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/48x48/apps/'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/scalable/apps/'
+ /usr/bin/install -c -m 644 scalable/ibus.svg scalable/ibus-setup.svg scalable/ibus-engine.svg scalable/ibus-keyboard.svg '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/icons/hicolor/scalable/apps/'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/icons'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/icons'
 Making install in keymaps
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/keymaps'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/keymaps'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/keymaps'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/keymaps'
 make[3]: Nothing to be done for 'install-exec-am'.
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/keymaps'
- /usr/bin/install -c -m 644 common modifiers us jp kr in '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/keymaps'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/keymaps'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/keymaps'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/keymaps'
+ /usr/bin/install -c -m 644 common modifiers us jp kr in '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/keymaps'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/keymaps'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/keymaps'
 Making install in dconf
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
 make[3]: Nothing to be done for 'install-exec-am'.
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/etc/dconf/db/ibus.d'
- /usr/bin/install -c -m 644 00-upstream-settings '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/etc/dconf/db/ibus.d'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/etc/dconf/profile'
- /usr/bin/install -c -m 644 profile/ibus '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/etc/dconf/profile'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/GConf/gsettings'
- /usr/bin/install -c -m 644 ibus.convert '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/GConf/gsettings'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/etc/dconf/db/ibus.d'
+ /usr/bin/install -c -m 644 00-upstream-settings '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/etc/dconf/db/ibus.d'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/etc/dconf/profile'
+ /usr/bin/install -c -m 644 profile/ibus '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/etc/dconf/profile'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/GConf/gsettings'
+ /usr/bin/install -c -m 644 ibus.convert '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/GConf/gsettings'
 if test -n "org.freedesktop.ibus.gschema.xml"; then \
-	test -z "/usr/local/share/glib-2.0/schemas" || ../.././install-sh -c -d "/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/glib-2.0/schemas"; \
-	/usr/bin/install -c -m 644 org.freedesktop.ibus.gschema.xml "/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/glib-2.0/schemas"; \
-	test -n "/tmp/d20160302-601-fcgaxt/pkgroot/" || glib-compile-schemas /usr/local/share/glib-2.0/schemas; \
+	test -z "/usr/local/share/glib-2.0/schemas" || ../.././install-sh -c -d "/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/glib-2.0/schemas"; \
+	/usr/bin/install -c -m 644 org.freedesktop.ibus.gschema.xml "/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/glib-2.0/schemas"; \
+	test -n "/tmp/d20160302-601-1pv2don/pkgroot/" || glib-compile-schemas /usr/local/share/glib-2.0/schemas; \
 fi
 make  install-data-hook
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
-if test -z "/tmp/d20160302-601-fcgaxt/pkgroot/"; then \
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
+if test -z "/tmp/d20160302-601-1pv2don/pkgroot/"; then \
 	dconf update; \
 fi
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data/dconf'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data/dconf'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
 make[3]: Nothing to be done for 'install-exec-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/data'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/data'
 Making install in m4
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/m4'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/m4'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/m4'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/m4'
 make[2]: Nothing to be done for 'install-exec-am'.
 make[2]: Nothing to be done for 'install-data-am'.
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/m4'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/m4'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/m4'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/m4'
 Making install in po
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/po'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/po'
 linguas="ar as bg bn bn_IN ca da de en_GB es et eu fa fr gu he hi hu ia it ja kn ko lv ml mr nb nl or pa pl pt_BR ru sr sr@latin ta te tg uk ur vi zh_CN zh_HK zh_TW "; \
 for lang in $linguas; do \
-  dir=/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/$lang/LC_MESSAGES; \
-  /bin/sh /tmp/d20160302-601-fcgaxt/ibus-1.5.13/install-sh -d $dir; \
+  dir=/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/$lang/LC_MESSAGES; \
+  /bin/sh /tmp/d20160302-601-1pv2don/ibus-1.5.13/install-sh -d $dir; \
   if test -r $lang.gmo; then \
     /usr/bin/install -c -m 644 $lang.gmo $dir/ibus10.mo; \
     echo "installing $lang.gmo as $dir/ibus10.mo"; \
@@ -3639,58 +3640,58 @@ for lang in $linguas; do \
     fi; \
   fi; \
 done
-installing ar.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ar/LC_MESSAGES/ibus10.mo
-installing as.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/as/LC_MESSAGES/ibus10.mo
-installing bg.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/bg/LC_MESSAGES/ibus10.mo
-installing bn.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/bn/LC_MESSAGES/ibus10.mo
-installing bn_IN.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/bn_IN/LC_MESSAGES/ibus10.mo
-installing ca.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ca/LC_MESSAGES/ibus10.mo
-installing da.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/da/LC_MESSAGES/ibus10.mo
-installing de.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/de/LC_MESSAGES/ibus10.mo
-installing en_GB.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/en_GB/LC_MESSAGES/ibus10.mo
-installing es.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/es/LC_MESSAGES/ibus10.mo
-installing et.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/et/LC_MESSAGES/ibus10.mo
-installing eu.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/eu/LC_MESSAGES/ibus10.mo
-installing fa.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/fa/LC_MESSAGES/ibus10.mo
-installing fr.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/fr/LC_MESSAGES/ibus10.mo
-installing gu.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/gu/LC_MESSAGES/ibus10.mo
-installing he.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/he/LC_MESSAGES/ibus10.mo
-installing hi.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/hi/LC_MESSAGES/ibus10.mo
-installing hu.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/hu/LC_MESSAGES/ibus10.mo
-installing ia.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ia/LC_MESSAGES/ibus10.mo
-installing it.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/it/LC_MESSAGES/ibus10.mo
-installing ja.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ja/LC_MESSAGES/ibus10.mo
-installing kn.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/kn/LC_MESSAGES/ibus10.mo
-installing ko.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ko/LC_MESSAGES/ibus10.mo
-installing lv.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/lv/LC_MESSAGES/ibus10.mo
-installing ml.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ml/LC_MESSAGES/ibus10.mo
-installing mr.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/mr/LC_MESSAGES/ibus10.mo
-installing nb.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/nb/LC_MESSAGES/ibus10.mo
-installing nl.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/nl/LC_MESSAGES/ibus10.mo
-installing or.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/or/LC_MESSAGES/ibus10.mo
-installing pa.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/pa/LC_MESSAGES/ibus10.mo
-installing pl.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/pl/LC_MESSAGES/ibus10.mo
-installing pt_BR.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/pt_BR/LC_MESSAGES/ibus10.mo
-installing ru.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ru/LC_MESSAGES/ibus10.mo
-installing sr.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/sr/LC_MESSAGES/ibus10.mo
-installing sr@latin.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/sr@latin/LC_MESSAGES/ibus10.mo
-installing ta.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ta/LC_MESSAGES/ibus10.mo
-installing te.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/te/LC_MESSAGES/ibus10.mo
-installing tg.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/tg/LC_MESSAGES/ibus10.mo
-installing uk.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/uk/LC_MESSAGES/ibus10.mo
-installing ur.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/ur/LC_MESSAGES/ibus10.mo
-installing vi.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/vi/LC_MESSAGES/ibus10.mo
-installing zh_CN.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/zh_CN/LC_MESSAGES/ibus10.mo
-installing zh_HK.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/zh_HK/LC_MESSAGES/ibus10.mo
-installing zh_TW.gmo as /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/locale/zh_TW/LC_MESSAGES/ibus10.mo
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/po'
+installing ar.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ar/LC_MESSAGES/ibus10.mo
+installing as.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/as/LC_MESSAGES/ibus10.mo
+installing bg.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/bg/LC_MESSAGES/ibus10.mo
+installing bn.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/bn/LC_MESSAGES/ibus10.mo
+installing bn_IN.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/bn_IN/LC_MESSAGES/ibus10.mo
+installing ca.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ca/LC_MESSAGES/ibus10.mo
+installing da.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/da/LC_MESSAGES/ibus10.mo
+installing de.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/de/LC_MESSAGES/ibus10.mo
+installing en_GB.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/en_GB/LC_MESSAGES/ibus10.mo
+installing es.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/es/LC_MESSAGES/ibus10.mo
+installing et.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/et/LC_MESSAGES/ibus10.mo
+installing eu.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/eu/LC_MESSAGES/ibus10.mo
+installing fa.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/fa/LC_MESSAGES/ibus10.mo
+installing fr.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/fr/LC_MESSAGES/ibus10.mo
+installing gu.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/gu/LC_MESSAGES/ibus10.mo
+installing he.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/he/LC_MESSAGES/ibus10.mo
+installing hi.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/hi/LC_MESSAGES/ibus10.mo
+installing hu.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/hu/LC_MESSAGES/ibus10.mo
+installing ia.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ia/LC_MESSAGES/ibus10.mo
+installing it.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/it/LC_MESSAGES/ibus10.mo
+installing ja.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ja/LC_MESSAGES/ibus10.mo
+installing kn.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/kn/LC_MESSAGES/ibus10.mo
+installing ko.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ko/LC_MESSAGES/ibus10.mo
+installing lv.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/lv/LC_MESSAGES/ibus10.mo
+installing ml.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ml/LC_MESSAGES/ibus10.mo
+installing mr.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/mr/LC_MESSAGES/ibus10.mo
+installing nb.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/nb/LC_MESSAGES/ibus10.mo
+installing nl.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/nl/LC_MESSAGES/ibus10.mo
+installing or.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/or/LC_MESSAGES/ibus10.mo
+installing pa.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/pa/LC_MESSAGES/ibus10.mo
+installing pl.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/pl/LC_MESSAGES/ibus10.mo
+installing pt_BR.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/pt_BR/LC_MESSAGES/ibus10.mo
+installing ru.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ru/LC_MESSAGES/ibus10.mo
+installing sr.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/sr/LC_MESSAGES/ibus10.mo
+installing sr@latin.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/sr@latin/LC_MESSAGES/ibus10.mo
+installing ta.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ta/LC_MESSAGES/ibus10.mo
+installing te.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/te/LC_MESSAGES/ibus10.mo
+installing tg.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/tg/LC_MESSAGES/ibus10.mo
+installing uk.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/uk/LC_MESSAGES/ibus10.mo
+installing ur.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/ur/LC_MESSAGES/ibus10.mo
+installing vi.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/vi/LC_MESSAGES/ibus10.mo
+installing zh_CN.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/zh_CN/LC_MESSAGES/ibus10.mo
+installing zh_HK.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/zh_HK/LC_MESSAGES/ibus10.mo
+installing zh_TW.gmo as /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/locale/zh_TW/LC_MESSAGES/ibus10.mo
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/po'
 Making install in docs
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
 Making install in reference
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
 Making install in ibus
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference/ibus'
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference/ibus'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference/ibus'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference/ibus'
 make[4]: Nothing to be done for 'install-exec-am'.
  /usr/bin/install -c -m 644 ./html/IBusAttrList.html
  /usr/bin/install -c -m 644 ./html/IBusAttribute.html
@@ -3746,86 +3747,86 @@ make[4]: Nothing to be done for 'install-exec-am'.
  /usr/bin/install -c -m 644 ./html/style.css
  /usr/bin/install -c -m 644 ./html/up-insensitive.png
  /usr/bin/install -c -m 644 ./html/up.png
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference/ibus'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference/ibus'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
-make[4]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference/ibus'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference/ibus'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
+make[4]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
 make[4]: Nothing to be done for 'install-exec-am'.
 make[4]: Nothing to be done for 'install-data-am'.
-make[4]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs/reference'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
+make[4]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs/reference'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/docs'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/docs'
 Making install in engine
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/engine'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/engine'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
-  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus-engine-simple '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/engine'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/engine'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus-engine-simple '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
 libtool: warning: '../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/ibus-engine-simple /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec/ibus-engine-simple
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/component'
- /usr/bin/install -c -m 644 simple.xml '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/component'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/engine'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/engine'
+libtool: install: /usr/bin/install -c .libs/ibus-engine-simple /tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec/ibus-engine-simple
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/component'
+ /usr/bin/install -c -m 644 simple.xml '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/component'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/engine'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/engine'
 Making install in ui
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
 Making install in gtk3
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui/gtk3'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui/gtk3'
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
-  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-ui-gtk3 '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui/gtk3'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui/gtk3'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
+  /bin/sh ../../libtool   --mode=install /usr/bin/install -c ibus-ui-gtk3 '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec'
 libtool: warning: '../../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/ibus-ui-gtk3 /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/libexec/ibus-ui-gtk3
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/component'
- /usr/bin/install -c -m 644 gtkpanel.xml '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/component'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui/gtk3'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui/gtk3'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
+libtool: install: /usr/bin/install -c .libs/ibus-ui-gtk3 /tmp/d20160302-601-1pv2don/pkgroot//usr/local/libexec/ibus-ui-gtk3
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/component'
+ /usr/bin/install -c -m 644 gtkpanel.xml '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/component'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui/gtk3'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui/gtk3'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ui'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ui'
 Making install in bus
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
 make  install-am
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin'
-  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus-daemon '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c ibus-daemon '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin'
 libtool: warning: '../src/libibus-1.0.la' has not been installed in '/usr/local/lib'
-libtool: install: /usr/bin/install -c .libs/ibus-daemon /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin/ibus-daemon
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/man/man1'
- /usr/bin/install -c -m 644 ibus-daemon.1.gz '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/man/man1'
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/bus'
+libtool: install: /usr/bin/install -c .libs/ibus-daemon /tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin/ibus-daemon
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 ibus-daemon.1.gz '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/man/man1'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/bus'
 Making install in ibus
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
 Making install in interface
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus/interface'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus/interface'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus/interface'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus/interface'
 make[3]: Nothing to be done for 'install-exec-am'.
- ../.././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/python3.4/site-packages/ibus/interface'
- /usr/bin/install -c -m 644 iconfig.py ienginefactory.py iengine.py iibus.py iinputcontext.py ipanel.py inotifications.py __init__.py '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/python3.4/site-packages/ibus/interface'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/python3.4/site-packages/ibus/interface'
+ /usr/bin/install -c -m 644 iconfig.py ienginefactory.py iengine.py iibus.py iinputcontext.py ipanel.py inotifications.py __init__.py '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/python3.4/site-packages/ibus/interface'
 Byte-compiling python modules...
 iconfig.pyienginefactory.pyiengine.pyiibus.pyiinputcontext.pyipanel.pyinotifications.py__init__.py
 Byte-compiling python modules (optimized versions) ...
 iconfig.pyienginefactory.pyiengine.pyiibus.pyiinputcontext.pyipanel.pyinotifications.py__init__.py
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus/interface'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus/interface'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus/interface'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus/interface'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
 make[3]: Nothing to be done for 'install-exec-am'.
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
- /usr/bin/install -c -m 644 ascii.py application.py attribute.py common.py bus.py inputcontext.py engine.py exception.py factory.py _gtk.py __init__.py keysyms.py lang.py lookuptable.py modifier.py object.py panel.py notifications.py property.py serializable.py text.py component.py enginedesc.py observedpath.py utility.py config.py '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+ /usr/bin/install -c -m 644 ascii.py application.py attribute.py common.py bus.py inputcontext.py engine.py exception.py factory.py _gtk.py __init__.py keysyms.py lang.py lookuptable.py modifier.py object.py panel.py notifications.py property.py serializable.py text.py component.py enginedesc.py observedpath.py utility.py config.py '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
 Byte-compiling python modules...
 ascii.pyapplication.pyattribute.pycommon.pybus.py  File "/usr/local/lib/python3.4/site-packages/ibus/bus.py", line 77
     print "Signal %s" % message.get_member()
@@ -3855,46 +3856,46 @@ SyntaxError: Missing parentheses in call to 'print'
 serializable.pytext.pycomponent.pyenginedesc.pyobservedpath.pyutility.pyconfig.py
 Byte-compiling python modules (optimized versions) ...
 ascii.pyapplication.pyattribute.pycommon.pybus.pyinputcontext.pyengine.pyexception.pyfactory.py_gtk.py__init__.pykeysyms.pylang.pylookuptable.pymodifier.pyobject.pypanel.pynotifications.pyproperty.pyserializable.pytext.pycomponent.pyenginedesc.pyobservedpath.pyutility.pyconfig.py
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
- /usr/bin/install -c -m 644 _config.py '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
+ /usr/bin/install -c -m 644 _config.py '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/python3.4/site-packages/ibus'
 Byte-compiling python modules...
 _config.py
 Byte-compiling python modules (optimized versions) ...
 _config.py
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/ibus'
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/ibus'
 Making install in setup
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/setup'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/setup'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin'
- /usr/bin/install -c ibus-setup '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/bin'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/applications'
- /usr/bin/install -c -m 644 ibus-setup.desktop '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/applications'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/setup'
- /usr/bin/install -c -m 644 setup.ui '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/setup'
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/setup'
- /usr/bin/install -c -m 644 main.py i18n.py icon.py enginecombobox.py enginedialog.py enginetreeview.py engineabout.py keyboardshortcut.py '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/setup'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/setup'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/setup'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin'
+ /usr/bin/install -c ibus-setup '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/bin'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/applications'
+ /usr/bin/install -c -m 644 ibus-setup.desktop '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/applications'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/setup'
+ /usr/bin/install -c -m 644 setup.ui '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/setup'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/setup'
+ /usr/bin/install -c -m 644 main.py i18n.py icon.py enginecombobox.py enginedialog.py enginetreeview.py engineabout.py keyboardshortcut.py '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/setup'
 Byte-compiling python modules...
 main.pyi18n.pyicon.pyenginecombobox.pyenginedialog.pyenginetreeview.pyengineabout.pykeyboardshortcut.py
 Byte-compiling python modules (optimized versions) ...
 main.pyi18n.pyicon.pyenginecombobox.pyenginedialog.pyenginetreeview.pyengineabout.pykeyboardshortcut.py
- .././install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/man/man1'
- /usr/bin/install -c -m 644 ibus-setup.1.gz '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/man/man1'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/setup'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13/setup'
-make[1]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-make[2]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
+ .././install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 ibus-setup.1.gz '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/setup'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13/setup'
+make[1]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+make[2]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
 make[2]: Nothing to be done for 'install-exec-am'.
- ./install-sh -c -d '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/pkgconfig'
- /usr/bin/install -c -m 644 ibus-1.0.pc '/tmp/d20160302-601-fcgaxt/pkgroot//usr/local/lib/pkgconfig'
+ ./install-sh -c -d '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/pkgconfig'
+ /usr/bin/install -c -m 644 ibus-1.0.pc '/tmp/d20160302-601-1pv2don/pkgroot//usr/local/lib/pkgconfig'
 make  install-data-hook
-make[3]: Entering directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-./install-sh -c -d /tmp/d20160302-601-fcgaxt/pkgroot//usr/local/share/ibus/engine
-make[3]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-make[2]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
-[32mTCZBUILD[0m: find > /tmp/d20160302-601-fcgaxt/before_scrub
+make[3]: Entering directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+./install-sh -c -d /tmp/d20160302-601-1pv2don/pkgroot//usr/local/share/ibus/engine
+make[3]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+make[2]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+make[1]: Leaving directory '/tmp/d20160302-601-1pv2don/ibus-1.5.13'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1pv2don/before_scrub
 [32mTCZBUILD[0m: rm -rf usr/local/share/man
 [32mTCZBUILD[0m: rm -rf usr/local/share/doc
 [32mTCZBUILD[0m: rm -rf usr/local/share/info
@@ -3905,7 +3906,7 @@ make[1]: Leaving directory '/tmp/d20160302-601-fcgaxt/ibus-1.5.13'
 [32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
 [32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
 [32mTCZBUILD[0m: find . -type d -empty -delete
-[32mTCZBUILD[0m: find > /tmp/d20160302-601-fcgaxt/after_scrub
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1pv2don/after_scrub
 [32mTCZBUILD[0m: List of scrubed files:
 277,282d276
 < ./usr/local/share/ibus/engine
@@ -4358,7 +4359,7 @@ usr/local/lib/gtk-3.0/3.0.0/immodules/im-ibus.so
 usr/local/lib/libibus-1.0.so.5
 [32mTCZBUILD[0m: find * > /work//build//mypkgs_im_ibus.tcz.list
 [32mTCZBUILD[0m: rm -f mypkgs_im_ibus.tcz
-[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-fcgaxt/pkgroot/ mypkgs_im_ibus.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1pv2don/pkgroot/ mypkgs_im_ibus.tcz
 Parallel mksquashfs: Using 8 processors
 Creating 4.0 filesystem on mypkgs_im_ibus.tcz, block size 4096.
 
@@ -4366,12 +4367,12 @@ Creating 4.0 filesystem on mypkgs_im_ibus.tcz, block size 4096.
 Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
 	compressed data, compressed metadata, compressed fragments, no xattrs
 	duplicates are removed
-Filesystem size 2619.87 Kbytes (2.56 Mbytes)
-	27.08% of uncompressed filesystem size (9673.47 Kbytes)
-Inode table size 8475 bytes (8.28 Kbytes)
-	37.60% of uncompressed inode table size (22538 bytes)
-Directory table size 3616 bytes (3.53 Kbytes)
-	36.55% of uncompressed directory table size (9894 bytes)
+Filesystem size 2620.17 Kbytes (2.56 Mbytes)
+	27.09% of uncompressed filesystem size (9673.47 Kbytes)
+Inode table size 8489 bytes (8.29 Kbytes)
+	37.67% of uncompressed inode table size (22538 bytes)
+Directory table size 3618 bytes (3.53 Kbytes)
+	36.57% of uncompressed directory table size (9894 bytes)
 Number of duplicate files found 38
 Number of inodes 398
 Number of files 254
@@ -4389,4 +4390,4 @@ Number of gids 1
 [32mTCZBUILD[0m: md5sum mypkgs_im_ibus.tcz > mypkgs_im_ibus.tcz.md5.txt
 [32mTCZBUILD[0m: gererated mypkgs_im_ibus.tcz
 [32mTCZBUILD[0m: ls -lh mypkgs_im_ibus.tcz
--rw-r--r--    1 tc       staff       2.6M Mar  2 02:08 [0;0mmypkgs_im_ibus.tcz[0m
+-rw-r--r--    1 tc       staff       2.6M Mar  2 11:38 [0;0mmypkgs_im_ibus.tcz[0m

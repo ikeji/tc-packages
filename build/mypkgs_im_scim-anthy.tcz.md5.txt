@@ -1,1 +1,1 @@
-69e4867589b3d63c3327dd217465def8  mypkgs_im_scim-anthy.tcz
+3bf8970126e4cf87cde02e8cbd8e5b9c  mypkgs_im_scim-anthy.tcz

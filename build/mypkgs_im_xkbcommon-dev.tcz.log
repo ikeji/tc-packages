@@ -1,0 +1,1714 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load
+[32mTCZBUILD[0m: tce-load -w compiletc make xkeyboard-config Xorg-7.7-dev libpthread-stubs
+compiletc is already downloaded.
+make is already downloaded.
+xkeyboard-config is already downloaded.
+Xorg-7.7-dev is already downloaded.
+libpthread-stubs is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make xkeyboard-config Xorg-7.7-dev libpthread-stubs | tee /tmp/d20160302-601-1shnddm/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+278 inodes (838 blocks) to write
+
+[===============================================================|] 838/838 100%
+
+created 275 files
+created 28 directories
+created 3 symlinks
+created 0 devices
+created 0 fifos
+xkeyboard-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+55 inodes (442 blocks) to write
+
+[===============================================================|] 442/442 100%
+
+created 55 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+freetype-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (21 blocks) to write
+
+[=================================================================|] 21/21 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libfontenc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (52 blocks) to write
+
+[=================================================================|] 52/52 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXfont.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (103 blocks) to write
+
+[===============================================================|] 103/103 100%
+
+created 18 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXfont-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (55 blocks) to write
+
+[=================================================================|] 55/55 100%
+
+created 9 files
+created 9 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xtrans.tcz: OK
+Parallel unsquashfs: Using 8 processors
+255 inodes (755 blocks) to write
+
+[===============================================================|] 755/755 100%
+
+created 255 files
+created 18 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xorg-proto.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xorg-macros.tcz: OK
+Parallel unsquashfs: Using 8 processors
+72 inodes (105 blocks) to write
+
+[===============================================================|] 105/105 100%
+
+created 72 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+xbitmaps.tcz: OK
+Parallel unsquashfs: Using 8 processors
+102 inodes (630 blocks) to write
+
+[===============================================================|] 630/630 100%
+
+created 102 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libxcb-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (508 blocks) to write
+
+[===============================================================|] 508/508 100%
+
+created 18 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libX11-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (32 blocks) to write
+
+[=================================================================|] 32/32 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libxkbfile.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (52 blocks) to write
+
+[=================================================================|] 52/52 100%
+
+created 9 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libxkbfile-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+19 inodes (48 blocks) to write
+
+[=================================================================|] 48/48 100%
+
+created 19 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXext-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (6 blocks) to write
+
+[===================================================================|] 6/6 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXv.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (8 blocks) to write
+
+[===================================================================|] 8/8 100%
+
+created 4 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXv-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (12 blocks) to write
+
+[=================================================================|] 12/12 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libXvmc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (13 blocks) to write
+
+[=================================================================|] 13/13 100%
+
+created 6 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXvmc-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (42 blocks) to write
+
+[=================================================================|] 42/42 100%
+
+created 9 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libICE-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (25 blocks) to write
+
+[=================================================================|] 25/25 100%
+
+created 7 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libSM.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libICE.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (77 blocks) to write
+
+[=================================================================|] 77/77 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXt.tcz: OK
+Parallel unsquashfs: Using 8 processors
+36 inodes (199 blocks) to write
+
+[===============================================================|] 199/199 100%
+
+created 36 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXt-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (17 blocks) to write
+
+[=================================================================|] 17/17 100%
+
+created 4 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXrender-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrandr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 4 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXrandr-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (15 blocks) to write
+
+[=================================================================|] 15/15 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (42 blocks) to write
+
+[=================================================================|] 42/42 100%
+
+created 5 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXi-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (14 blocks) to write
+
+[=================================================================|] 14/14 100%
+
+created 4 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+expat2-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (12 blocks) to write
+
+[=================================================================|] 12/12 100%
+
+created 5 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+fontconfig-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (31 blocks) to write
+
+[=================================================================|] 31/31 100%
+
+created 5 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXft-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (23 blocks) to write
+
+[=================================================================|] 23/23 100%
+
+created 3 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXpm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 4 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXpm-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (29 blocks) to write
+
+[=================================================================|] 29/29 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libXmu.tcz: OK
+Parallel unsquashfs: Using 8 processors
+29 inodes (70 blocks) to write
+
+[=================================================================|] 70/70 100%
+
+created 29 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXmu-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (155 blocks) to write
+
+[===============================================================|] 155/155 100%
+
+created 2 files
+created 4 directories
+created 7 symlinks
+created 0 devices
+created 0 fifos
+libXaw.tcz: OK
+Parallel unsquashfs: Using 8 processors
+77 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 77 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libXaw-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (28 blocks) to write
+
+[=================================================================|] 28/28 100%
+
+created 5 files
+created 6 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libpciaccess.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (13 blocks) to write
+
+[=================================================================|] 13/13 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libdmx.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (15 blocks) to write
+
+[=================================================================|] 15/15 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXxf86vm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+8 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 6 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXxf86dga.tcz: OK
+Parallel unsquashfs: Using 8 processors
+8 inodes (18 blocks) to write
+
+[=================================================================|] 18/18 100%
+
+created 6 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXtst.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXres.tcz: OK
+Parallel unsquashfs: Using 8 processors
+8 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 6 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXinerama.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (16 blocks) to write
+
+[=================================================================|] 16/16 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXfixes.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdamage.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (28 blocks) to write
+
+[=================================================================|] 28/28 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXcursor.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXcomposite.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (34 blocks) to write
+
+[=================================================================|] 34/34 100%
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libFS.tcz: OK
+Parallel unsquashfs: Using 8 processors
+0 inodes (0 blocks) to write
+
+
+
+created 0 files
+created 2 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+Xorg-7.7-lib.tcz: OK
+Parallel unsquashfs: Using 8 processors
+0 inodes (0 blocks) to write
+
+
+
+created 0 files
+created 2 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+Xorg-7.7-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libpthread-stubs.tcz: OK
+[32mTCZBUILD[0m: tce-load -ic mypkgs_im_libxcb-dev | tee /tmp/d20160302-601-1shnddm/stdout
+Parallel unsquashfs: Using 8 processors
+75 inodes (516 blocks) to write
+
+[===============================================================|] 516/516 100%
+
+created 25 files
+created 4 directories
+created 50 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+106 inodes (1105 blocks) to write
+
+[=============================================================|] 1105/1105 100%
+
+created 106 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_libxcb-dev.tcz: OK
+libxkbcommon-0.5.0.tar.xz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//libxkbcommon-0.5.0.tar.xz
+libxkbcommon-0.5.0/
+libxkbcommon-0.5.0/PACKAGING
+libxkbcommon-0.5.0/xkbcommon.map
+libxkbcommon-0.5.0/aclocal.m4
+libxkbcommon-0.5.0/xkbcommon-uninstalled.pc.in
+libxkbcommon-0.5.0/xkbcommon-x11-uninstalled.pc.in
+libxkbcommon-0.5.0/build-aux/
+libxkbcommon-0.5.0/build-aux/ylwrap
+libxkbcommon-0.5.0/build-aux/compile
+libxkbcommon-0.5.0/build-aux/depcomp
+libxkbcommon-0.5.0/build-aux/install-sh
+libxkbcommon-0.5.0/build-aux/ltmain.sh
+libxkbcommon-0.5.0/build-aux/test-driver
+libxkbcommon-0.5.0/build-aux/config.guess
+libxkbcommon-0.5.0/build-aux/missing
+libxkbcommon-0.5.0/build-aux/config.sub
+libxkbcommon-0.5.0/xkbcommon-x11.pc.in
+libxkbcommon-0.5.0/Makefile.in
+libxkbcommon-0.5.0/xkbcommon.pc.in
+libxkbcommon-0.5.0/NEWS
+libxkbcommon-0.5.0/configure.ac
+libxkbcommon-0.5.0/README.md
+libxkbcommon-0.5.0/bench/
+libxkbcommon-0.5.0/bench/rulescomp.c
+libxkbcommon-0.5.0/bench/key-proc.c
+libxkbcommon-0.5.0/bench/rules.c
+libxkbcommon-0.5.0/bench/compose.c
+libxkbcommon-0.5.0/src/
+libxkbcommon-0.5.0/src/scanner-utils.h
+libxkbcommon-0.5.0/src/keymap-priv.c
+libxkbcommon-0.5.0/src/x11/
+libxkbcommon-0.5.0/src/x11/state.c
+libxkbcommon-0.5.0/src/x11/util.c
+libxkbcommon-0.5.0/src/x11/x11-priv.h
+libxkbcommon-0.5.0/src/x11/keymap.c
+libxkbcommon-0.5.0/src/utils.h
+libxkbcommon-0.5.0/src/context-priv.c
+libxkbcommon-0.5.0/src/atom.h
+libxkbcommon-0.5.0/src/utf8.h
+libxkbcommon-0.5.0/src/xkbcomp/
+libxkbcommon-0.5.0/src/xkbcomp/expr.h
+libxkbcommon-0.5.0/src/xkbcomp/rules.h
+libxkbcommon-0.5.0/src/xkbcomp/action.c
+libxkbcommon-0.5.0/src/xkbcomp/keywords.c
+libxkbcommon-0.5.0/src/xkbcomp/ast-build.h
+libxkbcommon-0.5.0/src/xkbcomp/keycodes.c
+libxkbcommon-0.5.0/src/xkbcomp/expr.c
+libxkbcommon-0.5.0/src/xkbcomp/ast.h
+libxkbcommon-0.5.0/src/xkbcomp/ast-build.c
+libxkbcommon-0.5.0/src/xkbcomp/scanner.c
+libxkbcommon-0.5.0/src/xkbcomp/keywords.gperf
+libxkbcommon-0.5.0/src/xkbcomp/vmod.c
+libxkbcommon-0.5.0/src/xkbcomp/parser-priv.h
+libxkbcommon-0.5.0/src/xkbcomp/rules.c
+libxkbcommon-0.5.0/src/xkbcomp/xkbcomp-priv.h
+libxkbcommon-0.5.0/src/xkbcomp/parser.c
+libxkbcommon-0.5.0/src/xkbcomp/include.c
+libxkbcommon-0.5.0/src/xkbcomp/xkbcomp.c
+libxkbcommon-0.5.0/src/xkbcomp/types.c
+libxkbcommon-0.5.0/src/xkbcomp/action.h
+libxkbcommon-0.5.0/src/xkbcomp/symbols.c
+libxkbcommon-0.5.0/src/xkbcomp/vmod.h
+libxkbcommon-0.5.0/src/xkbcomp/parser.y
+libxkbcommon-0.5.0/src/xkbcomp/keymap.c
+libxkbcommon-0.5.0/src/xkbcomp/keymap-dump.c
+libxkbcommon-0.5.0/src/xkbcomp/parser.h
+libxkbcommon-0.5.0/src/xkbcomp/include.h
+libxkbcommon-0.5.0/src/xkbcomp/compat.c
+libxkbcommon-0.5.0/src/context.c
+libxkbcommon-0.5.0/src/ks_tables.h
+libxkbcommon-0.5.0/src/keymap.h
+libxkbcommon-0.5.0/src/utf8.c
+libxkbcommon-0.5.0/src/darray.h
+libxkbcommon-0.5.0/src/utils.c
+libxkbcommon-0.5.0/src/keysym.c
+libxkbcommon-0.5.0/src/text.c
+libxkbcommon-0.5.0/src/atom.c
+libxkbcommon-0.5.0/src/keysym.h
+libxkbcommon-0.5.0/src/compose/
+libxkbcommon-0.5.0/src/compose/paths.h
+libxkbcommon-0.5.0/src/compose/paths.c
+libxkbcommon-0.5.0/src/compose/table.h
+libxkbcommon-0.5.0/src/compose/table.c
+libxkbcommon-0.5.0/src/compose/parser.c
+libxkbcommon-0.5.0/src/compose/state.c
+libxkbcommon-0.5.0/src/compose/parser.h
+libxkbcommon-0.5.0/src/state.c
+libxkbcommon-0.5.0/src/keymap.c
+libxkbcommon-0.5.0/src/context.h
+libxkbcommon-0.5.0/src/config.h.in
+libxkbcommon-0.5.0/src/keysym-utf.c
+libxkbcommon-0.5.0/src/text.h
+libxkbcommon-0.5.0/configure
+libxkbcommon-0.5.0/test/
+libxkbcommon-0.5.0/test/rulescomp.c
+libxkbcommon-0.5.0/test/data/
+libxkbcommon-0.5.0/test/data/symbols/
+libxkbcommon-0.5.0/test/data/symbols/terminate
+libxkbcommon-0.5.0/test/data/symbols/in
+libxkbcommon-0.5.0/test/data/symbols/empty
+libxkbcommon-0.5.0/test/data/symbols/keypad
+libxkbcommon-0.5.0/test/data/symbols/altwin
+libxkbcommon-0.5.0/test/data/symbols/ctrl
+libxkbcommon-0.5.0/test/data/symbols/eurosign
+libxkbcommon-0.5.0/test/data/symbols/inet
+libxkbcommon-0.5.0/test/data/symbols/shift
+libxkbcommon-0.5.0/test/data/symbols/cz
+libxkbcommon-0.5.0/test/data/symbols/pc
+libxkbcommon-0.5.0/test/data/symbols/macintosh_vndr/
+libxkbcommon-0.5.0/test/data/symbols/macintosh_vndr/us
+libxkbcommon-0.5.0/test/data/symbols/macintosh_vndr/apple
+libxkbcommon-0.5.0/test/data/symbols/ca
+libxkbcommon-0.5.0/test/data/symbols/srvr_ctrl
+libxkbcommon-0.5.0/test/data/symbols/capslock
+libxkbcommon-0.5.0/test/data/symbols/latin
+libxkbcommon-0.5.0/test/data/symbols/level5
+libxkbcommon-0.5.0/test/data/symbols/us
+libxkbcommon-0.5.0/test/data/symbols/nbsp
+libxkbcommon-0.5.0/test/data/symbols/ch
+libxkbcommon-0.5.0/test/data/symbols/il
+libxkbcommon-0.5.0/test/data/symbols/group
+libxkbcommon-0.5.0/test/data/symbols/compose
+libxkbcommon-0.5.0/test/data/symbols/rupeesign
+libxkbcommon-0.5.0/test/data/symbols/level3
+libxkbcommon-0.5.0/test/data/symbols/ru
+libxkbcommon-0.5.0/test/data/symbols/kpdl
+libxkbcommon-0.5.0/test/data/symbols/de
+libxkbcommon-0.5.0/test/data/keycodes/
+libxkbcommon-0.5.0/test/data/keycodes/empty
+libxkbcommon-0.5.0/test/data/keycodes/aliases-xkbcommon
+libxkbcommon-0.5.0/test/data/keycodes/xfree86
+libxkbcommon-0.5.0/test/data/keycodes/evdev-xkbcommon
+libxkbcommon-0.5.0/test/data/keycodes/aliases
+libxkbcommon-0.5.0/test/data/keycodes/evdev
+libxkbcommon-0.5.0/test/data/types/
+libxkbcommon-0.5.0/test/data/types/complete
+libxkbcommon-0.5.0/test/data/types/pc
+libxkbcommon-0.5.0/test/data/types/basic
+libxkbcommon-0.5.0/test/data/types/iso9995
+libxkbcommon-0.5.0/test/data/types/level5
+libxkbcommon-0.5.0/test/data/types/numpad
+libxkbcommon-0.5.0/test/data/types/extra
+libxkbcommon-0.5.0/test/data/types/mousekeys
+libxkbcommon-0.5.0/test/data/compat/
+libxkbcommon-0.5.0/test/data/compat/complete
+libxkbcommon-0.5.0/test/data/compat/lednum
+libxkbcommon-0.5.0/test/data/compat/pc
+libxkbcommon-0.5.0/test/data/compat/ledscroll
+libxkbcommon-0.5.0/test/data/compat/basic
+libxkbcommon-0.5.0/test/data/compat/misc
+libxkbcommon-0.5.0/test/data/compat/iso9995
+libxkbcommon-0.5.0/test/data/compat/accessx
+libxkbcommon-0.5.0/test/data/compat/xfree86
+libxkbcommon-0.5.0/test/data/compat/level5
+libxkbcommon-0.5.0/test/data/compat/caps
+libxkbcommon-0.5.0/test/data/compat/ledcaps
+libxkbcommon-0.5.0/test/data/compat/mousekeys
+libxkbcommon-0.5.0/test/data/rules/
+libxkbcommon-0.5.0/test/data/rules/simple
+libxkbcommon-0.5.0/test/data/rules/index
+libxkbcommon-0.5.0/test/data/rules/base
+libxkbcommon-0.5.0/test/data/rules/evdev-xkbcommon
+libxkbcommon-0.5.0/test/data/rules/groups
+libxkbcommon-0.5.0/test/data/rules/multiple-options
+libxkbcommon-0.5.0/test/data/rules/evdev
+libxkbcommon-0.5.0/test/data/keymaps/
+libxkbcommon-0.5.0/test/data/keymaps/syntax-error2.xkb
+libxkbcommon-0.5.0/test/data/keymaps/stringcomp.data
+libxkbcommon-0.5.0/test/data/keymaps/comprehensive-plus-geom.xkb
+libxkbcommon-0.5.0/test/data/keymaps/host.xkb
+libxkbcommon-0.5.0/test/data/keymaps/basic.xkb
+libxkbcommon-0.5.0/test/data/keymaps/no-types.xkb
+libxkbcommon-0.5.0/test/data/keymaps/bad.xkb
+libxkbcommon-0.5.0/test/data/keymaps/no-aliases.xkb
+libxkbcommon-0.5.0/test/data/keymaps/quartz.xkb
+libxkbcommon-0.5.0/test/data/keymaps/syntax-error.xkb
+libxkbcommon-0.5.0/test/data/keymaps/unbound-vmod.xkb
+libxkbcommon-0.5.0/test/data/keymaps/divide-by-zero.xkb
+libxkbcommon-0.5.0/test/data/compose/
+libxkbcommon-0.5.0/test/data/compose/en_US.UTF-8/
+libxkbcommon-0.5.0/test/data/compose/en_US.UTF-8/Compose
+libxkbcommon-0.5.0/test/data/sync.sh
+libxkbcommon-0.5.0/test/buffercomp.c
+libxkbcommon-0.5.0/test/evdev-scancodes.h
+libxkbcommon-0.5.0/test/filecomp.c
+libxkbcommon-0.5.0/test/keyseq.c
+libxkbcommon-0.5.0/test/test.h
+libxkbcommon-0.5.0/test/common.c
+libxkbcommon-0.5.0/test/rmlvo-to-kccgst.c
+libxkbcommon-0.5.0/test/context.c
+libxkbcommon-0.5.0/test/print-compiled-keymap.c
+libxkbcommon-0.5.0/test/stringcomp.c
+libxkbcommon-0.5.0/test/x11.c
+libxkbcommon-0.5.0/test/interactive-x11.c
+libxkbcommon-0.5.0/test/log.c
+libxkbcommon-0.5.0/test/x11comp.c
+libxkbcommon-0.5.0/test/utf8.c
+libxkbcommon-0.5.0/test/keysym.c
+libxkbcommon-0.5.0/test/compose.c
+libxkbcommon-0.5.0/test/atom.c
+libxkbcommon-0.5.0/test/state.c
+libxkbcommon-0.5.0/test/rules-file.c
+libxkbcommon-0.5.0/test/interactive-evdev.c
+libxkbcommon-0.5.0/makekeys.py
+libxkbcommon-0.5.0/doc/
+libxkbcommon-0.5.0/doc/compat.md
+libxkbcommon-0.5.0/doc/keymap-format-text-v1.txt
+libxkbcommon-0.5.0/doc/Doxyfile.in
+libxkbcommon-0.5.0/doc/doxygen-extra.css
+libxkbcommon-0.5.0/doc/quick-guide.md
+libxkbcommon-0.5.0/doc/rules-format.txt
+libxkbcommon-0.5.0/m4/
+libxkbcommon-0.5.0/m4/ltoptions.m4
+libxkbcommon-0.5.0/m4/ltsugar.m4
+libxkbcommon-0.5.0/m4/ax_gcc_builtin.m4
+libxkbcommon-0.5.0/m4/libtool.m4
+libxkbcommon-0.5.0/m4/lt~obsolete.m4
+libxkbcommon-0.5.0/m4/ltversion.m4
+libxkbcommon-0.5.0/xkbcommon-x11.map
+libxkbcommon-0.5.0/COPYING
+libxkbcommon-0.5.0/xkbcommon/
+libxkbcommon-0.5.0/xkbcommon/xkbcommon-compose.h
+libxkbcommon-0.5.0/xkbcommon/xkbcommon.h
+libxkbcommon-0.5.0/xkbcommon/xkbcommon-names.h
+libxkbcommon-0.5.0/xkbcommon/xkbcommon-keysyms.h
+libxkbcommon-0.5.0/xkbcommon/xkbcommon-compat.h
+libxkbcommon-0.5.0/xkbcommon/xkbcommon-x11.h
+libxkbcommon-0.5.0/Makefile.am
+[32mTCZBUILD[0m: ./configure 
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... build-aux/install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether to enable maintainer-specific portions of Makefiles... yes
+checking for style of include used by make... GNU
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for fgrep... /usr/local/bin/grep -F
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/local/bin/nm -B
+checking the name lister (/usr/local/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 32768
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... no
+checking how to convert x86_64-unknown-linux-gnu file names to x86_64-unknown-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-unknown-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for ar... ar
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/local/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+./configure: ./configure.lineno: line 1: /usr/bin/file: not found
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+checking for gcc option to accept ISO C99... -std=gnu99
+checking whether __clang__ is declared... no
+checking whether __INTEL_COMPILER is declared... no
+checking whether __SUNPRO_C is declared... no
+checking for pkg-config... /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking if gcc -std=gnu99 supports -Werror=unknown-warning-option... no
+checking if gcc -std=gnu99 supports -Werror=unused-command-line-argument... no
+checking if gcc -std=gnu99 supports -Wall... yes
+checking if gcc -std=gnu99 supports -Wpointer-arith... yes
+checking if gcc -std=gnu99 supports -Wmissing-declarations... yes
+checking if gcc -std=gnu99 supports -Wformat=2... yes
+checking if gcc -std=gnu99 supports -Wstrict-prototypes... yes
+checking if gcc -std=gnu99 supports -Wmissing-prototypes... yes
+checking if gcc -std=gnu99 supports -Wnested-externs... yes
+checking if gcc -std=gnu99 supports -Wbad-function-cast... yes
+checking if gcc -std=gnu99 supports -Wold-style-definition... yes
+checking if gcc -std=gnu99 supports -Wdeclaration-after-statement... yes
+checking if gcc -std=gnu99 supports -Wunused... yes
+checking if gcc -std=gnu99 supports -Wuninitialized... yes
+checking if gcc -std=gnu99 supports -Wshadow... yes
+checking if gcc -std=gnu99 supports -Wmissing-noreturn... yes
+checking if gcc -std=gnu99 supports -Wmissing-format-attribute... yes
+checking if gcc -std=gnu99 supports -Wredundant-decls... yes
+checking if gcc -std=gnu99 supports -Wlogical-op... yes
+checking if gcc -std=gnu99 supports -Werror=implicit... yes
+checking if gcc -std=gnu99 supports -Werror=nonnull... yes
+checking if gcc -std=gnu99 supports -Werror=init-self... yes
+checking if gcc -std=gnu99 supports -Werror=main... yes
+checking if gcc -std=gnu99 supports -Werror=missing-braces... yes
+checking if gcc -std=gnu99 supports -Werror=sequence-point... yes
+checking if gcc -std=gnu99 supports -Werror=return-type... yes
+checking if gcc -std=gnu99 supports -Werror=trigraphs... yes
+checking if gcc -std=gnu99 supports -Werror=array-bounds... yes
+checking if gcc -std=gnu99 supports -Werror=write-strings... yes
+checking if gcc -std=gnu99 supports -Werror=address... yes
+checking if gcc -std=gnu99 supports -Werror=int-to-pointer-cast... yes
+checking if gcc -std=gnu99 supports -Werror=pointer-to-int-cast... yes
+checking if gcc -std=gnu99 supports -pedantic... yes
+checking if gcc -std=gnu99 supports -Werror... yes
+checking if gcc -std=gnu99 supports -Werror=attributes... yes
+checking whether make supports nested variables... (cached) yes
+checking whether to build documentation... yes
+checking for doxygen... no
+configure: WARNING: doxygen not found - documentation targets will be skipped
+checking for inline... inline
+checking for pkg-config... (cached) /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for bison... bison -y
+checking for bison... /usr/local/bin/bison
+checking for strcasecmp... yes
+checking for strncasecmp... yes
+checking for eaccess... yes
+checking for euidaccess... yes
+checking for mmap... yes
+checking for secure_getenv... yes
+checking for __secure_getenv... no
+checking for __builtin_expect... yes
+checking linux/input.h usability... yes
+checking linux/input.h presence... yes
+checking for linux/input.h... yes
+checking if gcc -std=gnu99 supports -fvisibility=hidden... yes
+checking if gcc -std=gnu99 supports -Wextra -Wno-unused-parameter -Wno-missing-field-initializers... yes
+checking if gcc -std=gnu99 supports -Wdocumentation... no
+checking whether the linker accepts -Wl,--no-undefined... yes
+checking for clock_gettime in -lrt... yes
+checking for XCB_XKB... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating xkbcommon-uninstalled.pc
+config.status: creating xkbcommon.pc
+config.status: creating xkbcommon-x11.pc
+config.status: creating xkbcommon-x11-uninstalled.pc
+config.status: creating doc/Doxyfile
+config.status: creating src/config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+
+        libxkbcommon 0.5.0
+
+        libxkbcommon:            yes
+        libxkbcommon-x11:        yes
+        documentation:           yes
+
+        default XKB rules:       evdev
+        default XKB model:       pc105
+        default XKB layout:      us
+        default XKB variant:     
+        default XKB options:     
+
+        prefix:                  /usr/local
+        includedir:              ${prefix}/include
+        lib dir:                 ${exec_prefix}/lib
+        XKB config root:         /usr/local/share/X11/xkb
+        X11 locale root:         ${datarootdir}/X11/locale
+
+[32mTCZBUILD[0m: make 
+  YACC     src/xkbcomp/parser.c
+src/xkbcomp/parser.h is unchanged
+make  all-am
+make[1]: Entering directory '/tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0'
+  CC       src/compose/parser.lo
+  CC       src/compose/paths.lo
+  CC       src/compose/state.lo
+  CC       src/compose/table.lo
+  CC       src/xkbcomp/action.lo
+  CC       src/xkbcomp/ast-build.lo
+  CC       src/xkbcomp/compat.lo
+  CC       src/xkbcomp/expr.lo
+  CC       src/xkbcomp/include.lo
+  CC       src/xkbcomp/keycodes.lo
+  CC       src/xkbcomp/keymap.lo
+  CC       src/xkbcomp/keymap-dump.lo
+  CC       src/xkbcomp/keywords.lo
+  CC       src/xkbcomp/parser.lo
+  CC       src/xkbcomp/rules.lo
+  CC       src/xkbcomp/scanner.lo
+  CC       src/xkbcomp/symbols.lo
+  CC       src/xkbcomp/types.lo
+  CC       src/xkbcomp/vmod.lo
+  CC       src/xkbcomp/xkbcomp.lo
+  CC       src/atom.lo
+  CC       src/context.lo
+  CC       src/context-priv.lo
+  CC       src/keysym.lo
+  CC       src/keysym-utf.lo
+  CC       src/keymap.lo
+  CC       src/keymap-priv.lo
+  CC       src/state.lo
+  CC       src/text.lo
+  CC       src/utf8.lo
+  CC       src/utils.lo
+  CCLD     libxkbcommon.la
+copying selected object files to avoid basename conflicts...
+  CC       src/x11/libxkbcommon_x11_la-keymap.lo
+  CC       src/x11/libxkbcommon_x11_la-state.lo
+  CC       src/x11/libxkbcommon_x11_la-util.lo
+  CC       src/libxkbcommon_x11_la-context-priv.lo
+  CC       src/libxkbcommon_x11_la-keymap-priv.lo
+  CC       src/libxkbcommon_x11_la-atom.lo
+  CCLD     libxkbcommon-x11.la
+make[1]: Leaving directory '/tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1shnddm/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-1shnddm/pkgroot/  install
+make  install-am
+make[1]: Entering directory '/tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0'
+make[2]: Entering directory '/tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0'
+ build-aux/install-sh -c -d '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxkbcommon.la libxkbcommon-x11.la '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libxkbcommon.so.0.0.0 /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon.so.0.0.0
+libtool: install: (cd /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib && { ln -s -f libxkbcommon.so.0.0.0 libxkbcommon.so.0 || { rm -f libxkbcommon.so.0 && ln -s libxkbcommon.so.0.0.0 libxkbcommon.so.0; }; })
+libtool: install: (cd /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib && { ln -s -f libxkbcommon.so.0.0.0 libxkbcommon.so || { rm -f libxkbcommon.so && ln -s libxkbcommon.so.0.0.0 libxkbcommon.so; }; })
+libtool: install: /usr/bin/install -c .libs/libxkbcommon.lai /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon.la
+libtool: install: warning: relinking `libxkbcommon-x11.la'
+libtool: install: (cd /tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0; /bin/sh /tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0/libtool  --silent --tag CC --mode=relink gcc -std=gnu99 -Wall -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wold-style-definition -Wdeclaration-after-statement -Wunused -Wuninitialized -Wshadow -Wmissing-noreturn -Wmissing-format-attribute -Wredundant-decls -Wlogical-op -Werror=implicit -Werror=nonnull -Werror=init-self -Werror=main -Werror=missing-braces -Werror=sequence-point -Werror=return-type -Werror=trigraphs -Werror=array-bounds -Werror=write-strings -Werror=address -Werror=int-to-pointer-cast -Werror=pointer-to-int-cast -fvisibility=hidden -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -I/usr/local/include -g -O2 -Wl,--version-script=./xkbcommon-x11.map -o libxkbcommon-x11.la -rpath /usr/local/lib src/x11/libxkbcommon_x11_la-keymap.lo src/x11/libxkbcommon_x11_la-state.lo src/x11/libxkbcommon_x11_la-util.lo src/libxkbcommon_x11_la-context-priv.lo src/libxkbcommon_x11_la-keymap-priv.lo src/libxkbcommon_x11_la-atom.lo libxkbcommon.la -L/usr/local/lib -lxcb-xkb -lxcb -inst-prefix-dir /tmp/d20160302-601-1shnddm/pkgroot/)
+libtool: install: /usr/bin/install -c .libs/libxkbcommon-x11.so.0.0.0T /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon-x11.so.0.0.0
+libtool: install: (cd /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib && { ln -s -f libxkbcommon-x11.so.0.0.0 libxkbcommon-x11.so.0 || { rm -f libxkbcommon-x11.so.0 && ln -s libxkbcommon-x11.so.0.0.0 libxkbcommon-x11.so.0; }; })
+libtool: install: (cd /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib && { ln -s -f libxkbcommon-x11.so.0.0.0 libxkbcommon-x11.so || { rm -f libxkbcommon-x11.so && ln -s libxkbcommon-x11.so.0.0.0 libxkbcommon-x11.so; }; })
+libtool: install: /usr/bin/install -c .libs/libxkbcommon-x11.lai /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon-x11.la
+libtool: install: /usr/bin/install -c .libs/libxkbcommon.a /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon.a
+libtool: install: chmod 644 /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon.a
+libtool: install: ranlib /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon.a
+libtool: install: /usr/bin/install -c .libs/libxkbcommon-x11.a /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon-x11.a
+libtool: install: chmod 644 /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon-x11.a
+libtool: install: ranlib /tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/libxkbcommon-x11.a
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib'
+ build-aux/install-sh -c -d '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/pkgconfig'
+ /usr/bin/install -c -m 644 xkbcommon.pc xkbcommon-x11.pc '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/lib/pkgconfig'
+ build-aux/install-sh -c -d '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/include/xkbcommon'
+ /usr/bin/install -c -m 644 xkbcommon/xkbcommon-x11.h '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/include/xkbcommon'
+ build-aux/install-sh -c -d '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/include/xkbcommon'
+ /usr/bin/install -c -m 644 xkbcommon/xkbcommon.h xkbcommon/xkbcommon-compat.h xkbcommon/xkbcommon-compose.h xkbcommon/xkbcommon-keysyms.h xkbcommon/xkbcommon-names.h '/tmp/d20160302-601-1shnddm/pkgroot//usr/local/include/xkbcommon'
+make[2]: Leaving directory '/tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0'
+make[1]: Leaving directory '/tmp/d20160302-601-1shnddm/libxkbcommon-0.5.0'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1shnddm/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/bin
+[32mTCZBUILD[0m: rm -rf usr/local/sbin
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.so*
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1shnddm/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+14,17d13
+< ./usr/local/lib/libxkbcommon.so.0
+< ./usr/local/lib/libxkbcommon.so.0.0.0
+< ./usr/local/lib/libxkbcommon-x11.so
+< ./usr/local/lib/libxkbcommon-x11.so.0
+24,25d19
+< ./usr/local/lib/libxkbcommon.so
+< ./usr/local/lib/libxkbcommon-x11.so.0.0.0
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/include
+usr/local/include/xkbcommon
+usr/local/include/xkbcommon/xkbcommon.h
+usr/local/include/xkbcommon/xkbcommon-compat.h
+usr/local/include/xkbcommon/xkbcommon-keysyms.h
+usr/local/include/xkbcommon/xkbcommon-x11.h
+usr/local/include/xkbcommon/xkbcommon-compose.h
+usr/local/include/xkbcommon/xkbcommon-names.h
+usr/local/lib
+usr/local/lib/libxkbcommon-x11.la
+usr/local/lib/libxkbcommon-x11.a
+usr/local/lib/pkgconfig
+usr/local/lib/pkgconfig/xkbcommon-x11.pc
+usr/local/lib/pkgconfig/xkbcommon.pc
+usr/local/lib/libxkbcommon.a
+usr/local/lib/libxkbcommon.la
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_xkbcommon-dev.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_xkbcommon-dev.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1shnddm/pkgroot/ mypkgs_im_xkbcommon-dev.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_xkbcommon-dev.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 636.75 Kbytes (0.62 Mbytes)
+	39.49% of uncompressed filesystem size (1612.25 Kbytes)
+Inode table size 1142 bytes (1.12 Kbytes)
+	51.21% of uncompressed inode table size (2230 bytes)
+Directory table size 243 bytes (0.24 Kbytes)
+	52.94% of uncompressed directory table size (459 bytes)
+Number of duplicate files found 0
+Number of inodes 19
+Number of files 12
+Number of fragments 2
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 7
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_xkbcommon-dev.tcz > mypkgs_im_xkbcommon-dev.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_xkbcommon-dev.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_xkbcommon-dev.tcz
+-rw-r--r--    1 tc       staff     640.0K Mar  2 11:23 [0;0mmypkgs_im_xkbcommon-dev.tcz[0m

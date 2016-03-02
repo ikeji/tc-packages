@@ -1,0 +1,1109 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make libusb-dev perl5
+compiletc is already downloaded.
+make is already downloaded.
+libusb-dev is already downloaded.
+perl5 is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make libusb-dev perl5 | tee /tmp/d20160302-601-aqo6kl/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================|] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+udev-lib.tcz: OK
+Parallel unsquashfs: Using 8 processors
+13 inodes (17 blocks) to write
+
+[=================================================================|] 17/17 100%
+
+created 13 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+udev-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (23 blocks) to write
+
+[=================================================================|] 23/23 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libusb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (48 blocks) to write
+
+[=================================================================|] 48/48 100%
+
+created 4 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libusb-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1489 inodes (9759 blocks) to write
+
+[=============================================================|] 9759/9759 100%
+
+created 1485 files
+created 307 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+perl5.tcz: OK
+pth-2.0.7.tar.gz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//pth-2.0.7.tar.gz
+pth-2.0.7/ANNOUNCE
+pth-2.0.7/AUTHORS
+pth-2.0.7/COPYING
+pth-2.0.7/ChangeLog
+pth-2.0.7/HACKING
+pth-2.0.7/HISTORY
+pth-2.0.7/INSTALL
+pth-2.0.7/Makefile.in
+pth-2.0.7/NEWS
+pth-2.0.7/PORTING
+pth-2.0.7/README
+pth-2.0.7/SUPPORT
+pth-2.0.7/TESTS
+pth-2.0.7/THANKS
+pth-2.0.7/USERS
+pth-2.0.7/aclocal.m4
+pth-2.0.7/config.guess
+pth-2.0.7/config.param
+pth-2.0.7/config.sub
+pth-2.0.7/configure
+pth-2.0.7/configure.ac
+pth-2.0.7/libtool.m4
+pth-2.0.7/ltmain.sh
+pth-2.0.7/pth-config.1
+pth-2.0.7/pth-config.in
+pth-2.0.7/pth-config.pod
+pth-2.0.7/pth.3
+pth-2.0.7/pth.h.in
+pth-2.0.7/pth.m4
+pth-2.0.7/pth.pod
+pth-2.0.7/pth.spec
+pth-2.0.7/pth_acdef.h.in
+pth-2.0.7/pth_acmac.h.in
+pth-2.0.7/pth_attr.c
+pth-2.0.7/pth_cancel.c
+pth-2.0.7/pth_clean.c
+pth-2.0.7/pth_compat.c
+pth-2.0.7/pth_data.c
+pth-2.0.7/pth_debug.c
+pth-2.0.7/pth_errno.c
+pth-2.0.7/pth_event.c
+pth-2.0.7/pth_ext.c
+pth-2.0.7/pth_fork.c
+pth-2.0.7/pth_high.c
+pth-2.0.7/pth_lib.c
+pth-2.0.7/pth_mctx.c
+pth-2.0.7/pth_msg.c
+pth-2.0.7/pth_p.h.in
+pth-2.0.7/pth_pqueue.c
+pth-2.0.7/pth_ring.c
+pth-2.0.7/pth_sched.c
+pth-2.0.7/pth_string.c
+pth-2.0.7/pth_sync.c
+pth-2.0.7/pth_syscall.c
+pth-2.0.7/pth_tcb.c
+pth-2.0.7/pth_time.c
+pth-2.0.7/pth_uctx.c
+pth-2.0.7/pth_util.c
+pth-2.0.7/pth_vers.c
+pth-2.0.7/pthread-config.1
+pth-2.0.7/pthread-config.in
+pth-2.0.7/pthread-config.pod
+pth-2.0.7/pthread.3
+pth-2.0.7/pthread.c
+pth-2.0.7/pthread.h.in
+pth-2.0.7/pthread.pod
+pth-2.0.7/pthread.ps
+pth-2.0.7/rse-pmt.ps
+pth-2.0.7/shtool
+pth-2.0.7/striptease.mk
+pth-2.0.7/striptease.pl
+pth-2.0.7/test_common.c
+pth-2.0.7/test_common.h
+pth-2.0.7/test_httpd.c
+pth-2.0.7/test_misc.c
+pth-2.0.7/test_mp.c
+pth-2.0.7/test_philo.c
+pth-2.0.7/test_pthread.c
+pth-2.0.7/test_select.c
+pth-2.0.7/test_sfio.c
+pth-2.0.7/test_sig.c
+pth-2.0.7/test_std.c
+pth-2.0.7/test_uctx.c
+[32mTCZBUILD[0m: ./configure 
+Configuring [1mGNU Pth[m (Portable Threads), Version [1m2.0.7 (08-Jun-2006)[m
+Copyright (c) 1999-2006 Ralf S. Engelschall <rse@engelschall.com>
+Platform: [1mx86_64-unknown-linux-gnu[m
+
+[1mBuild Tools:[m
+checking for gcc... gcc
+checking for C compiler default output file name... a.out
+checking whether the C compiler works... yes
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ANSI C... none needed
+checking how to run the C preprocessor... gcc -E
+checking for egrep... grep -E
+checking whether make sets $(MAKE)... yes
+checking for compiler option -pipe... yes
+checking for compilation debug mode... disabled
+checking for compilation profile mode... disabled
+checking for compilation optimization mode... disabled
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for BSD-compatible nm... /usr/local/bin/nm -B
+checking whether ln -s works... yes
+checking how to recognise dependent libraries... pass_all
+./configure: ./configure.lineno: line 18965: /usr/bin/file: not found
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking dlfcn.h usability... yes
+checking dlfcn.h presence... yes
+checking for dlfcn.h... yes
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking how to run the C++ preprocessor... g++ -E
+checking for g77... no
+checking for f77... no
+checking for xlf... no
+checking for frt... no
+checking for pgf77... no
+checking for fort77... no
+checking for fl32... no
+checking for af77... no
+checking for f90... no
+checking for xlf90... no
+checking for pgf90... no
+checking for epcf90... no
+checking for f95... no
+checking for fort... no
+checking for xlf95... no
+checking for ifc... no
+checking for efc... no
+checking for pgf95... no
+checking for lf95... no
+checking for gfortran... no
+checking whether we are using the GNU Fortran 77 compiler... no
+checking whether  accepts -g... no
+checking the maximum length of command line arguments... 32768
+checking command to parse /usr/local/bin/nm -B output from gcc object... ok
+checking for objdir... .libs
+checking for ar... ar
+checking for ranlib... ranlib
+checking for strip... strip
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC
+checking if gcc PIC flag -fPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking whether the gcc linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+configure: creating libtool
+appending configuration tag "CXX" to libtool
+checking for ld used by g++... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking whether the g++ linker (/usr/local/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC
+checking if g++ PIC flag -fPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking whether the g++ linker (/usr/local/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+appending configuration tag "F77" to libtool
+
+[1mMandatory Platform Environment:[m
+checking for ANSI C header files... (cached) yes
+checking stdio.h usability... yes
+checking stdio.h presence... yes
+checking for stdio.h... yes
+checking for stdlib.h... (cached) yes
+checking stdarg.h usability... yes
+checking stdarg.h presence... yes
+checking for stdarg.h... yes
+checking for string.h... (cached) yes
+checking signal.h usability... yes
+checking signal.h presence... yes
+checking for signal.h... yes
+checking for unistd.h... (cached) yes
+checking setjmp.h usability... yes
+checking setjmp.h presence... yes
+checking for setjmp.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking for sys/types.h... (cached) yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking sys/wait.h usability... yes
+checking sys/wait.h presence... yes
+checking for sys/wait.h... yes
+checking for sys/stat.h... (cached) yes
+checking sys/socket.h usability... yes
+checking sys/socket.h presence... yes
+checking for sys/socket.h... yes
+checking for gettimeofday... yes
+checking for select... yes
+checking for sigaction... yes
+checking for sigprocmask... yes
+checking for sigpending... yes
+checking for sigsuspend... yes
+decision on mandatory system headers and functions... [1mall fine[m
+
+[1mOptional Platform Environment:[m
+checking for number of signals... 65
+checking for default value of FD_SETSIZE... 1024
+checking for poll... yes
+checking for define POLLIN in poll.h... yes
+checking whether poll(2) facility has to be faked... no
+checking sys/uio.h usability... yes
+checking sys/uio.h presence... yes
+checking for sys/uio.h... yes
+checking for readv... yes
+checking for writev... yes
+checking whether readv(2)/writev(2) facility has to be faked... no
+checking for usleep... yes
+checking for strerror... yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking net/errno.h usability... no
+checking net/errno.h presence... no
+checking for net/errno.h... no
+checking paths.h usability... yes
+checking paths.h presence... yes
+checking for paths.h... yes
+checking for gethostname in -lnsl... yes
+checking for accept in -lsocket... no
+checking sys/select.h usability... yes
+checking sys/select.h presence... yes
+checking for sys/select.h... yes
+checking for typedef sig_atomic_t... yes
+checking for typedef pid_t... yes
+checking for typedef size_t... yes
+checking for typedef ssize_t... yes
+checking for typedef off_t... yes
+checking for typedef stack_t... yes
+checking for attribute ss_base in struct sigaltstack from sys/signal.h... no
+checking for attribute ss_sp in struct sigaltstack from sys/signal.h... yes
+checking for a single-argument based gettimeofday... no
+checking for struct timespec... yes
+checking for typedef socklen_t... yes
+checking for type of argument 3 for accept()... socklen_t *__restrict
+checking for fallback socklen_t... socklen_t
+checking for typedef nfds_t... yes
+checking for type of argument 2 for poll()... nfds_t
+checking for fallback nfds_t... nfds_t
+checking for built-in type long long... yes
+checking for built-in type long double... yes
+
+[1mMachine Context Implementation:[m
+checking for ucontext.h... yes
+checking for makecontext... yes
+checking for swapcontext... yes
+checking for getcontext... yes
+checking for setcontext... yes
+checking for usable SVR4/SUSv2 makecontext(2)/swapcontext(2)... yes
+checking for signal.h... (cached) yes
+checking for sigsetjmp... no
+checking for siglongjmp... yes
+checking for setjmp... yes
+checking for longjmp... yes
+checking for _setjmp... yes
+checking for _longjmp... yes
+checking for sigaltstack... yes
+checking for sigstack... yes
+checking for signal-mask aware setjmp(3)/longjmp(3)... yes: sjljlx
+checking for typedef stack_t... (cached) yes
+checking for direction of stack growth... down
+checking for makecontext... (cached) yes
+checking for stack setup via makecontext... ok
+checking for sigaltstack... (cached) yes
+checking for typedef stack_t... (cached) yes
+checking for stack setup via sigaltstack... ok
+checking for sigstack... (cached) yes
+checking for stack setup via sigstack... guessed
+decision on mctx implementation... [1mmcsc/sc/mc[m
+
+[1mSystem Call Mapping:[m
+checking sys/syscall.h usability... yes
+checking sys/syscall.h presence... yes
+checking for sys/syscall.h... yes
+checking sys/socketcall.h usability... no
+checking sys/socketcall.h presence... no
+checking for sys/socketcall.h... no
+checking for syscall... yes
+checking for define SYS_read in sys/syscall.h... yes
+checking for dlfcn.h... (cached) yes
+checking for dlsym in -ldl... yes
+checking for dlopen... yes
+checking for dlsym... yes
+checking for dlclose... yes
+checking for define RTLD_NEXT in dlfcn.h... no
+checking for syscall dynamic libraries... /usr/lib/libdl.so:/usr/lib/libnsl.so:/usr/lib/libc.so
+checking whether soft system call mapping is used... no
+checking whether hard system call mapping is used... no
+
+[1mBuild Parameters:[m
+checking whether to activate batch build mode... no
+checking whether to activate maintainer build targets... no
+checking whether to activate test build targets... yes
+checking whether to build Pthread library... no
+checking whether to build against external OSSP ex library... no
+checking whether to build against external Sfio library... no
+checking whether to build against external Dmalloc library... no
+
+[1mOutput Substitution:[m
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating pthread-config
+config.status: creating pthread.h
+config.status: creating pth-config
+config.status: creating pth.h
+config.status: creating pth_acmac.h
+config.status: creating pth_acdef.h
+config.status: executing default commands
+
+Now please type `[1mmake[m' to compile. Good luck.
+
+[32mTCZBUILD[0m: make 
+./shtool scpp -o pth_p.h -t pth_p.h.in -Dcpp -Cintern -M '==#==' pth_compat.c pth_debug.c pth_syscall.c pth_errno.c pth_ring.c pth_mctx.c pth_uctx.c pth_clean.c pth_time.c pth_tcb.c pth_util.c pth_pqueue.c pth_event.c pth_sched.c pth_data.c pth_msg.c pth_cancel.c pth_sync.c pth_attr.c pth_lib.c pth_fork.c pth_high.c pth_ext.c pth_string.c pthread.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_debug.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_ring.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_pqueue.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_time.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_errno.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_mctx.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_uctx.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_tcb.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_sched.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_attr.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_lib.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_event.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_data.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_clean.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_cancel.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_msg.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_sync.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_fork.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_util.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_high.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_syscall.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_ext.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_compat.c
+./libtool --mode=compile --quiet gcc -c -I. -O2 -pipe pth_string.c
+./libtool --mode=link --quiet gcc -o libpth.la pth_debug.lo pth_ring.lo pth_pqueue.lo pth_time.lo pth_errno.lo pth_mctx.lo pth_uctx.lo pth_tcb.lo pth_sched.lo pth_attr.lo pth_lib.lo pth_event.lo pth_data.lo pth_clean.lo pth_cancel.lo pth_msg.lo pth_sync.lo pth_fork.lo pth_util.lo pth_high.lo pth_syscall.lo pth_ext.lo pth_compat.lo pth_string.lo \
+-rpath /usr/local/lib -version-info `./shtool version -lc -dlibtool pth_vers.c`
+gcc -c -I. -O2 -pipe test_std.c
+gcc -c -I. -O2 -pipe test_common.c
+./libtool --mode=link --quiet gcc  -o test_std test_std.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_mp.c
+./libtool --mode=link --quiet gcc  -o test_mp test_mp.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_misc.c
+./libtool --mode=link --quiet gcc  -o test_misc test_misc.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_philo.c
+./libtool --mode=link --quiet gcc  -o test_philo test_philo.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_sig.c
+./libtool --mode=link --quiet gcc  -o test_sig test_sig.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_select.c
+./libtool --mode=link --quiet gcc  -o test_select test_select.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_httpd.c
+./libtool --mode=link --quiet gcc  -o test_httpd test_httpd.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_sfio.c
+./libtool --mode=link --quiet gcc  -o test_sfio test_sfio.o test_common.o libpth.la -ldl -lnsl 
+gcc -c -I. -O2 -pipe test_uctx.c
+./libtool --mode=link --quiet gcc  -o test_uctx test_uctx.o test_common.o libpth.la -ldl -lnsl 
+make[1]: Entering directory '/tmp/d20160302-601-aqo6kl/pth-2.0.7'
+
+Now please type `[1mmake test[m' to run a quick test suite. Hope it works.
+
+make[1]: Leaving directory '/tmp/d20160302-601-aqo6kl/pth-2.0.7'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-aqo6kl/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-aqo6kl/pkgroot/  install
+make[1]: Entering directory '/tmp/d20160302-601-aqo6kl/pth-2.0.7'
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/bin
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/include
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/man/man1
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/man/man3
+./shtool mkdir -f -p -m 755 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/share/aclocal
+./shtool install -c -m 755 pth-config /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/bin/pth-config
+./shtool install -c -m 644 pth-config.1 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/man/man1/pth-config.1
+./shtool install -c -m 644 pth.3 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/man/man3/pth.3
+./shtool install -c -m 644 pth.m4 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/share/aclocal/pth.m4
+./shtool install -c -m 644 pth.h /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/include/pth.h
+./shtool install -c .libs/libpth.so.20.0.27 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib/libpth.so.20.0.27
+(cd /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib && { ln -s -f libpth.so.20.0.27 libpth.so.20 || { rm -f libpth.so.20 && ln -s libpth.so.20.0.27 libpth.so.20; }; })
+(cd /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib && { ln -s -f libpth.so.20.0.27 libpth.so || { rm -f libpth.so && ln -s libpth.so.20.0.27 libpth.so; }; })
+./shtool install -c .libs/libpth.lai /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib/libpth.la
+./shtool install -c .libs/libpth.a /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib/libpth.a
+chmod 644 /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib/libpth.a
+ranlib /tmp/d20160302-601-aqo6kl/pkgroot//usr/local/lib/libpth.a
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib'
+make[1]: Leaving directory '/tmp/d20160302-601-aqo6kl/pth-2.0.7'
+make[1]: Entering directory '/tmp/d20160302-601-aqo6kl/pth-2.0.7'
+
+Now please type `[1mmake test[m' to run a quick test suite. Hope it works.
+
+make[1]: Leaving directory '/tmp/d20160302-601-aqo6kl/pth-2.0.7'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-aqo6kl/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: find usr/local/bin -type f | grep -v pth-config | xargs rm -rf
+[32mTCZBUILD[0m: rm -rf usr/local/sbin
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.so*
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-aqo6kl/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+11,15d10
+< ./usr/local/man
+< ./usr/local/man/man1
+< ./usr/local/man/man1/pth-config.1
+< ./usr/local/man/man3
+< ./usr/local/man/man3/pth.3
+17,19d11
+< ./usr/local/lib/libpth.so.20
+< ./usr/local/lib/libpth.so.20.0.27
+< ./usr/local/lib/libpth.so
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/bin
+usr/local/bin/pth-config
+usr/local/share
+usr/local/share/aclocal
+usr/local/share/aclocal/pth.m4
+usr/local/include
+usr/local/include/pth.h
+usr/local/lib
+usr/local/lib/libpth.a
+usr/local/lib/libpth.la
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_gnupg_pth-dev.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_gnupg_pth-dev.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-aqo6kl/pkgroot/ mypkgs_gnupg_pth-dev.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_gnupg_pth-dev.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 52.40 Kbytes (0.05 Mbytes)
+	39.65% of uncompressed filesystem size (132.14 Kbytes)
+Inode table size 267 bytes (0.26 Kbytes)
+	48.19% of uncompressed inode table size (554 bytes)
+Directory table size 166 bytes (0.16 Kbytes)
+	62.64% of uncompressed directory table size (265 bytes)
+Number of duplicate files found 0
+Number of inodes 13
+Number of files 5
+Number of fragments 2
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 8
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_gnupg_pth-dev.tcz > mypkgs_gnupg_pth-dev.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_gnupg_pth-dev.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_gnupg_pth-dev.tcz
+-rw-r--r--    1 tc       staff      56.0K Mar  2 11:10 [0;0mmypkgs_gnupg_pth-dev.tcz[0m

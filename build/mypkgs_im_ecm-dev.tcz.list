@@ -1,0 +1,7 @@
+usr
+usr/local
+usr/local/include
+usr/local/include/ecm.h
+usr/local/lib
+usr/local/lib/libecm.la
+usr/local/lib/libecm.a

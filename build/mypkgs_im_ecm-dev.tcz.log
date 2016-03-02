@@ -1,0 +1,1332 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make openssl gmp-dev
+compiletc is already downloaded.
+make is already downloaded.
+openssl is already downloaded.
+gmp-dev is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make openssl gmp-dev | tee /tmp/d20160302-601-8i54c6/stdout
+openssl is already installed!
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================-] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (51 blocks) to write
+
+[=================================================================|] 51/51 100%
+
+created 4 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gmp-dev.tcz: OK
+ecm-6.4.4.tar.gz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//ecm-6.4.4.tar.gz
+ecm-6.4.4/
+ecm-6.4.4/median.c
+ecm-6.4.4/resume.c
+ecm-6.4.4/bestd.c
+ecm-6.4.4/Fgw.c
+ecm-6.4.4/test.pp1
+ecm-6.4.4/toomcook.c
+ecm-6.4.4/sp.h
+ecm-6.4.4/ecm-params.h.athlon
+ecm-6.4.4/listz.c
+ecm-6.4.4/ecm-params.h.armv5tel
+ecm-6.4.4/build.vc10/
+ecm-6.4.4/build.vc10/mul_fft-params.h.x64.amd
+ecm-6.4.4/build.vc10/ecm-params.h
+ecm-6.4.4/build.vc10/ecm-params.h.x64.amd
+ecm-6.4.4/build.vc10/tune/
+ecm-6.4.4/build.vc10/tune/tune.vcxproj.filters
+ecm-6.4.4/build.vc10/tune/Makefile.in
+ecm-6.4.4/build.vc10/tune/Makefile.am
+ecm-6.4.4/build.vc10/tune/tune.vcxproj
+ecm-6.4.4/build.vc10/assembler/
+ecm-6.4.4/build.vc10/assembler/test_mulredc.c
+ecm-6.4.4/build.vc10/assembler/a_win32a_mulredc.asm
+ecm-6.4.4/build.vc10/assembler/mulredc.h
+ecm-6.4.4/build.vc10/assembler/mulredc.asm
+ecm-6.4.4/build.vc10/assembler/a_x64_mulredc.asm
+ecm-6.4.4/build.vc10/assembler/a_win32p_redc.asm
+ecm-6.4.4/build.vc10/assembler/redc.asm
+ecm-6.4.4/build.vc10/assembler/Makefile.in
+ecm-6.4.4/build.vc10/assembler/a_win32p_mulredc.asm
+ecm-6.4.4/build.vc10/assembler/Makefile.am
+ecm-6.4.4/build.vc10/assembler/a_x64_redc.asm
+ecm-6.4.4/build.vc10/assembler/a_win32a_redc.asm
+ecm-6.4.4/build.vc10/mul_fft-params.h.win32.amd
+ecm-6.4.4/build.vc10/ecm/
+ecm-6.4.4/build.vc10/ecm/ecm.vcxproj.filters
+ecm-6.4.4/build.vc10/ecm/Makefile.in
+ecm-6.4.4/build.vc10/ecm/ecm.vcxproj
+ecm-6.4.4/build.vc10/ecm/Makefile.am
+ecm-6.4.4/build.vc10/mul_fft-params.h.win32.intel
+ecm-6.4.4/build.vc10/vsyasm.targets
+ecm-6.4.4/build.vc10/ecm-params.h.win32.amd
+ecm-6.4.4/build.vc10/libecm/
+ecm-6.4.4/build.vc10/libecm/libecm.vcxproj
+ecm-6.4.4/build.vc10/libecm/libecm.vcxproj.filters
+ecm-6.4.4/build.vc10/libecm/Makefile.in
+ecm-6.4.4/build.vc10/libecm/Makefile.am
+ecm-6.4.4/build.vc10/readme.txt
+ecm-6.4.4/build.vc10/getrusage.h
+ecm-6.4.4/build.vc10/vsyasm.props
+ecm-6.4.4/build.vc10/Makefile.in
+ecm-6.4.4/build.vc10/bench_mulredc/
+ecm-6.4.4/build.vc10/bench_mulredc/Makefile.in
+ecm-6.4.4/build.vc10/bench_mulredc/bench_mulredc.vcxproj
+ecm-6.4.4/build.vc10/bench_mulredc/bench_mulredc.vcxproj.filters
+ecm-6.4.4/build.vc10/bench_mulredc/Makefile.am
+ecm-6.4.4/build.vc10/mul_fft-params.h.x64.intel
+ecm-6.4.4/build.vc10/tests.py
+ecm-6.4.4/build.vc10/ecm-params.h.x64.intel
+ecm-6.4.4/build.vc10/vsyasm.xml
+ecm-6.4.4/build.vc10/Makefile.am
+ecm-6.4.4/build.vc10/file_copy.bat
+ecm-6.4.4/build.vc10/ecm-params.h.win32.intel
+ecm-6.4.4/build.vc10/config.h
+ecm-6.4.4/build.vc10/ecm.sln
+ecm-6.4.4/build.vc10/mp_lib.props
+ecm-6.4.4/COPYING.LIB
+ecm-6.4.4/test_mulredc.c
+ecm-6.4.4/pm1.c
+ecm-6.4.4/mpmod.c
+ecm-6.4.4/mpmod.h
+ecm-6.4.4/ecm-params.h
+ecm-6.4.4/ecm-params.h.athlon64
+ecm-6.4.4/COPYING
+ecm-6.4.4/compile
+ecm-6.4.4/main.c
+ecm-6.4.4/ecm-params.h.hppa2.0
+ecm-6.4.4/configure
+ecm-6.4.4/polyeval.c
+ecm-6.4.4/mul_fft-params.h.default
+ecm-6.4.4/m4/
+ecm-6.4.4/m4/ltversion.m4
+ecm-6.4.4/m4/libtool.m4
+ecm-6.4.4/m4/lt~obsolete.m4
+ecm-6.4.4/m4/ltoptions.m4
+ecm-6.4.4/m4/ltsugar.m4
+ecm-6.4.4/configure.in
+ecm-6.4.4/ecm.xml
+ecm-6.4.4/spm.c
+ecm-6.4.4/tune.c
+ecm-6.4.4/INSTALL-ecm
+ecm-6.4.4/sets_long.c
+ecm-6.4.4/champions.h
+ecm-6.4.4/mpzspm.c
+ecm-6.4.4/aclocal.m4
+ecm-6.4.4/stage2.c
+ecm-6.4.4/longlong.h
+ecm-6.4.4/ecm2.c
+ecm-6.4.4/schoen_strass.c
+ecm-6.4.4/ecm-params.h.pentium-m
+ecm-6.4.4/candi.c
+ecm-6.4.4/eval.c
+ecm-6.4.4/ecm-params.h.powerpc7450
+ecm-6.4.4/lucas.c
+ecm-6.4.4/ecm-params.h.alpha-ev6
+ecm-6.4.4/athlon/
+ecm-6.4.4/athlon/autogen.py
+ecm-6.4.4/athlon/mulredc3.asm
+ecm-6.4.4/athlon/mulredc.h
+ecm-6.4.4/athlon/mulredc14.asm
+ecm-6.4.4/athlon/mulredc5.asm
+ecm-6.4.4/athlon/Makefile.dev
+ecm-6.4.4/athlon/generate_all
+ecm-6.4.4/athlon/mulredc6.asm
+ecm-6.4.4/athlon/mulredc2.asm
+ecm-6.4.4/athlon/mulredc20.asm
+ecm-6.4.4/athlon/mulredc17.asm
+ecm-6.4.4/athlon/redc.asm
+ecm-6.4.4/athlon/mulredc18.asm
+ecm-6.4.4/athlon/mulredc19.asm
+ecm-6.4.4/athlon/mulredc9.asm
+ecm-6.4.4/athlon/mulredc13.asm
+ecm-6.4.4/athlon/mulredc12.asm
+ecm-6.4.4/athlon/Makefile.in
+ecm-6.4.4/athlon/mulredc16.asm
+ecm-6.4.4/athlon/mulredc1.asm
+ecm-6.4.4/athlon/mulredc15.asm
+ecm-6.4.4/athlon/mulredc10.asm
+ecm-6.4.4/athlon/Makefile.am
+ecm-6.4.4/athlon/mulredc4.asm
+ecm-6.4.4/athlon/mulredc8.asm
+ecm-6.4.4/athlon/README
+ecm-6.4.4/athlon/mulredc11.asm
+ecm-6.4.4/athlon/mulredc7.asm
+ecm-6.4.4/mul_fft-params.h.pentium3
+ecm-6.4.4/ecm-params.h.corei5
+ecm-6.4.4/pp1.c
+ecm-6.4.4/README.lib
+ecm-6.4.4/getprime.c
+ecm-6.4.4/bench_mulredc.c
+ecm-6.4.4/ellparam_batch.c
+ecm-6.4.4/config.sub
+ecm-6.4.4/ltmain.sh
+ecm-6.4.4/ecm-params.h.sparc64
+ecm-6.4.4/ecm-ecm.h
+ecm-6.4.4/ecm-params.h.alpha-ev56
+ecm-6.4.4/ecm.1
+ecm-6.4.4/AUTHORS
+ecm-6.4.4/NEWS
+ecm-6.4.4/batch.c
+ecm-6.4.4/ecm-params.h.core2
+ecm-6.4.4/pm1fs2.c
+ecm-6.4.4/mul_fft-params.h.athlon64
+ecm-6.4.4/ecm-params.h.pentium4
+ecm-6.4.4/ecm-params.h.ia64
+ecm-6.4.4/pentium4/
+ecm-6.4.4/pentium4/autogen.py
+ecm-6.4.4/pentium4/mulredc3.asm
+ecm-6.4.4/pentium4/mulredc.h
+ecm-6.4.4/pentium4/mulredc14.asm
+ecm-6.4.4/pentium4/mulredc5.asm
+ecm-6.4.4/pentium4/Makefile.dev
+ecm-6.4.4/pentium4/generate_all
+ecm-6.4.4/pentium4/mulredc6.asm
+ecm-6.4.4/pentium4/mulredc2.asm
+ecm-6.4.4/pentium4/mulredc20.asm
+ecm-6.4.4/pentium4/mulredc17.asm
+ecm-6.4.4/pentium4/redc.asm
+ecm-6.4.4/pentium4/mulredc18.asm
+ecm-6.4.4/pentium4/mulredc19.asm
+ecm-6.4.4/pentium4/mulredc9.asm
+ecm-6.4.4/pentium4/mulredc13.asm
+ecm-6.4.4/pentium4/mulredc12.asm
+ecm-6.4.4/pentium4/Makefile.in
+ecm-6.4.4/pentium4/mulredc16.asm
+ecm-6.4.4/pentium4/mulredc1.asm
+ecm-6.4.4/pentium4/mulredc15.asm
+ecm-6.4.4/pentium4/mulredc10.asm
+ecm-6.4.4/pentium4/Makefile.am
+ecm-6.4.4/pentium4/mulredc4.asm
+ecm-6.4.4/pentium4/mulredc8.asm
+ecm-6.4.4/pentium4/README
+ecm-6.4.4/pentium4/mulredc11.asm
+ecm-6.4.4/pentium4/mulredc7.asm
+ecm-6.4.4/sp.c
+ecm-6.4.4/ecm-params.h.mips64el
+ecm-6.4.4/ecm-params.h.alpha-ev5
+ecm-6.4.4/rho.c
+ecm-6.4.4/ecm-params.h.default
+ecm-6.4.4/missing
+ecm-6.4.4/depcomp
+ecm-6.4.4/mul_fft.c
+ecm-6.4.4/test.ecm
+ecm-6.4.4/spv.c
+ecm-6.4.4/install-sh
+ecm-6.4.4/ecm.c
+ecm-6.4.4/ntt_gfp.c
+ecm-6.4.4/ks-multiply.c
+ecm-6.4.4/Makefile.in
+ecm-6.4.4/ecm_ntt.c
+ecm-6.4.4/auxi.c
+ecm-6.4.4/ecm-params.h.pentium3
+ecm-6.4.4/mpzspv.c
+ecm-6.4.4/acinclude.m4
+ecm-6.4.4/ecm-params.h.powerpc970
+ecm-6.4.4/ecmfactor.c
+ecm-6.4.4/ChangeLog
+ecm-6.4.4/INSTALL
+ecm-6.4.4/ecm.h
+ecm-6.4.4/config.h.in
+ecm-6.4.4/Makefile.am
+ecm-6.4.4/x86_64/
+ecm-6.4.4/x86_64/autogen.py
+ecm-6.4.4/x86_64/mulredc3.asm
+ecm-6.4.4/x86_64/mulredc.h
+ecm-6.4.4/x86_64/mulredc14.asm
+ecm-6.4.4/x86_64/mulredc5.asm
+ecm-6.4.4/x86_64/mulredc1_8.asm
+ecm-6.4.4/x86_64/mulredc1_13.asm
+ecm-6.4.4/x86_64/mulredc1_11.asm
+ecm-6.4.4/x86_64/generate_all
+ecm-6.4.4/x86_64/mulredc1_14.asm
+ecm-6.4.4/x86_64/mulredc6.asm
+ecm-6.4.4/x86_64/mulredc2.asm
+ecm-6.4.4/x86_64/mulredc.m4
+ecm-6.4.4/x86_64/mulredc20.asm
+ecm-6.4.4/x86_64/mulredc17.asm
+ecm-6.4.4/x86_64/mulredc1_4.asm
+ecm-6.4.4/x86_64/mulredc1_3.asm
+ecm-6.4.4/x86_64/mulredc1_20.asm
+ecm-6.4.4/x86_64/mulredc1_9.asm
+ecm-6.4.4/x86_64/mulredc1_15.asm
+ecm-6.4.4/x86_64/mulredc18.asm
+ecm-6.4.4/x86_64/mulredc1_18.asm
+ecm-6.4.4/x86_64/mulredc19.asm
+ecm-6.4.4/x86_64/mulredc1_10.asm
+ecm-6.4.4/x86_64/mulredc1_16.asm
+ecm-6.4.4/x86_64/mulredc1.m4
+ecm-6.4.4/x86_64/mulredc9.asm
+ecm-6.4.4/x86_64/mulredc1_12.asm
+ecm-6.4.4/x86_64/mulredc13.asm
+ecm-6.4.4/x86_64/mulredc12.asm
+ecm-6.4.4/x86_64/mulredc1_19.asm
+ecm-6.4.4/x86_64/Makefile.in
+ecm-6.4.4/x86_64/mulredc1_17.asm
+ecm-6.4.4/x86_64/mulredc16.asm
+ecm-6.4.4/x86_64/mulredc1.asm
+ecm-6.4.4/x86_64/mulredc1_5.asm
+ecm-6.4.4/x86_64/mulredc15.asm
+ecm-6.4.4/x86_64/mulredc1_6.asm
+ecm-6.4.4/x86_64/mulredc1_7.asm
+ecm-6.4.4/x86_64/mulredc10.asm
+ecm-6.4.4/x86_64/mulredc1_2.asm
+ecm-6.4.4/x86_64/Makefile.am
+ecm-6.4.4/x86_64/mulredc4.asm
+ecm-6.4.4/x86_64/mulredc8.asm
+ecm-6.4.4/x86_64/README
+ecm-6.4.4/x86_64/mulredc11.asm
+ecm-6.4.4/x86_64/mulredc7.asm
+ecm-6.4.4/b1_ainc.c
+ecm-6.4.4/ecm-gmp.h
+ecm-6.4.4/mul_fft-params.h.pentium4
+ecm-6.4.4/ecm-impl.h
+ecm-6.4.4/mul_lo.c
+ecm-6.4.4/powerpc64/
+ecm-6.4.4/powerpc64/powerpc-defs.m4
+ecm-6.4.4/powerpc64/mulredc3.asm
+ecm-6.4.4/powerpc64/mulredc.h
+ecm-6.4.4/powerpc64/mulredc14.asm
+ecm-6.4.4/powerpc64/mulredc5.asm
+ecm-6.4.4/powerpc64/Makefile.dev
+ecm-6.4.4/powerpc64/generate_all
+ecm-6.4.4/powerpc64/mulredc6.asm
+ecm-6.4.4/powerpc64/mulredc2.asm
+ecm-6.4.4/powerpc64/mulredc.m4
+ecm-6.4.4/powerpc64/mulredc20.asm
+ecm-6.4.4/powerpc64/mulredc17.asm
+ecm-6.4.4/powerpc64/redc.asm
+ecm-6.4.4/powerpc64/mulredc18.asm
+ecm-6.4.4/powerpc64/mulredc19.asm
+ecm-6.4.4/powerpc64/mulredc9.asm
+ecm-6.4.4/powerpc64/mulredc13.asm
+ecm-6.4.4/powerpc64/mulredc12.asm
+ecm-6.4.4/powerpc64/Makefile.in
+ecm-6.4.4/powerpc64/mulredc16.asm
+ecm-6.4.4/powerpc64/mulredc1.asm
+ecm-6.4.4/powerpc64/mulredc_1_2.m4
+ecm-6.4.4/powerpc64/mulredc15.asm
+ecm-6.4.4/powerpc64/mulredc10.asm
+ecm-6.4.4/powerpc64/Makefile.am
+ecm-6.4.4/powerpc64/mulredc4.asm
+ecm-6.4.4/powerpc64/mulredc8.asm
+ecm-6.4.4/powerpc64/README
+ecm-6.4.4/powerpc64/mulredc11.asm
+ecm-6.4.4/powerpc64/mulredc7.asm
+ecm-6.4.4/auxlib.c
+ecm-6.4.4/random.c
+ecm-6.4.4/TODO
+ecm-6.4.4/README
+ecm-6.4.4/config.guess
+ecm-6.4.4/factor.c
+ecm-6.4.4/test.pm1
+ecm-6.4.4/memory.c
+ecm-6.4.4/auxarith.c
+[32mTCZBUILD[0m: ./configure 
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... ./install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for CC and CFLAGS in gmp.h... yes CC=gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 CFLAGS=-m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486
+checking whether CC=gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 and CFLAGS=-m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 works... yes
+checking for gcc... gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 accepts -g... yes
+checking for gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 option to accept ISO C89... none needed
+checking for style of include used by make... GNU
+checking dependency style of gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99... gcc3
+checking dependency style of gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99... (cached) gcc3
+checking dependency style of gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99... gcc3
+checking whether gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 and cc understand -c and -o together... yes
+checking how to print strings... printf
+checking for a sed that does not truncate output... (cached) /usr/local/bin/sed
+checking for fgrep... /usr/local/bin/grep -F
+checking for ld used by gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/local/bin/nm -B
+checking the name lister (/usr/local/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 32768
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... no
+checking how to convert x86_64-unknown-linux-gnu file names to x86_64-unknown-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-unknown-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for ar... ar
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/local/bin/nm -B output from gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 object... ok
+checking for sysroot... no
+./configure: ./configure.lineno: line 1: /usr/bin/file: not found
+checking for mt... no
+checking if : is a manifest tool... no
+checking how to run the C preprocessor... gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 supports -fno-rtti -fno-exceptions... no
+checking for gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 option to produce PIC... -fPIC -DPIC
+checking if gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 PIC flag -fPIC -DPIC works... yes
+checking if gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 static flag -static works... yes
+checking if gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 supports -c -o file.o... yes
+checking if gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 supports -c -o file.o... (cached) yes
+checking whether the gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 linker (/usr/local/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... no
+checking whether to build static libraries... yes
+checking for int64_t... yes
+checking for uint64_t... yes
+checking for long long int... yes
+checking for an ANSI C-conforming const... yes
+checking for inline... inline
+checking whether time.h and sys/time.h may both be included... yes
+checking for size_t... yes
+configure: 32-bit ABI (i386), disabling asm-redc
+checking for working alloca.h... yes
+checking for alloca... yes
+checking for ANSI C header files... (cached) yes
+checking math.h usability... yes
+checking math.h presence... yes
+checking for math.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking malloc.h usability... yes
+checking malloc.h presence... yes
+checking for malloc.h... yes
+checking for strings.h... (cached) yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking for unistd.h... (cached) yes
+checking io.h usability... no
+checking io.h presence... no
+checking for io.h... no
+checking signal.h usability... yes
+checking signal.h presence... yes
+checking for signal.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking windows.h usability... no
+checking windows.h presence... no
+checking for windows.h... no
+checking ctype.h usability... yes
+checking ctype.h presence... yes
+checking for ctype.h... yes
+checking for sys/types.h... (cached) yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking for working strtod... yes
+checking for pow in -lm... yes
+checking for floor in -lm... yes
+checking for sqrt in -lm... yes
+checking for fmod in -lm... yes
+checking for cos in -lm... yes
+checking for cblas_dgemm in -lgslcblas... no
+checking for isascii... yes
+checking for memset... yes
+checking for strchr... yes
+checking for strlen... yes
+checking for strncasecmp... yes
+checking for strstr... yes
+checking for access... yes
+checking for unlink... yes
+checking for isspace... yes
+checking for isdigit... yes
+checking for isxdigit... yes
+checking for time... yes
+checking for ctime... yes
+checking for setpriority... yes
+checking for nice... yes
+checking for gethostname... yes
+checking for gettimeofday... yes
+checking for getrusage... yes
+checking for memmove... yes
+checking for signal... yes
+checking for fcntl... yes
+checking for fileno... yes
+checking for malloc_usable_size... yes
+checking gmp.h usability... yes
+checking gmp.h presence... yes
+checking for gmp.h... yes
+checking for recent GMP... yes
+checking if GMP is MPIR... no
+checking whether we can link against GMP... yes
+checking if gmp.h version and libgmp version are the same... (6.0.0/6.0.0) yes
+checking for __gmpn_add_nc... yes
+checking for __gmpn_mod_34lsub1... yes
+checking for __gmpn_redc_1... yes
+checking for __gmpn_redc_2... yes
+checking for __gmpn_mullo_n... yes
+checking for __gmpn_redc_n... yes
+checking for __gmpn_preinv_mod_1... yes
+checking whether compiler knows __attribute__((hot))... yes
+checking for xsltproc... no
+checking for valgrind... no
+creating config.m4
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating athlon/Makefile
+config.status: creating pentium4/Makefile
+config.status: creating x86_64/Makefile
+config.status: creating powerpc64/Makefile
+config.status: creating build.vc10/Makefile
+config.status: creating build.vc10/assembler/Makefile
+config.status: creating build.vc10/ecm/Makefile
+config.status: creating build.vc10/libecm/Makefile
+config.status: creating build.vc10/tune/Makefile
+config.status: creating build.vc10/bench_mulredc/Makefile
+config.status: creating config.h
+config.status: linking ecm-params.h.athlon64 to ecm-params.h
+config.status: linking mul_fft-params.h.athlon64 to mul_fft-params.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+configure: Configuration:
+configure: Build for host type x86_64-unknown-linux-gnu
+configure: CC=gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99, CFLAGS=-W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486
+configure: Linking GMP with -lgmp
+configure: Not using asm redc code
+configure: Not using SSE2 instructions in NTT code
+configure: Assertions disabled
+configure: Shell command execution disabled
+configure: OpenMP disabled
+configure: Memory debugging disabled
+[32mTCZBUILD[0m: make 
+make  all-recursive
+make[1]: Entering directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+make[2]: Entering directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ecm.lo -MD -MP -MF .deps/libecm_la-ecm.Tpo -c -o libecm_la-ecm.lo `test -f 'ecm.c' || echo './'`ecm.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ecm.lo -MD -MP -MF .deps/libecm_la-ecm.Tpo -c ecm.c -o libecm_la-ecm.o
+mv -f .deps/libecm_la-ecm.Tpo .deps/libecm_la-ecm.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ecm2.lo -MD -MP -MF .deps/libecm_la-ecm2.Tpo -c -o libecm_la-ecm2.lo `test -f 'ecm2.c' || echo './'`ecm2.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ecm2.lo -MD -MP -MF .deps/libecm_la-ecm2.Tpo -c ecm2.c -o libecm_la-ecm2.o
+mv -f .deps/libecm_la-ecm2.Tpo .deps/libecm_la-ecm2.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-pm1.lo -MD -MP -MF .deps/libecm_la-pm1.Tpo -c -o libecm_la-pm1.lo `test -f 'pm1.c' || echo './'`pm1.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-pm1.lo -MD -MP -MF .deps/libecm_la-pm1.Tpo -c pm1.c -o libecm_la-pm1.o
+mv -f .deps/libecm_la-pm1.Tpo .deps/libecm_la-pm1.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-pp1.lo -MD -MP -MF .deps/libecm_la-pp1.Tpo -c -o libecm_la-pp1.lo `test -f 'pp1.c' || echo './'`pp1.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-pp1.lo -MD -MP -MF .deps/libecm_la-pp1.Tpo -c pp1.c -o libecm_la-pp1.o
+mv -f .deps/libecm_la-pp1.Tpo .deps/libecm_la-pp1.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-getprime.lo -MD -MP -MF .deps/libecm_la-getprime.Tpo -c -o libecm_la-getprime.lo `test -f 'getprime.c' || echo './'`getprime.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-getprime.lo -MD -MP -MF .deps/libecm_la-getprime.Tpo -c getprime.c -o libecm_la-getprime.o
+mv -f .deps/libecm_la-getprime.Tpo .deps/libecm_la-getprime.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-listz.lo -MD -MP -MF .deps/libecm_la-listz.Tpo -c -o libecm_la-listz.lo `test -f 'listz.c' || echo './'`listz.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-listz.lo -MD -MP -MF .deps/libecm_la-listz.Tpo -c listz.c -o libecm_la-listz.o
+mv -f .deps/libecm_la-listz.Tpo .deps/libecm_la-listz.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-lucas.lo -MD -MP -MF .deps/libecm_la-lucas.Tpo -c -o libecm_la-lucas.lo `test -f 'lucas.c' || echo './'`lucas.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-lucas.lo -MD -MP -MF .deps/libecm_la-lucas.Tpo -c lucas.c -o libecm_la-lucas.o
+mv -f .deps/libecm_la-lucas.Tpo .deps/libecm_la-lucas.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-stage2.lo -MD -MP -MF .deps/libecm_la-stage2.Tpo -c -o libecm_la-stage2.lo `test -f 'stage2.c' || echo './'`stage2.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-stage2.lo -MD -MP -MF .deps/libecm_la-stage2.Tpo -c stage2.c -o libecm_la-stage2.o
+mv -f .deps/libecm_la-stage2.Tpo .deps/libecm_la-stage2.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-toomcook.lo -MD -MP -MF .deps/libecm_la-toomcook.Tpo -c -o libecm_la-toomcook.lo `test -f 'toomcook.c' || echo './'`toomcook.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-toomcook.lo -MD -MP -MF .deps/libecm_la-toomcook.Tpo -c toomcook.c -o libecm_la-toomcook.o
+mv -f .deps/libecm_la-toomcook.Tpo .deps/libecm_la-toomcook.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mpmod.lo -MD -MP -MF .deps/libecm_la-mpmod.Tpo -c -o libecm_la-mpmod.lo `test -f 'mpmod.c' || echo './'`mpmod.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mpmod.lo -MD -MP -MF .deps/libecm_la-mpmod.Tpo -c mpmod.c -o libecm_la-mpmod.o
+mv -f .deps/libecm_la-mpmod.Tpo .deps/libecm_la-mpmod.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mul_lo.lo -MD -MP -MF .deps/libecm_la-mul_lo.Tpo -c -o libecm_la-mul_lo.lo `test -f 'mul_lo.c' || echo './'`mul_lo.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mul_lo.lo -MD -MP -MF .deps/libecm_la-mul_lo.Tpo -c mul_lo.c -o libecm_la-mul_lo.o
+mv -f .deps/libecm_la-mul_lo.Tpo .deps/libecm_la-mul_lo.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-polyeval.lo -MD -MP -MF .deps/libecm_la-polyeval.Tpo -c -o libecm_la-polyeval.lo `test -f 'polyeval.c' || echo './'`polyeval.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-polyeval.lo -MD -MP -MF .deps/libecm_la-polyeval.Tpo -c polyeval.c -o libecm_la-polyeval.o
+mv -f .deps/libecm_la-polyeval.Tpo .deps/libecm_la-polyeval.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-median.lo -MD -MP -MF .deps/libecm_la-median.Tpo -c -o libecm_la-median.lo `test -f 'median.c' || echo './'`median.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-median.lo -MD -MP -MF .deps/libecm_la-median.Tpo -c median.c -o libecm_la-median.o
+mv -f .deps/libecm_la-median.Tpo .deps/libecm_la-median.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-schoen_strass.lo -MD -MP -MF .deps/libecm_la-schoen_strass.Tpo -c -o libecm_la-schoen_strass.lo `test -f 'schoen_strass.c' || echo './'`schoen_strass.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-schoen_strass.lo -MD -MP -MF .deps/libecm_la-schoen_strass.Tpo -c schoen_strass.c -o libecm_la-schoen_strass.o
+mv -f .deps/libecm_la-schoen_strass.Tpo .deps/libecm_la-schoen_strass.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ks-multiply.lo -MD -MP -MF .deps/libecm_la-ks-multiply.Tpo -c -o libecm_la-ks-multiply.lo `test -f 'ks-multiply.c' || echo './'`ks-multiply.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ks-multiply.lo -MD -MP -MF .deps/libecm_la-ks-multiply.Tpo -c ks-multiply.c -o libecm_la-ks-multiply.o
+mv -f .deps/libecm_la-ks-multiply.Tpo .deps/libecm_la-ks-multiply.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-rho.lo -MD -MP -MF .deps/libecm_la-rho.Tpo -c -o libecm_la-rho.lo `test -f 'rho.c' || echo './'`rho.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-rho.lo -MD -MP -MF .deps/libecm_la-rho.Tpo -c rho.c -o libecm_la-rho.o
+mv -f .deps/libecm_la-rho.Tpo .deps/libecm_la-rho.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-bestd.lo -MD -MP -MF .deps/libecm_la-bestd.Tpo -c -o libecm_la-bestd.lo `test -f 'bestd.c' || echo './'`bestd.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-bestd.lo -MD -MP -MF .deps/libecm_la-bestd.Tpo -c bestd.c -o libecm_la-bestd.o
+mv -f .deps/libecm_la-bestd.Tpo .deps/libecm_la-bestd.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-auxlib.lo -MD -MP -MF .deps/libecm_la-auxlib.Tpo -c -o libecm_la-auxlib.lo `test -f 'auxlib.c' || echo './'`auxlib.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-auxlib.lo -MD -MP -MF .deps/libecm_la-auxlib.Tpo -c auxlib.c -o libecm_la-auxlib.o
+mv -f .deps/libecm_la-auxlib.Tpo .deps/libecm_la-auxlib.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-random.lo -MD -MP -MF .deps/libecm_la-random.Tpo -c -o libecm_la-random.lo `test -f 'random.c' || echo './'`random.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-random.lo -MD -MP -MF .deps/libecm_la-random.Tpo -c random.c -o libecm_la-random.o
+mv -f .deps/libecm_la-random.Tpo .deps/libecm_la-random.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-factor.lo -MD -MP -MF .deps/libecm_la-factor.Tpo -c -o libecm_la-factor.lo `test -f 'factor.c' || echo './'`factor.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-factor.lo -MD -MP -MF .deps/libecm_la-factor.Tpo -c factor.c -o libecm_la-factor.o
+mv -f .deps/libecm_la-factor.Tpo .deps/libecm_la-factor.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-sp.lo -MD -MP -MF .deps/libecm_la-sp.Tpo -c -o libecm_la-sp.lo `test -f 'sp.c' || echo './'`sp.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-sp.lo -MD -MP -MF .deps/libecm_la-sp.Tpo -c sp.c -o libecm_la-sp.o
+mv -f .deps/libecm_la-sp.Tpo .deps/libecm_la-sp.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-spv.lo -MD -MP -MF .deps/libecm_la-spv.Tpo -c -o libecm_la-spv.lo `test -f 'spv.c' || echo './'`spv.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-spv.lo -MD -MP -MF .deps/libecm_la-spv.Tpo -c spv.c -o libecm_la-spv.o
+mv -f .deps/libecm_la-spv.Tpo .deps/libecm_la-spv.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-spm.lo -MD -MP -MF .deps/libecm_la-spm.Tpo -c -o libecm_la-spm.lo `test -f 'spm.c' || echo './'`spm.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-spm.lo -MD -MP -MF .deps/libecm_la-spm.Tpo -c spm.c -o libecm_la-spm.o
+mv -f .deps/libecm_la-spm.Tpo .deps/libecm_la-spm.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mpzspm.lo -MD -MP -MF .deps/libecm_la-mpzspm.Tpo -c -o libecm_la-mpzspm.lo `test -f 'mpzspm.c' || echo './'`mpzspm.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mpzspm.lo -MD -MP -MF .deps/libecm_la-mpzspm.Tpo -c mpzspm.c -o libecm_la-mpzspm.o
+mv -f .deps/libecm_la-mpzspm.Tpo .deps/libecm_la-mpzspm.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mpzspv.lo -MD -MP -MF .deps/libecm_la-mpzspv.Tpo -c -o libecm_la-mpzspv.lo `test -f 'mpzspv.c' || echo './'`mpzspv.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mpzspv.lo -MD -MP -MF .deps/libecm_la-mpzspv.Tpo -c mpzspv.c -o libecm_la-mpzspv.o
+mv -f .deps/libecm_la-mpzspv.Tpo .deps/libecm_la-mpzspv.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ntt_gfp.lo -MD -MP -MF .deps/libecm_la-ntt_gfp.Tpo -c -o libecm_la-ntt_gfp.lo `test -f 'ntt_gfp.c' || echo './'`ntt_gfp.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ntt_gfp.lo -MD -MP -MF .deps/libecm_la-ntt_gfp.Tpo -c ntt_gfp.c -o libecm_la-ntt_gfp.o
+mv -f .deps/libecm_la-ntt_gfp.Tpo .deps/libecm_la-ntt_gfp.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ecm_ntt.lo -MD -MP -MF .deps/libecm_la-ecm_ntt.Tpo -c -o libecm_la-ecm_ntt.lo `test -f 'ecm_ntt.c' || echo './'`ecm_ntt.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ecm_ntt.lo -MD -MP -MF .deps/libecm_la-ecm_ntt.Tpo -c ecm_ntt.c -o libecm_la-ecm_ntt.o
+mv -f .deps/libecm_la-ecm_ntt.Tpo .deps/libecm_la-ecm_ntt.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-pm1fs2.lo -MD -MP -MF .deps/libecm_la-pm1fs2.Tpo -c -o libecm_la-pm1fs2.lo `test -f 'pm1fs2.c' || echo './'`pm1fs2.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-pm1fs2.lo -MD -MP -MF .deps/libecm_la-pm1fs2.Tpo -c pm1fs2.c -o libecm_la-pm1fs2.o
+mv -f .deps/libecm_la-pm1fs2.Tpo .deps/libecm_la-pm1fs2.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mul_fft.lo -MD -MP -MF .deps/libecm_la-mul_fft.Tpo -c -o libecm_la-mul_fft.lo `test -f 'mul_fft.c' || echo './'`mul_fft.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-mul_fft.lo -MD -MP -MF .deps/libecm_la-mul_fft.Tpo -c mul_fft.c -o libecm_la-mul_fft.o
+mv -f .deps/libecm_la-mul_fft.Tpo .deps/libecm_la-mul_fft.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-sets_long.lo -MD -MP -MF .deps/libecm_la-sets_long.Tpo -c -o libecm_la-sets_long.lo `test -f 'sets_long.c' || echo './'`sets_long.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-sets_long.lo -MD -MP -MF .deps/libecm_la-sets_long.Tpo -c sets_long.c -o libecm_la-sets_long.o
+mv -f .deps/libecm_la-sets_long.Tpo .deps/libecm_la-sets_long.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-auxarith.lo -MD -MP -MF .deps/libecm_la-auxarith.Tpo -c -o libecm_la-auxarith.lo `test -f 'auxarith.c' || echo './'`auxarith.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-auxarith.lo -MD -MP -MF .deps/libecm_la-auxarith.Tpo -c auxarith.c -o libecm_la-auxarith.o
+mv -f .deps/libecm_la-auxarith.Tpo .deps/libecm_la-auxarith.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-batch.lo -MD -MP -MF .deps/libecm_la-batch.Tpo -c -o libecm_la-batch.lo `test -f 'batch.c' || echo './'`batch.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-batch.lo -MD -MP -MF .deps/libecm_la-batch.Tpo -c batch.c -o libecm_la-batch.o
+mv -f .deps/libecm_la-batch.Tpo .deps/libecm_la-batch.Plo
+/bin/sh ./libtool  --tag=CC   --mode=compile gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ellparam_batch.lo -MD -MP -MF .deps/libecm_la-ellparam_batch.Tpo -c -o libecm_la-ellparam_batch.lo `test -f 'ellparam_batch.c' || echo './'`ellparam_batch.c
+libtool: compile:  gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I. -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT libecm_la-ellparam_batch.lo -MD -MP -MF .deps/libecm_la-ellparam_batch.Tpo -c ellparam_batch.c -o libecm_la-ellparam_batch.o
+mv -f .deps/libecm_la-ellparam_batch.Tpo .deps/libecm_la-ellparam_batch.Plo
+/bin/sh ./libtool --tag=CC   --mode=link gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99  -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 '-version-info 0:0:0'  -o libecm.la -rpath /usr/local/lib libecm_la-ecm.lo libecm_la-ecm2.lo libecm_la-pm1.lo libecm_la-pp1.lo libecm_la-getprime.lo libecm_la-listz.lo libecm_la-lucas.lo libecm_la-stage2.lo libecm_la-toomcook.lo libecm_la-mpmod.lo libecm_la-mul_lo.lo libecm_la-polyeval.lo libecm_la-median.lo libecm_la-schoen_strass.lo libecm_la-ks-multiply.lo libecm_la-rho.lo libecm_la-bestd.lo libecm_la-auxlib.lo libecm_la-random.lo libecm_la-factor.lo libecm_la-sp.lo libecm_la-spv.lo libecm_la-spm.lo libecm_la-mpzspm.lo libecm_la-mpzspv.lo libecm_la-ntt_gfp.lo libecm_la-ecm_ntt.lo libecm_la-pm1fs2.lo libecm_la-mul_fft.lo libecm_la-sets_long.lo libecm_la-auxarith.lo libecm_la-batch.lo libecm_la-ellparam_batch.lo    -lm -lm -lm -lm -lm  
+libtool: link: ar cru .libs/libecm.a  libecm_la-ecm.o libecm_la-ecm2.o libecm_la-pm1.o libecm_la-pp1.o libecm_la-getprime.o libecm_la-listz.o libecm_la-lucas.o libecm_la-stage2.o libecm_la-toomcook.o libecm_la-mpmod.o libecm_la-mul_lo.o libecm_la-polyeval.o libecm_la-median.o libecm_la-schoen_strass.o libecm_la-ks-multiply.o libecm_la-rho.o libecm_la-bestd.o libecm_la-auxlib.o libecm_la-random.o libecm_la-factor.o libecm_la-sp.o libecm_la-spv.o libecm_la-spm.o libecm_la-mpzspm.o libecm_la-mpzspv.o libecm_la-ntt_gfp.o libecm_la-ecm_ntt.o libecm_la-pm1fs2.o libecm_la-mul_fft.o libecm_la-sets_long.o libecm_la-auxarith.o libecm_la-batch.o libecm_la-ellparam_batch.o
+libtool: link: ranlib .libs/libecm.a
+libtool: link: ( cd ".libs" && rm -f "libecm.la" && ln -s "../libecm.la" "libecm.la" )
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-auxi.o -MD -MP -MF .deps/ecm-auxi.Tpo -c -o ecm-auxi.o `test -f 'auxi.c' || echo './'`auxi.c
+mv -f .deps/ecm-auxi.Tpo .deps/ecm-auxi.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-b1_ainc.o -MD -MP -MF .deps/ecm-b1_ainc.Tpo -c -o ecm-b1_ainc.o `test -f 'b1_ainc.c' || echo './'`b1_ainc.c
+mv -f .deps/ecm-b1_ainc.Tpo .deps/ecm-b1_ainc.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-candi.o -MD -MP -MF .deps/ecm-candi.Tpo -c -o ecm-candi.o `test -f 'candi.c' || echo './'`candi.c
+mv -f .deps/ecm-candi.Tpo .deps/ecm-candi.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-eval.o -MD -MP -MF .deps/ecm-eval.Tpo -c -o ecm-eval.o `test -f 'eval.c' || echo './'`eval.c
+mv -f .deps/ecm-eval.Tpo .deps/ecm-eval.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-random.o -MD -MP -MF .deps/ecm-random.Tpo -c -o ecm-random.o `test -f 'random.c' || echo './'`random.c
+mv -f .deps/ecm-random.Tpo .deps/ecm-random.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-main.o -MD -MP -MF .deps/ecm-main.Tpo -c -o ecm-main.o `test -f 'main.c' || echo './'`main.c
+mv -f .deps/ecm-main.Tpo .deps/ecm-main.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-resume.o -MD -MP -MF .deps/ecm-resume.Tpo -c -o ecm-resume.o `test -f 'resume.c' || echo './'`resume.c
+mv -f .deps/ecm-resume.Tpo .deps/ecm-resume.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DOUTSIDE_LIBECM   -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecm-getprime.o -MD -MP -MF .deps/ecm-getprime.Tpo -c -o ecm-getprime.o `test -f 'getprime.c' || echo './'`getprime.c
+mv -f .deps/ecm-getprime.Tpo .deps/ecm-getprime.Po
+/bin/sh ./libtool --tag=CC   --mode=link gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99  -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486   -o ecm ecm-auxi.o ecm-b1_ainc.o ecm-candi.o ecm-eval.o ecm-random.o ecm-main.o ecm-resume.o ecm-getprime.o libecm.la -lgmp -lm -lm -lm -lm -lm  
+libtool: link: gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -o ecm ecm-auxi.o ecm-b1_ainc.o ecm-candi.o ecm-eval.o ecm-random.o ecm-main.o ecm-resume.o ecm-getprime.o  ./.libs/libecm.a /usr/local/lib/libgmp.so -lm
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-mpmod.o -MD -MP -MF .deps/tune-mpmod.Tpo -c -o tune-mpmod.o `test -f 'mpmod.c' || echo './'`mpmod.c
+mv -f .deps/tune-mpmod.Tpo .deps/tune-mpmod.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-tune.o -MD -MP -MF .deps/tune-tune.Tpo -c -o tune-tune.o `test -f 'tune.c' || echo './'`tune.c
+mv -f .deps/tune-tune.Tpo .deps/tune-tune.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-mul_lo.o -MD -MP -MF .deps/tune-mul_lo.Tpo -c -o tune-mul_lo.o `test -f 'mul_lo.c' || echo './'`mul_lo.c
+mv -f .deps/tune-mul_lo.Tpo .deps/tune-mul_lo.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-listz.o -MD -MP -MF .deps/tune-listz.Tpo -c -o tune-listz.o `test -f 'listz.c' || echo './'`listz.c
+mv -f .deps/tune-listz.Tpo .deps/tune-listz.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-auxlib.o -MD -MP -MF .deps/tune-auxlib.Tpo -c -o tune-auxlib.o `test -f 'auxlib.c' || echo './'`auxlib.c
+mv -f .deps/tune-auxlib.Tpo .deps/tune-auxlib.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-ks-multiply.o -MD -MP -MF .deps/tune-ks-multiply.Tpo -c -o tune-ks-multiply.o `test -f 'ks-multiply.c' || echo './'`ks-multiply.c
+mv -f .deps/tune-ks-multiply.Tpo .deps/tune-ks-multiply.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-toomcook.o -MD -MP -MF .deps/tune-toomcook.Tpo -c -o tune-toomcook.o `test -f 'toomcook.c' || echo './'`toomcook.c
+mv -f .deps/tune-toomcook.Tpo .deps/tune-toomcook.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-schoen_strass.o -MD -MP -MF .deps/tune-schoen_strass.Tpo -c -o tune-schoen_strass.o `test -f 'schoen_strass.c' || echo './'`schoen_strass.c
+mv -f .deps/tune-schoen_strass.Tpo .deps/tune-schoen_strass.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-polyeval.o -MD -MP -MF .deps/tune-polyeval.Tpo -c -o tune-polyeval.o `test -f 'polyeval.c' || echo './'`polyeval.c
+mv -f .deps/tune-polyeval.Tpo .deps/tune-polyeval.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-median.o -MD -MP -MF .deps/tune-median.Tpo -c -o tune-median.o `test -f 'median.c' || echo './'`median.c
+mv -f .deps/tune-median.Tpo .deps/tune-median.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-ecm_ntt.o -MD -MP -MF .deps/tune-ecm_ntt.Tpo -c -o tune-ecm_ntt.o `test -f 'ecm_ntt.c' || echo './'`ecm_ntt.c
+mv -f .deps/tune-ecm_ntt.Tpo .deps/tune-ecm_ntt.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-ntt_gfp.o -MD -MP -MF .deps/tune-ntt_gfp.Tpo -c -o tune-ntt_gfp.o `test -f 'ntt_gfp.c' || echo './'`ntt_gfp.c
+mv -f .deps/tune-ntt_gfp.Tpo .deps/tune-ntt_gfp.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-mpzspv.o -MD -MP -MF .deps/tune-mpzspv.Tpo -c -o tune-mpzspv.o `test -f 'mpzspv.c' || echo './'`mpzspv.c
+mv -f .deps/tune-mpzspv.Tpo .deps/tune-mpzspv.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-mpzspm.o -MD -MP -MF .deps/tune-mpzspm.Tpo -c -o tune-mpzspm.o `test -f 'mpzspm.c' || echo './'`mpzspm.c
+mv -f .deps/tune-mpzspm.Tpo .deps/tune-mpzspm.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-sp.o -MD -MP -MF .deps/tune-sp.Tpo -c -o tune-sp.o `test -f 'sp.c' || echo './'`sp.c
+mv -f .deps/tune-sp.Tpo .deps/tune-sp.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-spv.o -MD -MP -MF .deps/tune-spv.Tpo -c -o tune-spv.o `test -f 'spv.c' || echo './'`spv.c
+mv -f .deps/tune-spv.Tpo .deps/tune-spv.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-spm.o -MD -MP -MF .deps/tune-spm.Tpo -c -o tune-spm.o `test -f 'spm.c' || echo './'`spm.c
+mv -f .deps/tune-spm.Tpo .deps/tune-spm.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-random.o -MD -MP -MF .deps/tune-random.Tpo -c -o tune-random.o `test -f 'random.c' || echo './'`random.c
+mv -f .deps/tune-random.Tpo .deps/tune-random.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-mul_fft.o -MD -MP -MF .deps/tune-mul_fft.Tpo -c -o tune-mul_fft.o `test -f 'mul_fft.c' || echo './'`mul_fft.c
+mv -f .deps/tune-mul_fft.Tpo .deps/tune-mul_fft.Po
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.  -DTUNE    -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT tune-auxarith.o -MD -MP -MF .deps/tune-auxarith.Tpo -c -o tune-auxarith.o `test -f 'auxarith.c' || echo './'`auxarith.c
+mv -f .deps/tune-auxarith.Tpo .deps/tune-auxarith.Po
+/bin/sh ./libtool --tag=CC   --mode=link gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99  -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486   -o tune tune-mpmod.o tune-tune.o tune-mul_lo.o tune-listz.o tune-auxlib.o tune-ks-multiply.o tune-toomcook.o tune-schoen_strass.o tune-polyeval.o tune-median.o tune-ecm_ntt.o tune-ntt_gfp.o tune-mpzspv.o tune-mpzspm.o tune-sp.o tune-spv.o tune-spm.o tune-random.o tune-mul_fft.o tune-auxarith.o   -lgmp -lm -lm -lm -lm -lm  
+libtool: link: gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -o tune tune-mpmod.o tune-tune.o tune-mul_lo.o tune-listz.o tune-auxlib.o tune-ks-multiply.o tune-toomcook.o tune-schoen_strass.o tune-polyeval.o tune-median.o tune-ecm_ntt.o tune-ntt_gfp.o tune-mpzspv.o tune-mpzspm.o tune-sp.o tune-spv.o tune-spm.o tune-random.o tune-mul_fft.o tune-auxarith.o  /usr/local/lib/libgmp.so -lm
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT ecmfactor-ecmfactor.o -MD -MP -MF .deps/ecmfactor-ecmfactor.Tpo -c -o ecmfactor-ecmfactor.o `test -f 'ecmfactor.c' || echo './'`ecmfactor.c
+mv -f .deps/ecmfactor-ecmfactor.Tpo .deps/ecmfactor-ecmfactor.Po
+/bin/sh ./libtool --tag=CC   --mode=link gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99  -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486   -o ecmfactor ecmfactor-ecmfactor.o libecm.la -lgmp -lm -lm -lm -lm -lm  
+libtool: link: gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -o ecmfactor ecmfactor-ecmfactor.o  ./.libs/libecm.a /usr/local/lib/libgmp.so -lm
+gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -DHAVE_CONFIG_H -I.     -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -MT bench_mulredc-bench_mulredc.o -MD -MP -MF .deps/bench_mulredc-bench_mulredc.Tpo -c -o bench_mulredc-bench_mulredc.o `test -f 'bench_mulredc.c' || echo './'`bench_mulredc.c
+mv -f .deps/bench_mulredc-bench_mulredc.Tpo .deps/bench_mulredc-bench_mulredc.Po
+/bin/sh ./libtool --tag=CC   --mode=link gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99  -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486   -o bench_mulredc bench_mulredc-bench_mulredc.o -lgmp -lm -lm -lm -lm -lm  
+libtool: link: gcc -flto -fuse-linker-plugin -march=i486 -mtune=i686 -Os -pipe -std=gnu99 -W -Wall -Wundef -m32 -O2 -pedantic -fomit-frame-pointer -mtune=i486 -march=i486 -o bench_mulredc bench_mulredc-bench_mulredc.o  /usr/local/lib/libgmp.so -lm
+make[2]: Leaving directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+make[1]: Leaving directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-8i54c6/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-8i54c6/pkgroot/  install
+make[1]: Entering directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+make[2]: Entering directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+test -z "/usr/local/lib" || ./install-sh -c -d "/tmp/d20160302-601-8i54c6/pkgroot//usr/local/lib"
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libecm.la '/tmp/d20160302-601-8i54c6/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libecm.lai /tmp/d20160302-601-8i54c6/pkgroot//usr/local/lib/libecm.la
+libtool: install: /usr/bin/install -c .libs/libecm.a /tmp/d20160302-601-8i54c6/pkgroot//usr/local/lib/libecm.a
+libtool: install: chmod 644 /tmp/d20160302-601-8i54c6/pkgroot//usr/local/lib/libecm.a
+libtool: install: ranlib /tmp/d20160302-601-8i54c6/pkgroot//usr/local/lib/libecm.a
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib'
+test -z "/usr/local/bin" || ./install-sh -c -d "/tmp/d20160302-601-8i54c6/pkgroot//usr/local/bin"
+  /bin/sh ./libtool   --mode=install /usr/bin/install -c ecm '/tmp/d20160302-601-8i54c6/pkgroot//usr/local/bin'
+libtool: install: /usr/bin/install -c ecm /tmp/d20160302-601-8i54c6/pkgroot//usr/local/bin/ecm
+test -z "/usr/local/include" || ./install-sh -c -d "/tmp/d20160302-601-8i54c6/pkgroot//usr/local/include"
+ /usr/bin/install -c -m 644 ecm.h '/tmp/d20160302-601-8i54c6/pkgroot//usr/local/include'
+test -z "/usr/local/share/man/man1" || ./install-sh -c -d "/tmp/d20160302-601-8i54c6/pkgroot//usr/local/share/man/man1"
+ /usr/bin/install -c -m 644 ecm.1 '/tmp/d20160302-601-8i54c6/pkgroot//usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+make[1]: Leaving directory '/tmp/d20160302-601-8i54c6/ecm-6.4.4'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-8i54c6/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/bin
+[32mTCZBUILD[0m: rm -rf usr/local/sbin
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.so*
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-8i54c6/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+4,9d3
+< ./usr/local/bin
+< ./usr/local/bin/ecm
+< ./usr/local/share
+< ./usr/local/share/man
+< ./usr/local/share/man/man1
+< ./usr/local/share/man/man1/ecm.1
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/include
+usr/local/include/ecm.h
+usr/local/lib
+usr/local/lib/libecm.la
+usr/local/lib/libecm.a
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_ecm-dev.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_ecm-dev.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-8i54c6/pkgroot/ mypkgs_im_ecm-dev.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_ecm-dev.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 1184.63 Kbytes (1.16 Mbytes)
+	92.53% of uncompressed filesystem size (1280.32 Kbytes)
+Inode table size 374 bytes (0.37 Kbytes)
+	24.32% of uncompressed inode table size (1538 bytes)
+Directory table size 102 bytes (0.10 Kbytes)
+	64.56% of uncompressed directory table size (158 bytes)
+Number of duplicate files found 0
+Number of inodes 8
+Number of files 3
+Number of fragments 1
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 5
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_ecm-dev.tcz > mypkgs_im_ecm-dev.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_ecm-dev.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_ecm-dev.tcz
+-rw-r--r--    1 tc       staff       1.2M Mar  2 11:36 [0;0mmypkgs_im_ecm-dev.tcz[0m

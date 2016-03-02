@@ -1,0 +1,1198 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make libusb-dev perl5
+compiletc is already downloaded.
+make is already downloaded.
+libusb-dev is already downloaded.
+perl5 is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make libusb-dev perl5 | tee /tmp/d20160302-601-1fd1kg6/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================|] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+udev-lib.tcz: OK
+Parallel unsquashfs: Using 8 processors
+13 inodes (17 blocks) to write
+
+[=================================================================|] 17/17 100%
+
+created 13 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+udev-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (23 blocks) to write
+
+[=================================================================|] 23/23 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libusb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (48 blocks) to write
+
+[=================================================================|] 48/48 100%
+
+created 4 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libusb-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1489 inodes (9759 blocks) to write
+
+[=============================================================|] 9759/9759 100%
+
+created 1485 files
+created 307 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+perl5.tcz: OK
+pcsc-lite-1.8.15.tar.bz2: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//pcsc-lite-1.8.15.tar.bz2
+pcsc-lite-1.8.15/
+pcsc-lite-1.8.15/NEWS
+pcsc-lite-1.8.15/Makefile.in
+pcsc-lite-1.8.15/COPYING
+pcsc-lite-1.8.15/config.sub
+pcsc-lite-1.8.15/configure.ac
+pcsc-lite-1.8.15/configure
+pcsc-lite-1.8.15/m4/
+pcsc-lite-1.8.15/m4/ltsugar.m4
+pcsc-lite-1.8.15/m4/as-ac-expand.m4
+pcsc-lite-1.8.15/m4/ax_pthread.m4
+pcsc-lite-1.8.15/m4/ltversion.m4
+pcsc-lite-1.8.15/m4/ltoptions.m4
+pcsc-lite-1.8.15/m4/lt~obsolete.m4
+pcsc-lite-1.8.15/m4/libtool.m4
+pcsc-lite-1.8.15/src/
+pcsc-lite-1.8.15/src/libpcsclite.pc.in
+pcsc-lite-1.8.15/src/auth.h
+pcsc-lite-1.8.15/src/README_INTERNALS.txt
+pcsc-lite-1.8.15/src/Makefile.in
+pcsc-lite-1.8.15/src/lassert.h
+pcsc-lite-1.8.15/src/configfile.l
+pcsc-lite-1.8.15/src/spy/
+pcsc-lite-1.8.15/src/spy/Makefile.in
+pcsc-lite-1.8.15/src/spy/pcsc-spy
+pcsc-lite-1.8.15/src/spy/install_spy.sh
+pcsc-lite-1.8.15/src/spy/libpcscspy.c
+pcsc-lite-1.8.15/src/spy/pcsc-spy.pod
+pcsc-lite-1.8.15/src/spy/Makefile.am
+pcsc-lite-1.8.15/src/spy/uninstall_spy.sh
+pcsc-lite-1.8.15/src/utils.c
+pcsc-lite-1.8.15/src/winscard_svc.h
+pcsc-lite-1.8.15/src/sd-daemon.h
+pcsc-lite-1.8.15/src/configfile.h
+pcsc-lite-1.8.15/src/pcsc-wirecheck-gen.c
+pcsc-lite-1.8.15/src/hotplug_generic.c
+pcsc-lite-1.8.15/src/readerfactory.c
+pcsc-lite-1.8.15/src/winscard_msg.h
+pcsc-lite-1.8.15/src/debuglog.c
+pcsc-lite-1.8.15/src/dyn_hpux.c
+pcsc-lite-1.8.15/src/PCSC/
+pcsc-lite-1.8.15/src/PCSC/reader.h
+pcsc-lite-1.8.15/src/PCSC/ifdhandler.h
+pcsc-lite-1.8.15/src/PCSC/wintypes.h
+pcsc-lite-1.8.15/src/PCSC/winscard.h
+pcsc-lite-1.8.15/src/PCSC/debuglog.h
+pcsc-lite-1.8.15/src/PCSC/pcsclite.h.in
+pcsc-lite-1.8.15/src/PCSC/pcsclite.h
+pcsc-lite-1.8.15/src/prothandler.h
+pcsc-lite-1.8.15/src/winscard_svc.c
+pcsc-lite-1.8.15/src/simclist.h
+pcsc-lite-1.8.15/src/error.c
+pcsc-lite-1.8.15/src/powermgt_generic.c
+pcsc-lite-1.8.15/src/powermgt_generic.h
+pcsc-lite-1.8.15/src/simclist.c
+pcsc-lite-1.8.15/src/dyn_generic.h
+pcsc-lite-1.8.15/src/hotplug_macosx.c
+pcsc-lite-1.8.15/src/tokenparser.c
+pcsc-lite-1.8.15/src/Makefile.am
+pcsc-lite-1.8.15/src/winscard_msg.c
+pcsc-lite-1.8.15/src/testpcsc.c
+pcsc-lite-1.8.15/src/atrhandler.c
+pcsc-lite-1.8.15/src/prothandler.c
+pcsc-lite-1.8.15/src/hotplug.h
+pcsc-lite-1.8.15/src/pcsc-wirecheck-main.c
+pcsc-lite-1.8.15/src/parser.h
+pcsc-lite-1.8.15/src/winscard_msg_srv.c
+pcsc-lite-1.8.15/src/dyn_unix.c
+pcsc-lite-1.8.15/src/utils.h
+pcsc-lite-1.8.15/src/pcsc-wirecheck-dist.c
+pcsc-lite-1.8.15/src/ifdwrapper.h
+pcsc-lite-1.8.15/src/tokenparser.l
+pcsc-lite-1.8.15/src/sd-daemon.c
+pcsc-lite-1.8.15/src/pcscd.h.in
+pcsc-lite-1.8.15/src/hotplug_libudev.c
+pcsc-lite-1.8.15/src/eventhandler.c
+pcsc-lite-1.8.15/src/readerfactory.h
+pcsc-lite-1.8.15/src/auth.c
+pcsc-lite-1.8.15/src/sys_generic.h
+pcsc-lite-1.8.15/src/pcscdaemon.c
+pcsc-lite-1.8.15/src/winscard.c
+pcsc-lite-1.8.15/src/hotplug_libusb.c
+pcsc-lite-1.8.15/src/configfile.c
+pcsc-lite-1.8.15/src/misc.h
+pcsc-lite-1.8.15/src/winscard_clnt.c
+pcsc-lite-1.8.15/src/ifdwrapper.c
+pcsc-lite-1.8.15/src/debug.c
+pcsc-lite-1.8.15/src/atrhandler.h
+pcsc-lite-1.8.15/src/dyn_macosx.c
+pcsc-lite-1.8.15/src/eventhandler.h
+pcsc-lite-1.8.15/src/pcscd.h
+pcsc-lite-1.8.15/src/sys_unix.c
+pcsc-lite-1.8.15/src/hotplug_linux.c
+pcsc-lite-1.8.15/doc/
+pcsc-lite-1.8.15/doc/Makefile.in
+pcsc-lite-1.8.15/doc/reader.conf.5.in
+pcsc-lite-1.8.15/doc/README.polkit
+pcsc-lite-1.8.15/doc/pcscd.8.in
+pcsc-lite-1.8.15/doc/formaticc.1
+pcsc-lite-1.8.15/doc/Makefile.am
+pcsc-lite-1.8.15/doc/doxygen.conf.in
+pcsc-lite-1.8.15/doc/org.debian.pcsc-lite.policy
+pcsc-lite-1.8.15/doc/example/
+pcsc-lite-1.8.15/doc/example/Makefile.in
+pcsc-lite-1.8.15/doc/example/Makefile.am
+pcsc-lite-1.8.15/doc/example/pcsc_demo.c
+pcsc-lite-1.8.15/doc/README.DAEMON
+pcsc-lite-1.8.15/bootstrap
+pcsc-lite-1.8.15/etc/
+pcsc-lite-1.8.15/etc/Makefile.in
+pcsc-lite-1.8.15/etc/pcscd.socket.in
+pcsc-lite-1.8.15/etc/Makefile.am
+pcsc-lite-1.8.15/etc/pcscd.service.in
+pcsc-lite-1.8.15/TODO
+pcsc-lite-1.8.15/Makefile.am
+pcsc-lite-1.8.15/aclocal.m4
+pcsc-lite-1.8.15/install-sh
+pcsc-lite-1.8.15/INSTALL
+pcsc-lite-1.8.15/config.h.in
+pcsc-lite-1.8.15/DRIVERS
+pcsc-lite-1.8.15/ylwrap
+pcsc-lite-1.8.15/SECURITY
+pcsc-lite-1.8.15/missing
+pcsc-lite-1.8.15/ltmain.sh
+pcsc-lite-1.8.15/depcomp
+pcsc-lite-1.8.15/HELP
+pcsc-lite-1.8.15/config.guess
+pcsc-lite-1.8.15/compile
+pcsc-lite-1.8.15/ar-lib
+pcsc-lite-1.8.15/README
+pcsc-lite-1.8.15/ChangeLog.git
+pcsc-lite-1.8.15/GPL-3.0.txt
+pcsc-lite-1.8.15/ChangeLog
+pcsc-lite-1.8.15/AUTHORS
+[32mTCZBUILD[0m: ./configure 
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... ./install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking whether byte ordering is bigendian... no
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking how to run the C preprocessor... gcc -E
+checking whether ln -s works... yes
+checking whether make sets $(MAKE)... (cached) yes
+checking for flex... flex
+checking lex output file root... lex.yy
+checking lex library... -lfl
+checking whether yytext is a pointer... yes
+checking for pkg-config... /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for ar... ar
+checking the archiver (ar) interface... ar
+checking for the pthreads library -lpthreads... no
+checking whether pthreads work without any flags... no
+checking whether pthreads work with -Kthread... no
+checking whether pthreads work with -kthread... no
+checking for the pthreads library -llthread... no
+checking whether pthreads work with -pthread... yes
+checking for joinable pthread attribute... PTHREAD_CREATE_JOINABLE
+checking if more special flags are required for pthreads... no
+checking for PTHREAD_PRIO_INHERIT... yes
+checking for pthread_cancel... yes
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for fgrep... /usr/local/bin/grep -F
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/local/bin/nm -B
+checking the name lister (/usr/local/bin/nm -B) interface... BSD nm
+checking the maximum length of command line arguments... 32768
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... no
+checking how to convert x86_64-pc-linux-gnu file names to x86_64-pc-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-pc-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/local/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+./configure: ./configure.lineno: line 1: /usr/bin/file: not found
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for ANSI C header files... (cached) yes
+checking for sys/wait.h that is POSIX.1 compatible... yes
+checking getopt.h usability... yes
+checking getopt.h presence... yes
+checking for getopt.h... yes
+checking sys/filio.h usability... no
+checking sys/filio.h presence... no
+checking for sys/filio.h... no
+checking syslog.h usability... yes
+checking syslog.h presence... yes
+checking for syslog.h... yes
+checking dl.h usability... no
+checking dl.h presence... no
+checking for dl.h... no
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking for an ANSI C-conforming const... yes
+checking for uid_t in sys/types.h... yes
+checking for size_t... yes
+checking whether time.h and sys/time.h may both be included... yes
+checking for error_at_line... yes
+checking whether lstat correctly handles trailing slash... yes
+checking whether stat accepts an empty string... no
+checking for vprintf... yes
+checking for _doprnt... no
+checking for daemon... yes
+checking for flock... yes
+checking for getopt_long... yes
+checking for nanosleep... yes
+checking for strerror... yes
+checking for vsnprintf... yes
+checking for inline... inline
+checking for -fvisibility=hidden... yes
+checking for library containing dlopen... -ldl
+checking for socket in -lsocket... no
+checking for mq_getattr in -lrt... yes
+checking for LIBUDEV... yes
+checking libudev.h usability... yes
+checking libudev.h presence... yes
+checking for libudev.h... yes
+checking for udev_monitor_unref... yes
+Package systemd was not found in the pkg-config search path.
+Perhaps you should add the directory containing `systemd.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'systemd' found
+
+PC/SC lite has been configured with following options:
+
+Version:             1.8.15
+System binaries:     /usr/local/sbin
+Configuration dir:   /usr/local/etc/reader.conf.d
+
+
+Host:                x86_64-pc-linux-gnu
+Compiler:            gcc
+Preprocessor flags:  -I${top_srcdir}/src 
+Compiler flags:      -Wall -fno-common -g -O2
+Preprocessor flags:  -I${top_srcdir}/src 
+Linker flags:        
+Libraries:           -ldl  -lrt
+
+PTHREAD_CFLAGS:      -pthread
+PTHREAD_LIBS:        
+PCSC_ARCH:           Linux
+
+pcscd binary            /usr/local/sbin/pcscd
+polkit support:         no
+polkit policy dir:      
+libudev support:        yes
+libusb support:         no
+USB drop directory:     /usr/local/lib/pcsc/drivers
+ATR parsing messages:   false
+ipcdir:                 /var/run/pcscd
+use serial:             yes
+use usb:                yes
+systemd unit directory: 
+serial config dir.:     /usr/local/etc/reader.conf.d
+filter:                 no
+
+PCSCLITE_FEATURES:       Linux x86_64-pc-linux-gnu serial usb libudev usbdropdir=/usr/local/lib/pcsc/drivers ipcdir=/var/run/pcscd configdir=/usr/local/etc/reader.conf.d
+
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating doc/Makefile
+config.status: creating doc/doxygen.conf
+config.status: creating doc/pcscd.8
+config.status: creating doc/reader.conf.5
+config.status: creating doc/example/Makefile
+config.status: creating etc/Makefile
+config.status: creating etc/pcscd.service
+config.status: creating etc/pcscd.socket
+config.status: creating src/Makefile
+config.status: creating src/libpcsclite.pc
+config.status: creating src/pcscd.h
+config.status: creating src/PCSC/pcsclite.h
+config.status: creating src/spy/Makefile
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+[32mTCZBUILD[0m: make 
+make  all-recursive
+make[1]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+Making all in src
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+Making all in spy
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src/spy'
+  CC       libpcscspy.lo
+  CCLD     libpcscspy.la
+pod2man \
+	--center="PC/SC lite" \
+	--release="pcsc-lite 1.8.15" \
+	./pcsc-spy.pod > pcsc-spy.1
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src/spy'
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+  CC       libpcsclite_la-debug.lo
+  CC       libpcsclite_la-error.lo
+  CC       libpcsclite_la-winscard_clnt.lo
+  CC       libpcsclite_la-simclist.lo
+  CC       libpcsclite_la-sys_unix.lo
+  CC       libpcsclite_la-utils.lo
+  CC       libpcsclite_la-winscard_msg.lo
+  CCLD     libpcsclite.la
+  CC       testpcsc.o
+  CCLD     testpcsc
+  CC       pcsc-wirecheck-gen.o
+  CCLD     pcsc-wirecheck-gen
+touch pcsc-wirecheck-dist.c
+  CC       pcsc-wirecheck-dist.o
+  CC       pcsc-wirecheck-main.o
+  CCLD     pcsc-wirecheck
+  CC       pcscd-auth.o
+  CC       pcscd-atrhandler.o
+  CC       pcscd-configfile.o
+  CC       pcscd-debuglog.o
+  CC       pcscd-dyn_hpux.o
+  CC       pcscd-dyn_macosx.o
+  CC       pcscd-dyn_unix.o
+  CC       pcscd-eventhandler.o
+  CC       pcscd-hotplug_generic.o
+  CC       pcscd-ifdwrapper.o
+  CC       pcscd-pcscdaemon.o
+  CC       pcscd-powermgt_generic.o
+  CC       pcscd-prothandler.o
+  CC       pcscd-readerfactory.o
+  CC       pcscd-sd-daemon.o
+  CC       pcscd-simclist.o
+  CC       pcscd-sys_unix.o
+  CC       pcscd-tokenparser.o
+  CC       pcscd-hotplug_libudev.o
+  CC       pcscd-hotplug_libusb.o
+  CC       pcscd-hotplug_linux.o
+  CC       pcscd-hotplug_macosx.o
+  CC       pcscd-utils.o
+  CC       pcscd-winscard.o
+  CC       pcscd-winscard_msg.o
+  CC       pcscd-winscard_msg_srv.o
+  CC       pcscd-winscard_svc.o
+  CCLD     pcscd
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+Making all in etc
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/etc'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/etc'
+Making all in doc
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+Making all in .
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+Making all in example
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc/example'
+  CC       pcsc_demo-pcsc_demo.o
+  CCLD     pcsc_demo
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc/example'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+make[1]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1fd1kg6/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-1fd1kg6/pkgroot/  install
+Making install in src
+make[1]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+Making install in spy
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src/spy'
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src/spy'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/bin'
+ /usr/bin/install -c pcsc-spy '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/bin'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib'
+ /bin/sh ../../libtool   --mode=install /usr/bin/install -c   libpcscspy.la '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libpcscspy.so.0.0.0 /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib/libpcscspy.so.0.0.0
+libtool: install: (cd /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib && { ln -s -f libpcscspy.so.0.0.0 libpcscspy.so.0 || { rm -f libpcscspy.so.0 && ln -s libpcscspy.so.0.0.0 libpcscspy.so.0; }; })
+libtool: install: (cd /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib && { ln -s -f libpcscspy.so.0.0.0 libpcscspy.so || { rm -f libpcscspy.so && ln -s libpcscspy.so.0.0.0 libpcscspy.so; }; })
+libtool: install: /usr/bin/install -c .libs/libpcscspy.lai /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib/libpcscspy.la
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib'
+ ../.././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 pcsc-spy.1 '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/man/man1'
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src/spy'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src/spy'
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libpcsclite.la '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libpcsclite.so.1.0.0 /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib/libpcsclite.so.1.0.0
+libtool: install: (cd /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib && { ln -s -f libpcsclite.so.1.0.0 libpcsclite.so.1 || { rm -f libpcsclite.so.1 && ln -s libpcsclite.so.1.0.0 libpcsclite.so.1; }; })
+libtool: install: (cd /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib && { ln -s -f libpcsclite.so.1.0.0 libpcsclite.so || { rm -f libpcsclite.so && ln -s libpcsclite.so.1.0.0 libpcsclite.so; }; })
+libtool: install: /usr/bin/install -c .libs/libpcsclite.lai /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib/libpcsclite.la
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/sbin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c pcscd '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/sbin'
+libtool: install: /usr/bin/install -c pcscd /tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/sbin/pcscd
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/include'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/include/PCSC'
+ /usr/bin/install -c -m 644  PCSC/debuglog.h PCSC/ifdhandler.h PCSC/reader.h PCSC/winscard.h PCSC/wintypes.h '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/include/PCSC'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/include/PCSC'
+ /usr/bin/install -c -m 644 PCSC/pcsclite.h '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/include/PCSC'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib/pkgconfig'
+ /usr/bin/install -c -m 644 libpcsclite.pc '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/lib/pkgconfig'
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+make[1]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/src'
+Making install in etc
+make[1]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/etc'
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/etc'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/etc'
+make[1]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/etc'
+Making install in doc
+make[1]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+Making install in .
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[3]: Nothing to be done for 'install-exec-am'.
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/doc/pcsc-lite'
+ /usr/bin/install -c -m 644 README.DAEMON README.polkit '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/doc/pcsc-lite'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/man/man5'
+ /usr/bin/install -c -m 644 reader.conf.5 '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/man/man5'
+ .././install-sh -c -d '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/man/man8'
+ /usr/bin/install -c -m 644 pcscd.8 '/tmp/d20160302-601-1fd1kg6/pkgroot//usr/local/share/man/man8'
+make  install-data-hook
+make[4]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[4]: Nothing to be done for 'install-data-hook'.
+make[4]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+Making install in example
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc/example'
+make[3]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc/example'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc/example'
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc/example'
+make[1]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15/doc'
+make[1]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+make[2]: Entering directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+make[1]: Leaving directory '/tmp/d20160302-601-1fd1kg6/pcsc-lite-1.8.15'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1fd1kg6/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1fd1kg6/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+6,25d5
+< ./usr/local/share
+< ./usr/local/share/doc
+< ./usr/local/share/doc/pcsc-lite
+< ./usr/local/share/doc/pcsc-lite/README.polkit
+< ./usr/local/share/doc/pcsc-lite/README.DAEMON
+< ./usr/local/share/man
+< ./usr/local/share/man/man1
+< ./usr/local/share/man/man1/pcsc-spy.1
+< ./usr/local/share/man/man8
+< ./usr/local/share/man/man8/pcscd.8
+< ./usr/local/share/man/man5
+< ./usr/local/share/man/man5/reader.conf.5
+< ./usr/local/include
+< ./usr/local/include/PCSC
+< ./usr/local/include/PCSC/winscard.h
+< ./usr/local/include/PCSC/pcsclite.h
+< ./usr/local/include/PCSC/reader.h
+< ./usr/local/include/PCSC/ifdhandler.h
+< ./usr/local/include/PCSC/wintypes.h
+< ./usr/local/include/PCSC/debuglog.h
+32d11
+< ./usr/local/lib/libpcsclite.la
+34,35d12
+< ./usr/local/lib/pkgconfig
+< ./usr/local/lib/pkgconfig/libpcsclite.pc
+37d13
+< ./usr/local/lib/libpcscspy.la
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/bin
+usr/local/bin/pcsc-spy
+usr/local/sbin
+usr/local/sbin/pcscd
+usr/local/lib
+usr/local/lib/libpcscspy.so.0.0.0
+usr/local/lib/libpcsclite.so.1
+usr/local/lib/libpcsclite.so
+usr/local/lib/libpcscspy.so
+usr/local/lib/libpcscspy.so.0
+usr/local/lib/libpcsclite.so.1.0.0
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_gnupg_pcsc-lite.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_gnupg_pcsc-lite.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1fd1kg6/pkgroot/ mypkgs_gnupg_pcsc-lite.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_gnupg_pcsc-lite.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 247.66 Kbytes (0.24 Mbytes)
+	46.56% of uncompressed filesystem size (531.94 Kbytes)
+Inode table size 528 bytes (0.52 Kbytes)
+	50.97% of uncompressed inode table size (1036 bytes)
+Directory table size 177 bytes (0.17 Kbytes)
+	57.84% of uncompressed directory table size (306 bytes)
+Number of duplicate files found 0
+Number of inodes 14
+Number of files 4
+Number of fragments 0
+Number of symbolic links  4
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 6
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_gnupg_pcsc-lite.tcz > mypkgs_gnupg_pcsc-lite.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_gnupg_pcsc-lite.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_gnupg_pcsc-lite.tcz
+-rw-r--r--    1 tc       staff     248.0K Mar  2 11:10 [0;0mmypkgs_gnupg_pcsc-lite.tcz[0m

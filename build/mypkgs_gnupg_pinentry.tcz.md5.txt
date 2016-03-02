@@ -1,1 +1,1 @@
-433cdfe40632361665cd27f90b17882f  mypkgs_gnupg_pinentry.tcz
+8a814c1d6a13bf5259fe6e8b6b638246  mypkgs_gnupg_pinentry.tcz

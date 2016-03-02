@@ -1,1 +1,1 @@
-2a05c61ad5acfec67d2d23aaf44f8e30  mypkgs_im_ibus-dev.tcz
+c4dbb904ec5725d5407660369966ea61  mypkgs_im_ibus-dev.tcz

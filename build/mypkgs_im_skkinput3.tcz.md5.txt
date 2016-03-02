@@ -1,1 +1,1 @@
-b17fb69b962192ce3ab066a5a5d68d3d  mypkgs_im_skkinput3.tcz
+eb6f742d4c05e71b1f6fe7cb8898c652  mypkgs_im_skkinput3.tcz

@@ -12,6 +12,8 @@ load_dependency [
   'libpthread-stubs',  # TODO Auto
   'dbus',  # TODO Auto
   'libxml2',  # TODO Auto
+  'libxkbfile',  # TODO Auto
+  'xkeyboard-config',  # TODO Auto
 ]
 load_dependency_local [
   'mypkgs_im_fcitx-dev',

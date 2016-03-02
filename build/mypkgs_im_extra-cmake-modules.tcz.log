@@ -1,0 +1,1542 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: sudo sed -i -e 's/^KERNELVER=.*$/KERNELVER=3.16.6-tinycore/' /usr/bin/tce-load
+[32mTCZBUILD[0m: tce-load -w compiletc make cmake
+compiletc is already downloaded.
+make is already downloaded.
+cmake is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make cmake | tee /tmp/d20160302-601-ikb39f/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (57 blocks) to write
+
+[=================================================================|] 57/57 100%
+
+created 2 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libidn.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1818 inodes (5959 blocks) to write
+
+[=============================================================|] 5959/5959 100%
+
+created 1818 files
+created 40 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+cmake.tcz: OK
+extra-cmake-modules-5.19.0.tar.xz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//extra-cmake-modules-5.19.0.tar.xz
+extra-cmake-modules-5.19.0/
+extra-cmake-modules-5.19.0/cmake/
+extra-cmake-modules-5.19.0/cmake/FindSphinx.cmake
+extra-cmake-modules-5.19.0/cmake/FindQCollectionGenerator.cmake
+extra-cmake-modules-5.19.0/ECMConfig.cmake.in
+extra-cmake-modules-5.19.0/COPYING-CMAKE-SCRIPTS
+extra-cmake-modules-5.19.0/modules/
+extra-cmake-modules-5.19.0/modules/ECMAddAppIcon.cmake
+extra-cmake-modules-5.19.0/modules/ECMGenerateHeaders.cmake
+extra-cmake-modules-5.19.0/modules/ECMCoverageOption.cmake
+extra-cmake-modules-5.19.0/modules/ECMPoQmTools.cmake
+extra-cmake-modules-5.19.0/modules/ECMGeneratePkgConfigFile.cmake
+extra-cmake-modules-5.19.0/modules/ECMGeneratePriFile.cmake
+extra-cmake-modules-5.19.0/modules/ECMAddTests.cmake
+extra-cmake-modules-5.19.0/modules/ECMInstallIcons.cmake
+extra-cmake-modules-5.19.0/modules/ECMEnableSanitizers.cmake
+extra-cmake-modules-5.19.0/modules/ECMCreateQmFromPoFiles.cmake
+extra-cmake-modules-5.19.0/modules/ECMUninstallTarget.cmake
+extra-cmake-modules-5.19.0/modules/ECMOptionalAddSubdirectory.cmake
+extra-cmake-modules-5.19.0/modules/ECMQtDeclareLoggingCategory.cpp.in
+extra-cmake-modules-5.19.0/modules/ECMFindModuleHelpers.cmake
+extra-cmake-modules-5.19.0/modules/ECMVersionHeader.h.in
+extra-cmake-modules-5.19.0/modules/ECMQueryQmake.cmake
+extra-cmake-modules-5.19.0/modules/ECMMarkAsTest.cmake
+extra-cmake-modules-5.19.0/modules/ECMUseFindModules.cmake
+extra-cmake-modules-5.19.0/modules/ECMMarkNonGuiExecutable.cmake
+extra-cmake-modules-5.19.0/modules/ECMQtDeclareLoggingCategory.h.in
+extra-cmake-modules-5.19.0/modules/ECMQmLoader.cpp.in
+extra-cmake-modules-5.19.0/modules/ECMPackageConfigHelpers.cmake
+extra-cmake-modules-5.19.0/modules/ECMQtDeclareLoggingCategory.cmake
+extra-cmake-modules-5.19.0/modules/ECMSetupVersion.cmake
+extra-cmake-modules-5.19.0/modules/ecm_uninstall.cmake.in
+extra-cmake-modules-5.19.0/find-modules/
+extra-cmake-modules-5.19.0/find-modules/FindSharedMimeInfo.cmake
+extra-cmake-modules-5.19.0/find-modules/FindWayland.cmake
+extra-cmake-modules-5.19.0/find-modules/FindKF5.cmake
+extra-cmake-modules-5.19.0/find-modules/FindQtWaylandScanner.cmake
+extra-cmake-modules-5.19.0/find-modules/FindPng2Ico.cmake
+extra-cmake-modules-5.19.0/find-modules/FindOpenEXR.cmake
+extra-cmake-modules-5.19.0/find-modules/FindWaylandScanner.cmake
+extra-cmake-modules-5.19.0/find-modules/FindLibGit2.cmake
+extra-cmake-modules-5.19.0/find-modules/ECMFindModuleHelpersStub.cmake
+extra-cmake-modules-5.19.0/find-modules/FindEGL.cmake
+extra-cmake-modules-5.19.0/find-modules/FindX11_XCB.cmake
+extra-cmake-modules-5.19.0/find-modules/FindPoppler.cmake
+extra-cmake-modules-5.19.0/find-modules/FindXCB.cmake
+extra-cmake-modules-5.19.0/tests/
+extra-cmake-modules-5.19.0/tests/FindModules/
+extra-cmake-modules-5.19.0/tests/FindModules/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/FindModules/main.c
+extra-cmake-modules-5.19.0/tests/ExecuteKDEModules/
+extra-cmake-modules-5.19.0/tests/ExecuteKDEModules/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ExecuteKDEModules/main.c
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/headtest4.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/headtest1.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/CamelCaseHeadTest2.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/headtest2.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/CommonHeader
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/headsubdir/
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/headsubdir/headtest3.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/headsubdir/headtest2.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/CamelCaseHeadTest1.h
+extra-cmake-modules-5.19.0/tests/ECMGenerateHeadersTest/run_test.cmake.config
+extra-cmake-modules-5.19.0/tests/ECMAddAppIconTest/
+extra-cmake-modules-5.19.0/tests/ECMAddAppIconTest/16-category-name.png
+extra-cmake-modules-5.19.0/tests/ECMAddAppIconTest/check_files.cmake.in
+extra-cmake-modules-5.19.0/tests/ECMAddAppIconTest/128-category-name.png
+extra-cmake-modules-5.19.0/tests/ECMAddAppIconTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/no-po/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/no-po/placeholder
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/es/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/es/install-test.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/fr/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/fr/install-test.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po/should-not-be-installed
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_thread_test.cpp
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/only-process.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/check_conf.cmake.in
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir1/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir1/es/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir1/es/custom-dir1-install-test.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir1/fr/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir1/fr/custom-dir1-install-test.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/check.cmake.in
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/de/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/de/catalog.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/de/catalog2.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/en/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/en/catalog.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test-po/en/catalog2.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_thread_test_module.cpp
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir2/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir2/es/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir2/es/custom-dir2-install-test.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir2/fr/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/po-custom-dir2/fr/custom-dir2-install-test.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/process-and-install.po
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/tr_test.cpp
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/subdir/
+extra-cmake-modules-5.19.0/tests/ECMPoQmToolsTest/subdir/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/check.cmake.in
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/Messages.sh
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/metadata.desktop
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/contents/
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/contents/ui/
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/contents/ui/main.qml
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/contents/images/
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/package/contents/images/pairs.svgz
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/README
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/qml-plasmoid.kdevtemplate
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/qml-plasmoid/qml-plasmoid.png
+extra-cmake-modules-5.19.0/tests/KDEPackageAppTemplatesTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMGeneratePkgConfigFile/
+extra-cmake-modules-5.19.0/tests/ECMGeneratePkgConfigFile/KF5CoreAddons.pc
+extra-cmake-modules-5.19.0/tests/ECMGeneratePkgConfigFile/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMGeneratePkgConfigFile/run_test.cmake.config
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/hi16-actions-computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/hi128-places-home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/losc-mimetypes-fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/cr128-emblems-emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-l10n/ox16-categories-system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-actions-badext.txt
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-categories-system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-actions-computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/128-places-home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-status-user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-intl-something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-animations-loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/sc-mimetypes-fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/hi16-actions-old-style-name.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/aa-actions-badsize.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/badlynamedfile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/128-emblems-emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/check_tree.cmake.in
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/places/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/places/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/places/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/places/l10n/en_US/home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/emblems/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/emblems/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/emblems/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/emblems/l10n/en_US/emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/devices/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/devices/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/devices/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/128x128/devices/l10n/en_US/drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/intl/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/intl/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/intl/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/intl/l10n/en_US/something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/animations/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/animations/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/animations/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/animations/l10n/en_US/loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/status/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/status/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/status/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/status/l10n/en_US/user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/apps/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/apps/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/apps/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/apps/l10n/en_US/cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/emotes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/emotes/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/emotes/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/emotes/l10n/en_US/face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/categories/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/categories/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/categories/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/categories/l10n/en_US/system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/actions/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/actions/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/16x16/actions/l10n/en_US/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/scalable/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/scalable/mimetypes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/scalable/mimetypes/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/scalable/mimetypes/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/lang-test/hicolor/scalable/mimetypes/l10n/en_US/fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/hicolor/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/hicolor/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/hicolor/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/hicolor/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/hicolor/16x16/actions/old-style-name.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/badly-named-files-test/hicolor/16x16/actions/badext.txt
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/places/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/places/home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/emblems/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/emblems/emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/devices/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/128x128/devices/drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/intl/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/intl/something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/animations/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/animations/loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/status/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/status/user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/apps/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/apps/cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/emotes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/emotes/face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/categories/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/categories/system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/16x16/actions/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/scalable/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/scalable/mimetypes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-test/theme-name-2/scalable/mimetypes/fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/places/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/places/home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/emblems/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/emblems/emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/devices/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/128x128/devices/drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/intl/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/intl/something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/animations/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/animations/loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/status/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/status/user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/apps/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/apps/cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/emotes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/emotes/face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/categories/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/categories/system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/16x16/actions/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/scalable/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/scalable/mimetypes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/multi-file-test/hicolor/scalable/mimetypes/fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/single-file-test/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/single-file-test/hicolor/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/single-file-test/hicolor/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/single-file-test/hicolor/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/single-file-test/hicolor/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/single-file-test/hicolor/16x16/actions/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/places/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/places/home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/places/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/places/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/places/l10n/en_US/home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/devices/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/128x128/devices/drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/intl/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/intl/something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/animations/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/animations/loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/status/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/status/user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/apps/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/apps/cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/emotes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/emotes/face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/actions/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/actions/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/actions/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/hicolor/16x16/actions/l10n/en_US/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/16x16/categories/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/16x16/categories/system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/16x16/categories/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/16x16/categories/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/oxygen/16x16/categories/l10n/en_US/system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/128x128/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/128x128/emblems/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/128x128/emblems/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/128x128/emblems/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/128x128/emblems/l10n/en_US/emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/128x128/emblems/emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/crystalsvg/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/scalable/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/scalable/mimetypes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/scalable/mimetypes/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/scalable/mimetypes/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/scalable/mimetypes/l10n/en_US/fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/v1-icons/locolor/scalable/mimetypes/fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/places/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/places/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/places/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/places/l10n/en_US/home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/emblems/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/emblems/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/emblems/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/emblems/l10n/en_US/emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/devices/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/devices/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/devices/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/128x128/devices/l10n/en_US/drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/icon-theme.cache
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/intl/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/intl/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/intl/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/intl/l10n/en_US/something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/animations/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/animations/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/animations/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/animations/l10n/en_US/loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/status/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/status/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/status/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/status/l10n/en_US/user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/apps/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/apps/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/apps/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/apps/l10n/en_US/cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/emotes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/emotes/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/emotes/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/emotes/l10n/en_US/face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/categories/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/categories/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/categories/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/categories/l10n/en_US/system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/actions/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/actions/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/actions/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/16x16/actions/l10n/en_US/computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/scalable/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/scalable/mimetypes/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/scalable/mimetypes/l10n/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/scalable/mimetypes/l10n/en_US/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/expected-tree/themed-lang-test/oxygen/scalable/mimetypes/l10n/en_US/fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/16-emotes-face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-no-icons/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax-no-icons/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi16-animations-loading.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi16-actions-computer.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi128-places-home.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi16-intl-something.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi16-status-user-online.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi128-devices-drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/losc-mimetypes-fonts-package.svgz
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi16-emotes-face-smile.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/hi16-apps-cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/cr128-emblems-emblem-mounted.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/v1-syntax/ox16-categories-system-help.mng
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/subdir/
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/subdir/16-apps-cmake.png
+extra-cmake-modules-5.19.0/tests/ECMInstallIconsTest/128-devices-drive-removable-media-usb-pendrive.png
+extra-cmake-modules-5.19.0/tests/ECMQtDeclareLoggingCategoryTest/
+extra-cmake-modules-5.19.0/tests/ECMQtDeclareLoggingCategoryTest/testmain.cpp
+extra-cmake-modules-5.19.0/tests/ECMQtDeclareLoggingCategoryTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/vars_in_sync/
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/vars_in_sync/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/vars_in_sync/main.c
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/not_cache_variable/
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/not_cache_variable/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/not_cache_variable/main.c
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/relative_or_absolute/
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/relative_or_absolute/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/relative_or_absolute/main.c
+extra-cmake-modules-5.19.0/tests/KDEInstallDirsTest/var_list.cmake
+extra-cmake-modules-5.19.0/tests/UseFindModules/
+extra-cmake-modules-5.19.0/tests/UseFindModules/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/UseFindModules/main.c
+extra-cmake-modules-5.19.0/tests/ECMAddTests/
+extra-cmake-modules-5.19.0/tests/ECMAddTests/testhelper.h
+extra-cmake-modules-5.19.0/tests/ECMAddTests/check_files.cmake
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test1.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test6body.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test3.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test4.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test5.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test2.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/single_tests/test6.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMAddTests/testhelper.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test1.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test7.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test3.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test9.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test4.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test5.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test8.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test2.cpp
+extra-cmake-modules-5.19.0/tests/ECMAddTests/multi_tests/test6.cpp
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_header/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_header/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_header/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_soversion_prefix/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_soversion_prefix/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_soversion_prefix/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_simple_prefix/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_simple_prefix/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_simple_prefix/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_header_abspath/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_header_abspath/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_header_abspath/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header_abspath/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header_abspath/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header_abspath/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header_prefix/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header_prefix/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header_prefix/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_header_abspath/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_header_abspath/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_header_abspath/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_header/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_header/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_header/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_soversion/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_soversion/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_soversion/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_version_file_abspath/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_version_file_abspath/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_version_file_abspath/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_header/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_soversion/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_soversion/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_soversion/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_simple/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_simple/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_simple/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_version_file_abspath/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_version_file_abspath/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_version_file_abspath/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/version_helpers.cmake
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_soversion/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_soversion/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_soversion/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_version_file/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_version_file/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_explicit_version_file/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_anynewer/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_anynewer/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_anynewer/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_samemajor/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_samemajor/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_samemajor/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_simple/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_simple/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_simple/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_abspath/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_abspath/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_abspath/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_exact/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_exact/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/old_version_file_exact/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_simple/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_simple/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_simple/main.c
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_version_file/
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_version_file/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ECMSetupVersionTest/new_project_version_file/main.c
+extra-cmake-modules-5.19.0/tests/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/test_helpers.cmake
+extra-cmake-modules-5.19.0/tests/ExecuteCoreModules/
+extra-cmake-modules-5.19.0/tests/ExecuteCoreModules/CMakeLists.txt
+extra-cmake-modules-5.19.0/tests/ExecuteCoreModules/main.c
+extra-cmake-modules-5.19.0/toolchain/
+extra-cmake-modules-5.19.0/toolchain/Android.cmake
+extra-cmake-modules-5.19.0/toolchain/deployment-file.json.in
+extra-cmake-modules-5.19.0/toolchain/specifydependencies.cmake
+extra-cmake-modules-5.19.0/docs/
+extra-cmake-modules-5.19.0/docs/kde-module/
+extra-cmake-modules-5.19.0/docs/kde-module/KDEPackageAppTemplates.rst
+extra-cmake-modules-5.19.0/docs/kde-module/KDECompilerSettings.rst
+extra-cmake-modules-5.19.0/docs/kde-module/KDEFrameworkCompilerSettings.rst
+extra-cmake-modules-5.19.0/docs/kde-module/KDEInstallDirs.rst
+extra-cmake-modules-5.19.0/docs/kde-module/KDECMakeSettings.rst
+extra-cmake-modules-5.19.0/docs/toolchain/
+extra-cmake-modules-5.19.0/docs/toolchain/Android.rst
+extra-cmake-modules-5.19.0/docs/sphinx/
+extra-cmake-modules-5.19.0/docs/sphinx/conf.py.in
+extra-cmake-modules-5.19.0/docs/sphinx/ecm.css.in
+extra-cmake-modules-5.19.0/docs/sphinx/kde-favicon.ico
+extra-cmake-modules-5.19.0/docs/sphinx/.gitignore
+extra-cmake-modules-5.19.0/docs/sphinx/ext/
+extra-cmake-modules-5.19.0/docs/sphinx/ext/ecm.py
+extra-cmake-modules-5.19.0/docs/module/
+extra-cmake-modules-5.19.0/docs/module/ECMSetupVersion.rst
+extra-cmake-modules-5.19.0/docs/module/ECMQtDeclareLoggingCategory.rst
+extra-cmake-modules-5.19.0/docs/module/ECMInstallIcons.rst
+extra-cmake-modules-5.19.0/docs/module/ECMUninstallTarget.rst
+extra-cmake-modules-5.19.0/docs/module/ECMMarkNonGuiExecutable.rst
+extra-cmake-modules-5.19.0/docs/module/ECMEnableSanitizers.rst
+extra-cmake-modules-5.19.0/docs/module/ECMAddAppIcon.rst
+extra-cmake-modules-5.19.0/docs/module/ECMGeneratePkgConfigFile.rst
+extra-cmake-modules-5.19.0/docs/module/ECMCreateQmFromPoFiles.rst
+extra-cmake-modules-5.19.0/docs/module/ECMGenerateHeaders.rst
+extra-cmake-modules-5.19.0/docs/module/ECMAddTests.rst
+extra-cmake-modules-5.19.0/docs/module/ECMPackageConfigHelpers.rst
+extra-cmake-modules-5.19.0/docs/module/ECMUseFindModules.rst
+extra-cmake-modules-5.19.0/docs/module/ECMMarkAsTest.rst
+extra-cmake-modules-5.19.0/docs/module/ECMGeneratePriFile.rst
+extra-cmake-modules-5.19.0/docs/module/ECMPoQmTools.rst
+extra-cmake-modules-5.19.0/docs/module/ECMCoverageOption.rst
+extra-cmake-modules-5.19.0/docs/module/ECMOptionalAddSubdirectory.rst
+extra-cmake-modules-5.19.0/docs/module/ECMFindModuleHelpers.rst
+extra-cmake-modules-5.19.0/docs/CMakeLists.txt
+extra-cmake-modules-5.19.0/docs/manual/
+extra-cmake-modules-5.19.0/docs/manual/ecm-developer.7.rst
+extra-cmake-modules-5.19.0/docs/manual/ecm-kde-modules.7.rst
+extra-cmake-modules-5.19.0/docs/manual/ecm.7.rst
+extra-cmake-modules-5.19.0/docs/manual/ecm-modules.7.rst
+extra-cmake-modules-5.19.0/docs/manual/ecm-toolchains.7.rst
+extra-cmake-modules-5.19.0/docs/manual/ecm-find-modules.7.rst
+extra-cmake-modules-5.19.0/docs/index.rst
+extra-cmake-modules-5.19.0/docs/find-module/
+extra-cmake-modules-5.19.0/docs/find-module/FindWayland.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindOpenEXR.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindXCB.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindPng2Ico.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindKF5.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindLibGit2.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindQtWaylandScanner.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindPoppler.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindX11_XCB.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindEGL.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindWaylandScanner.rst
+extra-cmake-modules-5.19.0/docs/find-module/FindSharedMimeInfo.rst
+extra-cmake-modules-5.19.0/kde-modules/
+extra-cmake-modules-5.19.0/kde-modules/KDEInstallDirs.cmake
+extra-cmake-modules-5.19.0/kde-modules/KDEFrameworkCompilerSettings.cmake
+extra-cmake-modules-5.19.0/kde-modules/KDEPackageAppTemplates.cmake
+extra-cmake-modules-5.19.0/kde-modules/KDECompilerSettings.cmake
+extra-cmake-modules-5.19.0/kde-modules/KDECMakeSettings.cmake
+extra-cmake-modules-5.19.0/.reviewboardrc
+extra-cmake-modules-5.19.0/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/
+extra-cmake-modules-5.19.0/attic/modules/
+extra-cmake-modules-5.19.0/attic/modules/FindAGG.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindAlsa.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPolkitQt.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindFFmpeg.cmake
+extra-cmake-modules-5.19.0/attic/modules/HandleImportedTargetsInCMakeRequiredLibraries.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindGphoto2.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKipi.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKDEWin.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibKonq.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKexiv2.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPolkitQt-1.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPyQt4.cmake
+extra-cmake-modules-5.19.0/attic/modules/NepomukMacros.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKonto.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPhonon.cmake
+extra-cmake-modules-5.19.0/attic/modules/config-alsa.h.cmake
+extra-cmake-modules-5.19.0/attic/modules/COPYING-CMAKE-SCRIPTS
+extra-cmake-modules-5.19.0/attic/modules/FindFlac.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKDEWIN_Packager.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibintl.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLinuxWirelesstools.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindExiv2.cmake
+extra-cmake-modules-5.19.0/attic/modules/SIPMacros.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKDevPlatform.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSamba.cmake
+extra-cmake-modules-5.19.0/attic/modules/cmake-modules-styleguide.txt
+extra-cmake-modules-5.19.0/attic/modules/FindEigen2.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKDE4Workspace.cmake
+extra-cmake-modules-5.19.0/attic/modules/MacroLibrary.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibPython.py
+extra-cmake-modules-5.19.0/attic/modules/FindENCHANT.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSharedDesktopOntologies.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKDEWIN32.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPulseAudio.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindWcecompat.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindNepomuk.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibArt.cmake
+extra-cmake-modules-5.19.0/attic/modules/Qt4ConfigDependentSettings.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindQt4.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindOpenEXR.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindXine.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindHUNSPELL.cmake
+extra-cmake-modules-5.19.0/attic/modules/check_installed_exports_file.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibAttica.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindQImageBlitz.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindNetworkManager.cmake
+extra-cmake-modules-5.19.0/attic/modules/MacroAppendIf.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindIOKit.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindEigen.cmake
+extra-cmake-modules-5.19.0/attic/modules/CheckPrototypeExists.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindHUpnp.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindACL.cmake
+extra-cmake-modules-5.19.0/attic/modules/CheckCXXSourceCompiles.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSqlite.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindXKB.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindOggVorbis.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindGObject.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPyKDE4.cmake
+extra-cmake-modules-5.19.0/attic/modules/MacroEnsureOutOfSourceBuild.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindFAM.cmake
+extra-cmake-modules-5.19.0/attic/modules/Win32.Manifest.in
+extra-cmake-modules-5.19.0/attic/modules/FindUSB.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindQCA2.cmake
+extra-cmake-modules-5.19.0/attic/modules/README
+extra-cmake-modules-5.19.0/attic/modules/PythonMacros.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindUDev.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindMusicBrainz.cmake
+extra-cmake-modules-5.19.0/attic/modules/MacroBoolTo01.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindDNSSD.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindTaglib.cmake
+extra-cmake-modules-5.19.0/attic/modules/kde4_exec_via_sh.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPyKDE4.py
+extra-cmake-modules-5.19.0/attic/modules/NepomukAddOntologyClasses.cmake
+extra-cmake-modules-5.19.0/attic/modules/CheckStructMember.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindMySQL.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindGLIB2.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindCarbon.cmake
+extra-cmake-modules-5.19.0/attic/modules/Qt4Macros.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibUSB1.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindStrigi.cmake
+extra-cmake-modules-5.19.0/attic/modules/create_exe_symlink.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKdeMultimedia.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKopete.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKorundum.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibraryWithDebug.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLCMS.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPopplerQt4.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPCRE.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPyQt.py
+extra-cmake-modules-5.19.0/attic/modules/FindBerkeleyDB.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSIP.py
+extra-cmake-modules-5.19.0/attic/modules/PythonCompile.py
+extra-cmake-modules-5.19.0/attic/modules/FindFontconfig.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindGSSAPI.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSIP.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindLibLZMA.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindGStreamer.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKNepomuk.cmake
+extra-cmake-modules-5.19.0/attic/modules/CheckCXXSourceRuns.cmake
+extra-cmake-modules-5.19.0/attic/modules/CheckPointerMember.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindDBusMenuQt.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindPythonLibrary.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSasl2.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindAvahi.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindGMP.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindXmms.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindKdcraw.cmake
+extra-cmake-modules-5.19.0/attic/modules/FindSane.cmake
+extra-cmake-modules-5.19.0/attic/modules/kde4_cmake_uninstall.cmake.in
+extra-cmake-modules-5.19.0/attic/modules/FindBlueZ.cmake
+extra-cmake-modules-5.19.0/attic/modules-tests/
+extra-cmake-modules-5.19.0/attic/modules-tests/QImageBlitz/
+extra-cmake-modules-5.19.0/attic/modules-tests/QImageBlitz/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/readme.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/RunAllModuleTests.cmake
+extra-cmake-modules-5.19.0/attic/modules-tests/Flac/
+extra-cmake-modules-5.19.0/attic/modules-tests/Flac/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Strigi/
+extra-cmake-modules-5.19.0/attic/modules-tests/Strigi/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/AGG/
+extra-cmake-modules-5.19.0/attic/modules-tests/AGG/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/GObject/
+extra-cmake-modules-5.19.0/attic/modules-tests/GObject/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/BlueZ/
+extra-cmake-modules-5.19.0/attic/modules-tests/BlueZ/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Xmms/
+extra-cmake-modules-5.19.0/attic/modules-tests/Xmms/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/QCA2/
+extra-cmake-modules-5.19.0/attic/modules-tests/QCA2/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/TestFindPackage.cmake
+extra-cmake-modules-5.19.0/attic/modules-tests/LibArt/
+extra-cmake-modules-5.19.0/attic/modules-tests/LibArt/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/PCRE/
+extra-cmake-modules-5.19.0/attic/modules-tests/PCRE/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/ENCHANT/
+extra-cmake-modules-5.19.0/attic/modules-tests/ENCHANT/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/OpenEXR/
+extra-cmake-modules-5.19.0/attic/modules-tests/OpenEXR/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/USB/
+extra-cmake-modules-5.19.0/attic/modules-tests/USB/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Blitz/
+extra-cmake-modules-5.19.0/attic/modules-tests/Blitz/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Sqlite/
+extra-cmake-modules-5.19.0/attic/modules-tests/Sqlite/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Xine/
+extra-cmake-modules-5.19.0/attic/modules-tests/Xine/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/LibXslt/
+extra-cmake-modules-5.19.0/attic/modules-tests/LibXslt/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Eigen2/
+extra-cmake-modules-5.19.0/attic/modules-tests/Eigen2/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/GStreamer/
+extra-cmake-modules-5.19.0/attic/modules-tests/GStreamer/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/FFmpeg/
+extra-cmake-modules-5.19.0/attic/modules-tests/FFmpeg/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/Flex/
+extra-cmake-modules-5.19.0/attic/modules-tests/Flex/CMakeLists.txt
+extra-cmake-modules-5.19.0/attic/modules-tests/LCMS/
+extra-cmake-modules-5.19.0/attic/modules-tests/LCMS/CMakeLists.txt
+extra-cmake-modules-5.19.0/.gitignore
+extra-cmake-modules-5.19.0/README.rst
+[32mTCZBUILD[0m: mkdir build
+[32mTCZBUILD[0m: cmake ..
+-- Could NOT find Sphinx (missing:  Sphinx_BUILD_EXECUTABLE) (Required is at least version "1.2")
+-- Could NOT find QCollectionGenerator (missing:  QCollectionGenerator_EXECUTABLE) 
+-- The C compiler identification is GNU 4.9.1
+-- Check for working C compiler: /usr/local/bin/cc
+-- Check for working C compiler: /usr/local/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Warning at tests/CMakeLists.txt:19 (find_package):
+  Could not find a package configuration file provided by "Qt5LinguistTools"
+  with any of the following names:
+
+    Qt5LinguistToolsConfig.cmake
+    qt5linguisttools-config.cmake
+
+  Add the installation prefix of "Qt5LinguistTools" to CMAKE_PREFIX_PATH or
+  set "Qt5LinguistTools_DIR" to a directory containing one of the above
+  files.  If "Qt5LinguistTools" provides a separate development package or
+  SDK, be sure it has been installed.
+
+
+CMake Warning at tests/CMakeLists.txt:29 (find_package):
+  Could not find a package configuration file provided by "Qt5Core" with any
+  of the following names:
+
+    Qt5CoreConfig.cmake
+    qt5core-config.cmake
+
+  Add the installation prefix of "Qt5Core" to CMAKE_PREFIX_PATH or set
+  "Qt5Core_DIR" to a directory containing one of the above files.  If
+  "Qt5Core" provides a separate development package or SDK, be sure it has
+  been installed.
+
+
+-- 
+-- The following features have been enabled:
+
+ * BUILD_TESTING , Build automated tests.
+
+-- The following features have been disabled:
+
+ * BUILD_HTML_DOCS , Generate HTML documentation for installed modules.
+ * BUILD_MAN_DOCS , Generate man page documentation for installed modules.
+ * BUILD_QTHELP_DOCS , Generate QtHelp documentation for installed modules.
+
+-- The following OPTIONAL packages have not been found:
+
+ * Sphinx (required version >= 1.2) , Tool to generate documentation. , <http://sphinx-doc.org/>
+   Required to build documentation for Extra CMake Modules.
+ * QCollectionGenerator , Qt help collection generator. , <http://www.qt.io/>
+   Required to build Extra CMake Modules documentation in Qt Help format.
+ * Qt5LinguistTools , Qt5 linguist tools. , <http://www.qt.io/>
+   Required to run tests for the ECMPoQmTools module.
+ * Qt5Core , Qt5 core library. , <http://www.qt.io/>
+   Required to run tests for the ECMQtDeclareLoggingCategory module, and for some tests of the KDEInstallDirs module.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/d20160302-601-ikb39f/extra-cmake-modules-5.19.0/build
+[32mTCZBUILD[0m: make
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-ikb39f/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-ikb39f/pkgroot/ install
+[36mInstall the project...
+[0m-- Install configuration: ""
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMQtDeclareLoggingCategory.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ecm_uninstall.cmake.in
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMPoQmTools.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMInstallIcons.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMCoverageOption.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMAddTests.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMFindModuleHelpers.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMOptionalAddSubdirectory.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMGeneratePriFile.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMAddAppIcon.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMQueryQmake.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMGenerateHeaders.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMQtDeclareLoggingCategory.cpp.in
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMUninstallTarget.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMPackageConfigHelpers.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMVersionHeader.h.in
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMUseFindModules.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMCreateQmFromPoFiles.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMQmLoader.cpp.in
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMMarkNonGuiExecutable.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMMarkAsTest.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMQtDeclareLoggingCategory.h.in
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMEnableSanitizers.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMGeneratePkgConfigFile.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/modules/ECMSetupVersion.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/kde-modules/KDEInstallDirs.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/kde-modules/KDEPackageAppTemplates.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/kde-modules/KDECompilerSettings.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/kde-modules/KDEFrameworkCompilerSettings.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/kde-modules/KDECMakeSettings.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindSharedMimeInfo.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindXCB.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindWayland.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/ECMFindModuleHelpersStub.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindX11_XCB.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindPoppler.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindKF5.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindOpenEXR.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindPng2Ico.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindEGL.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindLibGit2.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindQtWaylandScanner.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/find-modules/FindWaylandScanner.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/toolchain/deployment-file.json.in
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/toolchain/specifydependencies.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/toolchain/Android.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/cmake/ECMConfig.cmake
+-- Installing: /tmp/d20160302-601-ikb39f/pkgroot/usr/local/share/ECM/cmake/ECMConfigVersion.cmake
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-ikb39f/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-ikb39f/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/share
+usr/local/share/ECM
+usr/local/share/ECM/modules
+usr/local/share/ECM/modules/ECMQtDeclareLoggingCategory.cmake
+usr/local/share/ECM/modules/ecm_uninstall.cmake.in
+usr/local/share/ECM/modules/ECMPoQmTools.cmake
+usr/local/share/ECM/modules/ECMInstallIcons.cmake
+usr/local/share/ECM/modules/ECMCoverageOption.cmake
+usr/local/share/ECM/modules/ECMAddTests.cmake
+usr/local/share/ECM/modules/ECMFindModuleHelpers.cmake
+usr/local/share/ECM/modules/ECMOptionalAddSubdirectory.cmake
+usr/local/share/ECM/modules/ECMGeneratePriFile.cmake
+usr/local/share/ECM/modules/ECMAddAppIcon.cmake
+usr/local/share/ECM/modules/ECMQueryQmake.cmake
+usr/local/share/ECM/modules/ECMGenerateHeaders.cmake
+usr/local/share/ECM/modules/ECMQtDeclareLoggingCategory.cpp.in
+usr/local/share/ECM/modules/ECMUninstallTarget.cmake
+usr/local/share/ECM/modules/ECMPackageConfigHelpers.cmake
+usr/local/share/ECM/modules/ECMVersionHeader.h.in
+usr/local/share/ECM/modules/ECMUseFindModules.cmake
+usr/local/share/ECM/modules/ECMCreateQmFromPoFiles.cmake
+usr/local/share/ECM/modules/ECMQmLoader.cpp.in
+usr/local/share/ECM/modules/ECMMarkNonGuiExecutable.cmake
+usr/local/share/ECM/modules/ECMMarkAsTest.cmake
+usr/local/share/ECM/modules/ECMQtDeclareLoggingCategory.h.in
+usr/local/share/ECM/modules/ECMEnableSanitizers.cmake
+usr/local/share/ECM/modules/ECMGeneratePkgConfigFile.cmake
+usr/local/share/ECM/modules/ECMSetupVersion.cmake
+usr/local/share/ECM/toolchain
+usr/local/share/ECM/toolchain/deployment-file.json.in
+usr/local/share/ECM/toolchain/specifydependencies.cmake
+usr/local/share/ECM/toolchain/Android.cmake
+usr/local/share/ECM/kde-modules
+usr/local/share/ECM/kde-modules/KDEInstallDirs.cmake
+usr/local/share/ECM/kde-modules/KDEPackageAppTemplates.cmake
+usr/local/share/ECM/kde-modules/KDECompilerSettings.cmake
+usr/local/share/ECM/kde-modules/KDEFrameworkCompilerSettings.cmake
+usr/local/share/ECM/kde-modules/KDECMakeSettings.cmake
+usr/local/share/ECM/cmake
+usr/local/share/ECM/cmake/ECMConfig.cmake
+usr/local/share/ECM/cmake/ECMConfigVersion.cmake
+usr/local/share/ECM/find-modules
+usr/local/share/ECM/find-modules/FindSharedMimeInfo.cmake
+usr/local/share/ECM/find-modules/FindXCB.cmake
+usr/local/share/ECM/find-modules/FindWayland.cmake
+usr/local/share/ECM/find-modules/ECMFindModuleHelpersStub.cmake
+usr/local/share/ECM/find-modules/FindX11_XCB.cmake
+usr/local/share/ECM/find-modules/FindPoppler.cmake
+usr/local/share/ECM/find-modules/FindKF5.cmake
+usr/local/share/ECM/find-modules/FindOpenEXR.cmake
+usr/local/share/ECM/find-modules/FindPng2Ico.cmake
+usr/local/share/ECM/find-modules/FindEGL.cmake
+usr/local/share/ECM/find-modules/FindLibGit2.cmake
+usr/local/share/ECM/find-modules/FindQtWaylandScanner.cmake
+usr/local/share/ECM/find-modules/FindWaylandScanner.cmake
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_extra-cmake-modules.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_extra-cmake-modules.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-ikb39f/pkgroot/ mypkgs_im_extra-cmake-modules.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_extra-cmake-modules.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 102.19 Kbytes (0.10 Mbytes)
+	38.92% of uncompressed filesystem size (262.56 Kbytes)
+Inode table size 810 bytes (0.79 Kbytes)
+	37.26% of uncompressed inode table size (2174 bytes)
+Directory table size 881 bytes (0.86 Kbytes)
+	51.19% of uncompressed directory table size (1721 bytes)
+Number of duplicate files found 0
+Number of inodes 58
+Number of files 48
+Number of fragments 7
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 10
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_extra-cmake-modules.tcz > mypkgs_im_extra-cmake-modules.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_extra-cmake-modules.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_extra-cmake-modules.tcz
+-rw-r--r--    1 tc       staff     104.0K Mar  2 11:21 [0;0mmypkgs_im_extra-cmake-modules.tcz[0m

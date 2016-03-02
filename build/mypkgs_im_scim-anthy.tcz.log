@@ -1,0 +1,1511 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make openssl libtool-dev
+compiletc is already downloaded.
+make is already downloaded.
+openssl is already downloaded.
+libtool-dev is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make openssl libtool-dev | tee /tmp/d20160302-601-1k5myt8/stdout
+openssl is already installed!
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libltdl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (404 blocks) to write
+
+[===============================================================|] 404/404 100%
+
+created 44 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libtool.tcz: OK
+Parallel unsquashfs: Using 8 processors
+12 inodes (94 blocks) to write
+
+[=================================================================|] 94/94 100%
+
+created 12 files
+created 8 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+libtool-dev.tcz: OK
+[32mTCZBUILD[0m: tce-load -ic mypkgs_im_scim-dev mypkgs_im_anthy-dev | tee /tmp/d20160302-601-1k5myt8/stdout
+Parallel unsquashfs: Using 8 processors
+104 inodes (6509 blocks) to write
+
+[=============================================================|] 6509/6509 100%
+
+created 98 files
+created 80 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_scim.tcz: OK
+Parallel unsquashfs: Using 8 processors
+144 inodes (7519 blocks) to write
+
+[=============================================================|] 7519/7519 100%
+
+created 144 files
+created 84 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_scim-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+17 inodes (6143 blocks) to write
+
+[=============================================================|] 6143/6143 100%
+
+created 11 files
+created 8 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_anthy.tcz: OK
+Parallel unsquashfs: Using 8 processors
+15 inodes (6170 blocks) to write
+
+[=============================================================|] 6170/6170 100%
+
+created 15 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+mypkgs_im_anthy-dev.tcz: OK
+scim-anthy-1.2.7.tar.gz: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//scim-anthy-1.2.7.tar.gz
+scim-anthy-1.2.7/
+scim-anthy-1.2.7/config.guess
+scim-anthy-1.2.7/Makefile.am
+scim-anthy-1.2.7/missing
+scim-anthy-1.2.7/depcomp
+scim-anthy-1.2.7/AUTHORS
+scim-anthy-1.2.7/INSTALL
+scim-anthy-1.2.7/install-sh
+scim-anthy-1.2.7/src/
+scim-anthy-1.2.7/src/scim_anthy_utils.cpp
+scim-anthy-1.2.7/src/scim_anthy_style_file.cpp
+scim-anthy-1.2.7/src/scim_anthy_setup_kana.h
+scim-anthy-1.2.7/src/scim_anthy_reading.h
+scim-anthy-1.2.7/src/scim_anthy_helper.cpp
+scim-anthy-1.2.7/src/Makefile.am
+scim-anthy-1.2.7/src/scim_anthy_action.cpp
+scim-anthy-1.2.7/src/scim_anthy_preedit.h
+scim-anthy-1.2.7/src/scim_anthy_setup_kana.cpp
+scim-anthy-1.2.7/src/scim_anthy_conversion.cpp
+scim-anthy-1.2.7/src/scim_anthy_key2kana_table.cpp
+scim-anthy-1.2.7/src/scim_anthy_kana.h
+scim-anthy-1.2.7/src/scim_anthy_reading.cpp
+scim-anthy-1.2.7/src/scim_anthy_intl.h
+scim-anthy-1.2.7/src/scim_anthy_key2kana_table.h
+scim-anthy-1.2.7/src/scim_anthy_prefs.h
+scim-anthy-1.2.7/src/scim_anthy_color_button.h
+scim-anthy-1.2.7/src/scim_anthy_table_editor.cpp
+scim-anthy-1.2.7/src/scim_anthy_action.h
+scim-anthy-1.2.7/src/scim_anthy_color_button.cpp
+scim-anthy-1.2.7/src/scim_anthy_setup_romaji.cpp
+scim-anthy-1.2.7/src/scim_anthy_default_tables.cpp
+scim-anthy-1.2.7/src/scim_anthy_utils.h
+scim-anthy-1.2.7/src/scim_anthy_style_file.h
+scim-anthy-1.2.7/src/scim_anthy_prefs.cpp
+scim-anthy-1.2.7/src/scim_anthy_preedit.cpp
+scim-anthy-1.2.7/src/scim_anthy_setup_romaji.h
+scim-anthy-1.2.7/src/scim_anthy_imengine.cpp
+scim-anthy-1.2.7/src/scim_anthy_nicola.cpp
+scim-anthy-1.2.7/src/scim_anthy_factory.cpp
+scim-anthy-1.2.7/src/scim_anthy_key2kana.h
+scim-anthy-1.2.7/src/scim_anthy_setup.h
+scim-anthy-1.2.7/src/scim_anthy_imengine.h
+scim-anthy-1.2.7/src/scim_anthy_setup.cpp
+scim-anthy-1.2.7/src/scim_anthy_helper.h
+scim-anthy-1.2.7/src/scim_anthy_nicola.h
+scim-anthy-1.2.7/src/scim_anthy_table_editor.h
+scim-anthy-1.2.7/src/scim_anthy_conversion.h
+scim-anthy-1.2.7/src/scim_anthy_factory.h
+scim-anthy-1.2.7/src/Makefile.in
+scim-anthy-1.2.7/src/scim_anthy_kana.cpp
+scim-anthy-1.2.7/src/scim_anthy_default_tables.h
+scim-anthy-1.2.7/src/scim_anthy_key2kana_base.h
+scim-anthy-1.2.7/src/scim_anthy_key2kana.cpp
+scim-anthy-1.2.7/ChangeLog
+scim-anthy-1.2.7/config.h.in
+scim-anthy-1.2.7/m4/
+scim-anthy-1.2.7/m4/size_max.m4
+scim-anthy-1.2.7/m4/progtest.m4
+scim-anthy-1.2.7/m4/wchar_t.m4
+scim-anthy-1.2.7/m4/codeset.m4
+scim-anthy-1.2.7/m4/signed.m4
+scim-anthy-1.2.7/m4/Makefile.am
+scim-anthy-1.2.7/m4/nls.m4
+scim-anthy-1.2.7/m4/ulonglong.m4
+scim-anthy-1.2.7/m4/isc-posix.m4
+scim-anthy-1.2.7/m4/lib-link.m4
+scim-anthy-1.2.7/m4/lcmessage.m4
+scim-anthy-1.2.7/m4/intdiv0.m4
+scim-anthy-1.2.7/m4/inttypes-pri.m4
+scim-anthy-1.2.7/m4/ChangeLog
+scim-anthy-1.2.7/m4/gettext.m4
+scim-anthy-1.2.7/m4/intmax.m4
+scim-anthy-1.2.7/m4/lib-ld.m4
+scim-anthy-1.2.7/m4/longlong.m4
+scim-anthy-1.2.7/m4/glibc21.m4
+scim-anthy-1.2.7/m4/po.m4
+scim-anthy-1.2.7/m4/printf-posix.m4
+scim-anthy-1.2.7/m4/wint_t.m4
+scim-anthy-1.2.7/m4/stdint_h.m4
+scim-anthy-1.2.7/m4/iconv.m4
+scim-anthy-1.2.7/m4/uintmax_t.m4
+scim-anthy-1.2.7/m4/longdouble.m4
+scim-anthy-1.2.7/m4/lib-prefix.m4
+scim-anthy-1.2.7/m4/xsize.m4
+scim-anthy-1.2.7/m4/Makefile.in
+scim-anthy-1.2.7/m4/inttypes.m4
+scim-anthy-1.2.7/m4/inttypes_h.m4
+scim-anthy-1.2.7/mkinstalldirs
+scim-anthy-1.2.7/COPYING
+scim-anthy-1.2.7/po/
+scim-anthy-1.2.7/po/scim-anthy.pot
+scim-anthy-1.2.7/po/quot.sed
+scim-anthy-1.2.7/po/POTFILES.in
+scim-anthy-1.2.7/po/insert-header.sin
+scim-anthy-1.2.7/po/en@quot.header
+scim-anthy-1.2.7/po/de.po
+scim-anthy-1.2.7/po/Rules-quot
+scim-anthy-1.2.7/po/ChangeLog
+scim-anthy-1.2.7/po/boldquot.sed
+scim-anthy-1.2.7/po/ja.gmo
+scim-anthy-1.2.7/po/en@boldquot.header
+scim-anthy-1.2.7/po/ja.po
+scim-anthy-1.2.7/po/Makevars
+scim-anthy-1.2.7/po/remove-potcdate.sin
+scim-anthy-1.2.7/po/de.gmo
+scim-anthy-1.2.7/po/Makefile.in.in
+scim-anthy-1.2.7/po/stamp-po
+scim-anthy-1.2.7/ABOUT-NLS
+scim-anthy-1.2.7/configure
+scim-anthy-1.2.7/TODO
+scim-anthy-1.2.7/ltmain.sh
+scim-anthy-1.2.7/README
+scim-anthy-1.2.7/configure.ac
+scim-anthy-1.2.7/aclocal.m4
+scim-anthy-1.2.7/Makefile.in
+scim-anthy-1.2.7/NEWS
+scim-anthy-1.2.7/intl/
+scim-anthy-1.2.7/intl/textdomain.c
+scim-anthy-1.2.7/intl/dcgettext.c
+scim-anthy-1.2.7/intl/plural.y
+scim-anthy-1.2.7/intl/printf-parse.c
+scim-anthy-1.2.7/intl/printf.c
+scim-anthy-1.2.7/intl/libgnuintl.h.in
+scim-anthy-1.2.7/intl/log.c
+scim-anthy-1.2.7/intl/ref-del.sin
+scim-anthy-1.2.7/intl/osdep.c
+scim-anthy-1.2.7/intl/eval-plural.h
+scim-anthy-1.2.7/intl/localealias.c
+scim-anthy-1.2.7/intl/intl-compat.c
+scim-anthy-1.2.7/intl/xsize.h
+scim-anthy-1.2.7/intl/ChangeLog
+scim-anthy-1.2.7/intl/wprintf-parse.h
+scim-anthy-1.2.7/intl/hash-string.h
+scim-anthy-1.2.7/intl/explodename.c
+scim-anthy-1.2.7/intl/ref-add.sin
+scim-anthy-1.2.7/intl/os2compat.c
+scim-anthy-1.2.7/intl/vasnwprintf.h
+scim-anthy-1.2.7/intl/finddomain.c
+scim-anthy-1.2.7/intl/gettext.c
+scim-anthy-1.2.7/intl/loadmsgcat.c
+scim-anthy-1.2.7/intl/config.charset
+scim-anthy-1.2.7/intl/relocatable.c
+scim-anthy-1.2.7/intl/bindtextdom.c
+scim-anthy-1.2.7/intl/dcigettext.c
+scim-anthy-1.2.7/intl/localcharset.h
+scim-anthy-1.2.7/intl/vasnprintf.c
+scim-anthy-1.2.7/intl/os2compat.h
+scim-anthy-1.2.7/intl/dcngettext.c
+scim-anthy-1.2.7/intl/locale.alias
+scim-anthy-1.2.7/intl/gettextP.h
+scim-anthy-1.2.7/intl/printf-args.c
+scim-anthy-1.2.7/intl/localename.c
+scim-anthy-1.2.7/intl/ngettext.c
+scim-anthy-1.2.7/intl/gmo.h
+scim-anthy-1.2.7/intl/localcharset.c
+scim-anthy-1.2.7/intl/vasnprintf.h
+scim-anthy-1.2.7/intl/plural-exp.c
+scim-anthy-1.2.7/intl/plural.c
+scim-anthy-1.2.7/intl/printf-args.h
+scim-anthy-1.2.7/intl/l10nflist.c
+scim-anthy-1.2.7/intl/dngettext.c
+scim-anthy-1.2.7/intl/Makefile.in
+scim-anthy-1.2.7/intl/plural-exp.h
+scim-anthy-1.2.7/intl/relocatable.h
+scim-anthy-1.2.7/intl/loadinfo.h
+scim-anthy-1.2.7/intl/dgettext.c
+scim-anthy-1.2.7/intl/printf-parse.h
+scim-anthy-1.2.7/intl/VERSION
+scim-anthy-1.2.7/config.rpath
+scim-anthy-1.2.7/data/
+scim-anthy-1.2.7/data/wnn.sty
+scim-anthy-1.2.7/data/tron-qwerty-jp.sty
+scim-anthy-1.2.7/data/Makefile.am
+scim-anthy-1.2.7/data/nicola-f.sty
+scim-anthy-1.2.7/data/scim-anthy-dict.png
+scim-anthy-1.2.7/data/vje-delta.sty
+scim-anthy-1.2.7/data/tsuki-2-203-106.sty
+scim-anthy-1.2.7/data/scim-anthy.png
+scim-anthy-1.2.7/data/tsuki-2-203-101.sty
+scim-anthy-1.2.7/data/msime.sty
+scim-anthy-1.2.7/data/azik.sty
+scim-anthy-1.2.7/data/nicola-a.sty
+scim-anthy-1.2.7/data/101kana.sty
+scim-anthy-1.2.7/data/canna.sty
+scim-anthy-1.2.7/data/scim-anthy-swap-colors.png
+scim-anthy-1.2.7/data/tron-dvorak.sty
+scim-anthy-1.2.7/data/nicola-j.sty
+scim-anthy-1.2.7/data/Makefile.in
+scim-anthy-1.2.7/data/oasys100j.sty
+scim-anthy-1.2.7/data/atok.sty
+scim-anthy-1.2.7/config.sub
+[32mTCZBUILD[0m: ./configure 
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... ./install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether NLS is requested... yes
+checking for msgfmt... no
+checking for gmsgfmt... :
+checking for xgettext... no
+checking for msgmerge... no
+checking for style of include used by make... GNU
+checking for gcc... gcc
+checking for C compiler default output file name... a.out
+checking whether the C compiler works... yes
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking dependency style of gcc... gcc3
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for ranlib... ranlib
+checking for strerror in -lcposix... no
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for ANSI C header files... yes
+checking for an ANSI C-conforming const... yes
+checking for signed... yes
+checking for inline... inline
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for off_t... yes
+checking for size_t... yes
+checking for long long... yes
+checking for long double... yes
+checking for wchar_t... yes
+checking for wint_t... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for intmax_t... yes
+checking whether printf() supports POSIX/XSI format strings... no
+checking for working alloca.h... yes
+checking for alloca... yes
+checking for stdlib.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for getpagesize... yes
+checking for working mmap... yes
+checking whether we are using the GNU C Library 2.1 or newer... yes
+checking whether integer division by zero raises SIGFPE... yes
+checking for unsigned long long... yes
+checking for inttypes.h... yes
+checking whether the inttypes.h PRIxNN macros are broken... no
+checking for stdint.h... (cached) yes
+checking for SIZE_MAX... yes
+checking for stdint.h... (cached) yes
+checking for ld used by GCC... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for shared library run path origin... done
+checking for ptrdiff_t... yes
+checking argz.h usability... yes
+checking argz.h presence... yes
+checking for argz.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking locale.h usability... yes
+checking locale.h presence... yes
+checking for locale.h... yes
+checking nl_types.h usability... yes
+checking nl_types.h presence... yes
+checking for nl_types.h... yes
+checking malloc.h usability... yes
+checking malloc.h presence... yes
+checking for malloc.h... yes
+checking stddef.h usability... yes
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking sys/param.h usability... yes
+checking sys/param.h presence... yes
+checking for sys/param.h... yes
+checking for asprintf... yes
+checking for fwprintf... yes
+checking for getcwd... yes
+checking for getegid... yes
+checking for geteuid... yes
+checking for getgid... yes
+checking for getuid... yes
+checking for mempcpy... yes
+checking for munmap... yes
+checking for putenv... yes
+checking for setenv... yes
+checking for setlocale... yes
+checking for snprintf... yes
+checking for stpcpy... yes
+checking for strcasecmp... yes
+checking for strdup... yes
+checking for strtoul... yes
+checking for tsearch... yes
+checking for wcslen... yes
+checking for __argz_count... yes
+checking for __argz_stringify... yes
+checking for __argz_next... yes
+checking for __fsetlocking... yes
+checking whether _snprintf is declared... no
+checking whether _snwprintf is declared... no
+checking whether feof_unlocked is declared... yes
+checking whether fgets_unlocked is declared... no
+checking whether getc_unlocked is declared... yes
+checking for iconv... yes
+checking for iconv declaration... 
+         extern size_t iconv (iconv_t cd, char * *inbuf, size_t *inbytesleft, char * *outbuf, size_t *outbytesleft);
+checking for nl_langinfo and CODESET... yes
+checking for LC_MESSAGES... yes
+checking for bison... bison
+checking version of bison... 3.0.2, ok
+checking whether NLS is requested... yes
+checking whether included gettext is requested... no
+checking for GNU gettext in libc... yes
+checking whether to use NLS... yes
+checking where the gettext function comes from... libc
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for BSD-compatible nm... /usr/local/bin/nm -B
+checking whether ln -s works... yes
+checking how to recognize dependent libraries... pass_all
+./configure: ./configure.lineno: line 11340: /usr/bin/file: not found
+checking dlfcn.h usability... yes
+checking dlfcn.h presence... yes
+checking for dlfcn.h... yes
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking dependency style of g++... gcc3
+checking how to run the C++ preprocessor... g++ -E
+checking for g77... no
+checking for xlf... no
+checking for f77... no
+checking for frt... no
+checking for pgf77... no
+checking for cf77... no
+checking for fort77... no
+checking for fl32... no
+checking for af77... no
+checking for xlf90... no
+checking for f90... no
+checking for pgf90... no
+checking for pghpf... no
+checking for epcf90... no
+checking for gfortran... no
+checking for g95... no
+checking for xlf95... no
+checking for f95... no
+checking for fort... no
+checking for ifort... no
+checking for ifc... no
+checking for efc... no
+checking for pgf95... no
+checking for lf95... no
+checking for ftn... no
+checking whether we are using the GNU Fortran 77 compiler... no
+checking whether  accepts -g... no
+checking the maximum length of command line arguments... 32768
+checking command to parse /usr/local/bin/nm -B output from gcc object... ok
+checking for objdir... .libs
+checking for ar... ar
+checking for ranlib... (cached) ranlib
+checking for strip... strip
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC
+checking if gcc PIC flag -fPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking whether the gcc linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking for shl_load... no
+checking for shl_load in -ldld... no
+checking for dlopen... no
+checking for dlopen in -ldl... yes
+checking whether a program can dlopen itself... yes
+checking whether a statically linked program can dlopen itself... no
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+configure: creating libtool
+appending configuration tag "CXX" to libtool
+checking for ld used by g++... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking whether the g++ linker (/usr/local/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC
+checking if g++ PIC flag -fPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking whether the g++ linker (/usr/local/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+(cached) (cached) checking how to hardcode library paths into programs... immediate
+appending configuration tag "F77" to libtool
+checking for dirent.h that defines DIR... yes
+checking for library containing opendir... none required
+checking which extension is used for loadable modules... .so
+checking which variable specifies run-time library path... LD_LIBRARY_PATH
+checking for the default library search path... /lib /usr/lib /usr/local/lib 
+checking for objdir... .libs
+checking whether libtool supports -dlopen/-dlpreopen... yes
+checking for shl_load... (cached) no
+checking for shl_load in -ldld... (cached) no
+checking for dlopen in -ldl... (cached) yes
+checking for dlerror... yes
+checking for _ prefix in compiled symbols... no
+checking whether deplibs are loaded by dlopen... yes
+checking for argz.h... (cached) yes
+checking for error_t... yes
+checking for argz_append... yes
+checking for argz_create_sep... yes
+checking for argz_insert... yes
+checking for argz_next... yes
+checking for argz_stringify... yes
+checking assert.h usability... yes
+checking assert.h presence... yes
+checking for assert.h... yes
+checking ctype.h usability... yes
+checking ctype.h presence... yes
+checking for ctype.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking for malloc.h... (cached) yes
+checking for memory.h... (cached) yes
+checking for stdlib.h... (cached) yes
+checking stdio.h usability... yes
+checking stdio.h presence... yes
+checking for stdio.h... yes
+checking for unistd.h... (cached) yes
+checking dl.h usability... no
+checking dl.h presence... no
+checking for dl.h... no
+checking sys/dl.h usability... no
+checking sys/dl.h presence... no
+checking for sys/dl.h... no
+checking dld.h usability... no
+checking dld.h presence... no
+checking for dld.h... no
+checking mach-o/dyld.h usability... no
+checking mach-o/dyld.h presence... no
+checking for mach-o/dyld.h... no
+checking for string.h... (cached) yes
+checking for strchr... yes
+checking for strrchr... yes
+checking for memcpy... yes
+checking for memmove... yes
+checking for strcmp... yes
+checking for closedir... yes
+checking for opendir... yes
+checking for readdir... yes
+checking whether we are using the GNU C++ compiler... (cached) yes
+checking whether g++ accepts -g... (cached) yes
+checking dependency style of g++... (cached) gcc3
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking dependency style of gcc... (cached) gcc3
+checking for an ANSI C-conforming const... (cached) yes
+checking for size_t... (cached) yes
+checking for pkg-config... /usr/local/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for SCIM... yes
+checking for SCIM_GTKUTILS... no
+checking for ANSI C header files... (cached) yes
+checking for working alloca.h... (cached) yes
+checking for alloca... (cached) yes
+checking for argz.h... (cached) yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking float.h usability... yes
+checking float.h presence... yes
+checking for float.h... yes
+checking for inttypes.h... (cached) yes
+checking langinfo.h usability... yes
+checking langinfo.h presence... yes
+checking for langinfo.h... yes
+checking libintl.h usability... yes
+checking libintl.h presence... yes
+checking for libintl.h... yes
+checking for limits.h... (cached) yes
+checking for locale.h... (cached) yes
+checking for malloc.h... (cached) yes
+checking for stddef.h... (cached) yes
+checking for stdint.h... (cached) yes
+checking stdio_ext.h usability... yes
+checking stdio_ext.h presence... yes
+checking for stdio_ext.h... yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking for strings.h... (cached) yes
+checking for sys/param.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking wchar.h usability... yes
+checking wchar.h presence... yes
+checking for wchar.h... yes
+checking anthy/anthy.h usability... yes
+checking anthy/anthy.h presence... yes
+checking for anthy/anthy.h... yes
+checking for GTK2... no
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating intl/Makefile
+config.status: WARNING:  intl/Makefile.in seems to ignore the --datarootdir setting
+config.status: creating po/Makefile.in
+config.status: WARNING:  po/Makefile.in.in seems to ignore the --datarootdir setting
+config.status: creating m4/Makefile
+config.status: creating src/Makefile
+config.status: creating data/Makefile
+config.status: creating config.h
+config.status: executing default-1 commands
+config.status: creating po/POTFILES
+config.status: creating po/Makefile
+config.status: executing depfiles commands
+[32mTCZBUILD[0m: make 
+make  all-recursive
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+Making all in intl
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/intl'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/intl'
+Making all in po
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/po'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/po'
+Making all in m4
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/m4'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/m4'
+Making all in src
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/src'
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_factory.lo -MD -MP -MF .deps/anthy_la-scim_anthy_factory.Tpo -c -o anthy_la-scim_anthy_factory.lo `test -f 'scim_anthy_factory.cpp' || echo './'`scim_anthy_factory.cpp
+mkdir .libs
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_factory.lo -MD -MP -MF .deps/anthy_la-scim_anthy_factory.Tpo -c scim_anthy_factory.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_factory.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_factory.lo -MD -MP -MF .deps/anthy_la-scim_anthy_factory.Tpo -c scim_anthy_factory.cpp -o anthy_la-scim_anthy_factory.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_factory.Tpo .deps/anthy_la-scim_anthy_factory.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_imengine.lo -MD -MP -MF .deps/anthy_la-scim_anthy_imengine.Tpo -c -o anthy_la-scim_anthy_imengine.lo `test -f 'scim_anthy_imengine.cpp' || echo './'`scim_anthy_imengine.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_imengine.lo -MD -MP -MF .deps/anthy_la-scim_anthy_imengine.Tpo -c scim_anthy_imengine.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_imengine.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_imengine.lo -MD -MP -MF .deps/anthy_la-scim_anthy_imengine.Tpo -c scim_anthy_imengine.cpp -o anthy_la-scim_anthy_imengine.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_imengine.Tpo .deps/anthy_la-scim_anthy_imengine.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_action.lo -MD -MP -MF .deps/anthy_la-scim_anthy_action.Tpo -c -o anthy_la-scim_anthy_action.lo `test -f 'scim_anthy_action.cpp' || echo './'`scim_anthy_action.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_action.lo -MD -MP -MF .deps/anthy_la-scim_anthy_action.Tpo -c scim_anthy_action.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_action.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_action.lo -MD -MP -MF .deps/anthy_la-scim_anthy_action.Tpo -c scim_anthy_action.cpp -o anthy_la-scim_anthy_action.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_action.Tpo .deps/anthy_la-scim_anthy_action.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_preedit.lo -MD -MP -MF .deps/anthy_la-scim_anthy_preedit.Tpo -c -o anthy_la-scim_anthy_preedit.lo `test -f 'scim_anthy_preedit.cpp' || echo './'`scim_anthy_preedit.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_preedit.lo -MD -MP -MF .deps/anthy_la-scim_anthy_preedit.Tpo -c scim_anthy_preedit.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_preedit.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_preedit.lo -MD -MP -MF .deps/anthy_la-scim_anthy_preedit.Tpo -c scim_anthy_preedit.cpp -o anthy_la-scim_anthy_preedit.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_preedit.Tpo .deps/anthy_la-scim_anthy_preedit.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_reading.lo -MD -MP -MF .deps/anthy_la-scim_anthy_reading.Tpo -c -o anthy_la-scim_anthy_reading.lo `test -f 'scim_anthy_reading.cpp' || echo './'`scim_anthy_reading.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_reading.lo -MD -MP -MF .deps/anthy_la-scim_anthy_reading.Tpo -c scim_anthy_reading.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_reading.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_reading.lo -MD -MP -MF .deps/anthy_la-scim_anthy_reading.Tpo -c scim_anthy_reading.cpp -o anthy_la-scim_anthy_reading.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_reading.Tpo .deps/anthy_la-scim_anthy_reading.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_conversion.lo -MD -MP -MF .deps/anthy_la-scim_anthy_conversion.Tpo -c -o anthy_la-scim_anthy_conversion.lo `test -f 'scim_anthy_conversion.cpp' || echo './'`scim_anthy_conversion.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_conversion.lo -MD -MP -MF .deps/anthy_la-scim_anthy_conversion.Tpo -c scim_anthy_conversion.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_conversion.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_conversion.lo -MD -MP -MF .deps/anthy_la-scim_anthy_conversion.Tpo -c scim_anthy_conversion.cpp -o anthy_la-scim_anthy_conversion.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_conversion.Tpo .deps/anthy_la-scim_anthy_conversion.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_key2kana.lo -MD -MP -MF .deps/anthy_la-scim_anthy_key2kana.Tpo -c -o anthy_la-scim_anthy_key2kana.lo `test -f 'scim_anthy_key2kana.cpp' || echo './'`scim_anthy_key2kana.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_key2kana.lo -MD -MP -MF .deps/anthy_la-scim_anthy_key2kana.Tpo -c scim_anthy_key2kana.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_key2kana.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_key2kana.lo -MD -MP -MF .deps/anthy_la-scim_anthy_key2kana.Tpo -c scim_anthy_key2kana.cpp -o anthy_la-scim_anthy_key2kana.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_key2kana.Tpo .deps/anthy_la-scim_anthy_key2kana.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_key2kana_table.lo -MD -MP -MF .deps/anthy_la-scim_anthy_key2kana_table.Tpo -c -o anthy_la-scim_anthy_key2kana_table.lo `test -f 'scim_anthy_key2kana_table.cpp' || echo './'`scim_anthy_key2kana_table.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_key2kana_table.lo -MD -MP -MF .deps/anthy_la-scim_anthy_key2kana_table.Tpo -c scim_anthy_key2kana_table.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_key2kana_table.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_key2kana_table.lo -MD -MP -MF .deps/anthy_la-scim_anthy_key2kana_table.Tpo -c scim_anthy_key2kana_table.cpp -o anthy_la-scim_anthy_key2kana_table.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_key2kana_table.Tpo .deps/anthy_la-scim_anthy_key2kana_table.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_kana.lo -MD -MP -MF .deps/anthy_la-scim_anthy_kana.Tpo -c -o anthy_la-scim_anthy_kana.lo `test -f 'scim_anthy_kana.cpp' || echo './'`scim_anthy_kana.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_kana.lo -MD -MP -MF .deps/anthy_la-scim_anthy_kana.Tpo -c scim_anthy_kana.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_kana.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_kana.lo -MD -MP -MF .deps/anthy_la-scim_anthy_kana.Tpo -c scim_anthy_kana.cpp -o anthy_la-scim_anthy_kana.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_kana.Tpo .deps/anthy_la-scim_anthy_kana.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_nicola.lo -MD -MP -MF .deps/anthy_la-scim_anthy_nicola.Tpo -c -o anthy_la-scim_anthy_nicola.lo `test -f 'scim_anthy_nicola.cpp' || echo './'`scim_anthy_nicola.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_nicola.lo -MD -MP -MF .deps/anthy_la-scim_anthy_nicola.Tpo -c scim_anthy_nicola.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_nicola.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_nicola.lo -MD -MP -MF .deps/anthy_la-scim_anthy_nicola.Tpo -c scim_anthy_nicola.cpp -o anthy_la-scim_anthy_nicola.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_nicola.Tpo .deps/anthy_la-scim_anthy_nicola.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_default_tables.lo -MD -MP -MF .deps/anthy_la-scim_anthy_default_tables.Tpo -c -o anthy_la-scim_anthy_default_tables.lo `test -f 'scim_anthy_default_tables.cpp' || echo './'`scim_anthy_default_tables.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_default_tables.lo -MD -MP -MF .deps/anthy_la-scim_anthy_default_tables.Tpo -c scim_anthy_default_tables.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_default_tables.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_default_tables.lo -MD -MP -MF .deps/anthy_la-scim_anthy_default_tables.Tpo -c scim_anthy_default_tables.cpp -o anthy_la-scim_anthy_default_tables.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_default_tables.Tpo .deps/anthy_la-scim_anthy_default_tables.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_style_file.lo -MD -MP -MF .deps/anthy_la-scim_anthy_style_file.Tpo -c -o anthy_la-scim_anthy_style_file.lo `test -f 'scim_anthy_style_file.cpp' || echo './'`scim_anthy_style_file.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_style_file.lo -MD -MP -MF .deps/anthy_la-scim_anthy_style_file.Tpo -c scim_anthy_style_file.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_style_file.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_style_file.lo -MD -MP -MF .deps/anthy_la-scim_anthy_style_file.Tpo -c scim_anthy_style_file.cpp -o anthy_la-scim_anthy_style_file.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_style_file.Tpo .deps/anthy_la-scim_anthy_style_file.Plo
+/bin/sh ../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..  -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\"  -I/usr/local/include/scim-1.0    -g -O2 -MT anthy_la-scim_anthy_utils.lo -MD -MP -MF .deps/anthy_la-scim_anthy_utils.Tpo -c -o anthy_la-scim_anthy_utils.lo `test -f 'scim_anthy_utils.cpp' || echo './'`scim_anthy_utils.cpp
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_utils.lo -MD -MP -MF .deps/anthy_la-scim_anthy_utils.Tpo -c scim_anthy_utils.cpp  -fPIC -DPIC -o .libs/anthy_la-scim_anthy_utils.o
+ g++ -DHAVE_CONFIG_H -I. -I.. -DSCIM_ANTHY_LOCALEDIR=\"/usr/local/share/locale\" -DSCIM_ICONDIR=\"/usr/local/share/scim/icons\" -DSCIM_ANTHY_DATADIR=\"/usr/local/share/scim/Anthy\" -DSCIM_ANTHY_STYLEDIR=\"/usr/local/share/scim/Anthy/style\" -I/usr/local/include/scim-1.0 -g -O2 -MT anthy_la-scim_anthy_utils.lo -MD -MP -MF .deps/anthy_la-scim_anthy_utils.Tpo -c scim_anthy_utils.cpp -o anthy_la-scim_anthy_utils.o >/dev/null 2>&1
+mv -f .deps/anthy_la-scim_anthy_utils.Tpo .deps/anthy_la-scim_anthy_utils.Plo
+/bin/sh ../libtool --tag=CXX   --mode=link g++ -I/usr/local/include/scim-1.0    -g -O2 -avoid-version -rpath /usr/local/lib/scim-1.0/1.4.0/IMEngine -module -export-symbols-regex "^[^_].*" -L/usr/local/lib -lscim-1.0 -lanthy -lanthydic  -o anthy.la -rpath /usr/local/lib/scim-1.0/1.4.0/IMEngine anthy_la-scim_anthy_factory.lo anthy_la-scim_anthy_imengine.lo anthy_la-scim_anthy_action.lo anthy_la-scim_anthy_preedit.lo anthy_la-scim_anthy_reading.lo anthy_la-scim_anthy_conversion.lo anthy_la-scim_anthy_key2kana.lo anthy_la-scim_anthy_key2kana_table.lo anthy_la-scim_anthy_kana.lo anthy_la-scim_anthy_nicola.lo anthy_la-scim_anthy_default_tables.lo anthy_la-scim_anthy_style_file.lo anthy_la-scim_anthy_utils.lo  
+generating symbol list for `anthy.la'
+/usr/local/bin/nm -B  .libs/anthy_la-scim_anthy_factory.o .libs/anthy_la-scim_anthy_imengine.o .libs/anthy_la-scim_anthy_action.o .libs/anthy_la-scim_anthy_preedit.o .libs/anthy_la-scim_anthy_reading.o .libs/anthy_la-scim_anthy_conversion.o .libs/anthy_la-scim_anthy_key2kana.o .libs/anthy_la-scim_anthy_key2kana_table.o .libs/anthy_la-scim_anthy_kana.o .libs/anthy_la-scim_anthy_nicola.o .libs/anthy_la-scim_anthy_default_tables.o .libs/anthy_la-scim_anthy_style_file.o .libs/anthy_la-scim_anthy_utils.o  | sed -n -e 's/^.*[ 	]\([ABCDGIRSTW][ABCDGIRSTW]*\)[ 	][ 	]*\([_A-Za-z][_A-Za-z0-9]*\)$/\1 \2 \2/p' | /usr/local/bin/sed 's/.* //' | sort | uniq > .libs/anthy.exp
+/usr/local/bin/grep -E -e "^[^_].*" ".libs/anthy.exp" > ".libs/anthy.expT"
+mv -f ".libs/anthy.expT" ".libs/anthy.exp"
+g++ -shared -nostdlib /usr/lib/crti.o /usr/local/lib/gcc/i486-pc-linux-gnu/4.9.1/crtbeginS.o  .libs/anthy_la-scim_anthy_factory.o .libs/anthy_la-scim_anthy_imengine.o .libs/anthy_la-scim_anthy_action.o .libs/anthy_la-scim_anthy_preedit.o .libs/anthy_la-scim_anthy_reading.o .libs/anthy_la-scim_anthy_conversion.o .libs/anthy_la-scim_anthy_key2kana.o .libs/anthy_la-scim_anthy_key2kana_table.o .libs/anthy_la-scim_anthy_kana.o .libs/anthy_la-scim_anthy_nicola.o .libs/anthy_la-scim_anthy_default_tables.o .libs/anthy_la-scim_anthy_style_file.o .libs/anthy_la-scim_anthy_utils.o  -L/usr/local/lib /usr/local/lib/libscim-1.0.so /usr/local/lib/libanthy.so /usr/local/lib/libanthydic.so -L/usr/local/lib/gcc/i486-pc-linux-gnu/4.9.1 -L/usr/local/lib/gcc/i486-pc-linux-gnu/4.9.1/../../.. /usr/lib/libstdc++.so -lm -lc -lgcc_s /usr/local/lib/gcc/i486-pc-linux-gnu/4.9.1/crtendS.o /usr/lib/crtn.o  -Wl,-soname -Wl,anthy.so -Wl,-retain-symbols-file -Wl,.libs/anthy.exp -o .libs/anthy.so
+ar cru .libs/anthy.a  anthy_la-scim_anthy_factory.o anthy_la-scim_anthy_imengine.o anthy_la-scim_anthy_action.o anthy_la-scim_anthy_preedit.o anthy_la-scim_anthy_reading.o anthy_la-scim_anthy_conversion.o anthy_la-scim_anthy_key2kana.o anthy_la-scim_anthy_key2kana_table.o anthy_la-scim_anthy_kana.o anthy_la-scim_anthy_nicola.o anthy_la-scim_anthy_default_tables.o anthy_la-scim_anthy_style_file.o anthy_la-scim_anthy_utils.o
+ranlib .libs/anthy.a
+creating anthy.la
+(cd .libs && rm -f anthy.la && ln -s ../anthy.la anthy.la)
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/src'
+Making all in data
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/data'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/data'
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+make[2]: Nothing to be done for 'all-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1k5myt8/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-1k5myt8/pkgroot/  install
+Making install in intl
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/intl'
+if { test "scim-anthy" = "gettext-runtime" || test "scim-anthy" = "gettext-tools"; } \
+   && test 'no' = yes; then \
+  /bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/include; \
+  /usr/bin/install -c -m 644 libintl.h /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/include/libintl.h; \
+  /bin/sh ../libtool --mode=install \
+    /usr/bin/install -c -m 644 libintl.a /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/libintl.a; \
+  if test "@RELOCATABLE@" = yes; then \
+    dependencies=`sed -n -e 's,^dependency_libs=\(.*\),\1,p' < /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/libintl.la | sed -e "s,^',," -e "s,'\$,,"`; \
+    if test -n "$dependencies"; then \
+      rm -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/libintl.la; \
+    fi; \
+  fi; \
+else \
+  : ; \
+fi
+if test "scim-anthy" = "gettext-tools" \
+   && test 'no' = no; then \
+  /bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib; \
+  /bin/sh ../libtool --mode=install \
+    /usr/bin/install -c -m 644 libgnuintl.a /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/libgnuintl.a; \
+  rm -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/preloadable_libintl.so; \
+  /usr/bin/install -c -m 644 /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/libgnuintl.so /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/preloadable_libintl.so; \
+  /bin/sh ../libtool --mode=uninstall \
+    rm -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/libgnuintl.a; \
+else \
+  : ; \
+fi
+if test 'no' = yes; then \
+  test yes != no || /bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib; \
+  temp=/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/t-charset.alias; \
+  dest=/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/charset.alias; \
+  if test -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/charset.alias; then \
+    orig=/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/charset.alias; \
+    sed -f ref-add.sed $orig > $temp; \
+    /usr/bin/install -c -m 644 $temp $dest; \
+    rm -f $temp; \
+  else \
+    if test yes = no; then \
+      orig=charset.alias; \
+      sed -f ref-add.sed $orig > $temp; \
+      /usr/bin/install -c -m 644 $temp $dest; \
+      rm -f $temp; \
+    fi; \
+  fi; \
+  /bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale; \
+  test -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale/locale.alias \
+    && orig=/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale/locale.alias \
+    || orig=./locale.alias; \
+  temp=/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale/t-locale.alias; \
+  dest=/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale/locale.alias; \
+  sed -f ref-add.sed $orig > $temp; \
+  /usr/bin/install -c -m 644 $temp $dest; \
+  rm -f $temp; \
+else \
+  : ; \
+fi
+if test "scim-anthy" = "gettext-tools"; then \
+  /bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl; \
+  /usr/bin/install -c -m 644 VERSION /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl/VERSION; \
+  /usr/bin/install -c -m 644 ChangeLog.inst /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl/ChangeLog; \
+  dists="COPYING.LIB-2.0 COPYING.LIB-2.1 Makefile.in config.charset locale.alias ref-add.sin ref-del.sin gmo.h gettextP.h hash-string.h loadinfo.h plural-exp.h eval-plural.h localcharset.h relocatable.h xsize.h printf-args.h printf-args.c printf-parse.h wprintf-parse.h printf-parse.c vasnprintf.h vasnwprintf.h vasnprintf.c os2compat.h libgnuintl.h.in bindtextdom.c dcgettext.c dgettext.c gettext.c finddomain.c loadmsgcat.c localealias.c textdomain.c l10nflist.c explodename.c dcigettext.c dcngettext.c dngettext.c ngettext.c plural.y plural-exp.c localcharset.c relocatable.c localename.c log.c printf.c osdep.c os2compat.c intl-compat.c"; \
+  for file in $dists; do \
+    /usr/bin/install -c -m 644 ./$file \
+		    /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl/$file; \
+  done; \
+  chmod a+x /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl/config.charset; \
+  dists="plural.c"; \
+  for file in $dists; do \
+    if test -f $file; then dir=.; else dir=.; fi; \
+    /usr/bin/install -c -m 644 $dir/$file \
+		    /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl/$file; \
+  done; \
+  dists="xopen-msg.sed linux-msg.sed po2tbl.sed.in cat-compat.c COPYING.LIB-2 gettext.h libgettext.h plural-eval.c libgnuintl.h"; \
+  for file in $dists; do \
+    rm -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/intl/$file; \
+  done; \
+else \
+  : ; \
+fi
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/intl'
+Making install in po
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/po'
+/bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local/share
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local/share/locale
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local/share/locale/de
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local/share/locale/de/LC_MESSAGES
+installing de.gmo as /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale/de/LC_MESSAGES/scim-anthy.mo
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local/share/locale/ja
+mkdir /tmp/d20160302-601-1k5myt8/pkgroot/usr/local/share/locale/ja/LC_MESSAGES
+installing ja.gmo as /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/locale/ja/LC_MESSAGES/scim-anthy.mo
+if test "scim-anthy" = "gettext-tools"; then \
+  /bin/sh .././mkinstalldirs /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/po; \
+  for file in Makefile.in.in remove-potcdate.sin quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot   Makevars.template; do \
+    /usr/bin/install -c -m 644 ./$file \
+		    /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/po/$file; \
+  done; \
+  for file in Makevars; do \
+    rm -f /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/gettext/po/$file; \
+  done; \
+else \
+  : ; \
+fi
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/po'
+Making install in m4
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/m4'
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/m4'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/m4'
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/m4'
+Making install in src
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/src'
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/src'
+make[2]: Nothing to be done for 'install-exec-am'.
+test -z "/usr/local/lib/scim-1.0/1.4.0/Helper" || .././install-sh -c -d "/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/Helper"
+test -z "/usr/local/lib/scim-1.0/1.4.0/IMEngine" || .././install-sh -c -d "/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine"
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c  'anthy.la' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.la'
+/usr/bin/install -c .libs/anthy.so /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.so
+/usr/bin/install -c .libs/anthy.lai /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.la
+/usr/bin/install -c .libs/anthy.a /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.a
+chmod 644 /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.a
+ranlib /tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.a
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib/scim-1.0/1.4.0/IMEngine'
+test -z "/usr/local/lib/scim-1.0/1.4.0/SetupUI" || .././install-sh -c -d "/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/lib/scim-1.0/1.4.0/SetupUI"
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/src'
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/src'
+Making install in data
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/data'
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/data'
+make[2]: Nothing to be done for 'install-exec-am'.
+test -z "/usr/local/share/scim/icons" || .././install-sh -c -d "/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/icons"
+ /usr/bin/install -c -m 644 'scim-anthy.png' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/icons/scim-anthy.png'
+ /usr/bin/install -c -m 644 'scim-anthy-dict.png' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/icons/scim-anthy-dict.png'
+ /usr/bin/install -c -m 644 'scim-anthy-swap-colors.png' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/icons/scim-anthy-swap-colors.png'
+test -z "/usr/local/share/scim/Anthy/style" || .././install-sh -c -d "/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style"
+ /usr/bin/install -c -m 644 'atok.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/atok.sty'
+ /usr/bin/install -c -m 644 'msime.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/msime.sty'
+ /usr/bin/install -c -m 644 'canna.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/canna.sty'
+ /usr/bin/install -c -m 644 'wnn.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/wnn.sty'
+ /usr/bin/install -c -m 644 'vje-delta.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/vje-delta.sty'
+ /usr/bin/install -c -m 644 'azik.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/azik.sty'
+ /usr/bin/install -c -m 644 '101kana.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/101kana.sty'
+ /usr/bin/install -c -m 644 'nicola-a.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/nicola-a.sty'
+ /usr/bin/install -c -m 644 'nicola-f.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/nicola-f.sty'
+ /usr/bin/install -c -m 644 'nicola-j.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/nicola-j.sty'
+ /usr/bin/install -c -m 644 'oasys100j.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/oasys100j.sty'
+ /usr/bin/install -c -m 644 'tron-dvorak.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/tron-dvorak.sty'
+ /usr/bin/install -c -m 644 'tron-qwerty-jp.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/tron-qwerty-jp.sty'
+ /usr/bin/install -c -m 644 'tsuki-2-203-101.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/tsuki-2-203-101.sty'
+ /usr/bin/install -c -m 644 'tsuki-2-203-106.sty' '/tmp/d20160302-601-1k5myt8/pkgroot//usr/local/share/scim/Anthy/style/tsuki-2-203-106.sty'
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/data'
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7/data'
+make[1]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+make[2]: Entering directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+make[1]: Leaving directory '/tmp/d20160302-601-1k5myt8/scim-anthy-1.2.7'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1k5myt8/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-1k5myt8/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+41,42d40
+< ./usr/local/lib/scim-1.0/1.4.0/SetupUI
+< ./usr/local/lib/scim-1.0/1.4.0/Helper
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/share
+usr/local/share/locale
+usr/local/share/locale/de
+usr/local/share/locale/de/LC_MESSAGES
+usr/local/share/locale/de/LC_MESSAGES/scim-anthy.mo
+usr/local/share/locale/ja
+usr/local/share/locale/ja/LC_MESSAGES
+usr/local/share/locale/ja/LC_MESSAGES/scim-anthy.mo
+usr/local/share/scim
+usr/local/share/scim/Anthy
+usr/local/share/scim/Anthy/style
+usr/local/share/scim/Anthy/style/nicola-j.sty
+usr/local/share/scim/Anthy/style/tron-qwerty-jp.sty
+usr/local/share/scim/Anthy/style/tsuki-2-203-106.sty
+usr/local/share/scim/Anthy/style/101kana.sty
+usr/local/share/scim/Anthy/style/tron-dvorak.sty
+usr/local/share/scim/Anthy/style/oasys100j.sty
+usr/local/share/scim/Anthy/style/wnn.sty
+usr/local/share/scim/Anthy/style/vje-delta.sty
+usr/local/share/scim/Anthy/style/nicola-f.sty
+usr/local/share/scim/Anthy/style/atok.sty
+usr/local/share/scim/Anthy/style/nicola-a.sty
+usr/local/share/scim/Anthy/style/canna.sty
+usr/local/share/scim/Anthy/style/msime.sty
+usr/local/share/scim/Anthy/style/tsuki-2-203-101.sty
+usr/local/share/scim/Anthy/style/azik.sty
+usr/local/share/scim/icons
+usr/local/share/scim/icons/scim-anthy.png
+usr/local/share/scim/icons/scim-anthy-swap-colors.png
+usr/local/share/scim/icons/scim-anthy-dict.png
+usr/local/lib
+usr/local/lib/scim-1.0
+usr/local/lib/scim-1.0/1.4.0
+usr/local/lib/scim-1.0/1.4.0/IMEngine
+usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.la
+usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.so
+usr/local/lib/scim-1.0/1.4.0/IMEngine/anthy.a
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_im_scim-anthy.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_im_scim-anthy.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1k5myt8/pkgroot/ mypkgs_im_scim-anthy.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_im_scim-anthy.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 4999.41 Kbytes (4.88 Mbytes)
+	33.13% of uncompressed filesystem size (15092.01 Kbytes)
+Inode table size 7508 bytes (7.33 Kbytes)
+	45.88% of uncompressed inode table size (16364 bytes)
+Directory table size 504 bytes (0.49 Kbytes)
+	55.32% of uncompressed directory table size (911 bytes)
+Number of duplicate files found 0
+Number of inodes 40
+Number of files 23
+Number of fragments 6
+Number of symbolic links  0
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 17
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_im_scim-anthy.tcz > mypkgs_im_scim-anthy.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_im_scim-anthy.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_im_scim-anthy.tcz
+-rw-r--r--    1 tc       staff       4.9M Mar  2 11:47 [0;0mmypkgs_im_scim-anthy.tcz[0m

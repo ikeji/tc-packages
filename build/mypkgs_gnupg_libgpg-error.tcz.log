@@ -1,0 +1,1385 @@
+ruby-2.2 is already downloaded.
+Parallel unsquashfs: Using 8 processors
+229 inodes (866 blocks) to write
+
+
+
+created 228 files
+created 14 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tcl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (17 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXdmcp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXau.tcz: OK
+Parallel unsquashfs: Using 8 processors
+90 inodes (225 blocks) to write
+
+
+
+created 30 files
+created 4 directories
+created 60 symlinks
+created 0 devices
+created 0 fifos
+libxcb.tcz: OK
+Parallel unsquashfs: Using 8 processors
+185 inodes (802 blocks) to write
+
+
+
+created 181 files
+created 65 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+libX11.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (17 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXext.tcz: OK
+Parallel unsquashfs: Using 8 processors
+7 inodes (11 blocks) to write
+
+
+
+created 5 files
+created 8 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXss.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (10 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXrender.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (121 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+freetype.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (35 blocks) to write
+
+
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+expat2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+59 inodes (121 blocks) to write
+
+
+
+created 42 files
+created 14 directories
+created 17 symlinks
+created 0 devices
+created 0 fifos
+fontconfig.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libXft.tcz: OK
+Parallel unsquashfs: Using 8 processors
+87 inodes (450 blocks) to write
+
+
+
+created 86 files
+created 10 directories
+created 1 symlinks
+created 0 devices
+created 0 fifos
+tk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+44 inodes (148 blocks) to write
+
+
+
+created 20 files
+created 12 directories
+created 24 symlinks
+created 0 devices
+created 0 fifos
+ncurses.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (56 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+readline.tcz: OK
+Parallel unsquashfs: Using 8 processors
+209 inodes (981 blocks) to write
+
+
+
+created 207 files
+created 15 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+openssl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (8 blocks) to write
+
+
+
+created 1 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+libffi.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (6 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gamin.tcz: OK
+Parallel unsquashfs: Using 8 processors
+35 inodes (792 blocks) to write
+
+
+
+created 25 files
+created 12 directories
+created 10 symlinks
+created 0 devices
+created 0 fifos
+glib2.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (82 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+harfbuzz.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (82 blocks) to write
+
+
+
+created 2 files
+created 4 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gmp.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (36 blocks) to write
+
+
+
+created 5 files
+created 5 directories
+created 4 symlinks
+created 0 devices
+created 0 fifos
+gdbm.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1384 inodes (4713 blocks) to write
+
+
+
+created 1384 files
+created 172 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+ruby-2.2.tcz: OK
+[32mTCZBUILD[0m: tce-load -w compiletc make 
+compiletc is already downloaded.
+make is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make  | tee /tmp/d20160302-601-9lqv6v/stdout
+Parallel unsquashfs: Using 8 processors
+3 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 3 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+zlib_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (9 blocks) to write
+
+[===================================================================|] 9/9 100%
+
+created 6 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+util-linux_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+729 inodes (1298 blocks) to write
+
+[=============================================================|] 1298/1298 100%
+
+created 729 files
+created 36 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+linux-3.16.2_api_headers.tcz: OK
+Parallel unsquashfs: Using 8 processors
+448 inodes (1918 blocks) to write
+
+[=============================================================|] 1918/1918 100%
+
+created 448 files
+created 24 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+glibc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+18 inodes (50 blocks) to write
+
+[=================================================================|] 50/50 100%
+
+created 17 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+e2fsprogs_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (10 blocks) to write
+
+[=================================================================|] 10/10 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+sed.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (27 blocks) to write
+
+[=================================================================|] 27/27 100%
+
+created 2 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+pkg-config.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (26 blocks) to write
+
+[=================================================================|] 26/26 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+patch.tcz: OK
+Parallel unsquashfs: Using 8 processors
+2 inodes (35 blocks) to write
+
+[=================================================================|] 35/35 100%
+
+created 2 files
+created 5 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+make.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (22 blocks) to write
+
+[=================================================================|] 22/22 100%
+
+created 1 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+m4.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (24 blocks) to write
+
+[=================================================================|] 24/24 100%
+
+created 3 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+grep.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (69 blocks) to write
+
+[=================================================================|] 69/69 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpfr.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (19 blocks) to write
+
+[=================================================================|] 19/19 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+mpc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+3 inodes (304 blocks) to write
+
+[===============================================================|] 304/304 100%
+
+created 1 files
+created 4 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+isl.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (41 blocks) to write
+
+[=================================================================|] 41/41 100%
+
+created 2 files
+created 5 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+cloog.tcz: OK
+Parallel unsquashfs: Using 8 processors
+60 inodes (1316 blocks) to write
+
+[=============================================================|] 1316/1316 100%
+
+created 57 files
+created 11 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+binutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (338 blocks) to write
+
+[===============================================================|] 338/338 100%
+
+created 9 files
+created 4 directories
+created 18 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (1016 blocks) to write
+
+[=============================================================|] 1016/1016 100%
+
+created 27 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_libs-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+6 inodes (613 blocks) to write
+
+[===============================================================|] 613/613 100%
+
+created 6 files
+created 12 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gcc_base-dev.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1032 inodes (13491 blocks) to write
+
+[===========================================================/] 13491/13491 100%
+
+created 1019 files
+created 68 directories
+created 5 symlinks
+created 0 devices
+created 0 fifos
+gcc.tcz: OK
+Parallel unsquashfs: Using 8 processors
+40 inodes (257 blocks) to write
+
+[===============================================================|] 257/257 100%
+
+created 40 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+gawk.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (66 blocks) to write
+
+[=================================================================|] 66/66 100%
+
+created 3 files
+created 5 directories
+created 6 symlinks
+created 0 devices
+created 0 fifos
+flex.tcz: OK
+Parallel unsquashfs: Using 8 processors
+9 inodes (73 blocks) to write
+
+[=================================================================|] 73/73 100%
+
+created 9 files
+created 7 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+findutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+5 inodes (726 blocks) to write
+
+[===============================================================|] 726/726 100%
+
+created 3 files
+created 7 directories
+created 2 symlinks
+created 0 devices
+created 0 fifos
+file.tcz: OK
+Parallel unsquashfs: Using 8 processors
+4 inodes (53 blocks) to write
+
+[=================================================================|] 53/53 100%
+
+created 4 files
+created 4 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+diffutils.tcz: OK
+Parallel unsquashfs: Using 8 processors
+27 inodes (206 blocks) to write
+
+[===============================================================|] 206/206 100%
+
+created 27 files
+created 10 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+bison.tcz: OK
+Parallel unsquashfs: Using 8 processors
+1 inodes (1 blocks) to write
+
+[===================================================================|] 1/1 100%
+
+created 1 files
+created 6 directories
+created 0 symlinks
+created 0 devices
+created 0 fifos
+compiletc.tcz: OK
+libgpg-error-1.21.tar.bz2: OK
+[32mTCZBUILD[0m: tar xvf /work//distfiles//libgpg-error-1.21.tar.bz2
+libgpg-error-1.21/
+libgpg-error-1.21/config.h.in
+libgpg-error-1.21/ABOUT-NLS
+libgpg-error-1.21/README
+libgpg-error-1.21/ChangeLog-2011
+libgpg-error-1.21/COPYING
+libgpg-error-1.21/ChangeLog
+libgpg-error-1.21/configure
+libgpg-error-1.21/autogen.rc
+libgpg-error-1.21/VERSION
+libgpg-error-1.21/m4/
+libgpg-error-1.21/m4/uintmax_t.m4
+libgpg-error-1.21/m4/longdouble.m4
+libgpg-error-1.21/m4/intdiv0.m4
+libgpg-error-1.21/m4/threadlib.m4
+libgpg-error-1.21/m4/ltversion.m4
+libgpg-error-1.21/m4/inttypes-pri.m4
+libgpg-error-1.21/m4/longlong.m4
+libgpg-error-1.21/m4/glibc21.m4
+libgpg-error-1.21/m4/po.m4
+libgpg-error-1.21/m4/lock.m4
+libgpg-error-1.21/m4/ChangeLog-2011
+libgpg-error-1.21/m4/inttypes-h.m4
+libgpg-error-1.21/m4/gettext.m4
+libgpg-error-1.21/m4/visibility.m4
+libgpg-error-1.21/m4/inttypes_h.m4
+libgpg-error-1.21/m4/wchar_t.m4
+libgpg-error-1.21/m4/libtool.m4
+libgpg-error-1.21/m4/printf-posix.m4
+libgpg-error-1.21/m4/ulonglong.m4
+libgpg-error-1.21/m4/lib-ld.m4
+libgpg-error-1.21/m4/ltsugar.m4
+libgpg-error-1.21/m4/autobuild.m4
+libgpg-error-1.21/m4/ltoptions.m4
+libgpg-error-1.21/m4/wint_t.m4
+libgpg-error-1.21/m4/Makefile.am
+libgpg-error-1.21/m4/Makefile.in
+libgpg-error-1.21/m4/lib-link.m4
+libgpg-error-1.21/m4/signed.m4
+libgpg-error-1.21/m4/lt~obsolete.m4
+libgpg-error-1.21/m4/iconv.m4
+libgpg-error-1.21/m4/stdint_h.m4
+libgpg-error-1.21/m4/ac_prog_cc_for_build.m4
+libgpg-error-1.21/m4/progtest.m4
+libgpg-error-1.21/m4/glibc2.m4
+libgpg-error-1.21/m4/xsize.m4
+libgpg-error-1.21/m4/estream.m4
+libgpg-error-1.21/m4/lib-prefix.m4
+libgpg-error-1.21/m4/size_max.m4
+libgpg-error-1.21/m4/intmax.m4
+libgpg-error-1.21/m4/lcmessage.m4
+libgpg-error-1.21/m4/isc-posix.m4
+libgpg-error-1.21/m4/codeset.m4
+libgpg-error-1.21/m4/inttypes.m4
+libgpg-error-1.21/m4/nls.m4
+libgpg-error-1.21/libgpg-error.spec
+libgpg-error-1.21/contrib/
+libgpg-error-1.21/contrib/ChangeLog-2011
+libgpg-error-1.21/tests/
+libgpg-error-1.21/tests/t-version.c
+libgpg-error-1.21/tests/t-common.h
+libgpg-error-1.21/tests/Makefile.am
+libgpg-error-1.21/tests/Makefile.in
+libgpg-error-1.21/tests/t-lock.c
+libgpg-error-1.21/tests/t-printf.c
+libgpg-error-1.21/tests/t-strerror.c
+libgpg-error-1.21/tests/t-poll.c
+libgpg-error-1.21/tests/t-syserror.c
+libgpg-error-1.21/Makefile.am
+libgpg-error-1.21/NEWS
+libgpg-error-1.21/Makefile.in
+libgpg-error-1.21/mkinstalldirs
+libgpg-error-1.21/lang/
+libgpg-error-1.21/lang/README
+libgpg-error-1.21/lang/cl/
+libgpg-error-1.21/lang/cl/README
+libgpg-error-1.21/lang/cl/gpg-error.lisp
+libgpg-error-1.21/lang/cl/gpg-error.asd
+libgpg-error-1.21/lang/cl/Makefile.am
+libgpg-error-1.21/lang/cl/gpg-error-package.lisp
+libgpg-error-1.21/lang/cl/Makefile.in
+libgpg-error-1.21/lang/cl/mkerrcodes.awk
+libgpg-error-1.21/lang/cl/gpg-error.asd.in
+libgpg-error-1.21/lang/Makefile.am
+libgpg-error-1.21/lang/Makefile.in
+libgpg-error-1.21/COPYING.LIB
+libgpg-error-1.21/doc/
+libgpg-error-1.21/doc/gpgrt.texi
+libgpg-error-1.21/doc/errorref.txt
+libgpg-error-1.21/doc/stamp-vti
+libgpg-error-1.21/doc/Makefile.am
+libgpg-error-1.21/doc/lgpl.texi
+libgpg-error-1.21/doc/gpl.texi
+libgpg-error-1.21/doc/Makefile.in
+libgpg-error-1.21/doc/gpgrt.info
+libgpg-error-1.21/doc/version.texi
+libgpg-error-1.21/doc/yat2m.c
+libgpg-error-1.21/doc/HACKING
+libgpg-error-1.21/build-aux/
+libgpg-error-1.21/build-aux/depcomp
+libgpg-error-1.21/build-aux/install-sh
+libgpg-error-1.21/build-aux/texinfo.tex
+libgpg-error-1.21/build-aux/git-log-footer
+libgpg-error-1.21/build-aux/config.sub
+libgpg-error-1.21/build-aux/config.rpath
+libgpg-error-1.21/build-aux/mdate-sh
+libgpg-error-1.21/build-aux/compile
+libgpg-error-1.21/build-aux/git-log-fix
+libgpg-error-1.21/build-aux/missing
+libgpg-error-1.21/build-aux/ltmain.sh
+libgpg-error-1.21/build-aux/config.guess
+libgpg-error-1.21/src/
+libgpg-error-1.21/src/mkstrtable.awk
+libgpg-error-1.21/src/gpg-error-config.in
+libgpg-error-1.21/src/err-codes.h.in
+libgpg-error-1.21/src/init.h
+libgpg-error-1.21/src/visibility.c
+libgpg-error-1.21/src/estream-printf.c
+libgpg-error-1.21/src/README
+libgpg-error-1.21/src/gpg-error.vers
+libgpg-error-1.21/src/estream-printf.h
+libgpg-error-1.21/src/err-sources.h.in
+libgpg-error-1.21/src/gettext.h
+libgpg-error-1.21/src/gen-posix-lock-obj.c
+libgpg-error-1.21/src/gpg-error.w32-manifest.in
+libgpg-error-1.21/src/err-codes.h
+libgpg-error-1.21/src/w32-lock-obj.h
+libgpg-error-1.21/src/visibility.h
+libgpg-error-1.21/src/init.c
+libgpg-error-1.21/src/err-sources.h
+libgpg-error-1.21/src/w32-thread.c
+libgpg-error-1.21/src/estream.c
+libgpg-error-1.21/src/mkerrnos.awk
+libgpg-error-1.21/src/errnos.in
+libgpg-error-1.21/src/lock.h
+libgpg-error-1.21/src/code-from-errno.c
+libgpg-error-1.21/src/mkerrcodes.c
+libgpg-error-1.21/src/w32-gettext.c
+libgpg-error-1.21/src/versioninfo.rc.in
+libgpg-error-1.21/src/Makefile.am
+libgpg-error-1.21/src/code-to-errno.c
+libgpg-error-1.21/src/Makefile.in
+libgpg-error-1.21/src/strerror-sym.c
+libgpg-error-1.21/src/w32-add.h
+libgpg-error-1.21/src/strerror.c
+libgpg-error-1.21/src/gpg-error.h.in
+libgpg-error-1.21/src/mkerrcodes.awk
+libgpg-error-1.21/src/mkerrcodes2.awk
+libgpg-error-1.21/src/w32ce-add.h
+libgpg-error-1.21/src/posix-lock.c
+libgpg-error-1.21/src/strsource-sym.c
+libgpg-error-1.21/src/mkheader.c
+libgpg-error-1.21/src/gpgrt-int.h
+libgpg-error-1.21/src/posix-thread.c
+libgpg-error-1.21/src/thread.h
+libgpg-error-1.21/src/version.c
+libgpg-error-1.21/src/mkerrcodes1.awk
+libgpg-error-1.21/src/gen-w32-lock-obj.c
+libgpg-error-1.21/src/mkw32errmap.c
+libgpg-error-1.21/src/strsource.c
+libgpg-error-1.21/src/gpg-error.m4
+libgpg-error-1.21/src/gpg-error.c
+libgpg-error-1.21/src/posix-lock-obj.h
+libgpg-error-1.21/src/gpg-error.def.in
+libgpg-error-1.21/src/w32-lock.c
+libgpg-error-1.21/src/syscfg/
+libgpg-error-1.21/src/syscfg/lock-obj-pub.sparc-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.mips-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.x86_64-pc-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.mingw32.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.x86_64-pc-linux-gnux32.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.arm-unknown-linux-androideabi.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.arm-unknown-linux-gnueabihf.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.powerpc64-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.or1k-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.i686-pc-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.aarch64-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.sparc64-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.i686-pc-kfreebsd-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.mips64el-unknown-linux-gnuabi64.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.i686-pc-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.m68k-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.mipsel-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.arm-apple-darwin.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.arm-unknown-linux-gnueabi.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.powerpc-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.hppa-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.powerpc64le-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.x86_64-pc-kfreebsd-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.alpha-unknown-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.aarch64-apple-darwin.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.s390x-ibm-linux-gnu.h
+libgpg-error-1.21/src/syscfg/lock-obj-pub.sh4-unknown-linux-gnu.h
+libgpg-error-1.21/THANKS
+libgpg-error-1.21/autogen.sh
+libgpg-error-1.21/libgpg-error.spec.in
+libgpg-error-1.21/configure.ac
+libgpg-error-1.21/po/
+libgpg-error-1.21/po/fr.po
+libgpg-error-1.21/po/it.po
+libgpg-error-1.21/po/ja.po
+libgpg-error-1.21/po/nl.gmo
+libgpg-error-1.21/po/nl.po
+libgpg-error-1.21/po/ChangeLog-2011
+libgpg-error-1.21/po/POTFILES.in
+libgpg-error-1.21/po/pt.po
+libgpg-error-1.21/po/stamp-po
+libgpg-error-1.21/po/da.po
+libgpg-error-1.21/po/eo.po
+libgpg-error-1.21/po/pl.po
+libgpg-error-1.21/po/libgpg-error.pot
+libgpg-error-1.21/po/en@boldquot.header
+libgpg-error-1.21/po/pt.gmo
+libgpg-error-1.21/po/hu.gmo
+libgpg-error-1.21/po/it.gmo
+libgpg-error-1.21/po/sr.gmo
+libgpg-error-1.21/po/eo.gmo
+libgpg-error-1.21/po/quot.sed
+libgpg-error-1.21/po/cs.gmo
+libgpg-error-1.21/po/LINGUAS
+libgpg-error-1.21/po/uk.po
+libgpg-error-1.21/po/sv.gmo
+libgpg-error-1.21/po/ja.gmo
+libgpg-error-1.21/po/uk.gmo
+libgpg-error-1.21/po/ru.gmo
+libgpg-error-1.21/po/Makevars
+libgpg-error-1.21/po/vi.gmo
+libgpg-error-1.21/po/ro.gmo
+libgpg-error-1.21/po/ro.po
+libgpg-error-1.21/po/pl.gmo
+libgpg-error-1.21/po/Makefile.in.in
+libgpg-error-1.21/po/ru.po
+libgpg-error-1.21/po/boldquot.sed
+libgpg-error-1.21/po/remove-potcdate.sin
+libgpg-error-1.21/po/zh_TW.gmo
+libgpg-error-1.21/po/de.gmo
+libgpg-error-1.21/po/Rules-quot
+libgpg-error-1.21/po/de.po
+libgpg-error-1.21/po/en@quot.header
+libgpg-error-1.21/po/sr.po
+libgpg-error-1.21/po/insert-header.sin
+libgpg-error-1.21/po/fr.gmo
+libgpg-error-1.21/po/zh_CN.po
+libgpg-error-1.21/po/zh_CN.gmo
+libgpg-error-1.21/po/sv.po
+libgpg-error-1.21/po/cs.po
+libgpg-error-1.21/po/zh_TW.po
+libgpg-error-1.21/po/vi.po
+libgpg-error-1.21/po/hu.po
+libgpg-error-1.21/po/da.gmo
+libgpg-error-1.21/AUTHORS
+libgpg-error-1.21/aclocal.m4
+libgpg-error-1.21/INSTALL
+libgpg-error-1.21/potomo
+[32mTCZBUILD[0m: ./configure 
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... build-aux/install-sh -c -d
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking whether make supports nested variables... (cached) yes
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+configure: autobuild project... libgpg-error
+configure: autobuild revision... 1.21
+configure: autobuild hostname... yayoi
+configure: autobuild timestamp... 20160302-111131
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for gawk... (cached) gawk
+checking for ar... ar
+checking for grep that handles long lines and -e... /usr/local/bin/grep
+checking for egrep... /usr/local/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... 64
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/local/bin/sed
+checking for fgrep... /usr/local/bin/grep -F
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/local/bin/nm -B
+checking the name lister (/usr/local/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 32768
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... no
+checking how to convert x86_64-unknown-linux-gnu file names to x86_64-unknown-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-unknown-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/local/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/local/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+./configure: ./configure.lineno: line 1: /usr/bin/file: not found
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/local/bin/ld) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for windres... no
+checking for cc for build... gcc
+checking whether NLS is requested... yes
+checking for msgfmt... no
+checking for gmsgfmt... :
+checking for xgettext... no
+checking for msgmerge... no
+checking for ld used by gcc... /usr/local/bin/ld
+checking if the linker (/usr/local/bin/ld) is GNU ld... yes
+checking for shared library run path origin... done
+checking for CFPreferencesCopyAppValue... no
+checking for CFLocaleCopyCurrent... no
+checking for GNU gettext in libc... yes
+checking whether to use NLS... yes
+checking where the gettext function comes from... libc
+checking for ANSI C header files... (cached) yes
+checking for stdlib.h... (cached) yes
+checking locale.h usability... yes
+checking locale.h presence... yes
+checking for locale.h... yes
+checking for stdint.h... (cached) yes
+checking sys/select.h usability... yes
+checking sys/select.h presence... yes
+checking for sys/select.h... yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking whether strerror_r is declared... yes
+checking for strerror_r... yes
+checking whether strerror_r returns char *... yes
+checking for strerror_r... (cached) yes
+checking for flockfile... yes
+checking for vasprintf... yes
+checking for an ANSI C-conforming const... yes
+checking size of int... 4
+checking size of long... 4
+checking size of long long... 8
+configure: checking for cc features
+checking if gcc ignores unknown -Wno-* options... yes
+checking if gcc supports -Wpointer-arith... yes
+checking whether the GCC style aligned attribute is supported... yes
+checking whether the visibility attribute is supported... yes
+checking for broken visibility attribute... no
+checking for broken alias attribute... no
+checking if gcc supports -fvisibility=hidden... yes
+checking whether imported symbols can be declared weak... yes
+checking pthread.h usability... yes
+checking pthread.h presence... yes
+checking for pthread.h... yes
+checking for pthread_kill in -lpthread... yes
+checking for multithread API to use... posix
+checking for pthread_rwlock_t... yes
+checking size of pthread_mutex_t... 24
+checking for unsigned long long int... yes
+configure: checking system features for estream-printf
+checking for stdint.h... (cached) yes
+checking for long long int... yes
+checking for long double... yes
+checking for intmax_t... yes
+checking for uintmax_t... yes
+checking for ptrdiff_t... yes
+checking size of unsigned long... 4
+checking size of void *... 4
+checking for nl_langinfo and THOUSANDS_SEP... yes
+configure: checking system features for estream
+checking for memrchr... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating doc/Makefile
+config.status: creating po/Makefile.in
+config.status: creating m4/Makefile
+config.status: creating src/Makefile
+config.status: creating tests/Makefile
+config.status: creating lang/Makefile
+config.status: creating lang/cl/Makefile
+config.status: creating lang/cl/gpg-error.asd
+config.status: creating src/versioninfo.rc
+config.status: creating src/gpg-error.w32-manifest
+config.status: creating src/gpg-error-config
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+config.status: executing po-directories commands
+config.status: creating po/POTFILES
+config.status: creating po/Makefile
+
+        libgpg-error-1.21 prepared for make
+
+        Revision: 425b768  (16987)
+        Platform: x86_64-unknown-linux-gnu
+
+[32mTCZBUILD[0m: make 
+make  all-recursive
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+Making all in m4
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/m4'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/m4'
+Making all in src
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+gawk -f ./mkerrnos.awk ./errnos.in >code-to-errno.h
+gawk -f ./mkerrcodes1.awk ./errnos.in >_mkerrcodes.h
+gcc -E   -P _mkerrcodes.h | grep GPG_ERR_ | \
+               gawk -f ./mkerrcodes.awk >mkerrcodes.h
+rm _mkerrcodes.h
+gcc -I. -I. -o mkerrcodes ./mkerrcodes.c
+./mkerrcodes | gawk -f ./mkerrcodes2.awk >code-from-errno.h
+gawk -f ./mkstrtable.awk -v textidx=2 -v nogettext=1 \
+	./err-sources.h.in >err-sources-sym.h
+gawk -f ./mkstrtable.awk -v textidx=2 -v nogettext=1 \
+	./err-codes.h.in >err-codes-sym.h
+gawk -f ./mkstrtable.awk -v textidx=2 -v nogettext=1 \
+	-v prefix=GPG_ERR_ -v namespace=errnos_ \
+	./errnos.in >errnos-sym.h
+gcc -g -O0 -I. -I. -o mkheader ./mkheader.c
+gcc -DHAVE_CONFIG_H -I. -I..     -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT gen-posix-lock-obj.o -MD -MP -MF .deps/gen-posix-lock-obj.Tpo -c -o gen-posix-lock-obj.o gen-posix-lock-obj.c
+mv -f .deps/gen-posix-lock-obj.Tpo .deps/gen-posix-lock-obj.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden   -o gen-posix-lock-obj gen-posix-lock-obj.o  
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o gen-posix-lock-obj gen-posix-lock-obj.o 
+./gen-posix-lock-obj >lock-obj-pub.native.h
+:
+./mkheader linux-gnu x86_64-unknown-linux-gnu  ./gpg-error.h.in \
+                   ../config.h 1.21 0x011500 >gpg-error.h
+cat ./gpg-error.def.in >_gpg-error.def.h
+gcc -E -I. -I..   _gpg-error.def.h | \
+  grep -v '^#' >gpg-error.def
+rm _gpg-error.def.h
+echo "/*dummy*/" > mkw32errmap.map.c
+make  all-am
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-posix-lock.lo -MD -MP -MF .deps/libgpg_error_la-posix-lock.Tpo -c -o libgpg_error_la-posix-lock.lo `test -f 'posix-lock.c' || echo './'`posix-lock.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-posix-lock.lo -MD -MP -MF .deps/libgpg_error_la-posix-lock.Tpo -c posix-lock.c  -fPIC -DPIC -o .libs/libgpg_error_la-posix-lock.o
+mv -f .deps/libgpg_error_la-posix-lock.Tpo .deps/libgpg_error_la-posix-lock.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-posix-thread.lo -MD -MP -MF .deps/libgpg_error_la-posix-thread.Tpo -c -o libgpg_error_la-posix-thread.lo `test -f 'posix-thread.c' || echo './'`posix-thread.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-posix-thread.lo -MD -MP -MF .deps/libgpg_error_la-posix-thread.Tpo -c posix-thread.c  -fPIC -DPIC -o .libs/libgpg_error_la-posix-thread.o
+mv -f .deps/libgpg_error_la-posix-thread.Tpo .deps/libgpg_error_la-posix-thread.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-init.lo -MD -MP -MF .deps/libgpg_error_la-init.Tpo -c -o libgpg_error_la-init.lo `test -f 'init.c' || echo './'`init.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-init.lo -MD -MP -MF .deps/libgpg_error_la-init.Tpo -c init.c  -fPIC -DPIC -o .libs/libgpg_error_la-init.o
+mv -f .deps/libgpg_error_la-init.Tpo .deps/libgpg_error_la-init.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-version.lo -MD -MP -MF .deps/libgpg_error_la-version.Tpo -c -o libgpg_error_la-version.lo `test -f 'version.c' || echo './'`version.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-version.lo -MD -MP -MF .deps/libgpg_error_la-version.Tpo -c version.c  -fPIC -DPIC -o .libs/libgpg_error_la-version.o
+mv -f .deps/libgpg_error_la-version.Tpo .deps/libgpg_error_la-version.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-estream.lo -MD -MP -MF .deps/libgpg_error_la-estream.Tpo -c -o libgpg_error_la-estream.lo `test -f 'estream.c' || echo './'`estream.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-estream.lo -MD -MP -MF .deps/libgpg_error_la-estream.Tpo -c estream.c  -fPIC -DPIC -o .libs/libgpg_error_la-estream.o
+mv -f .deps/libgpg_error_la-estream.Tpo .deps/libgpg_error_la-estream.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-estream-printf.lo -MD -MP -MF .deps/libgpg_error_la-estream-printf.Tpo -c -o libgpg_error_la-estream-printf.lo `test -f 'estream-printf.c' || echo './'`estream-printf.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-estream-printf.lo -MD -MP -MF .deps/libgpg_error_la-estream-printf.Tpo -c estream-printf.c  -fPIC -DPIC -o .libs/libgpg_error_la-estream-printf.o
+mv -f .deps/libgpg_error_la-estream-printf.Tpo .deps/libgpg_error_la-estream-printf.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-strsource.lo -MD -MP -MF .deps/libgpg_error_la-strsource.Tpo -c -o libgpg_error_la-strsource.lo `test -f 'strsource.c' || echo './'`strsource.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-strsource.lo -MD -MP -MF .deps/libgpg_error_la-strsource.Tpo -c strsource.c  -fPIC -DPIC -o .libs/libgpg_error_la-strsource.o
+mv -f .deps/libgpg_error_la-strsource.Tpo .deps/libgpg_error_la-strsource.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-strerror.lo -MD -MP -MF .deps/libgpg_error_la-strerror.Tpo -c -o libgpg_error_la-strerror.lo `test -f 'strerror.c' || echo './'`strerror.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-strerror.lo -MD -MP -MF .deps/libgpg_error_la-strerror.Tpo -c strerror.c  -fPIC -DPIC -o .libs/libgpg_error_la-strerror.o
+mv -f .deps/libgpg_error_la-strerror.Tpo .deps/libgpg_error_la-strerror.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-code-to-errno.lo -MD -MP -MF .deps/libgpg_error_la-code-to-errno.Tpo -c -o libgpg_error_la-code-to-errno.lo `test -f 'code-to-errno.c' || echo './'`code-to-errno.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-code-to-errno.lo -MD -MP -MF .deps/libgpg_error_la-code-to-errno.Tpo -c code-to-errno.c  -fPIC -DPIC -o .libs/libgpg_error_la-code-to-errno.o
+mv -f .deps/libgpg_error_la-code-to-errno.Tpo .deps/libgpg_error_la-code-to-errno.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-code-from-errno.lo -MD -MP -MF .deps/libgpg_error_la-code-from-errno.Tpo -c -o libgpg_error_la-code-from-errno.lo `test -f 'code-from-errno.c' || echo './'`code-from-errno.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-code-from-errno.lo -MD -MP -MF .deps/libgpg_error_la-code-from-errno.Tpo -c code-from-errno.c  -fPIC -DPIC -o .libs/libgpg_error_la-code-from-errno.o
+mv -f .deps/libgpg_error_la-code-from-errno.Tpo .deps/libgpg_error_la-code-from-errno.Plo
+/bin/sh ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-visibility.lo -MD -MP -MF .deps/libgpg_error_la-visibility.Tpo -c -o libgpg_error_la-visibility.lo `test -f 'visibility.c' || echo './'`visibility.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR=\"/usr/local/share/locale\" -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT libgpg_error_la-visibility.lo -MD -MP -MF .deps/libgpg_error_la-visibility.Tpo -c visibility.c  -fPIC -DPIC -o .libs/libgpg_error_la-visibility.o
+mv -f .deps/libgpg_error_la-visibility.Tpo .deps/libgpg_error_la-visibility.Plo
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden   -Wl,--version-script=./gpg-error.vers  -version-info 17:0:17  -o libgpg-error.la -rpath /usr/local/lib libgpg_error_la-posix-lock.lo libgpg_error_la-posix-thread.lo libgpg_error_la-init.lo libgpg_error_la-version.lo libgpg_error_la-estream.lo libgpg_error_la-estream-printf.lo libgpg_error_la-strsource.lo libgpg_error_la-strerror.lo libgpg_error_la-code-to-errno.lo libgpg_error_la-code-from-errno.lo libgpg_error_la-visibility.lo     
+libtool: link: gcc -shared  -fPIC -DPIC  .libs/libgpg_error_la-posix-lock.o .libs/libgpg_error_la-posix-thread.o .libs/libgpg_error_la-init.o .libs/libgpg_error_la-version.o .libs/libgpg_error_la-estream.o .libs/libgpg_error_la-estream-printf.o .libs/libgpg_error_la-strsource.o .libs/libgpg_error_la-strerror.o .libs/libgpg_error_la-code-to-errno.o .libs/libgpg_error_la-code-from-errno.o .libs/libgpg_error_la-visibility.o    -O2 -Wl,--version-script=./gpg-error.vers   -Wl,-soname -Wl,libgpg-error.so.0 -o .libs/libgpg-error.so.0.17.0
+libtool: link: (cd ".libs" && rm -f "libgpg-error.so.0" && ln -s "libgpg-error.so.0.17.0" "libgpg-error.so.0")
+libtool: link: (cd ".libs" && rm -f "libgpg-error.so" && ln -s "libgpg-error.so.0.17.0" "libgpg-error.so")
+libtool: link: ( cd ".libs" && rm -f "libgpg-error.la" && ln -s "../libgpg-error.la" "libgpg-error.la" )
+gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT gpg_error-strsource-sym.o -MD -MP -MF .deps/gpg_error-strsource-sym.Tpo -c -o gpg_error-strsource-sym.o `test -f 'strsource-sym.c' || echo './'`strsource-sym.c
+mv -f .deps/gpg_error-strsource-sym.Tpo .deps/gpg_error-strsource-sym.Po
+gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT gpg_error-strerror-sym.o -MD -MP -MF .deps/gpg_error-strerror-sym.Tpo -c -o gpg_error-strerror-sym.o `test -f 'strerror-sym.c' || echo './'`strerror-sym.c
+mv -f .deps/gpg_error-strerror-sym.Tpo .deps/gpg_error-strerror-sym.Po
+gcc -DHAVE_CONFIG_H -I. -I..  -DLOCALEDIR=\"/usr/local/share/locale\"    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT gpg_error-gpg-error.o -MD -MP -MF .deps/gpg_error-gpg-error.Tpo -c -o gpg_error-gpg-error.o `test -f 'gpg-error.c' || echo './'`gpg-error.c
+mv -f .deps/gpg_error-gpg-error.Tpo .deps/gpg_error-gpg-error.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden   -o gpg-error gpg_error-strsource-sym.o gpg_error-strerror-sym.o gpg_error-gpg-error.o ./libgpg-error.la  
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o .libs/gpg-error gpg_error-strsource-sym.o gpg_error-strerror-sym.o gpg_error-gpg-error.o  ./.libs/libgpg-error.so
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+Making all in doc
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/doc'
+gcc -o yat2m ./yat2m.c
+for file in gpgrt.texi ; do \
+              ./yat2m -I . --release "Libgpg-error 1.21" --source "GnuPG" --store \
+          `test -f '$file' || echo './'`$file ; done
+yat2m: writing 'gpg-error-config.1'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/doc'
+Making all in tests
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/tests'
+gcc -DHAVE_CONFIG_H -I. -I..  -I../src    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT t-version.o -MD -MP -MF .deps/t-version.Tpo -c -o t-version.o t-version.c
+mv -f .deps/t-version.Tpo .deps/t-version.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -no-install  -o t-version t-version.o ../src/libgpg-error.la 
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o t-version t-version.o  ../src/.libs/libgpg-error.so -Wl,-rpath -Wl,/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src/.libs
+gcc -DHAVE_CONFIG_H -I. -I..  -I../src    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT t-strerror.o -MD -MP -MF .deps/t-strerror.Tpo -c -o t-strerror.o t-strerror.c
+mv -f .deps/t-strerror.Tpo .deps/t-strerror.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -no-install  -o t-strerror t-strerror.o ../src/libgpg-error.la 
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o t-strerror t-strerror.o  ../src/.libs/libgpg-error.so -Wl,-rpath -Wl,/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src/.libs
+gcc -DHAVE_CONFIG_H -I. -I..  -I../src    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT t-syserror.o -MD -MP -MF .deps/t-syserror.Tpo -c -o t-syserror.o t-syserror.c
+mv -f .deps/t-syserror.Tpo .deps/t-syserror.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -no-install  -o t-syserror t-syserror.o ../src/libgpg-error.la 
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o t-syserror t-syserror.o  ../src/.libs/libgpg-error.so -Wl,-rpath -Wl,/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src/.libs
+gcc -DHAVE_CONFIG_H -I. -I..  -I../src    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT t-lock.o -MD -MP -MF .deps/t-lock.Tpo -c -o t-lock.o t-lock.c
+mv -f .deps/t-lock.Tpo .deps/t-lock.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -no-install  -o t-lock t-lock.o ../src/libgpg-error.la -lpthread 
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o t-lock t-lock.o  ../src/.libs/libgpg-error.so -lpthread -Wl,-rpath -Wl,/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src/.libs
+gcc -DHAVE_CONFIG_H -I. -I..  -I../src    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT t-printf.o -MD -MP -MF .deps/t-printf.Tpo -c -o t-printf.o t-printf.c
+mv -f .deps/t-printf.Tpo .deps/t-printf.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -no-install  -o t-printf t-printf.o ../src/libgpg-error.la 
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o t-printf t-printf.o  ../src/.libs/libgpg-error.so -Wl,-rpath -Wl,/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src/.libs
+gcc -DHAVE_CONFIG_H -I. -I..  -I../src    -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -MT t-poll.o -MD -MP -MF .deps/t-poll.Tpo -c -o t-poll.o t-poll.c
+mv -f .deps/t-poll.Tpo .deps/t-poll.Po
+/bin/sh ../libtool  --tag=CC   --mode=link gcc  -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -no-install  -o t-poll t-poll.o ../src/libgpg-error.la -lpthread 
+libtool: link: gcc -g -O2 -Wall -Wpointer-arith -Wno-psabi -fvisibility=hidden -o t-poll t-poll.o  ../src/.libs/libgpg-error.so -lpthread -Wl,-rpath -Wl,/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src/.libs
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/tests'
+Making all in po
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/po'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/po'
+Making all in lang
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+Making all in cl
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang/cl'
+echo '@errnos@' | cat ../../src/err-codes.h.in - ../../src/errnos.in \
+| gawk -f ./mkerrcodes.awk >gpg-error-codes.lisp
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang/cl'
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-9lqv6v/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-9lqv6v/pkgroot/  install
+Making install in m4
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/m4'
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/m4'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/m4'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/m4'
+Making install in src
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+make  install-am
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libgpg-error.la '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/libgpg-error.so.0.17.0 /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/lib/libgpg-error.so.0.17.0
+libtool: install: (cd /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/lib && { ln -s -f libgpg-error.so.0.17.0 libgpg-error.so.0 || { rm -f libgpg-error.so.0 && ln -s libgpg-error.so.0.17.0 libgpg-error.so.0; }; })
+libtool: install: (cd /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/lib && { ln -s -f libgpg-error.so.0.17.0 libgpg-error.so || { rm -f libgpg-error.so && ln -s libgpg-error.so.0.17.0 libgpg-error.so; }; })
+libtool: install: /usr/bin/install -c .libs/libgpg-error.lai /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/lib/libgpg-error.la
+libtool: install: warning: remember to run `libtool --finish /usr/local/lib'
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/bin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c gpg-error '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/bin'
+libtool: install: warning: `./libgpg-error.la' has not been installed in `/usr/local/lib'
+libtool: install: /usr/bin/install -c .libs/gpg-error /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/bin/gpg-error
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/bin'
+ /usr/bin/install -c gpg-error-config '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/bin'
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/aclocal'
+ /usr/bin/install -c -m 644 gpg-error.m4 '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/aclocal'
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/include'
+ /usr/bin/install -c -m 644 gpg-error.h '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/include'
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/src'
+Making install in doc
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/doc'
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/doc'
+make[2]: Nothing to be done for 'install-exec-am'.
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/info'
+ /usr/bin/install -c -m 644 ./gpgrt.info '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/info'
+ ../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 gpg-error-config.1 '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/man/man1'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/doc'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/doc'
+Making install in tests
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/tests'
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/tests'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/tests'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/tests'
+Making install in po
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/po'
+installing cs.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/cs/LC_MESSAGES/libgpg-error.mo
+installing da.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/da/LC_MESSAGES/libgpg-error.mo
+installing de.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/de/LC_MESSAGES/libgpg-error.mo
+installing eo.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/eo/LC_MESSAGES/libgpg-error.mo
+installing fr.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/fr/LC_MESSAGES/libgpg-error.mo
+installing hu.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/hu/LC_MESSAGES/libgpg-error.mo
+installing it.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/it/LC_MESSAGES/libgpg-error.mo
+installing ja.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/ja/LC_MESSAGES/libgpg-error.mo
+installing nl.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/nl/LC_MESSAGES/libgpg-error.mo
+installing pl.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/pl/LC_MESSAGES/libgpg-error.mo
+installing pt.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/pt/LC_MESSAGES/libgpg-error.mo
+installing ro.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/ro/LC_MESSAGES/libgpg-error.mo
+installing ru.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/ru/LC_MESSAGES/libgpg-error.mo
+installing sr.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/sr/LC_MESSAGES/libgpg-error.mo
+installing sv.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/sv/LC_MESSAGES/libgpg-error.mo
+installing uk.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/uk/LC_MESSAGES/libgpg-error.mo
+installing vi.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/vi/LC_MESSAGES/libgpg-error.mo
+installing zh_CN.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/zh_CN/LC_MESSAGES/libgpg-error.mo
+installing zh_TW.gmo as /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/locale/zh_TW/LC_MESSAGES/libgpg-error.mo
+if test "libgpg-error" = "gettext-tools"; then \
+  ../build-aux/install-sh -c -d /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/gettext/po; \
+  for file in Makefile.in.in remove-potcdate.sin quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot   Makevars.template; do \
+    /usr/bin/install -c -m 644 ./$file \
+		    /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/gettext/po/$file; \
+  done; \
+  for file in Makevars; do \
+    rm -f /tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/gettext/po/$file; \
+  done; \
+else \
+  : ; \
+fi
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/po'
+Making install in lang
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+Making install in cl
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang/cl'
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang/cl'
+make[3]: Nothing to be done for 'install-exec-am'.
+ ../../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/common-lisp/source/gpg-error'
+ /usr/bin/install -c -m 644 gpg-error.asd gpg-error-package.lisp gpg-error.lisp '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/common-lisp/source/gpg-error'
+ ../../build-aux/install-sh -c -d '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/common-lisp/source/gpg-error'
+ /usr/bin/install -c -m 644 gpg-error-codes.lisp '/tmp/d20160302-601-9lqv6v/pkgroot//usr/local/share/common-lisp/source/gpg-error'
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang/cl'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang/cl'
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21/lang'
+make[1]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[2]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[2]: Nothing to be done for 'install-exec-am'.
+make  install-data-hook
+make[3]: Entering directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[3]: Nothing to be done for 'install-data-hook'.
+make[3]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[2]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+make[1]: Leaving directory '/tmp/d20160302-601-9lqv6v/libgpg-error-1.21'
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-9lqv6v/before_scrub
+[32mTCZBUILD[0m: rm -rf usr/local/share/man
+[32mTCZBUILD[0m: rm -rf usr/local/share/doc
+[32mTCZBUILD[0m: rm -rf usr/local/share/info
+[32mTCZBUILD[0m: rm -rf usr/local/share/aclocal
+[32mTCZBUILD[0m: rm -rf usr/local/man
+[32mTCZBUILD[0m: rm -rf usr/local/include
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.la
+[32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
+[32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
+[32mTCZBUILD[0m: rm -rf usr/local/bin/gpg-error-config
+[32mTCZBUILD[0m: find . -type d -empty -delete
+[32mTCZBUILD[0m: find > /tmp/d20160302-601-9lqv6v/after_scrub
+[32mTCZBUILD[0m: List of scrubed files:
+6d5
+< ./usr/local/bin/gpg-error-config
+8,9d6
+< ./usr/local/share/info
+< ./usr/local/share/info/gpgrt.info
+75,81d71
+< ./usr/local/share/aclocal
+< ./usr/local/share/aclocal/gpg-error.m4
+< ./usr/local/share/man
+< ./usr/local/share/man/man1
+< ./usr/local/share/man/man1/gpg-error-config.1
+< ./usr/local/include
+< ./usr/local/include/gpg-error.h
+84d73
+< ./usr/local/lib/libgpg-error.la
+[32mTCZBUILD[0m: List of files we pack.
+[32mTCZBUILD[0m: find *
+usr
+usr/local
+usr/local/bin
+usr/local/bin/gpg-error
+usr/local/share
+usr/local/share/locale
+usr/local/share/locale/sv
+usr/local/share/locale/sv/LC_MESSAGES
+usr/local/share/locale/sv/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/de
+usr/local/share/locale/de/LC_MESSAGES
+usr/local/share/locale/de/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/sr
+usr/local/share/locale/sr/LC_MESSAGES
+usr/local/share/locale/sr/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/cs
+usr/local/share/locale/cs/LC_MESSAGES
+usr/local/share/locale/cs/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/zh_TW
+usr/local/share/locale/zh_TW/LC_MESSAGES
+usr/local/share/locale/zh_TW/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/vi
+usr/local/share/locale/vi/LC_MESSAGES
+usr/local/share/locale/vi/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/pt
+usr/local/share/locale/pt/LC_MESSAGES
+usr/local/share/locale/pt/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/ro
+usr/local/share/locale/ro/LC_MESSAGES
+usr/local/share/locale/ro/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/fr
+usr/local/share/locale/fr/LC_MESSAGES
+usr/local/share/locale/fr/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/zh_CN
+usr/local/share/locale/zh_CN/LC_MESSAGES
+usr/local/share/locale/zh_CN/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/uk
+usr/local/share/locale/uk/LC_MESSAGES
+usr/local/share/locale/uk/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/eo
+usr/local/share/locale/eo/LC_MESSAGES
+usr/local/share/locale/eo/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/pl
+usr/local/share/locale/pl/LC_MESSAGES
+usr/local/share/locale/pl/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/nl
+usr/local/share/locale/nl/LC_MESSAGES
+usr/local/share/locale/nl/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/ja
+usr/local/share/locale/ja/LC_MESSAGES
+usr/local/share/locale/ja/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/da
+usr/local/share/locale/da/LC_MESSAGES
+usr/local/share/locale/da/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/it
+usr/local/share/locale/it/LC_MESSAGES
+usr/local/share/locale/it/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/ru
+usr/local/share/locale/ru/LC_MESSAGES
+usr/local/share/locale/ru/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/hu
+usr/local/share/locale/hu/LC_MESSAGES
+usr/local/share/locale/hu/LC_MESSAGES/libgpg-error.mo
+usr/local/share/common-lisp
+usr/local/share/common-lisp/source
+usr/local/share/common-lisp/source/gpg-error
+usr/local/share/common-lisp/source/gpg-error/gpg-error.lisp
+usr/local/share/common-lisp/source/gpg-error/gpg-error-codes.lisp
+usr/local/share/common-lisp/source/gpg-error/gpg-error.asd
+usr/local/share/common-lisp/source/gpg-error/gpg-error-package.lisp
+usr/local/lib
+usr/local/lib/libgpg-error.so
+usr/local/lib/libgpg-error.so.0.17.0
+usr/local/lib/libgpg-error.so.0
+[32mTCZBUILD[0m: find * > /work//build//mypkgs_gnupg_libgpg-error.tcz.list
+[32mTCZBUILD[0m: rm -f mypkgs_gnupg_libgpg-error.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-9lqv6v/pkgroot/ mypkgs_gnupg_libgpg-error.tcz
+Parallel mksquashfs: Using 8 processors
+Creating 4.0 filesystem on mypkgs_gnupg_libgpg-error.tcz, block size 4096.
+
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
+	compressed data, compressed metadata, compressed fragments, no xattrs
+	duplicates are removed
+Filesystem size 325.85 Kbytes (0.32 Mbytes)
+	42.18% of uncompressed filesystem size (772.59 Kbytes)
+Inode table size 1192 bytes (1.16 Kbytes)
+	36.81% of uncompressed inode table size (3238 bytes)
+Directory table size 624 bytes (0.61 Kbytes)
+	33.00% of uncompressed directory table size (1891 bytes)
+Number of duplicate files found 0
+Number of inodes 75
+Number of files 25
+Number of fragments 1
+Number of symbolic links  2
+Number of device nodes 0
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 48
+Number of ids (unique uids + gids) 2
+Number of uids 1
+	tc (1001)
+Number of gids 1
+	staff (50)
+[32mTCZBUILD[0m: md5sum mypkgs_gnupg_libgpg-error.tcz > mypkgs_gnupg_libgpg-error.tcz.md5.txt
+[32mTCZBUILD[0m: gererated mypkgs_gnupg_libgpg-error.tcz
+[32mTCZBUILD[0m: ls -lh mypkgs_gnupg_libgpg-error.tcz
+-rw-r--r--    1 tc       staff     328.0K Mar  2 11:11 [0;0mmypkgs_gnupg_libgpg-error.tcz[0m

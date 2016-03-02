@@ -7,7 +7,7 @@ usr/local/sbin/pcscd
 usr/local/lib
 usr/local/lib/libpcscspy.so.0.0.0
 usr/local/lib/libpcsclite.so.1
-usr/local/lib/libpcscspy.so.0
-usr/local/lib/libpcsclite.so.1.0.0
 usr/local/lib/libpcsclite.so
 usr/local/lib/libpcscspy.so
+usr/local/lib/libpcscspy.so.0
+usr/local/lib/libpcsclite.so.1.0.0
