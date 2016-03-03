@@ -1,0 +1,29 @@
+#!/usr/local/bin/ruby
+require_relative '../../tczlib.rb'
+
+PKG='uim-1.8.6'
+BALL=PKG+'.tar.gz'
+
+load_dependency [
+  'openssl',
+  'intltool',
+  'gtk2-dev',
+  'ncurses-dev',
+  'glibc_gconv',
+]
+load_dependency_local [
+  'mypkgs_im_anthy-dev',
+]
+fetch_distfiles BALL, "https://github.com/uim/uim/releases/download/uim-1.8.6/#{BALL}"
+md5sum BALL, '7cfb7ce60d462bbada2f87d6bf17b8ce'
+
+unpack BALL
+configure PKG, [
+  '--with-skk',
+  '--with-anthy-utf8',
+]
+make PKG
+install PKG
+scrub
+makepkg
+makedep [ 'glibc_gconv' ]
