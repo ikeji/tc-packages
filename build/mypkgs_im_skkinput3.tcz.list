@@ -9,3 +9,8 @@ usr/local/bin/skkinput
 usr/local/lib
 usr/local/lib/X11
 usr/local/lib/X11/app-defaults
+usr/local/lib/X11/skkinput
+usr/local/lib/X11/skkinput/init.el
+usr/local/lib/X11/skkinput/skk-startup.el
+usr/local/lib/X11/skkinput/skk.el
+usr/local/lib/X11/skkinput/skk-trial.el
