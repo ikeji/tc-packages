@@ -18,6 +18,24 @@ fetch_distfiles BALL, "https://github.com/uim/uim/releases/download/uim-1.8.6/#{
 md5sum BALL, '7cfb7ce60d462bbada2f87d6bf17b8ce'
 
 unpack BALL
+inpkg PKG do
+  [
+    'ajax-ime',
+    'social-ime',
+    'google-cgiapi-jp',
+    'baidu-olime-jp',
+    'byeoru',
+    'latin',
+    'elatin',
+    'viqr',
+    'ipa-x-sampa',
+    'look',
+  ].each do |ime|
+    exec_wrap <<-EOL
+      sed -i -e 's/\"#{ime}\"//' scm/Makefile.in
+    EOL
+  end
+end
 configure PKG, [
   '--with-skk',
   '--with-anthy-utf8',
