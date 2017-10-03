@@ -1,1 +1,1 @@
-586b187f1ba0249b21c9f9aa0b0e88dd  mypkgs_gnupg_ccid.tcz
+5bb0f10c9089716743f021d30fb4bec4  mypkgs_gnupg_ccid.tcz

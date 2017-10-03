@@ -1,0 +1,1 @@
+7c0ce20d1361e73ca5574eeb820401cd  mypkgs_xpra.tcz

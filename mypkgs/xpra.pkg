@@ -1,0 +1,34 @@
+#!/usr/local/bin/ruby
+require_relative '../tczlib.rb'
+
+PKG='xpra-0.16.2'
+BALL=PKG+'.tar.xz'
+
+load_dependency [
+  'openssl',
+  'python',
+  'cython',
+  'Xorg-7.7-dev',
+  'pygobject-dev',
+  'pygtk-dev',
+  'gtk2-dev',
+  'x264-dev',
+]
+fetch_distfiles BALL, "https://www.xpra.org/src/#{BALL}"
+md5sum BALL, 'f464f7ee6d88edb9874137b6e21ae310'
+
+unpack BALL
+inpkg PKG do
+  exec_wrap <<-EOL
+    sed -i -e 's/#"-Wno-error=strict-prototypes",/"-Wno-error=strict-prototypes",/g' setup.py
+  EOL
+  exec_wrap "mkdir -p #{PREPARE_ROOT}/usr/local"
+  exec_wrap "sudo mkdir -p /usr/local/etc"
+  exec_wrap "sudo chmod 777 /usr/local/etc"
+  exec_wrap "sudo mkdir -p /usr/local/lib/cups"
+  exec_wrap "sudo chmod 777 /usr/local/lib/cups"
+  exec_wrap "./setup.py install --home=#{PREPARE_ROOT}/usr/local"
+end
+scrub
+makepkg
+makedep []

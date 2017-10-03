@@ -4,7 +4,7 @@ require_relative '../../tczlib.rb'
 PKG="ccid-1.4.21"
 BALL=PKG+".tar.bz2"
 
-load_dependency [ "libusb-dev", "perl5" ]
+load_dependency [ "libusb-dev", "perl5", "flex" ]
 load_dependency_local [ "mypkgs_gnupg_pcsc-lite-dev" ]
 fetch_distfiles BALL, "http://ftp.internat.freebsd.org/pub/FreeBSD/distfiles/#{BALL}"
 md5sum BALL,"d1c3d5b447510cd507d1ecc09ac41b04"
@@ -15,4 +15,4 @@ make PKG
 install PKG
 scrub
 makepkg
-makedep [ "mypkgs_gnupg_pcsc-lite" ]
+makedep [ "mypkgs_gnupg_pcsc-lite", "flex" ]

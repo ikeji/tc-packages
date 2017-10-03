@@ -252,12 +252,13 @@ created 0 symlinks
 created 0 devices
 created 0 fifos
 ruby-2.2.tcz: OK
-[32mTCZBUILD[0m: tce-load -w compiletc make libusb-dev perl5
+[32mTCZBUILD[0m: tce-load -w compiletc make libusb-dev perl5 flex
 compiletc is already downloaded.
 make is already downloaded.
 libusb-dev is already downloaded.
 perl5 is already downloaded.
-[32mTCZBUILD[0m: tce-load -ic compiletc make libusb-dev perl5 | tee /tmp/d20160302-601-1jx5x90/stdout
+flex is already downloaded.
+[32mTCZBUILD[0m: tce-load -ic compiletc make libusb-dev perl5 flex | tee /tmp/d20160318-601-sva56h/stdout
 Parallel unsquashfs: Using 8 processors
 3 inodes (27 blocks) to write
 
@@ -470,7 +471,7 @@ gcc_base-dev.tcz: OK
 Parallel unsquashfs: Using 8 processors
 1032 inodes (13491 blocks) to write
 
-[===========================================================/] 13491/13491 100%
+[===========================================================|] 13491/13491 100%
 
 created 1019 files
 created 68 directories
@@ -610,7 +611,7 @@ created 0 symlinks
 created 0 devices
 created 0 fifos
 perl5.tcz: OK
-[32mTCZBUILD[0m: tce-load -ic mypkgs_gnupg_pcsc-lite-dev | tee /tmp/d20160302-601-1jx5x90/stdout
+[32mTCZBUILD[0m: tce-load -ic mypkgs_gnupg_pcsc-lite-dev | tee /tmp/d20160318-601-sva56h/stdout
 Parallel unsquashfs: Using 8 processors
 8 inodes (139 blocks) to write
 
@@ -947,35 +948,35 @@ config.status: executing depfiles commands
 config.status: executing libtool commands
 [32mTCZBUILD[0m: make 
 make  all-recursive
-make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[1]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
 Making all in readers
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/readers'
 make[2]: Nothing to be done for 'all'.
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/readers'
 Making all in examples
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/examples'
   CC       scardcontrol-scardcontrol.o
   CC       scardcontrol-PCSCv2part10.o
   CCLD     scardcontrol
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/examples'
 Making all in contrib
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
 Making all in Kobil_mIDentity_switch
-make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[3]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
   CC       Kobil_mIDentity_switch-Kobil_mIDentity_switch.o
   CCLD     Kobil_mIDentity_switch
-make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[3]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
 Making all in RSA_SecurID
-make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[3]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/RSA_SecurID'
   CC       RSA_SecurID_getpasswd-RSA_SecurID_getpasswd.o
   CCLD     RSA_SecurID_getpasswd
-make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
-make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/RSA_SecurID'
+make[3]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
 make[3]: Nothing to be done for 'all-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
 Making all in src
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/src'
   CC       libccid_la-ccid.lo
   CC       libccid_la-commands.lo
   CC       libccid_la-ifdhandler.lo
@@ -997,55 +998,55 @@ make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
   CC       parse-strlcpy.o
   CC       parse-simclist.o
   CCLD     parse
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
-make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
-[32mTCZBUILD[0m: mkdir -p /tmp/d20160302-601-1jx5x90/pkgroot/
-[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160302-601-1jx5x90/pkgroot/  install
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/src'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
+make[1]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
+[32mTCZBUILD[0m: mkdir -p /tmp/d20160318-601-sva56h/pkgroot/
+[32mTCZBUILD[0m: make DESTDIR=/tmp/d20160318-601-sva56h/pkgroot/  install
 Making install in readers
-make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[1]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/readers'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/readers'
 make[2]: Nothing to be done for 'install-exec-am'.
 make[2]: Nothing to be done for 'install-data-am'.
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
-make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/readers'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/readers'
+make[1]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/readers'
 Making install in examples
-make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[1]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/examples'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/examples'
 make[2]: Nothing to be done for 'install-exec-am'.
 make[2]: Nothing to be done for 'install-data-am'.
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
-make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/examples'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/examples'
+make[1]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/examples'
 Making install in contrib
-make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[1]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
 Making install in Kobil_mIDentity_switch
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
-make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[3]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[3]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/Kobil_mIDentity_switch'
 Making install in RSA_SecurID
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
-make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/RSA_SecurID'
+make[3]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/RSA_SecurID'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib/RSA_SecurID'
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
-make[3]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/RSA_SecurID'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib/RSA_SecurID'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
+make[3]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
 make[3]: Nothing to be done for 'install-exec-am'.
 make[3]: Nothing to be done for 'install-data-am'.
-make[3]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
-make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/contrib'
+make[3]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
+make[1]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/contrib'
 Making install in src
-make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
+make[1]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/src'
 ./create_Info_plist.pl ./../readers/supported_readers.txt ./Info.plist.src --target=libccid.so --version=1.4.21  > Info.plist
-/bin/sh /tmp/d20160302-601-1jx5x90/ccid-1.4.21/install-sh -d /tmp/d20160302-601-1jx5x90/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/
-cp Info.plist /tmp/d20160302-601-1jx5x90/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/
-cp .libs/libccid.so /tmp/d20160302-601-1jx5x90/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so
+/bin/sh /tmp/d20160318-601-sva56h/ccid-1.4.21/install-sh -d /tmp/d20160318-601-sva56h/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/
+cp Info.plist /tmp/d20160318-601-sva56h/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/
+cp .libs/libccid.so /tmp/d20160318-601-sva56h/pkgroot//usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so
 
 [01;31m***************
 
@@ -1053,14 +1054,14 @@ copy the src/92_pcscd_ccid.rules file in udev directory (/etc/udev/rules.d/)
 
 ***************
 [0m
-make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21/src'
-make[1]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
-make[2]: Entering directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
+make[1]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21/src'
+make[1]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
+make[2]: Entering directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
 make[2]: Nothing to be done for 'install-exec-am'.
 make[2]: Nothing to be done for 'install-data-am'.
-make[2]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
-make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
-[32mTCZBUILD[0m: find > /tmp/d20160302-601-1jx5x90/before_scrub
+make[2]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
+make[1]: Leaving directory '/tmp/d20160318-601-sva56h/ccid-1.4.21'
+[32mTCZBUILD[0m: find > /tmp/d20160318-601-sva56h/before_scrub
 [32mTCZBUILD[0m: rm -rf usr/local/share/man
 [32mTCZBUILD[0m: rm -rf usr/local/share/doc
 [32mTCZBUILD[0m: rm -rf usr/local/share/info
@@ -1071,7 +1072,7 @@ make[1]: Leaving directory '/tmp/d20160302-601-1jx5x90/ccid-1.4.21'
 [32mTCZBUILD[0m: rm -rf usr/local/lib/*.a
 [32mTCZBUILD[0m: rm -rf usr/local/lib/pkgconfig
 [32mTCZBUILD[0m: find . -type d -empty -delete
-[32mTCZBUILD[0m: find > /tmp/d20160302-601-1jx5x90/after_scrub
+[32mTCZBUILD[0m: find > /tmp/d20160318-601-sva56h/after_scrub
 [32mTCZBUILD[0m: List of scrubed files:
 [32mTCZBUILD[0m: List of files we pack.
 [32mTCZBUILD[0m: find *
@@ -1087,7 +1088,7 @@ usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux
 usr/local/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so
 [32mTCZBUILD[0m: find * > /work//build//mypkgs_gnupg_ccid.tcz.list
 [32mTCZBUILD[0m: rm -f mypkgs_gnupg_ccid.tcz
-[32mTCZBUILD[0m: mksquashfs /tmp/d20160302-601-1jx5x90/pkgroot/ mypkgs_gnupg_ccid.tcz
+[32mTCZBUILD[0m: mksquashfs /tmp/d20160318-601-sva56h/pkgroot/ mypkgs_gnupg_ccid.tcz
 Parallel mksquashfs: Using 8 processors
 Creating 4.0 filesystem on mypkgs_gnupg_ccid.tcz, block size 4096.
 
@@ -1095,8 +1096,8 @@ Creating 4.0 filesystem on mypkgs_gnupg_ccid.tcz, block size 4096.
 Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 4096
 	compressed data, compressed metadata, compressed fragments, no xattrs
 	duplicates are removed
-Filesystem size 143.26 Kbytes (0.14 Mbytes)
-	44.96% of uncompressed filesystem size (318.61 Kbytes)
+Filesystem size 143.27 Kbytes (0.14 Mbytes)
+	44.97% of uncompressed filesystem size (318.61 Kbytes)
 Inode table size 342 bytes (0.33 Kbytes)
 	50.74% of uncompressed inode table size (674 bytes)
 Directory table size 166 bytes (0.16 Kbytes)
@@ -1118,4 +1119,4 @@ Number of gids 1
 [32mTCZBUILD[0m: md5sum mypkgs_gnupg_ccid.tcz > mypkgs_gnupg_ccid.tcz.md5.txt
 [32mTCZBUILD[0m: gererated mypkgs_gnupg_ccid.tcz
 [32mTCZBUILD[0m: ls -lh mypkgs_gnupg_ccid.tcz
--rw-r--r--    1 tc       staff     144.0K Mar  2 11:11 [0;0mmypkgs_gnupg_ccid.tcz[0m
+-rw-r--r--    1 tc       staff     144.0K Mar 18 23:55 [0;0mmypkgs_gnupg_ccid.tcz[0m
